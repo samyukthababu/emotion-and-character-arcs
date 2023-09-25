@@ -1,0 +1,3153 @@
+name,sentence_id,title,first,middle,last,suffix,nickname,gender
+,,,,,,,,
+Cap'n Bill,1,none,Cap'n,none,Bill,none,none,male
+Trot,1,none,Trot,none,none,none,none,female
+Cap'n Bill,2,none,Cap'n,none,Bill,none,none,male
+Bill,9,none,Bill,none,none,none,none,male
+Cap'n Bill,10,none,Cap'n,none,Bill,none,none,male
+Bill,15,none,Bill,none,none,none,none,male
+Bill,19,none,Bill,none,none,none,none,male
+Trot,19,none,Trot,none,none,none,none,female
+Trot,19,none,Trot,none,none,none,none,female
+Cap'n Bill,20,none,Cap'n,none,Bill,none,none,male
+Trot,21,none,Trot,none,none,none,none,female
+Cap'n Bill,22,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,23,none,Cap'n,none,Bill,none,none,male
+Trot,23,none,Trot,none,none,none,none,female
+Trot,26,none,Trot,none,none,none,none,female
+Mebbe,29,none,Mebbe,none,none,none,none,male
+Trot,36,none,Trot,none,none,none,none,female
+Cap'n Bill,42,none,Cap'n,none,Bill,none,none,male
+Trot,44,none,Trot,none,none,none,none,female
+Bill,45,none,Bill,none,none,none,none,male
+Trot,46,none,Trot,none,none,none,none,female
+Bill,47,none,Bill,none,none,none,none,male
+Cap'n Bill,50,none,Cap'n,none,Bill,none,none,male
+Trot,50,none,Trot,none,none,none,none,female
+Trot,54,none,Trot,none,none,none,none,female
+Trot,58,none,Trot,none,none,none,none,female
+Trot,68,none,Trot,none,none,none,none,female
+Cap'n Bill,68,none,Cap'n,none,Bill,none,none,male
+Bill,71,none,Bill,none,none,none,none,male
+Trot,73,none,Trot,none,none,none,none,female
+Cap'n Bill,75,none,Cap'n,none,Bill,none,none,male
+Trot,75,none,Trot,none,none,none,none,female
+Bill,79,none,Bill,none,none,none,none,male
+Trot,79,none,Trot,none,none,none,none,female
+Trot,82,none,Trot,none,none,none,none,female
+Trot,84,none,Trot,none,none,none,none,female
+Cap'n Bill,85,none,Cap'n,none,Bill,none,none,male
+Trot,86,none,Trot,none,none,none,none,female
+Bill,91,none,Bill,none,none,none,none,male
+Trot,95,none,Trot,none,none,none,none,female
+Bill,97,none,Bill,none,none,none,none,male
+Cap'n Bill,99,none,Cap'n,none,Bill,none,none,male
+Davy Jones,102,none,Davy,none,Jones,none,none,male
+Cap'n,104,none,Cap'n,none,none,none,none,female
+Trot,114,none,Trot,none,none,none,none,female
+Bill,116,none,Bill,none,none,none,none,male
+Trot,119,none,Trot,none,none,none,none,female
+Trot,120,none,Trot,none,none,none,none,female
+Trot,122,none,Trot,none,none,none,none,female
+Trot,125,none,Trot,none,none,none,none,female
+Cap'n Bill,126,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,128,none,Cap'n,none,Bill,none,none,male
+Trot,130,none,Trot,none,none,none,none,female
+Cap'n Bill,131,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,138,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,142,none,Cap'n,none,Bill,none,none,male
+Trot,144,none,Trot,none,none,none,none,female
+Trot,149,none,Trot,none,none,none,none,female
+Cap'n Bill,151,none,Cap'n,none,Bill,none,none,male
+Trot,154,none,Trot,none,none,none,none,female
+Cap'n,158,none,Cap'n,none,none,none,none,female
+Cap'n Bill,159,none,Cap'n,none,Bill,none,none,male
+Bill,162,none,Bill,none,none,none,none,male
+Trot,163,none,Trot,none,none,none,none,female
+Cap'n Bill,166,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,170,none,Cap'n,none,Bill,none,none,male
+S'pose,171,none,S'pose,none,none,none,none,female
+Cap'n,171,none,Cap'n,none,none,none,none,female
+Trot,172,none,Trot,none,none,none,none,female
+Trot,173,none,Trot,none,none,none,none,female
+Trot,181,none,Trot,none,none,none,none,female
+Trot,185,none,Trot,none,none,none,none,female
+Trot,187,none,Trot,none,none,none,none,female
+Cap'n Bill,193,none,Cap'n,none,Bill,none,none,male
+Trot,196,none,Trot,none,none,none,none,female
+Trot,202,none,Trot,none,none,none,none,female
+Cap'n,210,none,Cap'n,none,none,none,none,female
+Bill,211,none,Bill,none,none,none,none,male
+Trot,215,none,Trot,none,none,none,none,female
+Cap'n Bill,219,none,Cap'n,none,Bill,none,none,male
+Flipper,225,none,Flipper,none,none,none,none,male
+Cap'n Bill,234,none,Cap'n,none,Bill,none,none,male
+Ork,234,none,Ork,none,none,none,none,male
+Ork,235,none,Ork,none,none,none,none,male
+Bill,239,none,Bill,none,none,none,none,male
+Ork,239,none,Ork,none,none,none,none,male
+Trot,241,none,Trot,none,none,none,none,female
+Ork,242,none,Ork,none,none,none,none,male
+Cap'n Bill,244,none,Cap'n,none,Bill,none,none,male
+Ork,245,none,Ork,none,none,none,none,male
+Trot,248,none,Trot,none,none,none,none,female
+Cap'n Bill,248,none,Cap'n,none,Bill,none,none,male
+Ork,250,none,Ork,none,none,none,none,male
+Trot,251,none,Trot,none,none,none,none,female
+Ork,253,none,Ork,none,none,none,none,male
+Cap'n Bill,256,none,Cap'n,none,Bill,none,none,male
+Ork,257,none,Ork,none,none,none,none,male
+Trot,258,none,Trot,none,none,none,none,female
+Ork,260,none,Ork,none,none,none,none,male
+Cap'n Bill,260,none,Cap'n,none,Bill,none,none,male
+Ork,260,none,Ork,none,none,none,none,male
+Trot,263,none,Trot,none,none,none,none,female
+Bill,265,none,Bill,none,none,none,none,male
+Trot,267,none,Trot,none,none,none,none,female
+Ork,267,none,Ork,none,none,none,none,male
+Cap'n Bill,271,none,Cap'n,none,Bill,none,none,male
+Trot,272,none,Trot,none,none,none,none,female
+Ork,274,none,Ork,none,none,none,none,male
+Cap'n,275,none,Cap'n,none,none,none,none,female
+Bill,276,none,Bill,none,none,none,none,male
+Ork,281,none,Ork,none,none,none,none,male
+Ork,282,none,Ork,none,none,none,none,male
+Trot,283,none,Trot,none,none,none,none,female
+Ork,284,none,Ork,none,none,none,none,male
+Cap'n Bill,287,none,Cap'n,none,Bill,none,none,male
+Ork,287,none,Ork,none,none,none,none,male
+Ork,288,none,Ork,none,none,none,none,male
+Ork,292,none,Ork,none,none,none,none,male
+Cap'n Bill,293,none,Cap'n,none,Bill,none,none,male
+Ork,295,none,Ork,none,none,none,none,male
+Cap'n Bill,296,none,Cap'n,none,Bill,none,none,male
+Ork,296,none,Ork,none,none,none,none,male
+Trot,299,none,Trot,none,none,none,none,female
+Cap'n Bill,301,none,Cap'n,none,Bill,none,none,male
+Ork,303,none,Ork,none,none,none,none,male
+Trot,304,none,Trot,none,none,none,none,female
+Cap'n Bill,304,none,Cap'n,none,Bill,none,none,male
+Ork,305,none,Ork,none,none,none,none,male
+Trot,307,none,Trot,none,none,none,none,female
+Cap'n Bill,314,none,Cap'n,none,Bill,none,none,male
+Ork,317,none,Ork,none,none,none,none,male
+Ork,322,none,Ork,none,none,none,none,male
+Cap'n Bill,324,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,326,none,Cap'n,none,Bill,none,none,male
+Ork,327,none,Ork,none,none,none,none,male
+Ork,327,none,Ork,none,none,none,none,male
+Cap'n Bill,329,none,Cap'n,none,Bill,none,none,male
+Ork,330,none,Ork,none,none,none,none,male
+Cap'n Bill,331,none,Cap'n,none,Bill,none,none,male
+Ork,332,none,Ork,none,none,none,none,male
+Cap'n Bill,333,none,Cap'n,none,Bill,none,none,male
+Ork,337,none,Ork,none,none,none,none,male
+Ork,340,none,Ork,none,none,none,none,male
+Ork,341,none,Ork,none,none,none,none,male
+Trot,341,none,Trot,none,none,none,none,female
+Cap'n,341,none,Cap'n,none,none,none,none,female
+Bill,342,none,Bill,none,none,none,none,male
+Ork,343,none,Ork,none,none,none,none,male
+Cap'n Bill,344,none,Cap'n,none,Bill,none,none,male
+Ork,345,none,Ork,none,none,none,none,male
+Trot,345,none,Trot,none,none,none,none,female
+Ork,346,none,Ork,none,none,none,none,male
+Cap'n Bill,349,none,Cap'n,none,Bill,none,none,male
+Trot,350,none,Trot,none,none,none,none,female
+Cap'n Bill,354,none,Cap'n,none,Bill,none,none,male
+Trot,358,none,Trot,none,none,none,none,female
+Ork,362,none,Ork,none,none,none,none,male
+Trot,364,none,Trot,none,none,none,none,female
+Cap'n,364,none,Cap'n,none,none,none,none,female
+Bill,365,none,Bill,none,none,none,none,male
+Ork,366,none,Ork,none,none,none,none,male
+Ork,367,none,Ork,none,none,none,none,male
+Bill,369,none,Bill,none,none,none,none,male
+Ork,369,none,Ork,none,none,none,none,male
+Trot,370,none,Trot,none,none,none,none,female
+Ork,372,none,Ork,none,none,none,none,male
+Trot,374,none,Trot,none,none,none,none,female
+Ork,375,none,Ork,none,none,none,none,male
+Cap'n Bill,377,none,Cap'n,none,Bill,none,none,male
+Ork,382,none,Ork,none,none,none,none,male
+Ork,385,none,Ork,none,none,none,none,male
+Trot,390,none,Trot,none,none,none,none,female
+Cap'n Bill,395,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,397,none,Cap'n,none,Bill,none,none,male
+Ork,399,none,Ork,none,none,none,none,male
+Cap'n Bill,401,none,Cap'n,none,Bill,none,none,male
+Ork,403,none,Ork,none,none,none,none,male
+Cap'n Bill,405,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,410,none,Cap'n,none,Bill,none,none,male
+Cap'n,411,none,Cap'n,none,none,none,none,female
+Bill,412,none,Bill,none,none,none,none,male
+Ork,413,none,Ork,none,none,none,none,male
+Cap'n Bill,413,none,Cap'n,none,Bill,none,none,male
+Ork,414,none,Ork,none,none,none,none,male
+Bill,417,none,Bill,none,none,none,none,male
+Ork,421,none,Ork,none,none,none,none,male
+Cap'n,425,none,Cap'n,none,none,none,none,female
+Ork,426,none,Ork,none,none,none,none,male
+Cap'n Bill,428,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,431,none,Cap'n,none,Bill,none,none,male
+Trot,432,none,Trot,none,none,none,none,female
+Ork,435,none,Ork,none,none,none,none,male
+Trot,438,none,Trot,none,none,none,none,female
+Ork,441,none,Ork,none,none,none,none,male
+Cap'n Bill,444,none,Cap'n,none,Bill,none,none,male
+Ork,445,none,Ork,none,none,none,none,male
+Cap'n Bill,448,none,Cap'n,none,Bill,none,none,male
+Ork,449,none,Ork,none,none,none,none,male
+Trot,451,none,Trot,none,none,none,none,female
+Cap'n Bill,452,none,Cap'n,none,Bill,none,none,male
+Ork,453,none,Ork,none,none,none,none,male
+Cap'n Bill,455,none,Cap'n,none,Bill,none,none,male
+Ork,455,none,Ork,none,none,none,none,male
+Bill,458,none,Bill,none,none,none,none,male
+Ork,458,none,Ork,none,none,none,none,male
+Ork,460,none,Ork,none,none,none,none,male
+Cap'n Bill,461,none,Cap'n,none,Bill,none,none,male
+Ork,462,none,Ork,none,none,none,none,male
+Trot,462,none,Trot,none,none,none,none,female
+Ork,463,none,Ork,none,none,none,none,male
+Trot,466,none,Trot,none,none,none,none,female
+Ork,466,none,Ork,none,none,none,none,male
+Bill,468,none,Bill,none,none,none,none,male
+Trot,468,none,Trot,none,none,none,none,female
+Ork,472,none,Ork,none,none,none,none,male
+Ork,475,none,Ork,none,none,none,none,male
+Trot,477,none,Trot,none,none,none,none,female
+Cap'n Bill,477,none,Cap'n,none,Bill,none,none,male
+Cap'n,480,none,Cap'n,none,none,none,none,female
+Bill,481,none,Bill,none,none,none,none,male
+Ork,485,none,Ork,none,none,none,none,male
+Cap'n Bill,490,none,Cap'n,none,Bill,none,none,male
+Bill,493,none,Bill,none,none,none,none,male
+Trot,495,none,Trot,none,none,none,none,female
+Bill,497,none,Bill,none,none,none,none,male
+Trot,502,none,Trot,none,none,none,none,female
+Cap'n Bill,503,none,Cap'n,none,Bill,none,none,male
+Bill,508,none,Bill,none,none,none,none,male
+Trot,508,none,Trot,none,none,none,none,female
+Ork,508,none,Ork,none,none,none,none,male
+Trot,510,none,Trot,none,none,none,none,female
+Cap'n Bill,511,none,Cap'n,none,Bill,none,none,male
+Trot,511,none,Trot,none,none,none,none,female
+Ork,514,none,Ork,none,none,none,none,male
+Bill,515,none,Bill,none,none,none,none,male
+Cap'n Bill,516,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,524,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,528,none,Cap'n,none,Bill,none,none,male
+Trot,532,none,Trot,none,none,none,none,female
+Cap'n Bill,532,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,534,none,Cap'n,none,Bill,none,none,male
+Trot,542,none,Trot,none,none,none,none,female
+Pessim,544,none,Pessim,none,none,none,none,male
+Pessim,549,none,Pessim,none,none,none,none,male
+Cap'n Bill,552,none,Cap'n,none,Bill,none,none,male
+Trot,555,none,Trot,none,none,none,none,female
+Pessim,562,none,Pessim,none,none,none,none,male
+Cap'n Bill,563,none,Cap'n,none,Bill,none,none,male
+Pessim,566,none,Pessim,none,none,none,none,male
+Cap'n Bill,567,none,Cap'n,none,Bill,none,none,male
+Pessim,571,none,Pessim,none,none,none,none,male
+Cap'n Bill,572,none,Cap'n,none,Bill,none,none,male
+Pessim,574,none,Pessim,none,none,none,none,male
+Cap'n,575,none,Cap'n,none,none,none,none,female
+Bill,576,none,Bill,none,none,none,none,male
+Pessim,576,none,Pessim,none,none,none,none,male
+Pessim,578,none,Pessim,none,none,none,none,male
+Cap'n Bill,581,none,Cap'n,none,Bill,none,none,male
+Trot,581,none,Trot,none,none,none,none,female
+Cap'n Bill,584,none,Cap'n,none,Bill,none,none,male
+Trot,585,none,Trot,none,none,none,none,female
+Ork,587,none,Ork,none,none,none,none,male
+Ork,589,none,Ork,none,none,none,none,male
+Trot,590,none,Trot,none,none,none,none,female
+Pessim,591,none,Pessim,none,none,none,none,male
+Ork,591,none,Ork,none,none,none,none,male
+Cap'n,599,none,Cap'n,none,none,none,none,female
+Bill,600,none,Bill,none,none,none,none,male
+Trot,600,none,Trot,none,none,none,none,female
+Ork,600,none,Ork,none,none,none,none,male
+Pessim,600,none,Pessim,none,none,none,none,male
+Trot,607,none,Trot,none,none,none,none,female
+Pessim,608,none,Pessim,none,none,none,none,male
+Cap'n Bill,616,none,Cap'n,none,Bill,none,none,male
+Pessim,617,none,Pessim,none,none,none,none,male
+Ork,619,none,Ork,none,none,none,none,male
+Ork,631,none,Ork,none,none,none,none,male
+Pessim,632,none,Pessim,none,none,none,none,male
+Ork,634,none,Ork,none,none,none,none,male
+Pessim,635,none,Pessim,none,none,none,none,male
+Ork,635,none,Ork,none,none,none,none,male
+Trot,637,none,Trot,none,none,none,none,female
+Ork,637,none,Ork,none,none,none,none,male
+Pessim,639,none,Pessim,none,none,none,none,male
+Cap'n Bill,642,none,Cap'n,none,Bill,none,none,male
+Ork,643,none,Ork,none,none,none,none,male
+Trot,643,none,Trot,none,none,none,none,female
+Cap'n Bill,644,none,Cap'n,none,Bill,none,none,male
+Ork,644,none,Ork,none,none,none,none,male
+Ork,646,none,Ork,none,none,none,none,male
+Pessim,653,none,Pessim,none,none,none,none,male
+Pessim,656,none,Pessim,none,none,none,none,male
+Ork,657,none,Ork,none,none,none,none,male
+Ork,658,none,Ork,none,none,none,none,male
+Pessim,659,none,Pessim,none,none,none,none,male
+Cap'n Bill,660,none,Cap'n,none,Bill,none,none,male
+Ork,664,none,Ork,none,none,none,none,male
+Trot,664,none,Trot,none,none,none,none,female
+Cap'n Bill,667,none,Cap'n,none,Bill,none,none,male
+Trot,667,none,Trot,none,none,none,none,female
+Ork,667,none,Ork,none,none,none,none,male
+Pessim,668,none,Pessim,none,none,none,none,male
+Bill,672,none,Bill,none,none,none,none,male
+Trot,672,none,Trot,none,none,none,none,female
+Pessim,673,none,Pessim,none,none,none,none,male
+Pessim,677,none,Pessim,none,none,none,none,male
+Trot,679,none,Trot,none,none,none,none,female
+Pessim,680,none,Pessim,none,none,none,none,male
+Ork,681,none,Ork,none,none,none,none,male
+Bill,684,none,Bill,none,none,none,none,male
+Cap'n,685,none,Cap'n,none,none,none,none,female
+Bill,686,none,Bill,none,none,none,none,male
+Ork,687,none,Ork,none,none,none,none,male
+Trot,688,none,Trot,none,none,none,none,female
+Ork,688,none,Ork,none,none,none,none,male
+Cap'n,690,none,Cap'n,none,none,none,none,female
+Bill,691,none,Bill,none,none,none,none,male
+Ork,692,none,Ork,none,none,none,none,male
+Trot,693,none,Trot,none,none,none,none,female
+Cap'n,693,none,Cap'n,none,none,none,none,female
+Bill,694,none,Bill,none,none,none,none,male
+Ork,696,none,Ork,none,none,none,none,male
+Ork,697,none,Ork,none,none,none,none,male
+Trot,706,none,Trot,none,none,none,none,female
+Ork,707,none,Ork,none,none,none,none,male
+Trot,709,none,Trot,none,none,none,none,female
+Cap'n Bill,710,none,Cap'n,none,Bill,none,none,male
+Ork,711,none,Ork,none,none,none,none,male
+Cap'n,712,none,Cap'n,none,none,none,none,female
+Bill,713,none,Bill,none,none,none,none,male
+Trot,714,none,Trot,none,none,none,none,female
+Cap'n,715,none,Cap'n,none,none,none,none,female
+Ork,717,none,Ork,none,none,none,none,male
+Pessim,718,none,Pessim,none,none,none,none,male
+Ork,719,none,Ork,none,none,none,none,male
+Bill,721,none,Bill,none,none,none,none,male
+Ork,724,none,Ork,none,none,none,none,male
+Cap'n Bill,726,none,Cap'n,none,Bill,none,none,male
+Pessim,726,none,Pessim,none,none,none,none,male
+Ork,727,none,Ork,none,none,none,none,male
+Pessim,728,none,Pessim,none,none,none,none,male
+Cap'n Bill,729,none,Cap'n,none,Bill,none,none,male
+Pessim,731,none,Pessim,none,none,none,none,male
+Trot,734,none,Trot,none,none,none,none,female
+Cap'n,734,none,Cap'n,none,none,none,none,female
+Bill,735,none,Bill,none,none,none,none,male
+Trot,736,none,Trot,none,none,none,none,female
+Cap'n Bill,737,none,Cap'n,none,Bill,none,none,male
+Trot,738,none,Trot,none,none,none,none,female
+Bill,739,none,Bill,none,none,none,none,male
+Trot,739,none,Trot,none,none,none,none,female
+Pessim,739,none,Pessim,none,none,none,none,male
+Ork,740,none,Ork,none,none,none,none,male
+Cap'n Bill,741,none,Cap'n,none,Bill,none,none,male
+Ork,745,none,Ork,none,none,none,none,male
+Pessim,747,none,Pessim,none,none,none,none,male
+Ork,749,none,Ork,none,none,none,none,male
+Pessim,749,none,Pessim,none,none,none,none,male
+Trot,752,none,Trot,none,none,none,none,female
+Ork,753,none,Ork,none,none,none,none,male
+Cap'n Bill,755,none,Cap'n,none,Bill,none,none,male
+Cap'n,756,none,Cap'n,none,none,none,none,female
+Ork,760,none,Ork,none,none,none,none,male
+Cap'n,761,none,Cap'n,none,none,none,none,female
+Bill,762,none,Bill,none,none,none,none,male
+Trot,763,none,Trot,none,none,none,none,female
+Ork,763,none,Ork,none,none,none,none,male
+Cap'n Bill,766,none,Cap'n,none,Bill,none,none,male
+Trot,766,none,Trot,none,none,none,none,female
+Ork,767,none,Ork,none,none,none,none,male
+Bill,769,none,Bill,none,none,none,none,male
+Trot,769,none,Trot,none,none,none,none,female
+Ork,769,none,Ork,none,none,none,none,male
+Bill,774,none,Bill,none,none,none,none,male
+Ork,776,none,Ork,none,none,none,none,male
+Trot,777,none,Trot,none,none,none,none,female
+Ork,778,none,Ork,none,none,none,none,male
+Cap'n Bill,781,none,Cap'n,none,Bill,none,none,male
+Ork,783,none,Ork,none,none,none,none,male
+Trot,785,none,Trot,none,none,none,none,female
+Cap'n Bill,785,none,Cap'n,none,Bill,none,none,male
+Ork,785,none,Ork,none,none,none,none,male
+Ork,786,none,Ork,none,none,none,none,male
+Ork,787,none,Ork,none,none,none,none,male
+Cap'n Bill,790,none,Cap'n,none,Bill,none,none,male
+Trot,795,none,Trot,none,none,none,none,female
+Ork,796,none,Ork,none,none,none,none,male
+Ork,798,none,Ork,none,none,none,none,male
+Bill,801,none,Bill,none,none,none,none,male
+Cap'n Bill,804,none,Cap'n,none,Bill,none,none,male
+Trot,807,none,Trot,none,none,none,none,female
+Cap'n Bill,808,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,810,none,Cap'n,none,Bill,none,none,male
+Trot,810,none,Trot,none,none,none,none,female
+Cap'n Bill,812,none,Cap'n,none,Bill,none,none,male
+Ork,812,none,Ork,none,none,none,none,male
+Trot,813,none,Trot,none,none,none,none,female
+Cap'n,814,none,Cap'n,none,none,none,none,female
+Ork,821,none,Ork,none,none,none,none,male
+Trot,825,none,Trot,none,none,none,none,female
+Ork,826,none,Ork,none,none,none,none,male
+Trot,827,none,Trot,none,none,none,none,female
+Ork,828,none,Ork,none,none,none,none,male
+Trot,831,none,Trot,none,none,none,none,female
+Cap'n Bill,831,none,Cap'n,none,Bill,none,none,male
+Trot,836,none,Trot,none,none,none,none,female
+Cap'n Bill,837,none,Cap'n,none,Bill,none,none,male
+Ork,839,none,Ork,none,none,none,none,male
+Trot,842,none,Trot,none,none,none,none,female
+Cap'n Bill,843,none,Cap'n,none,Bill,none,none,male
+Trot,844,none,Trot,none,none,none,none,female
+Bumpy Man,848,none,Bumpy,none,Man,none,none,male
+Trot,851,none,Trot,none,none,none,none,female
+Bumpy Man,852,none,Bumpy,none,Man,none,none,male
+Trot,858,none,Trot,none,none,none,none,female
+Bumpy Man,860,none,Bumpy,none,Man,none,none,male
+Cap'n Bill,861,none,Cap'n,none,Bill,none,none,male
+Bumpy Man,862,none,Bumpy,none,Man,none,none,male
+Cap'n Bill,863,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,866,none,Cap'n,none,Bill,none,none,male
+Bumpy Man,868,none,Bumpy,none,Man,none,none,male
+Bumpy Man,871,none,Bumpy,none,Man,none,none,male
+Ork,872,none,Ork,none,none,none,none,male
+Ork,886,none,Ork,none,none,none,none,male
+Cap'n Bill,886,none,Cap'n,none,Bill,none,none,male
+Trot,886,none,Trot,none,none,none,none,female
+Bumpy Man,887,none,Bumpy,none,Man,none,none,male
+Bill,889,none,Bill,none,none,none,none,male
+Trot,889,none,Trot,none,none,none,none,female
+Pooh,905,none,Pooh,none,none,none,none,male
+Bumpy Man,909,none,Bumpy,none,Man,none,none,male
+Cap'n,910,none,Cap'n,none,none,none,none,female
+Bill,911,none,Bill,none,none,none,none,male
+Trot,913,none,Trot,none,none,none,none,female
+Cap'n,915,none,Cap'n,none,none,none,none,female
+Trot,918,none,Trot,none,none,none,none,female
+Cap'n,918,none,Cap'n,none,none,none,none,female
+Bill,919,none,Bill,none,none,none,none,male
+Ork,919,none,Ork,none,none,none,none,male
+Cap'n,931,none,Cap'n,none,none,none,none,female
+Bill,932,none,Bill,none,none,none,none,male
+Ork,932,none,Ork,none,none,none,none,male
+Trot,935,none,Trot,none,none,none,none,female
+Ork,936,none,Ork,none,none,none,none,male
+Bumpy Man,937,none,Bumpy,none,Man,none,none,male
+Cap'n Bill,939,none,Cap'n,none,Bill,none,none,male
+Trot,944,none,Trot,none,none,none,none,female
+Bumpy Man,954,none,Bumpy,none,Man,none,none,male
+Trot,968,none,Trot,none,none,none,none,female
+Bill,970,none,Bill,none,none,none,none,male
+Bill,975,none,Bill,none,none,none,none,male
+Ork,976,none,Ork,none,none,none,none,male
+Trot,980,none,Trot,none,none,none,none,female
+Cap'n Bill,984,none,Cap'n,none,Bill,none,none,male
+Bumpy Man,987,none,Bumpy,none,Man,none,none,male
+Trot,993,none,Trot,none,none,none,none,female
+Cap'n Bill,993,none,Cap'n,none,Bill,none,none,male
+Ork,994,none,Ork,none,none,none,none,male
+Button-Bright,995,none,Button-Bright,none,none,none,none,male
+Bright,995,none,Bright,none,none,none,none,male
+Trot,995,none,Trot,none,none,none,none,female
+Button-Bright,996,none,Button-Bright,none,none,none,none,male
+Bright,996,none,Bright,none,none,none,none,male
+Ork,998,none,Ork,none,none,none,none,male
+Button-Bright,999,none,Button-Bright,none,none,none,none,male
+Bright,999,none,Bright,none,none,none,none,male
+Ork,1001,none,Ork,none,none,none,none,male
+Button-Bright,1002,none,Button-Bright,none,none,none,none,male
+Bright,1002,none,Bright,none,none,none,none,male
+Mountain Ear,1008,none,Mountain,none,Ear,none,none,male
+Trot,1010,none,Trot,none,none,none,none,female
+Bumpy Man,1012,none,Bumpy,none,Man,none,none,male
+Button-Bright,1013,none,Button-Bright,none,none,none,none,male
+Bright,1013,none,Bright,none,none,none,none,male
+Button-Bright,1019,none,Button-Bright,none,none,none,none,male
+Bright,1019,none,Bright,none,none,none,none,male
+Ork,1023,none,Ork,none,none,none,none,male
+Trot,1025,none,Trot,none,none,none,none,female
+Ork,1025,none,Ork,none,none,none,none,male
+Button-Bright,1026,none,Button-Bright,none,none,none,none,male
+Bright,1026,none,Bright,none,none,none,none,male
+Bill,1030,none,Bill,none,none,none,none,male
+Bill,1034,none,Bill,none,none,none,none,male
+Cap'n,1038,none,Cap'n,none,none,none,none,female
+Bill,1039,none,Bill,none,none,none,none,male
+Button-Bright,1041,none,Button-Bright,none,none,none,none,male
+Bright,1041,none,Bright,none,none,none,none,male
+Trot,1041,none,Trot,none,none,none,none,female
+Trot,1042,none,Trot,none,none,none,none,female
+Button-Bright,1043,none,Button-Bright,none,none,none,none,male
+Bright,1043,none,Bright,none,none,none,none,male
+Cap'n,1044,none,Cap'n,none,none,none,none,female
+Bill,1045,none,Bill,none,none,none,none,male
+Bumpy Man,1047,none,Bumpy,none,Man,none,none,male
+Ork,1053,none,Ork,none,none,none,none,male
+Button-Bright,1053,none,Button-Bright,none,none,none,none,male
+Bright,1053,none,Bright,none,none,none,none,male
+Ork,1055,none,Ork,none,none,none,none,male
+Button-Bright,1056,none,Button-Bright,none,none,none,none,male
+Bright,1056,none,Bright,none,none,none,none,male
+Ork,1058,none,Ork,none,none,none,none,male
+Ork,1060,none,Ork,none,none,none,none,male
+Button-Bright,1061,none,Button-Bright,none,none,none,none,male
+Bright,1061,none,Bright,none,none,none,none,male
+Ork,1063,none,Ork,none,none,none,none,male
+Cap'n Bill,1065,none,Cap'n,none,Bill,none,none,male
+Ork,1065,none,Ork,none,none,none,none,male
+Cap'n Bill,1070,none,Cap'n,none,Bill,none,none,male
+Ork,1071,none,Ork,none,none,none,none,male
+Ork,1073,none,Ork,none,none,none,none,male
+Cap'n Bill,1076,none,Cap'n,none,Bill,none,none,male
+Trot,1077,none,Trot,none,none,none,none,female
+Bill,1079,none,Bill,none,none,none,none,male
+Cap'n,1087,none,Cap'n,none,none,none,none,female
+Bumpy Man,1089,none,Bumpy,none,Man,none,none,male
+Cap'n Bill,1090,none,Cap'n,none,Bill,none,none,male
+Button-Bright,1096,none,Button-Bright,none,none,none,none,male
+Bright,1096,none,Bright,none,none,none,none,male
+Cap'n Bill,1101,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,1106,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,1109,none,Cap'n,none,Bill,none,none,male
+Trot,1112,none,Trot,none,none,none,none,female
+Cap'n,1113,none,Cap'n,none,none,none,none,female
+Bill,1114,none,Bill,none,none,none,none,male
+Trot,1117,none,Trot,none,none,none,none,female
+Bill,1120,none,Bill,none,none,none,none,male
+Trot,1123,none,Trot,none,none,none,none,female
+Cap'n Bill,1124,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,1127,none,Cap'n,none,Bill,none,none,male
+Button-Bright,1128,none,Button-Bright,none,none,none,none,male
+Bright,1128,none,Bright,none,none,none,none,male
+Cap'n Bill,1130,none,Cap'n,none,Bill,none,none,male
+Ork,1131,none,Ork,none,none,none,none,male
+Cap'n Bill,1133,none,Cap'n,none,Bill,none,none,male
+Ork,1133,none,Ork,none,none,none,none,male
+Ork,1136,none,Ork,none,none,none,none,male
+Cap'n Bill,1141,none,Cap'n,none,Bill,none,none,male
+Button-Bright,1143,none,Button-Bright,none,none,none,none,male
+Bright,1143,none,Bright,none,none,none,none,male
+Ork,1145,none,Ork,none,none,none,none,male
+Ork,1146,none,Ork,none,none,none,none,male
+Bill,1150,none,Bill,none,none,none,none,male
+Ork,1150,none,Ork,none,none,none,none,male
+Trot,1150,none,Trot,none,none,none,none,female
+Button-Bright,1150,none,Button-Bright,none,none,none,none,male
+Bright,1150,none,Bright,none,none,none,none,male
+Ork,1151,none,Ork,none,none,none,none,male
+Cap'n,1152,none,Cap'n,none,none,none,none,female
+Bill,1153,none,Bill,none,none,none,none,male
+Trot,1157,none,Trot,none,none,none,none,female
+Ork,1158,none,Ork,none,none,none,none,male
+Ork,1159,none,Ork,none,none,none,none,male
+Trot,1161,none,Trot,none,none,none,none,female
+Ork,1163,none,Ork,none,none,none,none,male
+Ork,1166,none,Ork,none,none,none,none,male
+Cap'n Bill,1167,none,Cap'n,none,Bill,none,none,male
+Trot,1167,none,Trot,none,none,none,none,female
+Trot,1169,none,Trot,none,none,none,none,female
+Button-Bright,1171,none,Button-Bright,none,none,none,none,male
+Bright,1171,none,Bright,none,none,none,none,male
+Ork,1175,none,Ork,none,none,none,none,male
+Ork,1180,none,Ork,none,none,none,none,male
+Cap'n Bill,1182,none,Cap'n,none,Bill,none,none,male
+Trot,1182,none,Trot,none,none,none,none,female
+Button-Bright,1182,none,Button-Bright,none,none,none,none,male
+Bright,1182,none,Bright,none,none,none,none,male
+Trot,1188,none,Trot,none,none,none,none,female
+Cap'n,1188,none,Cap'n,none,none,none,none,female
+Bill,1189,none,Bill,none,none,none,none,male
+Jinxland,1191,none,Jinxland,none,none,none,none,female
+Cap'n Bill,1192,none,Cap'n,none,Bill,none,none,male
+Jinxland,1193,none,Jinxland,none,none,none,none,female
+Trot,1194,none,Trot,none,none,none,none,female
+Ozma of Oz,1197,none,Ozma of Oz,none,none,none,none,female
+Button-Bright,1198,none,Button-Bright,none,none,none,none,male
+Bright,1198,none,Bright,none,none,none,none,male
+Trot,1199,none,Trot,none,none,none,none,female
+Button-Bright,1200,none,Button-Bright,none,none,none,none,male
+Bright,1200,none,Bright,none,none,none,none,male
+Cap'n Bill,1204,none,Cap'n,none,Bill,none,none,male
+Trot,1207,none,Trot,none,none,none,none,female
+Button-Bright,1210,none,Button-Bright,none,none,none,none,male
+Bright,1210,none,Bright,none,none,none,none,male
+Cap'n,1211,none,Cap'n,none,none,none,none,female
+Bill,1212,none,Bill,none,none,none,none,male
+Trot,1213,none,Trot,none,none,none,none,female
+Button-Bright,1218,none,Button-Bright,none,none,none,none,male
+Bright,1218,none,Bright,none,none,none,none,male
+Cap'n Bill,1219,none,Cap'n,none,Bill,none,none,male
+Jinxland,1219,none,Jinxland,none,none,none,none,female
+King Krewl,1221,King,Krewl,none,none,none,none,male
+Krewl,1229,none,Krewl,none,none,none,none,male
+Cap'n,1230,none,Cap'n,none,none,none,none,female
+Trot,1230,none,Trot,none,none,none,none,female
+Krewl,1231,none,Krewl,none,none,none,none,male
+Ozma,1234,none,Ozma,none,none,none,none,female
+Button-Bright,1234,none,Button-Bright,none,none,none,none,male
+Bright,1234,none,Bright,none,none,none,none,male
+Ozma,1235,none,Ozma,none,none,none,none,female
+Trot,1235,none,Trot,none,none,none,none,female
+Ozma,1236,none,Ozma,none,none,none,none,female
+Button-Bright,1237,none,Button-Bright,none,none,none,none,male
+Bright,1237,none,Bright,none,none,none,none,male
+Cap'n Bill,1241,none,Cap'n,none,Bill,none,none,male
+Button-Bright,1243,none,Button-Bright,none,none,none,none,male
+Bright,1243,none,Bright,none,none,none,none,male
+Trot,1244,none,Trot,none,none,none,none,female
+Cap'n,1245,none,Cap'n,none,none,none,none,female
+Dorothy,1246,none,Dorothy,none,none,none,none,female
+Scarecrow,1246,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1246,none,Tin,none,Woodman,none,none,male
+Tik,1246,none,Tik,none,none,none,none,male
+Tik-Tok,1246,none,Tik-Tok,none,none,none,none,male
+Ozma,1246,none,Ozma,none,none,none,none,female
+Button-Bright,1247,none,Button-Bright,none,none,none,none,male
+Bright,1247,none,Bright,none,none,none,none,male
+Cap'n Bill,1250,none,Cap'n,none,Bill,none,none,male
+Ozma,1251,none,Ozma,none,none,none,none,female
+Dorothy,1251,none,Dorothy,none,none,none,none,female
+Button-Bright,1256,none,Button-Bright,none,none,none,none,male
+Bright,1256,none,Bright,none,none,none,none,male
+Button-Bright,1259,none,Button-Bright,none,none,none,none,male
+Bright,1259,none,Bright,none,none,none,none,male
+Trot,1265,none,Trot,none,none,none,none,female
+Cap'n Bill,1265,none,Cap'n,none,Bill,none,none,male
+Pon,1270,none,Pon,none,none,none,none,male
+Trot,1272,none,Trot,none,none,none,none,female
+Gloria,1274,none,Gloria,none,none,none,none,female
+Button-Bright,1276,none,Button-Bright,none,none,none,none,male
+Bright,1276,none,Bright,none,none,none,none,male
+Gloria,1277,none,Gloria,none,none,none,none,female
+Cap'n Bill,1277,none,Cap'n,none,Bill,none,none,male
+Krewl,1278,none,Krewl,none,none,none,none,male
+Gloria,1281,none,Gloria,none,none,none,none,female
+Trot,1289,none,Trot,none,none,none,none,female
+Pon,1290,none,Pon,none,none,none,none,male
+Gloria,1291,none,Gloria,none,none,none,none,female
+Googly-Goo,1292,none,Googly-Goo,none,none,none,none,male
+Gloria,1292,none,Gloria,none,none,none,none,female
+Googly-Goo,1293,none,Googly-Goo,none,none,none,none,male
+Goo,1293,none,Goo,none,none,none,none,male
+King Krewl,1294,King,Krewl,none,none,none,none,male
+Gloria,1295,none,Gloria,none,none,none,none,female
+Pon,1298,none,Pon,none,none,none,none,male
+Cap'n Bill,1299,none,Cap'n,none,Bill,none,none,male
+Pon,1299,none,Pon,none,none,none,none,male
+Button-Bright,1302,none,Button-Bright,none,none,none,none,male
+Bright,1302,none,Bright,none,none,none,none,male
+Pon,1304,none,Pon,none,none,none,none,male
+Krewl,1305,none,Krewl,none,none,none,none,male
+Cap'n Bill,1307,none,Cap'n,none,Bill,none,none,male
+Krewl,1308,none,Krewl,none,none,none,none,male
+King Phearse,1309,King,Phearse,none,none,none,none,male
+Krewl,1309,none,Krewl,none,none,none,none,male
+Krewl,1310,none,Krewl,none,none,none,none,male
+Krewl,1311,none,Krewl,none,none,none,none,male
+Krewl,1313,none,Krewl,none,none,none,none,male
+Krewl,1315,none,Krewl,none,none,none,none,male
+Phearse,1315,none,Phearse,none,none,none,none,male
+Trot,1316,none,Trot,none,none,none,none,female
+Pon,1317,none,Pon,none,none,none,none,male
+Gloria,1317,none,Gloria,none,none,none,none,female
+Pon,1318,none,Pon,none,none,none,none,male
+Kynd,1319,none,Kynd,none,none,none,none,male
+Gloria,1319,none,Gloria,none,none,none,none,female
+Kynd,1320,none,Kynd,none,none,none,none,male
+Kynd,1321,none,Kynd,none,none,none,none,male
+Trot,1322,none,Trot,none,none,none,none,female
+Gloria,1322,none,Gloria,none,none,none,none,female
+Pon,1323,none,Pon,none,none,none,none,male
+Krewl,1324,none,Krewl,none,none,none,none,male
+Cap'n Bill,1325,none,Cap'n,none,Bill,none,none,male
+Krewl,1326,none,Krewl,none,none,none,none,male
+Pon,1327,none,Pon,none,none,none,none,male
+Button-Bright,1328,none,Button-Bright,none,none,none,none,male
+Bright,1328,none,Bright,none,none,none,none,male
+Pon,1329,none,Pon,none,none,none,none,male
+Gloria,1331,none,Gloria,none,none,none,none,female
+Cap'n Bill,1332,none,Cap'n,none,Bill,none,none,male
+Goo,1335,none,Goo,none,none,none,none,male
+Bill,1339,none,Bill,none,none,none,none,male
+Krewl,1340,none,Krewl,none,none,none,none,male
+Cap'n,1341,none,Cap'n,none,none,none,none,female
+Bill,1342,none,Bill,none,none,none,none,male
+Trot,1348,none,Trot,none,none,none,none,female
+Cap'n Bill,1351,none,Cap'n,none,Bill,none,none,male
+Krewl,1361,none,Krewl,none,none,none,none,male
+Cap'n Bill,1361,none,Cap'n,none,Bill,none,none,male
+Jinxland,1361,none,Jinxland,none,none,none,none,female
+Cap'n,1368,none,Cap'n,none,none,none,none,female
+Bill,1369,none,Bill,none,none,none,none,male
+Cap'n Bill,1376,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,1378,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,1381,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,1385,none,Cap'n,none,Bill,none,none,male
+Krewl,1388,none,Krewl,none,none,none,none,male
+Trot,1388,none,Trot,none,none,none,none,female
+Googly-Goo,1395,none,Googly-Goo,none,none,none,none,male
+Goo,1395,none,Goo,none,none,none,none,male
+Goo,1396,none,Goo,none,none,none,none,male
+Cap'n Bill,1396,none,Cap'n,none,Bill,none,none,male
+Button-Bright,1396,none,Button-Bright,none,none,none,none,male
+Bright,1396,none,Bright,none,none,none,none,male
+Sire,1399,none,Sire,none,none,none,none,female
+Googly-Goo,1403,none,Googly-Goo,none,none,none,none,male
+Goo,1403,none,Goo,none,none,none,none,male
+Googly-Goo,1406,none,Googly-Goo,none,none,none,none,male
+Goo,1406,none,Goo,none,none,none,none,male
+Gloria,1407,none,Gloria,none,none,none,none,female
+Pon,1407,none,Pon,none,none,none,none,male
+Pon,1408,none,Pon,none,none,none,none,male
+Goo,1412,none,Goo,none,none,none,none,male
+Pon,1415,none,Pon,none,none,none,none,male
+Gloria,1416,none,Gloria,none,none,none,none,female
+Pon,1416,none,Pon,none,none,none,none,male
+Googly-Goo,1417,none,Googly-Goo,none,none,none,none,male
+Goo,1417,none,Goo,none,none,none,none,male
+Gloria,1418,none,Gloria,none,none,none,none,female
+Sire,1419,none,Sire,none,none,none,none,female
+Cap'n Bill,1421,none,Cap'n,none,Bill,none,none,male
+Trot,1421,none,Trot,none,none,none,none,female
+Button-Bright,1421,none,Button-Bright,none,none,none,none,male
+Bright,1421,none,Bright,none,none,none,none,male
+Googly-Goo,1422,none,Googly-Goo,none,none,none,none,male
+Goo,1422,none,Goo,none,none,none,none,male
+Trot,1422,none,Trot,none,none,none,none,female
+Cap'n Bill,1423,none,Cap'n,none,Bill,none,none,male
+Googly-Goo,1425,none,Googly-Goo,none,none,none,none,male
+Button-Bright,1426,none,Button-Bright,none,none,none,none,male
+Bright,1426,none,Bright,none,none,none,none,male
+Goo,1429,none,Goo,none,none,none,none,male
+Cap'n Bill,1429,none,Cap'n,none,Bill,none,none,male
+Bill,1434,none,Bill,none,none,none,none,male
+Trot,1434,none,Trot,none,none,none,none,female
+Button-Bright,1435,none,Button-Bright,none,none,none,none,male
+Bright,1435,none,Bright,none,none,none,none,male
+Googly-Goo,1437,none,Googly-Goo,none,none,none,none,male
+Goo,1437,none,Goo,none,none,none,none,male
+Gloria,1437,none,Gloria,none,none,none,none,female
+Googly-Goo,1439,none,Googly-Goo,none,none,none,none,male
+Goo,1439,none,Goo,none,none,none,none,male
+Goo,1448,none,Goo,none,none,none,none,male
+Gloria,1450,none,Gloria,none,none,none,none,female
+Gloria,1451,none,Gloria,none,none,none,none,female
+Googly-Goo,1452,none,Googly-Goo,none,none,none,none,male
+Goo,1452,none,Goo,none,none,none,none,male
+Pon,1453,none,Pon,none,none,none,none,male
+Pon,1454,none,Pon,none,none,none,none,male
+Gloria,1455,none,Gloria,none,none,none,none,female
+Googly-Goo,1455,none,Googly-Goo,none,none,none,none,male
+Goo,1455,none,Goo,none,none,none,none,male
+Googly-Goo,1460,none,Googly-Goo,none,none,none,none,male
+Goo,1460,none,Goo,none,none,none,none,male
+Trot,1463,none,Trot,none,none,none,none,female
+Gloria,1463,none,Gloria,none,none,none,none,female
+Gloria,1464,none,Gloria,none,none,none,none,female
+Googly-Goo,1465,none,Googly-Goo,none,none,none,none,male
+Goo,1465,none,Goo,none,none,none,none,male
+Trot,1465,none,Trot,none,none,none,none,female
+Trot,1467,none,Trot,none,none,none,none,female
+Pon,1471,none,Pon,none,none,none,none,male
+Pon,1472,none,Pon,none,none,none,none,male
+Trot,1472,none,Trot,none,none,none,none,female
+Gloria,1474,none,Gloria,none,none,none,none,female
+Pon,1475,none,Pon,none,none,none,none,male
+Googly-Goo,1476,none,Googly-Goo,none,none,none,none,male
+Goo,1476,none,Goo,none,none,none,none,male
+Trot,1477,none,Trot,none,none,none,none,female
+Googly-Goo,1478,none,Googly-Goo,none,none,none,none,male
+Gloria,1481,none,Gloria,none,none,none,none,female
+Gloria,1484,none,Gloria,none,none,none,none,female
+Cap'n Bill,1485,none,Cap'n,none,Bill,none,none,male
+Ork,1485,none,Ork,none,none,none,none,male
+Pessim,1485,none,Pessim,none,none,none,none,male
+Googly-Goo,1486,none,Googly-Goo,none,none,none,none,male
+Goo,1486,none,Goo,none,none,none,none,male
+Jinxland,1488,none,Jinxland,none,none,none,none,female
+Blinkie,1488,none,Blinkie,none,none,none,none,female
+Krewl,1490,none,Krewl,none,none,none,none,male
+Blinkie,1491,none,Blinkie,none,none,none,none,female
+Blinkie,1492,none,Blinkie,none,none,none,none,female
+Googly-Goo,1493,none,Googly-Goo,none,none,none,none,male
+Goo,1493,none,Goo,none,none,none,none,male
+Gloria,1494,none,Gloria,none,none,none,none,female
+Wicked Witch,1495,none,Wicked,none,Witch,none,none,female
+Gloria,1502,none,Gloria,none,none,none,none,female
+Pon,1502,none,Pon,none,none,none,none,male
+Googly-Goo,1503,none,Googly-Goo,none,none,none,none,male
+Goo,1503,none,Goo,none,none,none,none,male
+King,1503,King,none,none,none,none,none,male
+Wicked Witch,1504,none,Wicked,none,Witch,none,none,female
+Gloria,1505,none,Gloria,none,none,none,none,female
+Blinkie,1505,none,Blinkie,none,none,none,none,female
+Krewl,1506,none,Krewl,none,none,none,none,male
+Googly-Goo,1511,none,Googly-Goo,none,none,none,none,male
+Goo,1511,none,Goo,none,none,none,none,male
+Blinkie,1511,none,Blinkie,none,none,none,none,female
+Cap'n Bill,1511,none,Cap'n,none,Bill,none,none,male
+Wicked Witch,1513,none,Wicked,none,Witch,none,none,female
+Cap'n Bill,1513,none,Cap'n,none,Bill,none,none,male
+Blinkie,1514,none,Blinkie,none,none,none,none,female
+King Krewl,1515,King,Krewl,none,none,none,none,male
+Gloria,1519,none,Gloria,none,none,none,none,female
+Wicked Witch,1520,none,Wicked,none,Witch,none,none,female
+Blinkie,1526,none,Blinkie,none,none,none,none,female
+Cap'n,1526,none,Cap'n,none,none,none,none,female
+Bill,1527,none,Bill,none,none,none,none,male
+Blinkie,1530,none,Blinkie,none,none,none,none,female
+Wicked Witch,1535,none,Wicked,none,Witch,none,none,female
+Trot,1541,none,Trot,none,none,none,none,female
+Gloria,1541,none,Gloria,none,none,none,none,female
+Button-Bright,1541,none,Button-Bright,none,none,none,none,male
+Bright,1541,none,Bright,none,none,none,none,male
+Bill,1543,none,Bill,none,none,none,none,male
+King,1543,King,none,none,none,none,none,male
+Trot,1546,none,Trot,none,none,none,none,female
+Button-Bright,1546,none,Button-Bright,none,none,none,none,male
+Bright,1546,none,Bright,none,none,none,none,male
+Cap'n Bill,1546,none,Cap'n,none,Bill,none,none,male
+Trot,1549,none,Trot,none,none,none,none,female
+Trot,1559,none,Trot,none,none,none,none,female
+Cap'n Bill,1559,none,Cap'n,none,Bill,none,none,male
+Button-Bright,1561,none,Button-Bright,none,none,none,none,male
+Bright,1561,none,Bright,none,none,none,none,male
+Trot,1562,none,Trot,none,none,none,none,female
+Cap'n,1565,none,Cap'n,none,none,none,none,female
+Bill,1566,none,Bill,none,none,none,none,male
+Button-Bright,1572,none,Button-Bright,none,none,none,none,male
+Bright,1572,none,Bright,none,none,none,none,male
+Cap'n Bill,1574,none,Cap'n,none,Bill,none,none,male
+Trot,1576,none,Trot,none,none,none,none,female
+Trot,1580,none,Trot,none,none,none,none,female
+Button-Bright,1581,none,Button-Bright,none,none,none,none,male
+Bright,1581,none,Bright,none,none,none,none,male
+Button-Bright,1583,none,Button-Bright,none,none,none,none,male
+Bright,1583,none,Bright,none,none,none,none,male
+Cap'n Bill,1587,none,Cap'n,none,Bill,none,none,male
+Pon,1588,none,Pon,none,none,none,none,male
+Trot,1589,none,Trot,none,none,none,none,female
+Pon,1589,none,Pon,none,none,none,none,male
+Cap'n Bill,1590,none,Cap'n,none,Bill,none,none,male
+Pon,1591,none,Pon,none,none,none,none,male
+Krewl,1592,none,Krewl,none,none,none,none,male
+Blinkie,1592,none,Blinkie,none,none,none,none,female
+Wicked Witch,1592,none,Wicked,none,Witch,none,none,female
+Googly-Goo,1593,none,Googly-Goo,none,none,none,none,male
+Goo,1593,none,Goo,none,none,none,none,male
+Gloria,1593,none,Gloria,none,none,none,none,female
+Cap'n Bill,1594,none,Cap'n,none,Bill,none,none,male
+Trot,1595,none,Trot,none,none,none,none,female
+Blinkie,1596,none,Blinkie,none,none,none,none,female
+Pon,1602,none,Pon,none,none,none,none,male
+Trot,1603,none,Trot,none,none,none,none,female
+Button-Bright,1603,none,Button-Bright,none,none,none,none,male
+Bright,1603,none,Bright,none,none,none,none,male
+Trot,1605,none,Trot,none,none,none,none,female
+Pon,1605,none,Pon,none,none,none,none,male
+Button-Bright,1606,none,Button-Bright,none,none,none,none,male
+Bright,1606,none,Bright,none,none,none,none,male
+Glinda,1610,none,Glinda,none,none,none,none,female
+Ozma,1611,none,Ozma,none,none,none,none,female
+Glinda,1612,none,Glinda,none,none,none,none,female
+Glinda,1612,none,Glinda,none,none,none,none,female
+Ozma,1612,none,Ozma,none,none,none,none,female
+Oz,1612,none,Oz,none,none,none,none,male
+Glinda,1617,none,Glinda,none,none,none,none,female
+Glinda,1619,none,Glinda,none,none,none,none,female
+Ozma,1620,none,Ozma,none,none,none,none,female
+Glinda,1621,none,Glinda,none,none,none,none,female
+Glinda,1622,none,Glinda,none,none,none,none,female
+Glinda,1624,none,Glinda,none,none,none,none,female
+Scarecrow,1624,none,Scarecrow,none,none,none,none,male
+Scarecrow,1627,none,Scarecrow,none,none,none,none,male
+Scarecrow,1628,none,Scarecrow,none,none,none,none,male
+Scarecrow,1628,none,Scarecrow,none,none,none,none,male
+Scarecrow,1630,none,Scarecrow,none,none,none,none,male
+Glinda,1630,none,Glinda,none,none,none,none,female
+Sorceress,1630,none,Sorceress,none,none,none,none,female
+Glinda,1632,none,Glinda,none,none,none,none,female
+Scarecrow,1635,none,Scarecrow,none,none,none,none,male
+Jinxland,1638,none,Jinxland,none,none,none,none,female
+Glinda,1639,none,Glinda,none,none,none,none,female
+Oz,1639,none,Oz,none,none,none,none,male
+Scarecrow,1640,none,Scarecrow,none,none,none,none,male
+King Krewl,1641,King,Krewl,none,none,none,none,male
+Scarecrow,1644,none,Scarecrow,none,none,none,none,male
+Blinkie,1646,none,Blinkie,none,none,none,none,female
+Jinxland,1646,none,Jinxland,none,none,none,none,female
+Gloria,1646,none,Gloria,none,none,none,none,female
+Scarecrow,1647,none,Scarecrow,none,none,none,none,male
+Glinda,1648,none,Glinda,none,none,none,none,female
+Trot,1649,none,Trot,none,none,none,none,female
+Button-Bright,1649,none,Button-Bright,none,none,none,none,male
+Bright,1649,none,Bright,none,none,none,none,male
+Pon,1649,none,Pon,none,none,none,none,male
+Sorceress,1650,none,Sorceress,none,none,none,none,female
+Scarecrow,1652,none,Scarecrow,none,none,none,none,male
+Glinda,1654,none,Glinda,none,none,none,none,female
+Button-Bright,1655,none,Button-Bright,none,none,none,none,male
+Bright,1655,none,Bright,none,none,none,none,male
+Cap'n Bill,1655,none,Cap'n,none,Bill,none,none,male
+Scarecrow,1656,none,Scarecrow,none,none,none,none,male
+Button-Bright,1657,none,Button-Bright,none,none,none,none,male
+Bright,1657,none,Bright,none,none,none,none,male
+Glinda,1659,none,Glinda,none,none,none,none,female
+Scarecrow,1660,none,Scarecrow,none,none,none,none,male
+Sorceress,1663,none,Sorceress,none,none,none,none,female
+Scarecrow,1664,none,Scarecrow,none,none,none,none,male
+Scarecrow,1667,none,Scarecrow,none,none,none,none,male
+Glinda,1668,none,Glinda,none,none,none,none,female
+Scarecrow,1669,none,Scarecrow,none,none,none,none,male
+Scarecrow,1671,none,Scarecrow,none,none,none,none,male
+Scarecrow,1673,none,Scarecrow,none,none,none,none,male
+Scarecrow,1675,none,Scarecrow,none,none,none,none,male
+Cap'n Bill,1683,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,1687,none,Cap'n,none,Bill,none,none,male
+Trot,1691,none,Trot,none,none,none,none,female
+Cap'n Bill,1691,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,1693,none,Cap'n,none,Bill,none,none,male
+Trot,1701,none,Trot,none,none,none,none,female
+Pessim,1703,none,Pessim,none,none,none,none,male
+Pessim,1708,none,Pessim,none,none,none,none,male
+Cap'n Bill,1711,none,Cap'n,none,Bill,none,none,male
+Trot,1714,none,Trot,none,none,none,none,female
+Pessim,1721,none,Pessim,none,none,none,none,male
+Cap'n Bill,1722,none,Cap'n,none,Bill,none,none,male
+Pessim,1725,none,Pessim,none,none,none,none,male
+Cap'n Bill,1726,none,Cap'n,none,Bill,none,none,male
+Pessim,1730,none,Pessim,none,none,none,none,male
+Cap'n Bill,1731,none,Cap'n,none,Bill,none,none,male
+Pessim,1733,none,Pessim,none,none,none,none,male
+Cap'n,1734,none,Cap'n,none,none,none,none,female
+Bill,1735,none,Bill,none,none,none,none,male
+Pessim,1735,none,Pessim,none,none,none,none,male
+Pessim,1737,none,Pessim,none,none,none,none,male
+Cap'n Bill,1740,none,Cap'n,none,Bill,none,none,male
+Trot,1740,none,Trot,none,none,none,none,female
+Cap'n Bill,1743,none,Cap'n,none,Bill,none,none,male
+Trot,1744,none,Trot,none,none,none,none,female
+Ork,1746,none,Ork,none,none,none,none,male
+Ork,1748,none,Ork,none,none,none,none,male
+Trot,1749,none,Trot,none,none,none,none,female
+Pessim,1750,none,Pessim,none,none,none,none,male
+Ork,1750,none,Ork,none,none,none,none,male
+Cap'n,1758,none,Cap'n,none,none,none,none,female
+Bill,1759,none,Bill,none,none,none,none,male
+Trot,1759,none,Trot,none,none,none,none,female
+Ork,1759,none,Ork,none,none,none,none,male
+Pessim,1759,none,Pessim,none,none,none,none,male
+Trot,1766,none,Trot,none,none,none,none,female
+Pessim,1767,none,Pessim,none,none,none,none,male
+Cap'n Bill,1775,none,Cap'n,none,Bill,none,none,male
+Pessim,1776,none,Pessim,none,none,none,none,male
+Ork,1778,none,Ork,none,none,none,none,male
+Ork,1790,none,Ork,none,none,none,none,male
+Pessim,1791,none,Pessim,none,none,none,none,male
+Ork,1793,none,Ork,none,none,none,none,male
+Pessim,1794,none,Pessim,none,none,none,none,male
+Ork,1794,none,Ork,none,none,none,none,male
+Trot,1796,none,Trot,none,none,none,none,female
+Ork,1796,none,Ork,none,none,none,none,male
+Pessim,1798,none,Pessim,none,none,none,none,male
+Cap'n Bill,1801,none,Cap'n,none,Bill,none,none,male
+Ork,1802,none,Ork,none,none,none,none,male
+Trot,1802,none,Trot,none,none,none,none,female
+Cap'n Bill,1803,none,Cap'n,none,Bill,none,none,male
+Ork,1803,none,Ork,none,none,none,none,male
+Ork,1805,none,Ork,none,none,none,none,male
+Pessim,1812,none,Pessim,none,none,none,none,male
+Pessim,1815,none,Pessim,none,none,none,none,male
+Ork,1816,none,Ork,none,none,none,none,male
+Ork,1817,none,Ork,none,none,none,none,male
+Pessim,1818,none,Pessim,none,none,none,none,male
+Cap'n Bill,1819,none,Cap'n,none,Bill,none,none,male
+Ork,1823,none,Ork,none,none,none,none,male
+Trot,1823,none,Trot,none,none,none,none,female
+Cap'n Bill,1826,none,Cap'n,none,Bill,none,none,male
+Trot,1826,none,Trot,none,none,none,none,female
+Ork,1826,none,Ork,none,none,none,none,male
+Pessim,1827,none,Pessim,none,none,none,none,male
+Bill,1831,none,Bill,none,none,none,none,male
+Trot,1831,none,Trot,none,none,none,none,female
+Pessim,1832,none,Pessim,none,none,none,none,male
+Pessim,1836,none,Pessim,none,none,none,none,male
+Trot,1838,none,Trot,none,none,none,none,female
+Pessim,1839,none,Pessim,none,none,none,none,male
+Ork,1840,none,Ork,none,none,none,none,male
+Bill,1843,none,Bill,none,none,none,none,male
+Cap'n,1844,none,Cap'n,none,none,none,none,female
+Bill,1845,none,Bill,none,none,none,none,male
+Ork,1846,none,Ork,none,none,none,none,male
+Trot,1847,none,Trot,none,none,none,none,female
+Ork,1847,none,Ork,none,none,none,none,male
+Cap'n,1849,none,Cap'n,none,none,none,none,female
+Bill,1850,none,Bill,none,none,none,none,male
+Ork,1851,none,Ork,none,none,none,none,male
+Trot,1852,none,Trot,none,none,none,none,female
+Cap'n,1852,none,Cap'n,none,none,none,none,female
+Bill,1853,none,Bill,none,none,none,none,male
+Ork,1855,none,Ork,none,none,none,none,male
+Ork,1856,none,Ork,none,none,none,none,male
+Trot,1865,none,Trot,none,none,none,none,female
+Ork,1866,none,Ork,none,none,none,none,male
+Trot,1868,none,Trot,none,none,none,none,female
+Cap'n Bill,1869,none,Cap'n,none,Bill,none,none,male
+Ork,1870,none,Ork,none,none,none,none,male
+Cap'n,1871,none,Cap'n,none,none,none,none,female
+Bill,1872,none,Bill,none,none,none,none,male
+Trot,1873,none,Trot,none,none,none,none,female
+Cap'n,1874,none,Cap'n,none,none,none,none,female
+Ork,1876,none,Ork,none,none,none,none,male
+Pessim,1877,none,Pessim,none,none,none,none,male
+Ork,1878,none,Ork,none,none,none,none,male
+Bill,1880,none,Bill,none,none,none,none,male
+Ork,1883,none,Ork,none,none,none,none,male
+Cap'n Bill,1885,none,Cap'n,none,Bill,none,none,male
+Pessim,1885,none,Pessim,none,none,none,none,male
+Ork,1886,none,Ork,none,none,none,none,male
+Pessim,1887,none,Pessim,none,none,none,none,male
+Cap'n Bill,1888,none,Cap'n,none,Bill,none,none,male
+Pessim,1890,none,Pessim,none,none,none,none,male
+Trot,1893,none,Trot,none,none,none,none,female
+Cap'n,1893,none,Cap'n,none,none,none,none,female
+Bill,1894,none,Bill,none,none,none,none,male
+Trot,1895,none,Trot,none,none,none,none,female
+Cap'n Bill,1896,none,Cap'n,none,Bill,none,none,male
+Trot,1897,none,Trot,none,none,none,none,female
+Bill,1898,none,Bill,none,none,none,none,male
+Trot,1898,none,Trot,none,none,none,none,female
+Pessim,1898,none,Pessim,none,none,none,none,male
+Ork,1899,none,Ork,none,none,none,none,male
+Cap'n Bill,1900,none,Cap'n,none,Bill,none,none,male
+Ork,1904,none,Ork,none,none,none,none,male
+Pessim,1906,none,Pessim,none,none,none,none,male
+Ork,1908,none,Ork,none,none,none,none,male
+Pessim,1908,none,Pessim,none,none,none,none,male
+Trot,1911,none,Trot,none,none,none,none,female
+Ork,1912,none,Ork,none,none,none,none,male
+Cap'n Bill,1914,none,Cap'n,none,Bill,none,none,male
+Cap'n,1915,none,Cap'n,none,none,none,none,female
+Ork,1919,none,Ork,none,none,none,none,male
+Cap'n,1920,none,Cap'n,none,none,none,none,female
+Bill,1921,none,Bill,none,none,none,none,male
+Trot,1922,none,Trot,none,none,none,none,female
+Ork,1922,none,Ork,none,none,none,none,male
+Cap'n Bill,1925,none,Cap'n,none,Bill,none,none,male
+Trot,1925,none,Trot,none,none,none,none,female
+Ork,1926,none,Ork,none,none,none,none,male
+Bill,1928,none,Bill,none,none,none,none,male
+Trot,1928,none,Trot,none,none,none,none,female
+Ork,1928,none,Ork,none,none,none,none,male
+Bill,1933,none,Bill,none,none,none,none,male
+Ork,1935,none,Ork,none,none,none,none,male
+Trot,1936,none,Trot,none,none,none,none,female
+Ork,1937,none,Ork,none,none,none,none,male
+Cap'n Bill,1940,none,Cap'n,none,Bill,none,none,male
+Ork,1942,none,Ork,none,none,none,none,male
+Trot,1944,none,Trot,none,none,none,none,female
+Cap'n Bill,1944,none,Cap'n,none,Bill,none,none,male
+Ork,1944,none,Ork,none,none,none,none,male
+Ork,1945,none,Ork,none,none,none,none,male
+Ork,1946,none,Ork,none,none,none,none,male
+Cap'n Bill,1949,none,Cap'n,none,Bill,none,none,male
+Trot,1954,none,Trot,none,none,none,none,female
+Ork,1955,none,Ork,none,none,none,none,male
+Ork,1957,none,Ork,none,none,none,none,male
+Bill,1960,none,Bill,none,none,none,none,male
+Cap'n Bill,1963,none,Cap'n,none,Bill,none,none,male
+Trot,1966,none,Trot,none,none,none,none,female
+Cap'n Bill,1967,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,1969,none,Cap'n,none,Bill,none,none,male
+Trot,1969,none,Trot,none,none,none,none,female
+Cap'n Bill,1971,none,Cap'n,none,Bill,none,none,male
+Ork,1971,none,Ork,none,none,none,none,male
+Trot,1972,none,Trot,none,none,none,none,female
+Cap'n,1973,none,Cap'n,none,none,none,none,female
+Ork,1980,none,Ork,none,none,none,none,male
+Trot,1984,none,Trot,none,none,none,none,female
+Ork,1985,none,Ork,none,none,none,none,male
+Trot,1986,none,Trot,none,none,none,none,female
+Ork,1987,none,Ork,none,none,none,none,male
+Trot,1990,none,Trot,none,none,none,none,female
+Cap'n Bill,1990,none,Cap'n,none,Bill,none,none,male
+Trot,1995,none,Trot,none,none,none,none,female
+Cap'n Bill,1996,none,Cap'n,none,Bill,none,none,male
+Ork,1998,none,Ork,none,none,none,none,male
+Trot,2001,none,Trot,none,none,none,none,female
+Cap'n Bill,2002,none,Cap'n,none,Bill,none,none,male
+Trot,2003,none,Trot,none,none,none,none,female
+Bumpy Man,2007,none,Bumpy,none,Man,none,none,male
+Trot,2010,none,Trot,none,none,none,none,female
+Bumpy Man,2011,none,Bumpy,none,Man,none,none,male
+Trot,2017,none,Trot,none,none,none,none,female
+Bumpy Man,2019,none,Bumpy,none,Man,none,none,male
+Cap'n Bill,2020,none,Cap'n,none,Bill,none,none,male
+Bumpy Man,2021,none,Bumpy,none,Man,none,none,male
+Cap'n Bill,2022,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,2025,none,Cap'n,none,Bill,none,none,male
+Bumpy Man,2027,none,Bumpy,none,Man,none,none,male
+Bumpy Man,2030,none,Bumpy,none,Man,none,none,male
+Ork,2031,none,Ork,none,none,none,none,male
+Ork,2045,none,Ork,none,none,none,none,male
+Cap'n Bill,2045,none,Cap'n,none,Bill,none,none,male
+Trot,2045,none,Trot,none,none,none,none,female
+Bumpy Man,2046,none,Bumpy,none,Man,none,none,male
+Bill,2048,none,Bill,none,none,none,none,male
+Trot,2048,none,Trot,none,none,none,none,female
+Pooh,2064,none,Pooh,none,none,none,none,male
+Bumpy Man,2068,none,Bumpy,none,Man,none,none,male
+Cap'n,2069,none,Cap'n,none,none,none,none,female
+Bill,2070,none,Bill,none,none,none,none,male
+Trot,2072,none,Trot,none,none,none,none,female
+Cap'n,2074,none,Cap'n,none,none,none,none,female
+Mountain Ear,2076,none,Mountain,none,Ear,none,none,male
+Trot,2077,none,Trot,none,none,none,none,female
+Cap'n,2077,none,Cap'n,none,none,none,none,female
+Bill,2078,none,Bill,none,none,none,none,male
+Ork,2078,none,Ork,none,none,none,none,male
+Cap'n,2090,none,Cap'n,none,none,none,none,female
+Bill,2091,none,Bill,none,none,none,none,male
+Ork,2091,none,Ork,none,none,none,none,male
+Trot,2094,none,Trot,none,none,none,none,female
+Ork,2095,none,Ork,none,none,none,none,male
+Bumpy Man,2096,none,Bumpy,none,Man,none,none,male
+Cap'n Bill,2098,none,Cap'n,none,Bill,none,none,male
+Trot,2103,none,Trot,none,none,none,none,female
+Bumpy Man,2113,none,Bumpy,none,Man,none,none,male
+Trot,2127,none,Trot,none,none,none,none,female
+Bill,2129,none,Bill,none,none,none,none,male
+Bill,2134,none,Bill,none,none,none,none,male
+Ork,2135,none,Ork,none,none,none,none,male
+Trot,2139,none,Trot,none,none,none,none,female
+Cap'n Bill,2143,none,Cap'n,none,Bill,none,none,male
+Bumpy Man,2146,none,Bumpy,none,Man,none,none,male
+Trot,2152,none,Trot,none,none,none,none,female
+Cap'n Bill,2152,none,Cap'n,none,Bill,none,none,male
+Ork,2153,none,Ork,none,none,none,none,male
+Button-Bright,2154,none,Button-Bright,none,none,none,none,male
+Bright,2154,none,Bright,none,none,none,none,male
+Trot,2154,none,Trot,none,none,none,none,female
+Button-Bright,2155,none,Button-Bright,none,none,none,none,male
+Bright,2155,none,Bright,none,none,none,none,male
+Ork,2157,none,Ork,none,none,none,none,male
+Button-Bright,2158,none,Button-Bright,none,none,none,none,male
+Bright,2158,none,Bright,none,none,none,none,male
+Ork,2160,none,Ork,none,none,none,none,male
+Button-Bright,2161,none,Button-Bright,none,none,none,none,male
+Bright,2161,none,Bright,none,none,none,none,male
+Mountain Ear,2167,none,Mountain,none,Ear,none,none,male
+Trot,2169,none,Trot,none,none,none,none,female
+Bumpy Man,2171,none,Bumpy,none,Man,none,none,male
+Button-Bright,2172,none,Button-Bright,none,none,none,none,male
+Bright,2172,none,Bright,none,none,none,none,male
+Button-Bright,2178,none,Button-Bright,none,none,none,none,male
+Bright,2178,none,Bright,none,none,none,none,male
+Ork,2182,none,Ork,none,none,none,none,male
+Trot,2184,none,Trot,none,none,none,none,female
+Ork,2184,none,Ork,none,none,none,none,male
+Button-Bright,2185,none,Button-Bright,none,none,none,none,male
+Bright,2185,none,Bright,none,none,none,none,male
+Bill,2189,none,Bill,none,none,none,none,male
+Bill,2193,none,Bill,none,none,none,none,male
+Cap'n,2197,none,Cap'n,none,none,none,none,female
+Bill,2198,none,Bill,none,none,none,none,male
+Button-Bright,2200,none,Button-Bright,none,none,none,none,male
+Bright,2200,none,Bright,none,none,none,none,male
+Trot,2200,none,Trot,none,none,none,none,female
+Trot,2201,none,Trot,none,none,none,none,female
+Button-Bright,2202,none,Button-Bright,none,none,none,none,male
+Bright,2202,none,Bright,none,none,none,none,male
+Cap'n,2203,none,Cap'n,none,none,none,none,female
+Bill,2204,none,Bill,none,none,none,none,male
+Bumpy Man,2206,none,Bumpy,none,Man,none,none,male
+Ork,2212,none,Ork,none,none,none,none,male
+Button-Bright,2212,none,Button-Bright,none,none,none,none,male
+Bright,2212,none,Bright,none,none,none,none,male
+Ork,2214,none,Ork,none,none,none,none,male
+Button-Bright,2215,none,Button-Bright,none,none,none,none,male
+Bright,2215,none,Bright,none,none,none,none,male
+Ork,2217,none,Ork,none,none,none,none,male
+Ork,2219,none,Ork,none,none,none,none,male
+Button-Bright,2220,none,Button-Bright,none,none,none,none,male
+Bright,2220,none,Bright,none,none,none,none,male
+Ork,2222,none,Ork,none,none,none,none,male
+Cap'n Bill,2224,none,Cap'n,none,Bill,none,none,male
+Ork,2224,none,Ork,none,none,none,none,male
+Cap'n Bill,2229,none,Cap'n,none,Bill,none,none,male
+Ork,2230,none,Ork,none,none,none,none,male
+Ork,2232,none,Ork,none,none,none,none,male
+Cap'n Bill,2235,none,Cap'n,none,Bill,none,none,male
+Trot,2236,none,Trot,none,none,none,none,female
+Bill,2238,none,Bill,none,none,none,none,male
+Cap'n,2246,none,Cap'n,none,none,none,none,female
+Bumpy Man,2248,none,Bumpy,none,Man,none,none,male
+Cap'n Bill,2249,none,Cap'n,none,Bill,none,none,male
+Button-Bright,2255,none,Button-Bright,none,none,none,none,male
+Bright,2255,none,Bright,none,none,none,none,male
+Cap'n Bill,2260,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,2265,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,2268,none,Cap'n,none,Bill,none,none,male
+Trot,2271,none,Trot,none,none,none,none,female
+Cap'n,2272,none,Cap'n,none,none,none,none,female
+Bill,2273,none,Bill,none,none,none,none,male
+Trot,2276,none,Trot,none,none,none,none,female
+Bill,2279,none,Bill,none,none,none,none,male
+Trot,2282,none,Trot,none,none,none,none,female
+Cap'n Bill,2283,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,2286,none,Cap'n,none,Bill,none,none,male
+Button-Bright,2287,none,Button-Bright,none,none,none,none,male
+Bright,2287,none,Bright,none,none,none,none,male
+Cap'n Bill,2289,none,Cap'n,none,Bill,none,none,male
+Ork,2290,none,Ork,none,none,none,none,male
+Cap'n Bill,2292,none,Cap'n,none,Bill,none,none,male
+Ork,2292,none,Ork,none,none,none,none,male
+Ork,2295,none,Ork,none,none,none,none,male
+Cap'n Bill,2300,none,Cap'n,none,Bill,none,none,male
+Button-Bright,2302,none,Button-Bright,none,none,none,none,male
+Bright,2302,none,Bright,none,none,none,none,male
+Ork,2304,none,Ork,none,none,none,none,male
+Ork,2305,none,Ork,none,none,none,none,male
+Bill,2309,none,Bill,none,none,none,none,male
+Ork,2309,none,Ork,none,none,none,none,male
+Trot,2309,none,Trot,none,none,none,none,female
+Button-Bright,2309,none,Button-Bright,none,none,none,none,male
+Bright,2309,none,Bright,none,none,none,none,male
+Ork,2310,none,Ork,none,none,none,none,male
+Cap'n,2311,none,Cap'n,none,none,none,none,female
+Bill,2312,none,Bill,none,none,none,none,male
+Trot,2316,none,Trot,none,none,none,none,female
+Ork,2317,none,Ork,none,none,none,none,male
+Ork,2318,none,Ork,none,none,none,none,male
+Trot,2320,none,Trot,none,none,none,none,female
+Ork,2322,none,Ork,none,none,none,none,male
+Ork,2325,none,Ork,none,none,none,none,male
+Cap'n Bill,2326,none,Cap'n,none,Bill,none,none,male
+Trot,2326,none,Trot,none,none,none,none,female
+Trot,2328,none,Trot,none,none,none,none,female
+Button-Bright,2330,none,Button-Bright,none,none,none,none,male
+Bright,2330,none,Bright,none,none,none,none,male
+Ork,2334,none,Ork,none,none,none,none,male
+Ork,2339,none,Ork,none,none,none,none,male
+Cap'n Bill,2341,none,Cap'n,none,Bill,none,none,male
+Trot,2341,none,Trot,none,none,none,none,female
+Button-Bright,2341,none,Button-Bright,none,none,none,none,male
+Bright,2341,none,Bright,none,none,none,none,male
+Trot,2347,none,Trot,none,none,none,none,female
+Cap'n,2347,none,Cap'n,none,none,none,none,female
+Bill,2348,none,Bill,none,none,none,none,male
+Jinxland,2350,none,Jinxland,none,none,none,none,female
+Cap'n Bill,2351,none,Cap'n,none,Bill,none,none,male
+Jinxland,2352,none,Jinxland,none,none,none,none,female
+Trot,2353,none,Trot,none,none,none,none,female
+Ozma of Oz,2356,none,Ozma of Oz,none,none,none,none,female
+Button-Bright,2357,none,Button-Bright,none,none,none,none,male
+Bright,2357,none,Bright,none,none,none,none,male
+Trot,2358,none,Trot,none,none,none,none,female
+Button-Bright,2359,none,Button-Bright,none,none,none,none,male
+Bright,2359,none,Bright,none,none,none,none,male
+Cap'n Bill,2363,none,Cap'n,none,Bill,none,none,male
+Trot,2366,none,Trot,none,none,none,none,female
+Button-Bright,2369,none,Button-Bright,none,none,none,none,male
+Bright,2369,none,Bright,none,none,none,none,male
+Cap'n,2370,none,Cap'n,none,none,none,none,female
+Bill,2371,none,Bill,none,none,none,none,male
+Trot,2372,none,Trot,none,none,none,none,female
+Button-Bright,2377,none,Button-Bright,none,none,none,none,male
+Bright,2377,none,Bright,none,none,none,none,male
+Cap'n Bill,2378,none,Cap'n,none,Bill,none,none,male
+Jinxland,2378,none,Jinxland,none,none,none,none,female
+King Krewl,2380,King,Krewl,none,none,none,none,male
+Krewl,2388,none,Krewl,none,none,none,none,male
+Cap'n,2389,none,Cap'n,none,none,none,none,female
+Trot,2389,none,Trot,none,none,none,none,female
+Krewl,2390,none,Krewl,none,none,none,none,male
+Ozma,2393,none,Ozma,none,none,none,none,female
+Button-Bright,2393,none,Button-Bright,none,none,none,none,male
+Bright,2393,none,Bright,none,none,none,none,male
+Ozma,2394,none,Ozma,none,none,none,none,female
+Trot,2394,none,Trot,none,none,none,none,female
+Ozma,2395,none,Ozma,none,none,none,none,female
+Button-Bright,2396,none,Button-Bright,none,none,none,none,male
+Bright,2396,none,Bright,none,none,none,none,male
+Cap'n Bill,2400,none,Cap'n,none,Bill,none,none,male
+Button-Bright,2402,none,Button-Bright,none,none,none,none,male
+Bright,2402,none,Bright,none,none,none,none,male
+Trot,2403,none,Trot,none,none,none,none,female
+Cap'n,2404,none,Cap'n,none,none,none,none,female
+Dorothy,2405,none,Dorothy,none,none,none,none,female
+Scarecrow,2405,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2405,none,Tin,none,Woodman,none,none,male
+Tik,2405,none,Tik,none,none,none,none,male
+Tik-Tok,2405,none,Tik-Tok,none,none,none,none,male
+Ozma,2405,none,Ozma,none,none,none,none,female
+Button-Bright,2406,none,Button-Bright,none,none,none,none,male
+Bright,2406,none,Bright,none,none,none,none,male
+Cap'n Bill,2409,none,Cap'n,none,Bill,none,none,male
+Ozma,2410,none,Ozma,none,none,none,none,female
+Dorothy,2410,none,Dorothy,none,none,none,none,female
+Button-Bright,2415,none,Button-Bright,none,none,none,none,male
+Bright,2415,none,Bright,none,none,none,none,male
+Button-Bright,2418,none,Button-Bright,none,none,none,none,male
+Bright,2418,none,Bright,none,none,none,none,male
+Trot,2424,none,Trot,none,none,none,none,female
+Cap'n Bill,2424,none,Cap'n,none,Bill,none,none,male
+Pon,2429,none,Pon,none,none,none,none,male
+Trot,2431,none,Trot,none,none,none,none,female
+Gloria,2433,none,Gloria,none,none,none,none,female
+Button-Bright,2435,none,Button-Bright,none,none,none,none,male
+Bright,2435,none,Bright,none,none,none,none,male
+Gloria,2436,none,Gloria,none,none,none,none,female
+Cap'n Bill,2436,none,Cap'n,none,Bill,none,none,male
+Krewl,2437,none,Krewl,none,none,none,none,male
+Gloria,2440,none,Gloria,none,none,none,none,female
+Trot,2448,none,Trot,none,none,none,none,female
+Pon,2449,none,Pon,none,none,none,none,male
+Gloria,2450,none,Gloria,none,none,none,none,female
+Googly-Goo,2451,none,Googly-Goo,none,none,none,none,male
+Goo,2451,none,Goo,none,none,none,none,male
+Gloria,2451,none,Gloria,none,none,none,none,female
+Googly-Goo,2452,none,Googly-Goo,none,none,none,none,male
+Goo,2452,none,Goo,none,none,none,none,male
+King Krewl,2453,King,Krewl,none,none,none,none,male
+Gloria,2454,none,Gloria,none,none,none,none,female
+Pon,2457,none,Pon,none,none,none,none,male
+Cap'n Bill,2458,none,Cap'n,none,Bill,none,none,male
+Pon,2458,none,Pon,none,none,none,none,male
+Button-Bright,2461,none,Button-Bright,none,none,none,none,male
+Bright,2461,none,Bright,none,none,none,none,male
+Pon,2463,none,Pon,none,none,none,none,male
+Krewl,2464,none,Krewl,none,none,none,none,male
+Cap'n Bill,2466,none,Cap'n,none,Bill,none,none,male
+Krewl,2467,none,Krewl,none,none,none,none,male
+King Phearse,2468,King,Phearse,none,none,none,none,male
+Krewl,2468,none,Krewl,none,none,none,none,male
+Krewl,2469,none,Krewl,none,none,none,none,male
+Krewl,2470,none,Krewl,none,none,none,none,male
+Krewl,2472,none,Krewl,none,none,none,none,male
+Krewl,2474,none,Krewl,none,none,none,none,male
+Phearse,2474,none,Phearse,none,none,none,none,male
+Trot,2475,none,Trot,none,none,none,none,female
+Pon,2476,none,Pon,none,none,none,none,male
+Gloria,2476,none,Gloria,none,none,none,none,female
+Pon,2477,none,Pon,none,none,none,none,male
+Kynd,2478,none,Kynd,none,none,none,none,male
+Gloria,2478,none,Gloria,none,none,none,none,female
+Kynd,2479,none,Kynd,none,none,none,none,male
+Kynd,2480,none,Kynd,none,none,none,none,male
+Trot,2481,none,Trot,none,none,none,none,female
+Gloria,2481,none,Gloria,none,none,none,none,female
+Pon,2482,none,Pon,none,none,none,none,male
+Krewl,2483,none,Krewl,none,none,none,none,male
+Cap'n Bill,2484,none,Cap'n,none,Bill,none,none,male
+Krewl,2485,none,Krewl,none,none,none,none,male
+Pon,2486,none,Pon,none,none,none,none,male
+Button-Bright,2487,none,Button-Bright,none,none,none,none,male
+Bright,2487,none,Bright,none,none,none,none,male
+Pon,2488,none,Pon,none,none,none,none,male
+Gloria,2490,none,Gloria,none,none,none,none,female
+Cap'n Bill,2491,none,Cap'n,none,Bill,none,none,male
+Goo,2494,none,Goo,none,none,none,none,male
+Bill,2498,none,Bill,none,none,none,none,male
+Krewl,2499,none,Krewl,none,none,none,none,male
+Cap'n,2500,none,Cap'n,none,none,none,none,female
+Bill,2501,none,Bill,none,none,none,none,male
+Trot,2507,none,Trot,none,none,none,none,female
+Cap'n Bill,2510,none,Cap'n,none,Bill,none,none,male
+Krewl,2520,none,Krewl,none,none,none,none,male
+Cap'n Bill,2520,none,Cap'n,none,Bill,none,none,male
+Jinxland,2520,none,Jinxland,none,none,none,none,female
+Sire,2522,none,Sire,none,none,none,none,female
+Cap'n,2527,none,Cap'n,none,none,none,none,female
+Bill,2528,none,Bill,none,none,none,none,male
+Cap'n Bill,2535,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,2537,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,2540,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,2544,none,Cap'n,none,Bill,none,none,male
+Krewl,2547,none,Krewl,none,none,none,none,male
+Trot,2547,none,Trot,none,none,none,none,female
+Googly-Goo,2554,none,Googly-Goo,none,none,none,none,male
+Goo,2554,none,Goo,none,none,none,none,male
+Goo,2555,none,Goo,none,none,none,none,male
+Cap'n Bill,2555,none,Cap'n,none,Bill,none,none,male
+Button-Bright,2555,none,Button-Bright,none,none,none,none,male
+Bright,2555,none,Bright,none,none,none,none,male
+Sire,2558,none,Sire,none,none,none,none,female
+Googly-Goo,2562,none,Googly-Goo,none,none,none,none,male
+Goo,2562,none,Goo,none,none,none,none,male
+Googly-Goo,2565,none,Googly-Goo,none,none,none,none,male
+Goo,2565,none,Goo,none,none,none,none,male
+Gloria,2566,none,Gloria,none,none,none,none,female
+Pon,2566,none,Pon,none,none,none,none,male
+Pon,2567,none,Pon,none,none,none,none,male
+Goo,2571,none,Goo,none,none,none,none,male
+Pon,2574,none,Pon,none,none,none,none,male
+Gloria,2575,none,Gloria,none,none,none,none,female
+Pon,2575,none,Pon,none,none,none,none,male
+Googly-Goo,2576,none,Googly-Goo,none,none,none,none,male
+Goo,2576,none,Goo,none,none,none,none,male
+Gloria,2577,none,Gloria,none,none,none,none,female
+Sire,2578,none,Sire,none,none,none,none,female
+Cap'n Bill,2580,none,Cap'n,none,Bill,none,none,male
+Trot,2580,none,Trot,none,none,none,none,female
+Button-Bright,2580,none,Button-Bright,none,none,none,none,male
+Bright,2580,none,Bright,none,none,none,none,male
+Googly-Goo,2581,none,Googly-Goo,none,none,none,none,male
+Goo,2581,none,Goo,none,none,none,none,male
+Trot,2581,none,Trot,none,none,none,none,female
+Cap'n Bill,2582,none,Cap'n,none,Bill,none,none,male
+Googly-Goo,2584,none,Googly-Goo,none,none,none,none,male
+Button-Bright,2585,none,Button-Bright,none,none,none,none,male
+Bright,2585,none,Bright,none,none,none,none,male
+Goo,2588,none,Goo,none,none,none,none,male
+Cap'n Bill,2588,none,Cap'n,none,Bill,none,none,male
+Bill,2593,none,Bill,none,none,none,none,male
+Trot,2593,none,Trot,none,none,none,none,female
+Button-Bright,2594,none,Button-Bright,none,none,none,none,male
+Bright,2594,none,Bright,none,none,none,none,male
+Googly-Goo,2596,none,Googly-Goo,none,none,none,none,male
+Goo,2596,none,Goo,none,none,none,none,male
+Gloria,2596,none,Gloria,none,none,none,none,female
+Googly-Goo,2598,none,Googly-Goo,none,none,none,none,male
+Goo,2598,none,Goo,none,none,none,none,male
+Wicked Witch,2605,none,Wicked,none,Witch,none,none,female
+Goo,2607,none,Goo,none,none,none,none,male
+Wicked Witch,2608,none,Wicked,none,Witch,none,none,female
+Gloria,2609,none,Gloria,none,none,none,none,female
+Gloria,2610,none,Gloria,none,none,none,none,female
+Googly-Goo,2611,none,Googly-Goo,none,none,none,none,male
+Goo,2611,none,Goo,none,none,none,none,male
+Pon,2612,none,Pon,none,none,none,none,male
+Pon,2613,none,Pon,none,none,none,none,male
+Gloria,2614,none,Gloria,none,none,none,none,female
+Googly-Goo,2614,none,Googly-Goo,none,none,none,none,male
+Goo,2614,none,Goo,none,none,none,none,male
+Googly-Goo,2619,none,Googly-Goo,none,none,none,none,male
+Goo,2619,none,Goo,none,none,none,none,male
+Wicked Witch,2620,none,Wicked,none,Witch,none,none,female
+Trot,2622,none,Trot,none,none,none,none,female
+Gloria,2622,none,Gloria,none,none,none,none,female
+Gloria,2623,none,Gloria,none,none,none,none,female
+Googly-Goo,2624,none,Googly-Goo,none,none,none,none,male
+Goo,2624,none,Goo,none,none,none,none,male
+Trot,2624,none,Trot,none,none,none,none,female
+Trot,2626,none,Trot,none,none,none,none,female
+Pon,2630,none,Pon,none,none,none,none,male
+Pon,2631,none,Pon,none,none,none,none,male
+Trot,2631,none,Trot,none,none,none,none,female
+Gloria,2633,none,Gloria,none,none,none,none,female
+Pon,2634,none,Pon,none,none,none,none,male
+Googly-Goo,2635,none,Googly-Goo,none,none,none,none,male
+Goo,2635,none,Goo,none,none,none,none,male
+Trot,2636,none,Trot,none,none,none,none,female
+Googly-Goo,2637,none,Googly-Goo,none,none,none,none,male
+Gloria,2640,none,Gloria,none,none,none,none,female
+Gloria,2643,none,Gloria,none,none,none,none,female
+Cap'n Bill,2644,none,Cap'n,none,Bill,none,none,male
+Ork,2644,none,Ork,none,none,none,none,male
+Pessim,2644,none,Pessim,none,none,none,none,male
+Googly-Goo,2645,none,Googly-Goo,none,none,none,none,male
+Goo,2645,none,Goo,none,none,none,none,male
+Jinxland,2647,none,Jinxland,none,none,none,none,female
+Blinkie,2647,none,Blinkie,none,none,none,none,female
+Krewl,2649,none,Krewl,none,none,none,none,male
+Blinkie,2650,none,Blinkie,none,none,none,none,female
+Blinkie,2651,none,Blinkie,none,none,none,none,female
+Googly-Goo,2652,none,Googly-Goo,none,none,none,none,male
+Goo,2652,none,Goo,none,none,none,none,male
+Gloria,2653,none,Gloria,none,none,none,none,female
+Wicked Witch,2654,none,Wicked,none,Witch,none,none,female
+Gloria,2661,none,Gloria,none,none,none,none,female
+Pon,2661,none,Pon,none,none,none,none,male
+Googly-Goo,2662,none,Googly-Goo,none,none,none,none,male
+Goo,2662,none,Goo,none,none,none,none,male
+King,2662,King,none,none,none,none,none,male
+Wicked Witch,2663,none,Wicked,none,Witch,none,none,female
+Gloria,2664,none,Gloria,none,none,none,none,female
+Blinkie,2664,none,Blinkie,none,none,none,none,female
+Krewl,2665,none,Krewl,none,none,none,none,male
+Googly-Goo,2670,none,Googly-Goo,none,none,none,none,male
+Goo,2670,none,Goo,none,none,none,none,male
+Blinkie,2670,none,Blinkie,none,none,none,none,female
+Cap'n Bill,2670,none,Cap'n,none,Bill,none,none,male
+Wicked Witch,2672,none,Wicked,none,Witch,none,none,female
+Cap'n Bill,2672,none,Cap'n,none,Bill,none,none,male
+Blinkie,2673,none,Blinkie,none,none,none,none,female
+King Krewl,2674,King,Krewl,none,none,none,none,male
+Gloria,2678,none,Gloria,none,none,none,none,female
+Wicked Witch,2679,none,Wicked,none,Witch,none,none,female
+Blinkie,2685,none,Blinkie,none,none,none,none,female
+Cap'n,2685,none,Cap'n,none,none,none,none,female
+Bill,2686,none,Bill,none,none,none,none,male
+Blinkie,2689,none,Blinkie,none,none,none,none,female
+Wicked Witch,2694,none,Wicked,none,Witch,none,none,female
+Trot,2700,none,Trot,none,none,none,none,female
+Gloria,2700,none,Gloria,none,none,none,none,female
+Button-Bright,2700,none,Button-Bright,none,none,none,none,male
+Bright,2700,none,Bright,none,none,none,none,male
+Bill,2702,none,Bill,none,none,none,none,male
+King,2702,King,none,none,none,none,none,male
+Trot,2705,none,Trot,none,none,none,none,female
+Button-Bright,2705,none,Button-Bright,none,none,none,none,male
+Bright,2705,none,Bright,none,none,none,none,male
+Cap'n Bill,2705,none,Cap'n,none,Bill,none,none,male
+Trot,2708,none,Trot,none,none,none,none,female
+Trot,2718,none,Trot,none,none,none,none,female
+Cap'n Bill,2718,none,Cap'n,none,Bill,none,none,male
+Button-Bright,2720,none,Button-Bright,none,none,none,none,male
+Bright,2720,none,Bright,none,none,none,none,male
+Trot,2721,none,Trot,none,none,none,none,female
+Cap'n,2724,none,Cap'n,none,none,none,none,female
+Bill,2725,none,Bill,none,none,none,none,male
+Button-Bright,2731,none,Button-Bright,none,none,none,none,male
+Bright,2731,none,Bright,none,none,none,none,male
+Cap'n Bill,2733,none,Cap'n,none,Bill,none,none,male
+Trot,2735,none,Trot,none,none,none,none,female
+Trot,2739,none,Trot,none,none,none,none,female
+Button-Bright,2740,none,Button-Bright,none,none,none,none,male
+Bright,2740,none,Bright,none,none,none,none,male
+Button-Bright,2742,none,Button-Bright,none,none,none,none,male
+Bright,2742,none,Bright,none,none,none,none,male
+Cap'n Bill,2746,none,Cap'n,none,Bill,none,none,male
+Pon,2747,none,Pon,none,none,none,none,male
+Trot,2748,none,Trot,none,none,none,none,female
+Pon,2748,none,Pon,none,none,none,none,male
+Cap'n Bill,2749,none,Cap'n,none,Bill,none,none,male
+Pon,2750,none,Pon,none,none,none,none,male
+Krewl,2751,none,Krewl,none,none,none,none,male
+Blinkie,2751,none,Blinkie,none,none,none,none,female
+Wicked Witch,2751,none,Wicked,none,Witch,none,none,female
+Googly-Goo,2752,none,Googly-Goo,none,none,none,none,male
+Goo,2752,none,Goo,none,none,none,none,male
+Gloria,2752,none,Gloria,none,none,none,none,female
+Cap'n Bill,2753,none,Cap'n,none,Bill,none,none,male
+Trot,2754,none,Trot,none,none,none,none,female
+Blinkie,2755,none,Blinkie,none,none,none,none,female
+Pon,2761,none,Pon,none,none,none,none,male
+Trot,2762,none,Trot,none,none,none,none,female
+Button-Bright,2762,none,Button-Bright,none,none,none,none,male
+Bright,2762,none,Bright,none,none,none,none,male
+Trot,2764,none,Trot,none,none,none,none,female
+Pon,2764,none,Pon,none,none,none,none,male
+Button-Bright,2765,none,Button-Bright,none,none,none,none,male
+Bright,2765,none,Bright,none,none,none,none,male
+Glinda,2769,none,Glinda,none,none,none,none,female
+Ozma,2770,none,Ozma,none,none,none,none,female
+Glinda,2771,none,Glinda,none,none,none,none,female
+Glinda,2771,none,Glinda,none,none,none,none,female
+Ozma,2771,none,Ozma,none,none,none,none,female
+Oz,2771,none,Oz,none,none,none,none,male
+Glinda,2776,none,Glinda,none,none,none,none,female
+Glinda,2778,none,Glinda,none,none,none,none,female
+Ozma,2779,none,Ozma,none,none,none,none,female
+Glinda,2780,none,Glinda,none,none,none,none,female
+Glinda,2781,none,Glinda,none,none,none,none,female
+Glinda,2783,none,Glinda,none,none,none,none,female
+Scarecrow,2783,none,Scarecrow,none,none,none,none,male
+Scarecrow,2786,none,Scarecrow,none,none,none,none,male
+Scarecrow,2787,none,Scarecrow,none,none,none,none,male
+Scarecrow,2787,none,Scarecrow,none,none,none,none,male
+Scarecrow,2789,none,Scarecrow,none,none,none,none,male
+Glinda,2789,none,Glinda,none,none,none,none,female
+Sorceress,2789,none,Sorceress,none,none,none,none,female
+Glinda,2791,none,Glinda,none,none,none,none,female
+Scarecrow,2794,none,Scarecrow,none,none,none,none,male
+Jinxland,2797,none,Jinxland,none,none,none,none,female
+Glinda,2798,none,Glinda,none,none,none,none,female
+Oz,2798,none,Oz,none,none,none,none,male
+Scarecrow,2799,none,Scarecrow,none,none,none,none,male
+King Krewl,2800,King,Krewl,none,none,none,none,male
+Scarecrow,2803,none,Scarecrow,none,none,none,none,male
+Blinkie,2805,none,Blinkie,none,none,none,none,female
+Jinxland,2805,none,Jinxland,none,none,none,none,female
+Gloria,2805,none,Gloria,none,none,none,none,female
+Scarecrow,2806,none,Scarecrow,none,none,none,none,male
+Glinda,2807,none,Glinda,none,none,none,none,female
+Trot,2808,none,Trot,none,none,none,none,female
+Button-Bright,2808,none,Button-Bright,none,none,none,none,male
+Bright,2808,none,Bright,none,none,none,none,male
+Pon,2808,none,Pon,none,none,none,none,male
+Sorceress,2809,none,Sorceress,none,none,none,none,female
+Scarecrow,2811,none,Scarecrow,none,none,none,none,male
+Glinda,2813,none,Glinda,none,none,none,none,female
+Button-Bright,2814,none,Button-Bright,none,none,none,none,male
+Bright,2814,none,Bright,none,none,none,none,male
+Cap'n Bill,2814,none,Cap'n,none,Bill,none,none,male
+Scarecrow,2815,none,Scarecrow,none,none,none,none,male
+Button-Bright,2816,none,Button-Bright,none,none,none,none,male
+Bright,2816,none,Bright,none,none,none,none,male
+Glinda,2818,none,Glinda,none,none,none,none,female
+Scarecrow,2819,none,Scarecrow,none,none,none,none,male
+Sorceress,2822,none,Sorceress,none,none,none,none,female
+Scarecrow,2823,none,Scarecrow,none,none,none,none,male
+Scarecrow,2826,none,Scarecrow,none,none,none,none,male
+Glinda,2827,none,Glinda,none,none,none,none,female
+Scarecrow,2828,none,Scarecrow,none,none,none,none,male
+Scarecrow,2830,none,Scarecrow,none,none,none,none,male
+Scarecrow,2832,none,Scarecrow,none,none,none,none,male
+Scarecrow,2834,none,Scarecrow,none,none,none,none,male
+Pon,2839,none,Pon,none,none,none,none,male
+Button-Bright,2839,none,Button-Bright,none,none,none,none,male
+Bright,2839,none,Bright,none,none,none,none,male
+Button-Bright,2845,none,Button-Bright,none,none,none,none,male
+Bright,2845,none,Bright,none,none,none,none,male
+Pon,2845,none,Pon,none,none,none,none,male
+Button-Bright,2849,none,Button-Bright,none,none,none,none,male
+Bright,2849,none,Bright,none,none,none,none,male
+Pon,2851,none,Pon,none,none,none,none,male
+Pon,2852,none,Pon,none,none,none,none,male
+Gloria,2852,none,Gloria,none,none,none,none,female
+Krewl,2854,none,Krewl,none,none,none,none,male
+Trot,2855,none,Trot,none,none,none,none,female
+Wicked Witch,2856,none,Wicked,none,Witch,none,none,female
+Pon,2856,none,Pon,none,none,none,none,male
+Gloria,2857,none,Gloria,none,none,none,none,female
+Blinkie,2861,none,Blinkie,none,none,none,none,female
+Gloria,2863,none,Gloria,none,none,none,none,female
+Pon,2863,none,Pon,none,none,none,none,male
+Blinkie,2864,none,Blinkie,none,none,none,none,female
+Gloria,2865,none,Gloria,none,none,none,none,female
+Blinkie,2866,none,Blinkie,none,none,none,none,female
+Gloria,2867,none,Gloria,none,none,none,none,female
+Pon,2868,none,Pon,none,none,none,none,male
+Gloria,2868,none,Gloria,none,none,none,none,female
+Trot,2869,none,Trot,none,none,none,none,female
+Pon,2869,none,Pon,none,none,none,none,male
+Gloria,2873,none,Gloria,none,none,none,none,female
+Trot,2874,none,Trot,none,none,none,none,female
+Pon,2877,none,Pon,none,none,none,none,male
+Trot,2877,none,Trot,none,none,none,none,female
+Gloria,2878,none,Gloria,none,none,none,none,female
+Wicked Witch,2878,none,Wicked,none,Witch,none,none,female
+Goo,2878,none,Goo,none,none,none,none,male
+Krewl,2884,none,Krewl,none,none,none,none,male
+Trot,2884,none,Trot,none,none,none,none,female
+Pon,2884,none,Pon,none,none,none,none,male
+Gloria,2885,none,Gloria,none,none,none,none,female
+Blinkie,2885,none,Blinkie,none,none,none,none,female
+Trot,2886,none,Trot,none,none,none,none,female
+Pon,2886,none,Pon,none,none,none,none,male
+Blinkie,2886,none,Blinkie,none,none,none,none,female
+Blinkie,2888,none,Blinkie,none,none,none,none,female
+Blinkie,2890,none,Blinkie,none,none,none,none,female
+Gloria,2890,none,Gloria,none,none,none,none,female
+Trot,2895,none,Trot,none,none,none,none,female
+Blinkie,2896,none,Blinkie,none,none,none,none,female
+Wicked Witch,2898,none,Wicked,none,Witch,none,none,female
+Blinkie,2901,none,Blinkie,none,none,none,none,female
+Gloria,2902,none,Gloria,none,none,none,none,female
+Gloria,2904,none,Gloria,none,none,none,none,female
+Gloria,2909,none,Gloria,none,none,none,none,female
+Blinkie,2910,none,Blinkie,none,none,none,none,female
+Blinkie,2911,none,Blinkie,none,none,none,none,female
+Trot,2912,none,Trot,none,none,none,none,female
+Gloria,2913,none,Gloria,none,none,none,none,female
+Trot,2916,none,Trot,none,none,none,none,female
+Pon,2916,none,Pon,none,none,none,none,male
+Gloria,2917,none,Gloria,none,none,none,none,female
+Pon,2919,none,Pon,none,none,none,none,male
+Trot,2919,none,Trot,none,none,none,none,female
+Blinkie,2921,none,Blinkie,none,none,none,none,female
+Wicked Witch,2922,none,Wicked,none,Witch,none,none,female
+Blinkie,2923,none,Blinkie,none,none,none,none,female
+Pon,2923,none,Pon,none,none,none,none,male
+Trot,2923,none,Trot,none,none,none,none,female
+Pon,2924,none,Pon,none,none,none,none,male
+Trot,2924,none,Trot,none,none,none,none,female
+Pon,2926,none,Pon,none,none,none,none,male
+Gloria,2927,none,Gloria,none,none,none,none,female
+Pon,2928,none,Pon,none,none,none,none,male
+Gloria,2929,none,Gloria,none,none,none,none,female
+Trot,2932,none,Trot,none,none,none,none,female
+Gloria,2933,none,Gloria,none,none,none,none,female
+Pon,2934,none,Pon,none,none,none,none,male
+Blinkie,2935,none,Blinkie,none,none,none,none,female
+Wicked Witch,2936,none,Wicked,none,Witch,none,none,female
+Pon,2937,none,Pon,none,none,none,none,male
+Trot,2937,none,Trot,none,none,none,none,female
+Gloria,2937,none,Gloria,none,none,none,none,female
+Pon,2939,none,Pon,none,none,none,none,male
+Gloria,2940,none,Gloria,none,none,none,none,female
+Trot,2943,none,Trot,none,none,none,none,female
+Pon,2943,none,Pon,none,none,none,none,male
+Gloria,2943,none,Gloria,none,none,none,none,female
+Gloria,2946,none,Gloria,none,none,none,none,female
+Trot,2947,none,Trot,none,none,none,none,female
+Gloria,2948,none,Gloria,none,none,none,none,female
+Gloria,2952,none,Gloria,none,none,none,none,female
+Trot,2954,none,Trot,none,none,none,none,female
+Pon,2955,none,Pon,none,none,none,none,male
+Trot,2957,none,Trot,none,none,none,none,female
+Gloria,2958,none,Gloria,none,none,none,none,female
+Pon,2959,none,Pon,none,none,none,none,male
+Trot,2960,none,Trot,none,none,none,none,female
+Button-Bright,2962,none,Button-Bright,none,none,none,none,male
+Bright,2962,none,Bright,none,none,none,none,male
+Pon,2963,none,Pon,none,none,none,none,male
+Gloria,2964,none,Gloria,none,none,none,none,female
+Trot,2965,none,Trot,none,none,none,none,female
+Pon,2965,none,Pon,none,none,none,none,male
+Googly-Goo,2968,none,Googly-Goo,none,none,none,none,male
+Goo,2968,none,Goo,none,none,none,none,male
+Googly-Goo,2973,none,Googly-Goo,none,none,none,none,male
+Goo,2973,none,Goo,none,none,none,none,male
+Pon,2978,none,Pon,none,none,none,none,male
+Goo,2979,none,Goo,none,none,none,none,male
+Gloria,2980,none,Gloria,none,none,none,none,female
+Goo,2984,none,Goo,none,none,none,none,male
+Blinkie,2987,none,Blinkie,none,none,none,none,female
+Googly-Goo,2987,none,Googly-Goo,none,none,none,none,male
+Goo,2987,none,Goo,none,none,none,none,male
+Pon,2989,none,Pon,none,none,none,none,male
+Cap'n Bill,2989,none,Cap'n,none,Bill,none,none,male
+Button-Bright,2989,none,Button-Bright,none,none,none,none,male
+Bright,2989,none,Bright,none,none,none,none,male
+Pon,2991,none,Pon,none,none,none,none,male
+Pon,2993,none,Pon,none,none,none,none,male
+Scarecrow,2996,none,Scarecrow,none,none,none,none,male
+Pon,2996,none,Pon,none,none,none,none,male
+Trot,2996,none,Trot,none,none,none,none,female
+Pon,2997,none,Pon,none,none,none,none,male
+Trot,2999,none,Trot,none,none,none,none,female
+Scarecrow,3000,none,Scarecrow,none,none,none,none,male
+Pon,3001,none,Pon,none,none,none,none,male
+Jinxland,3003,none,Jinxland,none,none,none,none,female
+Cap'n Bill,3003,none,Cap'n,none,Bill,none,none,male
+Button-Bright,3003,none,Button-Bright,none,none,none,none,male
+Bright,3003,none,Bright,none,none,none,none,male
+Scarecrow,3005,none,Scarecrow,none,none,none,none,male
+Trot,3008,none,Trot,none,none,none,none,female
+Scarecrow,3008,none,Scarecrow,none,none,none,none,male
+Pon,3011,none,Pon,none,none,none,none,male
+Pon,3014,none,Pon,none,none,none,none,male
+Scarecrow,3015,none,Scarecrow,none,none,none,none,male
+Scarecrow,3016,none,Scarecrow,none,none,none,none,male
+Trot,3016,none,Trot,none,none,none,none,female
+Pon,3017,none,Pon,none,none,none,none,male
+Oz,3017,none,Oz,none,none,none,none,male
+Scarecrow,3018,none,Scarecrow,none,none,none,none,male
+Cap'n Bill,3018,none,Cap'n,none,Bill,none,none,male
+Trot,3021,none,Trot,none,none,none,none,female
+Pon,3021,none,Pon,none,none,none,none,male
+Blinkie,3023,none,Blinkie,none,none,none,none,female
+Wicked Witch,3023,none,Wicked,none,Witch,none,none,female
+Pon,3024,none,Pon,none,none,none,none,male
+Trot,3024,none,Trot,none,none,none,none,female
+Scarecrow,3025,none,Scarecrow,none,none,none,none,male
+Blinkie,3026,none,Blinkie,none,none,none,none,female
+Scarecrow,3027,none,Scarecrow,none,none,none,none,male
+Scarecrow,3030,none,Scarecrow,none,none,none,none,male
+Blinkie,3031,none,Blinkie,none,none,none,none,female
+Pon,3032,none,Pon,none,none,none,none,male
+Trot,3032,none,Trot,none,none,none,none,female
+Scarecrow,3033,none,Scarecrow,none,none,none,none,male
+Scarecrow,3034,none,Scarecrow,none,none,none,none,male
+Scarecrow,3036,none,Scarecrow,none,none,none,none,male
+Scarecrow,3041,none,Scarecrow,none,none,none,none,male
+Pon,3041,none,Pon,none,none,none,none,male
+Trot,3041,none,Trot,none,none,none,none,female
+Trot,3043,none,Trot,none,none,none,none,female
+Pon,3043,none,Pon,none,none,none,none,male
+Scarecrow,3044,none,Scarecrow,none,none,none,none,male
+Gloria,3045,none,Gloria,none,none,none,none,female
+Scarecrow,3045,none,Scarecrow,none,none,none,none,male
+Scarecrow,3046,none,Scarecrow,none,none,none,none,male
+Pon,3046,none,Pon,none,none,none,none,male
+Bill,3048,none,Bill,none,none,none,none,male
+Gloria,3049,none,Gloria,none,none,none,none,female
+Pon,3049,none,Pon,none,none,none,none,male
+Wicked Witch,3049,none,Wicked,none,Witch,none,none,female
+Scarecrow,3050,none,Scarecrow,none,none,none,none,male
+Scarecrow,3054,none,Scarecrow,none,none,none,none,male
+Trot,3054,none,Trot,none,none,none,none,female
+Pon,3054,none,Pon,none,none,none,none,male
+Blinkie,3054,none,Blinkie,none,none,none,none,female
+Trot,3056,none,Trot,none,none,none,none,female
+Scarecrow,3056,none,Scarecrow,none,none,none,none,male
+Pon,3057,none,Pon,none,none,none,none,male
+Gloria,3057,none,Gloria,none,none,none,none,female
+Scarecrow,3058,none,Scarecrow,none,none,none,none,male
+Scarecrow,3059,none,Scarecrow,none,none,none,none,male
+Cap'n Bill,3062,none,Cap'n,none,Bill,none,none,male
+Wicked Witch,3063,none,Wicked,none,Witch,none,none,female
+Trot,3064,none,Trot,none,none,none,none,female
+Cap'n Bill,3066,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,3073,none,Cap'n,none,Bill,none,none,male
+Scarecrow,3074,none,Scarecrow,none,none,none,none,male
+Glinda,3075,none,Glinda,none,none,none,none,female
+Glinda,3076,none,Glinda,none,none,none,none,female
+Cap'n Bill,3076,none,Cap'n,none,Bill,none,none,male
+Scarecrow,3077,none,Scarecrow,none,none,none,none,male
+Glinda,3077,none,Glinda,none,none,none,none,female
+Royal Sorceress,3078,Royal,none,none,Sorceress,none,none,male
+Wicked Witch,3078,none,Wicked,none,Witch,none,none,female
+Pon Summons,3079,none,Pon,none,Summons,none,none,male
+Gloria,3079,none,Gloria,none,none,none,none,female
+Scarecrow,3081,none,Scarecrow,none,none,none,none,male
+Glinda,3081,none,Glinda,none,none,none,none,female
+Button-Bright,3082,none,Button-Bright,none,none,none,none,male
+Bright,3082,none,Bright,none,none,none,none,male
+Gloria,3083,none,Gloria,none,none,none,none,female
+Trot,3083,none,Trot,none,none,none,none,female
+Scarecrow,3084,none,Scarecrow,none,none,none,none,male
+Krewl,3084,none,Krewl,none,none,none,none,male
+Pon,3085,none,Pon,none,none,none,none,male
+I--,3086,none,I--,none,none,none,none,male
+Scarecrow,3086,none,Scarecrow,none,none,none,none,male
+Gloria,3087,none,Gloria,none,none,none,none,female
+Jinxland,3087,none,Jinxland,none,none,none,none,female
+Krewl,3089,none,Krewl,none,none,none,none,male
+Scarecrow,3091,none,Scarecrow,none,none,none,none,male
+Trot,3093,none,Trot,none,none,none,none,female
+Trot,3097,none,Trot,none,none,none,none,female
+Trot,3100,none,Trot,none,none,none,none,female
+Trot,3100,none,Trot,none,none,none,none,female
+Pon,3101,none,Pon,none,none,none,none,male
+Gloria,3101,none,Gloria,none,none,none,none,female
+Scarecrow,3102,none,Scarecrow,none,none,none,none,male
+Trot,3103,none,Trot,none,none,none,none,female
+Krewl,3106,none,Krewl,none,none,none,none,male
+Gloria,3106,none,Gloria,none,none,none,none,female
+Jinxland,3106,none,Jinxland,none,none,none,none,female
+Scarecrow,3108,none,Scarecrow,none,none,none,none,male
+Krewl,3110,none,Krewl,none,none,none,none,male
+Pon,3112,none,Pon,none,none,none,none,male
+Scarecrow,3113,none,Scarecrow,none,none,none,none,male
+Pon,3115,none,Pon,none,none,none,none,male
+Pon,3116,none,Pon,none,none,none,none,male
+Scarecrow,3118,none,Scarecrow,none,none,none,none,male
+Pon,3119,none,Pon,none,none,none,none,male
+Pon,3120,none,Pon,none,none,none,none,male
+Scarecrow,3120,none,Scarecrow,none,none,none,none,male
+Krewl,3121,none,Krewl,none,none,none,none,male
+Pon,3121,none,Pon,none,none,none,none,male
+Pon,3124,none,Pon,none,none,none,none,male
+Pon,3125,none,Pon,none,none,none,none,male
+Gloria,3125,none,Gloria,none,none,none,none,female
+Googly-Goo,3125,none,Googly-Goo,none,none,none,none,male
+Goo,3125,none,Goo,none,none,none,none,male
+Gloria,3126,none,Gloria,none,none,none,none,female
+Pon,3127,none,Pon,none,none,none,none,male
+Pon,3130,none,Pon,none,none,none,none,male
+Pon,3134,none,Pon,none,none,none,none,male
+Scarecrow,3135,none,Scarecrow,none,none,none,none,male
+Krewl,3136,none,Krewl,none,none,none,none,male
+Pon,3137,none,Pon,none,none,none,none,male
+Pon,3138,none,Pon,none,none,none,none,male
+Scarecrow,3140,none,Scarecrow,none,none,none,none,male
+Pon,3141,none,Pon,none,none,none,none,male
+Pon,3142,none,Pon,none,none,none,none,male
+Gloria,3142,none,Gloria,none,none,none,none,female
+Scarecrow,3143,none,Scarecrow,none,none,none,none,male
+Trot,3146,none,Trot,none,none,none,none,female
+Krewl,3149,none,Krewl,none,none,none,none,male
+Trot,3150,none,Trot,none,none,none,none,female
+Pon,3153,none,Pon,none,none,none,none,male
+Scarecrow,3154,none,Scarecrow,none,none,none,none,male
+Pon,3158,none,Pon,none,none,none,none,male
+Scarecrow,3158,none,Scarecrow,none,none,none,none,male
+Button-Bright,3159,none,Button-Bright,none,none,none,none,male
+Bright,3159,none,Bright,none,none,none,none,male
+Scarecrow,3160,none,Scarecrow,none,none,none,none,male
+Button-Bright,3163,none,Button-Bright,none,none,none,none,male
+Bright,3163,none,Bright,none,none,none,none,male
+Trot,3164,none,Trot,none,none,none,none,female
+Cap'n Bill,3164,none,Cap'n,none,Bill,none,none,male
+Button-Bright,3169,none,Button-Bright,none,none,none,none,male
+Bright,3169,none,Bright,none,none,none,none,male
+Button-Bright,3174,none,Button-Bright,none,none,none,none,male
+Bright,3174,none,Bright,none,none,none,none,male
+Fussy,3174,none,Fussy,none,none,none,none,male
+Pon,3176,none,Pon,none,none,none,none,male
+Pon,3178,none,Pon,none,none,none,none,male
+Ork,3179,none,Ork,none,none,none,none,male
+Button-Bright,3180,none,Button-Bright,none,none,none,none,male
+Bright,3180,none,Bright,none,none,none,none,male
+Cap'n Bill,3188,none,Cap'n,none,Bill,none,none,male
+Button-Bright,3188,none,Button-Bright,none,none,none,none,male
+Bright,3188,none,Bright,none,none,none,none,male
+Ork,3188,none,Ork,none,none,none,none,male
+Trot,3188,none,Trot,none,none,none,none,female
+Cap'n Bill,3188,none,Cap'n,none,Bill,none,none,male
+Pon,3188,none,Pon,none,none,none,none,male
+Gloria,3188,none,Gloria,none,none,none,none,female
+Trot,3188,none,Trot,none,none,none,none,female
+Button-Bright,3188,none,Button-Bright,none,none,none,none,male
+Bright,3188,none,Bright,none,none,none,none,male
+Ork,3189,none,Ork,none,none,none,none,male
+Button-Bright,3191,none,Button-Bright,none,none,none,none,male
+Bright,3191,none,Bright,none,none,none,none,male
+Ork,3193,none,Ork,none,none,none,none,male
+Button-Bright,3198,none,Button-Bright,none,none,none,none,male
+Bright,3198,none,Bright,none,none,none,none,male
+Ork,3199,none,Ork,none,none,none,none,male
+Ork,3201,none,Ork,none,none,none,none,male
+Button-Bright,3202,none,Button-Bright,none,none,none,none,male
+Bright,3202,none,Bright,none,none,none,none,male
+Pon,3202,none,Pon,none,none,none,none,male
+Trot,3202,none,Trot,none,none,none,none,female
+Gloria,3203,none,Gloria,none,none,none,none,female
+Ork,3203,none,Ork,none,none,none,none,male
+Cap'n Bill,3203,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,3205,none,Cap'n,none,Bill,none,none,male
+Trot,3205,none,Trot,none,none,none,none,female
+Ork,3208,none,Ork,none,none,none,none,male
+Cap'n Bill,3209,none,Cap'n,none,Bill,none,none,male
+Ork,3211,none,Ork,none,none,none,none,male
+Wicked Witch,3211,none,Wicked,none,Witch,none,none,female
+Cap'n Bill,3212,none,Cap'n,none,Bill,none,none,male
+Ork,3213,none,Ork,none,none,none,none,male
+Button-Bright,3213,none,Button-Bright,none,none,none,none,male
+Bright,3213,none,Bright,none,none,none,none,male
+Gloria,3213,none,Gloria,none,none,none,none,female
+Scarecrow,3213,none,Scarecrow,none,none,none,none,male
+Ork,3214,none,Ork,none,none,none,none,male
+Scarecrow,3214,none,Scarecrow,none,none,none,none,male
+Krewl,3214,none,Krewl,none,none,none,none,male
+Scarecrow,3215,none,Scarecrow,none,none,none,none,male
+Trot,3217,none,Trot,none,none,none,none,female
+Button-Bright,3222,none,Button-Bright,none,none,none,none,male
+Bright,3222,none,Bright,none,none,none,none,male
+Ork,3222,none,Ork,none,none,none,none,male
+Ork,3224,none,Ork,none,none,none,none,male
+Button-Bright,3225,none,Button-Bright,none,none,none,none,male
+Bright,3225,none,Bright,none,none,none,none,male
+Ork,3225,none,Ork,none,none,none,none,male
+Scarecrow,3226,none,Scarecrow,none,none,none,none,male
+Scarecrow,3226,none,Scarecrow,none,none,none,none,male
+Krewl,3226,none,Krewl,none,none,none,none,male
+Gloria,3227,none,Gloria,none,none,none,none,female
+Jinxland,3227,none,Jinxland,none,none,none,none,female
+Ozma,3235,none,Ozma,none,none,none,none,female
+Krewl,3236,none,Krewl,none,none,none,none,male
+Scarecrow,3236,none,Scarecrow,none,none,none,none,male
+Scarecrow,3239,none,Scarecrow,none,none,none,none,male
+Scarecrow,3240,none,Scarecrow,none,none,none,none,male
+Gloria,3242,none,Gloria,none,none,none,none,female
+Krewl,3244,none,Krewl,none,none,none,none,male
+Scarecrow,3244,none,Scarecrow,none,none,none,none,male
+Pon,3245,none,Pon,none,none,none,none,male
+Scarecrow,3246,none,Scarecrow,none,none,none,none,male
+Goo,3247,none,Goo,none,none,none,none,male
+Scarecrow,3247,none,Scarecrow,none,none,none,none,male
+Scarecrow,3249,none,Scarecrow,none,none,none,none,male
+Googly-Goo,3252,none,Googly-Goo,none,none,none,none,male
+Goo,3252,none,Goo,none,none,none,none,male
+Scarecrow,3254,none,Scarecrow,none,none,none,none,male
+Googly-Goo,3255,none,Googly-Goo,none,none,none,none,male
+Goo,3255,none,Goo,none,none,none,none,male
+Scarecrow,3261,none,Scarecrow,none,none,none,none,male
+Scarecrow,3263,none,Scarecrow,none,none,none,none,male
+Dorothy,3266,none,Dorothy,none,none,none,none,female
+Royal Ozma,3266,Royal,none,none,Ozma,none,none,male
+Scarecrow,3266,none,Scarecrow,none,none,none,none,male
+Scarecrow,3270,none,Scarecrow,none,none,none,none,male
+Googly-Goo,3271,none,Googly-Goo,none,none,none,none,male
+Goo,3271,none,Goo,none,none,none,none,male
+Scarecrow,3272,none,Scarecrow,none,none,none,none,male
+Scarecrow,3275,none,Scarecrow,none,none,none,none,male
+Krewl,3277,none,Krewl,none,none,none,none,male
+Ork,3277,none,Ork,none,none,none,none,male
+Goo,3278,none,Goo,none,none,none,none,male
+Scarecrow,3280,none,Scarecrow,none,none,none,none,male
+Krewl,3280,none,Krewl,none,none,none,none,male
+Ork,3281,none,Ork,none,none,none,none,male
+Scarecrow,3281,none,Scarecrow,none,none,none,none,male
+Ork,3284,none,Ork,none,none,none,none,male
+Krewl,3284,none,Krewl,none,none,none,none,male
+Scarecrow,3284,none,Scarecrow,none,none,none,none,male
+Scarecrow,3285,none,Scarecrow,none,none,none,none,male
+Krewl,3287,none,Krewl,none,none,none,none,male
+Scarecrow,3287,none,Scarecrow,none,none,none,none,male
+Goo,3288,none,Goo,none,none,none,none,male
+Krewl,3289,none,Krewl,none,none,none,none,male
+Scarecrow,3290,none,Scarecrow,none,none,none,none,male
+Ork,3290,none,Ork,none,none,none,none,male
+Pon,3291,none,Pon,none,none,none,none,male
+Gardener,3291,none,Gardener,none,none,none,none,male
+Button-Bright,3291,none,Button-Bright,none,none,none,none,male
+Bright,3291,none,Bright,none,none,none,none,male
+Button-Bright,3294,none,Button-Bright,none,none,none,none,male
+Bright,3294,none,Bright,none,none,none,none,male
+Trot,3300,none,Trot,none,none,none,none,female
+Cap'n Bill,3300,none,Cap'n,none,Bill,none,none,male
+Pon,3305,none,Pon,none,none,none,none,male
+Trot,3307,none,Trot,none,none,none,none,female
+Gloria,3309,none,Gloria,none,none,none,none,female
+Button-Bright,3311,none,Button-Bright,none,none,none,none,male
+Bright,3311,none,Bright,none,none,none,none,male
+Gloria,3312,none,Gloria,none,none,none,none,female
+Cap'n Bill,3312,none,Cap'n,none,Bill,none,none,male
+Krewl,3313,none,Krewl,none,none,none,none,male
+Gloria,3316,none,Gloria,none,none,none,none,female
+Trot,3324,none,Trot,none,none,none,none,female
+Pon,3325,none,Pon,none,none,none,none,male
+Gloria,3326,none,Gloria,none,none,none,none,female
+Googly-Goo,3327,none,Googly-Goo,none,none,none,none,male
+Goo,3327,none,Goo,none,none,none,none,male
+Gloria,3327,none,Gloria,none,none,none,none,female
+Googly-Goo,3328,none,Googly-Goo,none,none,none,none,male
+Goo,3328,none,Goo,none,none,none,none,male
+King Krewl,3329,King,Krewl,none,none,none,none,male
+Gloria,3330,none,Gloria,none,none,none,none,female
+Pon,3333,none,Pon,none,none,none,none,male
+Cap'n Bill,3334,none,Cap'n,none,Bill,none,none,male
+Pon,3334,none,Pon,none,none,none,none,male
+Button-Bright,3337,none,Button-Bright,none,none,none,none,male
+Bright,3337,none,Bright,none,none,none,none,male
+Pon,3339,none,Pon,none,none,none,none,male
+Krewl,3340,none,Krewl,none,none,none,none,male
+Cap'n Bill,3342,none,Cap'n,none,Bill,none,none,male
+Krewl,3343,none,Krewl,none,none,none,none,male
+King Phearse,3344,King,Phearse,none,none,none,none,male
+Krewl,3344,none,Krewl,none,none,none,none,male
+Krewl,3345,none,Krewl,none,none,none,none,male
+Krewl,3346,none,Krewl,none,none,none,none,male
+Krewl,3348,none,Krewl,none,none,none,none,male
+Krewl,3350,none,Krewl,none,none,none,none,male
+Phearse,3350,none,Phearse,none,none,none,none,male
+Trot,3351,none,Trot,none,none,none,none,female
+Pon,3352,none,Pon,none,none,none,none,male
+Gloria,3352,none,Gloria,none,none,none,none,female
+Pon,3353,none,Pon,none,none,none,none,male
+Kynd,3354,none,Kynd,none,none,none,none,male
+Gloria,3354,none,Gloria,none,none,none,none,female
+Kynd,3355,none,Kynd,none,none,none,none,male
+Kynd,3356,none,Kynd,none,none,none,none,male
+Trot,3357,none,Trot,none,none,none,none,female
+Gloria,3357,none,Gloria,none,none,none,none,female
+Pon,3358,none,Pon,none,none,none,none,male
+Krewl,3359,none,Krewl,none,none,none,none,male
+Cap'n Bill,3360,none,Cap'n,none,Bill,none,none,male
+Krewl,3361,none,Krewl,none,none,none,none,male
+Pon,3362,none,Pon,none,none,none,none,male
+Button-Bright,3363,none,Button-Bright,none,none,none,none,male
+Bright,3363,none,Bright,none,none,none,none,male
+Pon,3364,none,Pon,none,none,none,none,male
+Gloria,3366,none,Gloria,none,none,none,none,female
+Cap'n Bill,3367,none,Cap'n,none,Bill,none,none,male
+Goo,3369,none,Goo,none,none,none,none,male
+Bill,3372,none,Bill,none,none,none,none,male
+Krewl,3373,none,Krewl,none,none,none,none,male
+Cap'n,3374,none,Cap'n,none,none,none,none,female
+Bill,3375,none,Bill,none,none,none,none,male
+Trot,3381,none,Trot,none,none,none,none,female
+Cap'n Bill,3384,none,Cap'n,none,Bill,none,none,male
+Krewl,3394,none,Krewl,none,none,none,none,male
+Cap'n Bill,3394,none,Cap'n,none,Bill,none,none,male
+Jinxland,3394,none,Jinxland,none,none,none,none,female
+Sire,3396,none,Sire,none,none,none,none,female
+Cap'n,3401,none,Cap'n,none,none,none,none,female
+Bill,3402,none,Bill,none,none,none,none,male
+Cap'n Bill,3409,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,3411,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,3414,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,3418,none,Cap'n,none,Bill,none,none,male
+Krewl,3421,none,Krewl,none,none,none,none,male
+Trot,3421,none,Trot,none,none,none,none,female
+Googly-Goo,3428,none,Googly-Goo,none,none,none,none,male
+Goo,3428,none,Goo,none,none,none,none,male
+Goo,3429,none,Goo,none,none,none,none,male
+Cap'n Bill,3429,none,Cap'n,none,Bill,none,none,male
+Button-Bright,3429,none,Button-Bright,none,none,none,none,male
+Bright,3429,none,Bright,none,none,none,none,male
+Sire,3432,none,Sire,none,none,none,none,female
+Googly-Goo,3436,none,Googly-Goo,none,none,none,none,male
+Goo,3436,none,Goo,none,none,none,none,male
+Googly-Goo,3439,none,Googly-Goo,none,none,none,none,male
+Goo,3439,none,Goo,none,none,none,none,male
+Gloria,3440,none,Gloria,none,none,none,none,female
+Pon,3440,none,Pon,none,none,none,none,male
+Pon,3441,none,Pon,none,none,none,none,male
+Goo,3445,none,Goo,none,none,none,none,male
+Pon,3448,none,Pon,none,none,none,none,male
+Gloria,3449,none,Gloria,none,none,none,none,female
+Pon,3449,none,Pon,none,none,none,none,male
+Googly-Goo,3450,none,Googly-Goo,none,none,none,none,male
+Goo,3450,none,Goo,none,none,none,none,male
+Gloria,3451,none,Gloria,none,none,none,none,female
+Sire,3452,none,Sire,none,none,none,none,female
+Cap'n Bill,3454,none,Cap'n,none,Bill,none,none,male
+Trot,3454,none,Trot,none,none,none,none,female
+Button-Bright,3454,none,Button-Bright,none,none,none,none,male
+Bright,3454,none,Bright,none,none,none,none,male
+Googly-Goo,3455,none,Googly-Goo,none,none,none,none,male
+Goo,3455,none,Goo,none,none,none,none,male
+Trot,3455,none,Trot,none,none,none,none,female
+Cap'n Bill,3456,none,Cap'n,none,Bill,none,none,male
+Googly-Goo,3458,none,Googly-Goo,none,none,none,none,male
+Button-Bright,3459,none,Button-Bright,none,none,none,none,male
+Bright,3459,none,Bright,none,none,none,none,male
+Goo,3462,none,Goo,none,none,none,none,male
+Cap'n Bill,3462,none,Cap'n,none,Bill,none,none,male
+Bill,3467,none,Bill,none,none,none,none,male
+Trot,3467,none,Trot,none,none,none,none,female
+Button-Bright,3468,none,Button-Bright,none,none,none,none,male
+Bright,3468,none,Bright,none,none,none,none,male
+Googly-Goo,3470,none,Googly-Goo,none,none,none,none,male
+Goo,3470,none,Goo,none,none,none,none,male
+Gloria,3470,none,Gloria,none,none,none,none,female
+Googly-Goo,3472,none,Googly-Goo,none,none,none,none,male
+Goo,3472,none,Goo,none,none,none,none,male
+Wicked Witch,3479,none,Wicked,none,Witch,none,none,female
+Goo,3481,none,Goo,none,none,none,none,male
+Wicked Witch,3482,none,Wicked,none,Witch,none,none,female
+Gloria,3483,none,Gloria,none,none,none,none,female
+Gloria,3484,none,Gloria,none,none,none,none,female
+Googly-Goo,3485,none,Googly-Goo,none,none,none,none,male
+Goo,3485,none,Goo,none,none,none,none,male
+Pon,3486,none,Pon,none,none,none,none,male
+Pon,3487,none,Pon,none,none,none,none,male
+Gloria,3488,none,Gloria,none,none,none,none,female
+Googly-Goo,3488,none,Googly-Goo,none,none,none,none,male
+Goo,3488,none,Goo,none,none,none,none,male
+Googly-Goo,3493,none,Googly-Goo,none,none,none,none,male
+Goo,3493,none,Goo,none,none,none,none,male
+Wicked Witch,3494,none,Wicked,none,Witch,none,none,female
+Trot,3495,none,Trot,none,none,none,none,female
+Gloria,3495,none,Gloria,none,none,none,none,female
+Gloria,3496,none,Gloria,none,none,none,none,female
+Googly-Goo,3497,none,Googly-Goo,none,none,none,none,male
+Goo,3497,none,Goo,none,none,none,none,male
+Trot,3497,none,Trot,none,none,none,none,female
+Trot,3499,none,Trot,none,none,none,none,female
+Pon,3503,none,Pon,none,none,none,none,male
+Pon,3504,none,Pon,none,none,none,none,male
+Trot,3504,none,Trot,none,none,none,none,female
+Gloria,3506,none,Gloria,none,none,none,none,female
+Pon,3507,none,Pon,none,none,none,none,male
+Googly-Goo,3508,none,Googly-Goo,none,none,none,none,male
+Goo,3508,none,Goo,none,none,none,none,male
+Trot,3509,none,Trot,none,none,none,none,female
+Googly-Goo,3510,none,Googly-Goo,none,none,none,none,male
+Gloria,3513,none,Gloria,none,none,none,none,female
+Gloria,3516,none,Gloria,none,none,none,none,female
+Cap'n Bill,3517,none,Cap'n,none,Bill,none,none,male
+Ork,3517,none,Ork,none,none,none,none,male
+Pessim,3517,none,Pessim,none,none,none,none,male
+Googly-Goo,3518,none,Googly-Goo,none,none,none,none,male
+Goo,3518,none,Goo,none,none,none,none,male
+Jinxland,3520,none,Jinxland,none,none,none,none,female
+Blinkie,3520,none,Blinkie,none,none,none,none,female
+Krewl,3522,none,Krewl,none,none,none,none,male
+Blinkie,3523,none,Blinkie,none,none,none,none,female
+Blinkie,3524,none,Blinkie,none,none,none,none,female
+Googly-Goo,3525,none,Googly-Goo,none,none,none,none,male
+Goo,3525,none,Goo,none,none,none,none,male
+Gloria,3526,none,Gloria,none,none,none,none,female
+Wicked Witch,3527,none,Wicked,none,Witch,none,none,female
+Gloria,3534,none,Gloria,none,none,none,none,female
+Pon,3534,none,Pon,none,none,none,none,male
+Googly-Goo,3535,none,Googly-Goo,none,none,none,none,male
+Goo,3535,none,Goo,none,none,none,none,male
+King,3535,King,none,none,none,none,none,male
+Wicked Witch,3536,none,Wicked,none,Witch,none,none,female
+Gloria,3537,none,Gloria,none,none,none,none,female
+Blinkie,3537,none,Blinkie,none,none,none,none,female
+Krewl,3538,none,Krewl,none,none,none,none,male
+Googly-Goo,3543,none,Googly-Goo,none,none,none,none,male
+Goo,3543,none,Goo,none,none,none,none,male
+Blinkie,3543,none,Blinkie,none,none,none,none,female
+Cap'n Bill,3543,none,Cap'n,none,Bill,none,none,male
+Wicked Witch,3545,none,Wicked,none,Witch,none,none,female
+Cap'n Bill,3545,none,Cap'n,none,Bill,none,none,male
+Blinkie,3546,none,Blinkie,none,none,none,none,female
+King Krewl,3547,King,Krewl,none,none,none,none,male
+Gloria,3551,none,Gloria,none,none,none,none,female
+Wicked Witch,3552,none,Wicked,none,Witch,none,none,female
+Blinkie,3558,none,Blinkie,none,none,none,none,female
+Cap'n,3558,none,Cap'n,none,none,none,none,female
+Bill,3559,none,Bill,none,none,none,none,male
+Blinkie,3562,none,Blinkie,none,none,none,none,female
+Wicked Witch,3567,none,Wicked,none,Witch,none,none,female
+Trot,3573,none,Trot,none,none,none,none,female
+Gloria,3573,none,Gloria,none,none,none,none,female
+Button-Bright,3573,none,Button-Bright,none,none,none,none,male
+Bright,3573,none,Bright,none,none,none,none,male
+Bill,3575,none,Bill,none,none,none,none,male
+King,3575,King,none,none,none,none,none,male
+Trot,3578,none,Trot,none,none,none,none,female
+Button-Bright,3578,none,Button-Bright,none,none,none,none,male
+Bright,3578,none,Bright,none,none,none,none,male
+Cap'n Bill,3578,none,Cap'n,none,Bill,none,none,male
+Trot,3581,none,Trot,none,none,none,none,female
+Trot,3591,none,Trot,none,none,none,none,female
+Cap'n Bill,3591,none,Cap'n,none,Bill,none,none,male
+Button-Bright,3593,none,Button-Bright,none,none,none,none,male
+Bright,3593,none,Bright,none,none,none,none,male
+Trot,3594,none,Trot,none,none,none,none,female
+Cap'n,3597,none,Cap'n,none,none,none,none,female
+Bill,3598,none,Bill,none,none,none,none,male
+Button-Bright,3604,none,Button-Bright,none,none,none,none,male
+Bright,3604,none,Bright,none,none,none,none,male
+Cap'n Bill,3606,none,Cap'n,none,Bill,none,none,male
+Trot,3608,none,Trot,none,none,none,none,female
+Trot,3612,none,Trot,none,none,none,none,female
+Button-Bright,3613,none,Button-Bright,none,none,none,none,male
+Bright,3613,none,Bright,none,none,none,none,male
+Button-Bright,3615,none,Button-Bright,none,none,none,none,male
+Bright,3615,none,Bright,none,none,none,none,male
+Cap'n Bill,3619,none,Cap'n,none,Bill,none,none,male
+Pon,3620,none,Pon,none,none,none,none,male
+Trot,3621,none,Trot,none,none,none,none,female
+Pon,3621,none,Pon,none,none,none,none,male
+Cap'n Bill,3622,none,Cap'n,none,Bill,none,none,male
+Pon,3623,none,Pon,none,none,none,none,male
+Krewl,3624,none,Krewl,none,none,none,none,male
+Blinkie,3624,none,Blinkie,none,none,none,none,female
+Wicked Witch,3624,none,Wicked,none,Witch,none,none,female
+Googly-Goo,3625,none,Googly-Goo,none,none,none,none,male
+Goo,3625,none,Goo,none,none,none,none,male
+Gloria,3625,none,Gloria,none,none,none,none,female
+Cap'n Bill,3626,none,Cap'n,none,Bill,none,none,male
+Trot,3627,none,Trot,none,none,none,none,female
+Blinkie,3628,none,Blinkie,none,none,none,none,female
+Pon,3634,none,Pon,none,none,none,none,male
+Trot,3635,none,Trot,none,none,none,none,female
+Button-Bright,3635,none,Button-Bright,none,none,none,none,male
+Bright,3635,none,Bright,none,none,none,none,male
+Trot,3637,none,Trot,none,none,none,none,female
+Pon,3637,none,Pon,none,none,none,none,male
+Button-Bright,3638,none,Button-Bright,none,none,none,none,male
+Bright,3638,none,Bright,none,none,none,none,male
+Glinda the Good,3641,none,Glinda the Good,none,none,none,none,female
+Glinda,3641,none,Glinda,none,none,none,none,female
+Glinda,3642,none,Glinda,none,none,none,none,female
+Ozma,3643,none,Ozma,none,none,none,none,female
+Glinda,3644,none,Glinda,none,none,none,none,female
+Glinda,3644,none,Glinda,none,none,none,none,female
+Ozma,3644,none,Ozma,none,none,none,none,female
+Oz,3644,none,Oz,none,none,none,none,male
+Glinda,3649,none,Glinda,none,none,none,none,female
+Glinda,3651,none,Glinda,none,none,none,none,female
+Ozma,3652,none,Ozma,none,none,none,none,female
+Glinda,3653,none,Glinda,none,none,none,none,female
+Glinda,3654,none,Glinda,none,none,none,none,female
+Glinda,3656,none,Glinda,none,none,none,none,female
+Scarecrow,3656,none,Scarecrow,none,none,none,none,male
+Scarecrow,3659,none,Scarecrow,none,none,none,none,male
+Scarecrow,3660,none,Scarecrow,none,none,none,none,male
+Scarecrow,3660,none,Scarecrow,none,none,none,none,male
+Scarecrow,3662,none,Scarecrow,none,none,none,none,male
+Glinda,3662,none,Glinda,none,none,none,none,female
+Sorceress,3662,none,Sorceress,none,none,none,none,female
+Glinda,3664,none,Glinda,none,none,none,none,female
+Scarecrow,3667,none,Scarecrow,none,none,none,none,male
+Jinxland,3670,none,Jinxland,none,none,none,none,female
+Glinda,3671,none,Glinda,none,none,none,none,female
+Oz,3671,none,Oz,none,none,none,none,male
+Scarecrow,3672,none,Scarecrow,none,none,none,none,male
+King Krewl,3673,King,Krewl,none,none,none,none,male
+Scarecrow,3676,none,Scarecrow,none,none,none,none,male
+Blinkie,3678,none,Blinkie,none,none,none,none,female
+Jinxland,3678,none,Jinxland,none,none,none,none,female
+Gloria,3678,none,Gloria,none,none,none,none,female
+Scarecrow,3679,none,Scarecrow,none,none,none,none,male
+Glinda,3680,none,Glinda,none,none,none,none,female
+Trot,3681,none,Trot,none,none,none,none,female
+Button-Bright,3681,none,Button-Bright,none,none,none,none,male
+Bright,3681,none,Bright,none,none,none,none,male
+Pon,3681,none,Pon,none,none,none,none,male
+Sorceress,3682,none,Sorceress,none,none,none,none,female
+Scarecrow,3684,none,Scarecrow,none,none,none,none,male
+Glinda,3686,none,Glinda,none,none,none,none,female
+Button-Bright,3687,none,Button-Bright,none,none,none,none,male
+Bright,3687,none,Bright,none,none,none,none,male
+Cap'n Bill,3687,none,Cap'n,none,Bill,none,none,male
+Scarecrow,3688,none,Scarecrow,none,none,none,none,male
+Button-Bright,3689,none,Button-Bright,none,none,none,none,male
+Bright,3689,none,Bright,none,none,none,none,male
+Glinda,3691,none,Glinda,none,none,none,none,female
+Scarecrow,3692,none,Scarecrow,none,none,none,none,male
+Sorceress,3695,none,Sorceress,none,none,none,none,female
+Scarecrow,3696,none,Scarecrow,none,none,none,none,male
+Scarecrow,3699,none,Scarecrow,none,none,none,none,male
+Glinda,3700,none,Glinda,none,none,none,none,female
+Scarecrow,3701,none,Scarecrow,none,none,none,none,male
+Scarecrow,3703,none,Scarecrow,none,none,none,none,male
+Scarecrow,3705,none,Scarecrow,none,none,none,none,male
+Scarecrow,3707,none,Scarecrow,none,none,none,none,male
+Pon,3711,none,Pon,none,none,none,none,male
+Button-Bright,3711,none,Button-Bright,none,none,none,none,male
+Bright,3711,none,Bright,none,none,none,none,male
+Button-Bright,3717,none,Button-Bright,none,none,none,none,male
+Bright,3717,none,Bright,none,none,none,none,male
+Pon,3717,none,Pon,none,none,none,none,male
+Button-Bright,3721,none,Button-Bright,none,none,none,none,male
+Bright,3721,none,Bright,none,none,none,none,male
+Pon,3723,none,Pon,none,none,none,none,male
+Pon,3724,none,Pon,none,none,none,none,male
+Gloria,3724,none,Gloria,none,none,none,none,female
+Krewl,3726,none,Krewl,none,none,none,none,male
+Trot,3727,none,Trot,none,none,none,none,female
+Wicked Witch,3728,none,Wicked,none,Witch,none,none,female
+Pon,3728,none,Pon,none,none,none,none,male
+Gloria,3729,none,Gloria,none,none,none,none,female
+Blinkie,3733,none,Blinkie,none,none,none,none,female
+Gloria,3735,none,Gloria,none,none,none,none,female
+Pon,3735,none,Pon,none,none,none,none,male
+Blinkie,3736,none,Blinkie,none,none,none,none,female
+Gloria,3737,none,Gloria,none,none,none,none,female
+Blinkie,3738,none,Blinkie,none,none,none,none,female
+Gloria,3739,none,Gloria,none,none,none,none,female
+Pon,3740,none,Pon,none,none,none,none,male
+Gloria,3740,none,Gloria,none,none,none,none,female
+Trot,3741,none,Trot,none,none,none,none,female
+Pon,3741,none,Pon,none,none,none,none,male
+Gloria,3745,none,Gloria,none,none,none,none,female
+Trot,3746,none,Trot,none,none,none,none,female
+Pon,3749,none,Pon,none,none,none,none,male
+Trot,3749,none,Trot,none,none,none,none,female
+Gloria,3750,none,Gloria,none,none,none,none,female
+Wicked Witch,3750,none,Wicked,none,Witch,none,none,female
+Goo,3750,none,Goo,none,none,none,none,male
+Krewl,3756,none,Krewl,none,none,none,none,male
+Trot,3756,none,Trot,none,none,none,none,female
+Pon,3756,none,Pon,none,none,none,none,male
+Gloria,3757,none,Gloria,none,none,none,none,female
+Blinkie,3757,none,Blinkie,none,none,none,none,female
+Trot,3758,none,Trot,none,none,none,none,female
+Pon,3758,none,Pon,none,none,none,none,male
+Blinkie,3758,none,Blinkie,none,none,none,none,female
+Blinkie,3760,none,Blinkie,none,none,none,none,female
+Blinkie,3762,none,Blinkie,none,none,none,none,female
+Gloria,3762,none,Gloria,none,none,none,none,female
+Trot,3767,none,Trot,none,none,none,none,female
+Blinkie,3768,none,Blinkie,none,none,none,none,female
+Wicked Witch,3770,none,Wicked,none,Witch,none,none,female
+Blinkie,3773,none,Blinkie,none,none,none,none,female
+Gloria,3774,none,Gloria,none,none,none,none,female
+Gloria,3776,none,Gloria,none,none,none,none,female
+Gloria,3781,none,Gloria,none,none,none,none,female
+Blinkie,3782,none,Blinkie,none,none,none,none,female
+Blinkie,3783,none,Blinkie,none,none,none,none,female
+Trot,3784,none,Trot,none,none,none,none,female
+Gloria,3785,none,Gloria,none,none,none,none,female
+Trot,3788,none,Trot,none,none,none,none,female
+Pon,3788,none,Pon,none,none,none,none,male
+Gloria,3789,none,Gloria,none,none,none,none,female
+Pon,3791,none,Pon,none,none,none,none,male
+Trot,3791,none,Trot,none,none,none,none,female
+Blinkie,3793,none,Blinkie,none,none,none,none,female
+Wicked Witch,3794,none,Wicked,none,Witch,none,none,female
+Blinkie,3795,none,Blinkie,none,none,none,none,female
+Pon,3795,none,Pon,none,none,none,none,male
+Trot,3795,none,Trot,none,none,none,none,female
+Pon,3796,none,Pon,none,none,none,none,male
+Trot,3796,none,Trot,none,none,none,none,female
+Pon,3798,none,Pon,none,none,none,none,male
+Gloria,3799,none,Gloria,none,none,none,none,female
+Pon,3800,none,Pon,none,none,none,none,male
+Gloria,3801,none,Gloria,none,none,none,none,female
+Trot,3804,none,Trot,none,none,none,none,female
+Gloria,3805,none,Gloria,none,none,none,none,female
+Pon,3806,none,Pon,none,none,none,none,male
+Blinkie,3807,none,Blinkie,none,none,none,none,female
+Wicked Witch,3808,none,Wicked,none,Witch,none,none,female
+Pon,3809,none,Pon,none,none,none,none,male
+Trot,3809,none,Trot,none,none,none,none,female
+Gloria,3809,none,Gloria,none,none,none,none,female
+Pon,3811,none,Pon,none,none,none,none,male
+Gloria,3812,none,Gloria,none,none,none,none,female
+Trot,3815,none,Trot,none,none,none,none,female
+Pon,3815,none,Pon,none,none,none,none,male
+Gloria,3815,none,Gloria,none,none,none,none,female
+Gloria,3818,none,Gloria,none,none,none,none,female
+Trot,3819,none,Trot,none,none,none,none,female
+Gloria,3820,none,Gloria,none,none,none,none,female
+Gloria,3824,none,Gloria,none,none,none,none,female
+Trot,3826,none,Trot,none,none,none,none,female
+Pon,3827,none,Pon,none,none,none,none,male
+Trot,3829,none,Trot,none,none,none,none,female
+Gloria,3830,none,Gloria,none,none,none,none,female
+Pon,3831,none,Pon,none,none,none,none,male
+Trot,3832,none,Trot,none,none,none,none,female
+Button-Bright,3834,none,Button-Bright,none,none,none,none,male
+Bright,3834,none,Bright,none,none,none,none,male
+Pon,3835,none,Pon,none,none,none,none,male
+Gloria,3836,none,Gloria,none,none,none,none,female
+Trot,3837,none,Trot,none,none,none,none,female
+Pon,3837,none,Pon,none,none,none,none,male
+Googly-Goo,3840,none,Googly-Goo,none,none,none,none,male
+Goo,3840,none,Goo,none,none,none,none,male
+Googly-Goo,3845,none,Googly-Goo,none,none,none,none,male
+Goo,3845,none,Goo,none,none,none,none,male
+Pon,3850,none,Pon,none,none,none,none,male
+Goo,3851,none,Goo,none,none,none,none,male
+Gloria,3852,none,Gloria,none,none,none,none,female
+Goo,3856,none,Goo,none,none,none,none,male
+Blinkie,3859,none,Blinkie,none,none,none,none,female
+Googly-Goo,3859,none,Googly-Goo,none,none,none,none,male
+Goo,3859,none,Goo,none,none,none,none,male
+Pon,3860,none,Pon,none,none,none,none,male
+Cap'n Bill,3860,none,Cap'n,none,Bill,none,none,male
+Button-Bright,3860,none,Button-Bright,none,none,none,none,male
+Bright,3860,none,Bright,none,none,none,none,male
+Pon,3862,none,Pon,none,none,none,none,male
+Pon,3864,none,Pon,none,none,none,none,male
+Scarecrow,3867,none,Scarecrow,none,none,none,none,male
+Pon,3867,none,Pon,none,none,none,none,male
+Trot,3867,none,Trot,none,none,none,none,female
+Pon,3868,none,Pon,none,none,none,none,male
+Trot,3870,none,Trot,none,none,none,none,female
+Scarecrow,3871,none,Scarecrow,none,none,none,none,male
+Pon,3872,none,Pon,none,none,none,none,male
+Jinxland,3874,none,Jinxland,none,none,none,none,female
+Cap'n Bill,3874,none,Cap'n,none,Bill,none,none,male
+Button-Bright,3874,none,Button-Bright,none,none,none,none,male
+Bright,3874,none,Bright,none,none,none,none,male
+Scarecrow,3876,none,Scarecrow,none,none,none,none,male
+Trot,3879,none,Trot,none,none,none,none,female
+Scarecrow,3879,none,Scarecrow,none,none,none,none,male
+Pon,3882,none,Pon,none,none,none,none,male
+Pon,3885,none,Pon,none,none,none,none,male
+Scarecrow,3886,none,Scarecrow,none,none,none,none,male
+Scarecrow,3887,none,Scarecrow,none,none,none,none,male
+Trot,3887,none,Trot,none,none,none,none,female
+Pon,3888,none,Pon,none,none,none,none,male
+Oz,3888,none,Oz,none,none,none,none,male
+Scarecrow,3889,none,Scarecrow,none,none,none,none,male
+Cap'n Bill,3889,none,Cap'n,none,Bill,none,none,male
+Trot,3892,none,Trot,none,none,none,none,female
+Pon,3892,none,Pon,none,none,none,none,male
+Blinkie,3894,none,Blinkie,none,none,none,none,female
+Wicked Witch,3894,none,Wicked,none,Witch,none,none,female
+Pon,3895,none,Pon,none,none,none,none,male
+Trot,3895,none,Trot,none,none,none,none,female
+Scarecrow,3896,none,Scarecrow,none,none,none,none,male
+Blinkie,3897,none,Blinkie,none,none,none,none,female
+Scarecrow,3898,none,Scarecrow,none,none,none,none,male
+Scarecrow,3901,none,Scarecrow,none,none,none,none,male
+Blinkie,3902,none,Blinkie,none,none,none,none,female
+Pon,3903,none,Pon,none,none,none,none,male
+Trot,3903,none,Trot,none,none,none,none,female
+Scarecrow,3904,none,Scarecrow,none,none,none,none,male
+Scarecrow,3905,none,Scarecrow,none,none,none,none,male
+Scarecrow,3907,none,Scarecrow,none,none,none,none,male
+Scarecrow,3912,none,Scarecrow,none,none,none,none,male
+Pon,3912,none,Pon,none,none,none,none,male
+Trot,3912,none,Trot,none,none,none,none,female
+Trot,3914,none,Trot,none,none,none,none,female
+Pon,3914,none,Pon,none,none,none,none,male
+Scarecrow,3915,none,Scarecrow,none,none,none,none,male
+Gloria,3916,none,Gloria,none,none,none,none,female
+Scarecrow,3916,none,Scarecrow,none,none,none,none,male
+Scarecrow,3917,none,Scarecrow,none,none,none,none,male
+Pon,3917,none,Pon,none,none,none,none,male
+Bill,3919,none,Bill,none,none,none,none,male
+Gloria,3920,none,Gloria,none,none,none,none,female
+Pon,3920,none,Pon,none,none,none,none,male
+Wicked Witch,3920,none,Wicked,none,Witch,none,none,female
+Scarecrow,3921,none,Scarecrow,none,none,none,none,male
+Scarecrow,3925,none,Scarecrow,none,none,none,none,male
+Trot,3925,none,Trot,none,none,none,none,female
+Pon,3925,none,Pon,none,none,none,none,male
+Blinkie,3925,none,Blinkie,none,none,none,none,female
+Trot,3927,none,Trot,none,none,none,none,female
+Scarecrow,3927,none,Scarecrow,none,none,none,none,male
+Pon,3928,none,Pon,none,none,none,none,male
+Gloria,3928,none,Gloria,none,none,none,none,female
+Scarecrow,3929,none,Scarecrow,none,none,none,none,male
+Scarecrow,3930,none,Scarecrow,none,none,none,none,male
+Cap'n Bill,3933,none,Cap'n,none,Bill,none,none,male
+Wicked Witch,3934,none,Wicked,none,Witch,none,none,female
+Trot,3935,none,Trot,none,none,none,none,female
+Cap'n Bill,3937,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,3944,none,Cap'n,none,Bill,none,none,male
+Scarecrow,3945,none,Scarecrow,none,none,none,none,male
+Glinda,3946,none,Glinda,none,none,none,none,female
+Glinda,3947,none,Glinda,none,none,none,none,female
+Cap'n Bill,3947,none,Cap'n,none,Bill,none,none,male
+Scarecrow,3948,none,Scarecrow,none,none,none,none,male
+Glinda,3948,none,Glinda,none,none,none,none,female
+Royal Sorceress,3949,Royal,none,none,Sorceress,none,none,male
+Wicked Witch,3949,none,Wicked,none,Witch,none,none,female
+Pon Summons,3950,none,Pon,none,Summons,none,none,male
+Gloria,3950,none,Gloria,none,none,none,none,female
+Scarecrow,3952,none,Scarecrow,none,none,none,none,male
+Glinda,3952,none,Glinda,none,none,none,none,female
+Button-Bright,3953,none,Button-Bright,none,none,none,none,male
+Bright,3953,none,Bright,none,none,none,none,male
+Gloria,3954,none,Gloria,none,none,none,none,female
+Trot,3954,none,Trot,none,none,none,none,female
+Scarecrow,3955,none,Scarecrow,none,none,none,none,male
+Krewl,3955,none,Krewl,none,none,none,none,male
+Pon,3956,none,Pon,none,none,none,none,male
+I--,3957,none,I--,none,none,none,none,male
+Scarecrow,3957,none,Scarecrow,none,none,none,none,male
+Gloria,3958,none,Gloria,none,none,none,none,female
+Jinxland,3958,none,Jinxland,none,none,none,none,female
+Krewl,3960,none,Krewl,none,none,none,none,male
+Scarecrow,3962,none,Scarecrow,none,none,none,none,male
+Trot,3964,none,Trot,none,none,none,none,female
+Trot,3968,none,Trot,none,none,none,none,female
+Trot,3971,none,Trot,none,none,none,none,female
+Trot,3971,none,Trot,none,none,none,none,female
+Pon,3972,none,Pon,none,none,none,none,male
+Gloria,3972,none,Gloria,none,none,none,none,female
+Scarecrow,3973,none,Scarecrow,none,none,none,none,male
+Trot,3974,none,Trot,none,none,none,none,female
+Krewl,3977,none,Krewl,none,none,none,none,male
+Gloria,3977,none,Gloria,none,none,none,none,female
+Jinxland,3977,none,Jinxland,none,none,none,none,female
+Scarecrow,3979,none,Scarecrow,none,none,none,none,male
+Krewl,3981,none,Krewl,none,none,none,none,male
+Pon,3983,none,Pon,none,none,none,none,male
+Scarecrow,3984,none,Scarecrow,none,none,none,none,male
+Pon,3986,none,Pon,none,none,none,none,male
+Pon,3987,none,Pon,none,none,none,none,male
+Scarecrow,3989,none,Scarecrow,none,none,none,none,male
+Pon,3990,none,Pon,none,none,none,none,male
+Pon,3991,none,Pon,none,none,none,none,male
+Scarecrow,3991,none,Scarecrow,none,none,none,none,male
+Krewl,3992,none,Krewl,none,none,none,none,male
+Pon,3992,none,Pon,none,none,none,none,male
+Pon,3995,none,Pon,none,none,none,none,male
+Pon,3996,none,Pon,none,none,none,none,male
+Gloria,3996,none,Gloria,none,none,none,none,female
+Googly-Goo,3996,none,Googly-Goo,none,none,none,none,male
+Goo,3996,none,Goo,none,none,none,none,male
+Gloria,3997,none,Gloria,none,none,none,none,female
+Pon,3998,none,Pon,none,none,none,none,male
+Pon,4001,none,Pon,none,none,none,none,male
+Pon,4005,none,Pon,none,none,none,none,male
+Scarecrow,4006,none,Scarecrow,none,none,none,none,male
+Krewl,4007,none,Krewl,none,none,none,none,male
+Pon,4008,none,Pon,none,none,none,none,male
+Pon,4009,none,Pon,none,none,none,none,male
+Scarecrow,4011,none,Scarecrow,none,none,none,none,male
+Pon,4012,none,Pon,none,none,none,none,male
+Pon,4013,none,Pon,none,none,none,none,male
+Gloria,4013,none,Gloria,none,none,none,none,female
+Scarecrow,4014,none,Scarecrow,none,none,none,none,male
+Trot,4017,none,Trot,none,none,none,none,female
+Krewl,4020,none,Krewl,none,none,none,none,male
+Trot,4021,none,Trot,none,none,none,none,female
+Pon,4024,none,Pon,none,none,none,none,male
+Scarecrow,4025,none,Scarecrow,none,none,none,none,male
+Pon,4029,none,Pon,none,none,none,none,male
+Scarecrow,4029,none,Scarecrow,none,none,none,none,male
+Button-Bright,4030,none,Button-Bright,none,none,none,none,male
+Bright,4030,none,Bright,none,none,none,none,male
+Scarecrow,4031,none,Scarecrow,none,none,none,none,male
+Button-Bright,4034,none,Button-Bright,none,none,none,none,male
+Bright,4034,none,Bright,none,none,none,none,male
+Trot,4035,none,Trot,none,none,none,none,female
+Cap'n Bill,4035,none,Cap'n,none,Bill,none,none,male
+Button-Bright,4040,none,Button-Bright,none,none,none,none,male
+Bright,4040,none,Bright,none,none,none,none,male
+Button-Bright,4045,none,Button-Bright,none,none,none,none,male
+Bright,4045,none,Bright,none,none,none,none,male
+Fussy,4045,none,Fussy,none,none,none,none,male
+Pon,4047,none,Pon,none,none,none,none,male
+Pon,4049,none,Pon,none,none,none,none,male
+Ork,4050,none,Ork,none,none,none,none,male
+Button-Bright,4051,none,Button-Bright,none,none,none,none,male
+Bright,4051,none,Bright,none,none,none,none,male
+Cap'n Bill,4059,none,Cap'n,none,Bill,none,none,male
+Button-Bright,4059,none,Button-Bright,none,none,none,none,male
+Bright,4059,none,Bright,none,none,none,none,male
+Ork,4059,none,Ork,none,none,none,none,male
+Trot,4059,none,Trot,none,none,none,none,female
+Cap'n Bill,4059,none,Cap'n,none,Bill,none,none,male
+Pon,4059,none,Pon,none,none,none,none,male
+Gloria,4059,none,Gloria,none,none,none,none,female
+Trot,4059,none,Trot,none,none,none,none,female
+Button-Bright,4059,none,Button-Bright,none,none,none,none,male
+Bright,4059,none,Bright,none,none,none,none,male
+Ork,4060,none,Ork,none,none,none,none,male
+Button-Bright,4062,none,Button-Bright,none,none,none,none,male
+Bright,4062,none,Bright,none,none,none,none,male
+Ork,4064,none,Ork,none,none,none,none,male
+Button-Bright,4069,none,Button-Bright,none,none,none,none,male
+Bright,4069,none,Bright,none,none,none,none,male
+Ork,4070,none,Ork,none,none,none,none,male
+Ork,4072,none,Ork,none,none,none,none,male
+Button-Bright,4073,none,Button-Bright,none,none,none,none,male
+Bright,4073,none,Bright,none,none,none,none,male
+Pon,4073,none,Pon,none,none,none,none,male
+Trot,4073,none,Trot,none,none,none,none,female
+Gloria,4074,none,Gloria,none,none,none,none,female
+Ork,4074,none,Ork,none,none,none,none,male
+Cap'n Bill,4074,none,Cap'n,none,Bill,none,none,male
+Cap'n Bill,4076,none,Cap'n,none,Bill,none,none,male
+Trot,4076,none,Trot,none,none,none,none,female
+Ork,4079,none,Ork,none,none,none,none,male
+Cap'n Bill,4080,none,Cap'n,none,Bill,none,none,male
+Ork,4082,none,Ork,none,none,none,none,male
+Wicked Witch,4082,none,Wicked,none,Witch,none,none,female
+Cap'n Bill,4083,none,Cap'n,none,Bill,none,none,male
+Ork,4084,none,Ork,none,none,none,none,male
+Button-Bright,4084,none,Button-Bright,none,none,none,none,male
+Bright,4084,none,Bright,none,none,none,none,male
+Gloria,4084,none,Gloria,none,none,none,none,female
+Scarecrow,4084,none,Scarecrow,none,none,none,none,male
+Ork,4085,none,Ork,none,none,none,none,male
+Scarecrow,4085,none,Scarecrow,none,none,none,none,male
+Krewl,4085,none,Krewl,none,none,none,none,male
+Scarecrow,4086,none,Scarecrow,none,none,none,none,male
+Trot,4088,none,Trot,none,none,none,none,female
+Button-Bright,4093,none,Button-Bright,none,none,none,none,male
+Bright,4093,none,Bright,none,none,none,none,male
+Ork,4093,none,Ork,none,none,none,none,male
+Ork,4095,none,Ork,none,none,none,none,male
+Button-Bright,4096,none,Button-Bright,none,none,none,none,male
+Bright,4096,none,Bright,none,none,none,none,male
+Ork,4096,none,Ork,none,none,none,none,male
+Scarecrow,4097,none,Scarecrow,none,none,none,none,male
+Scarecrow,4097,none,Scarecrow,none,none,none,none,male
+Krewl,4097,none,Krewl,none,none,none,none,male
+Gloria,4098,none,Gloria,none,none,none,none,female
+Jinxland,4098,none,Jinxland,none,none,none,none,female
+Ozma,4106,none,Ozma,none,none,none,none,female
+Krewl,4107,none,Krewl,none,none,none,none,male
+Scarecrow,4107,none,Scarecrow,none,none,none,none,male
+Scarecrow,4110,none,Scarecrow,none,none,none,none,male
+Scarecrow,4111,none,Scarecrow,none,none,none,none,male
+Gloria,4113,none,Gloria,none,none,none,none,female
+Krewl,4115,none,Krewl,none,none,none,none,male
+Scarecrow,4115,none,Scarecrow,none,none,none,none,male
+Pon,4116,none,Pon,none,none,none,none,male
+Scarecrow,4117,none,Scarecrow,none,none,none,none,male
+Goo,4118,none,Goo,none,none,none,none,male
+Scarecrow,4118,none,Scarecrow,none,none,none,none,male
+Scarecrow,4120,none,Scarecrow,none,none,none,none,male
+Googly-Goo,4123,none,Googly-Goo,none,none,none,none,male
+Goo,4123,none,Goo,none,none,none,none,male
+Scarecrow,4125,none,Scarecrow,none,none,none,none,male
+Googly-Goo,4126,none,Googly-Goo,none,none,none,none,male
+Goo,4126,none,Goo,none,none,none,none,male
+Scarecrow,4132,none,Scarecrow,none,none,none,none,male
+Scarecrow,4134,none,Scarecrow,none,none,none,none,male
+Dorothy,4137,none,Dorothy,none,none,none,none,female
+Royal Ozma,4137,Royal,none,none,Ozma,none,none,male
+Scarecrow,4137,none,Scarecrow,none,none,none,none,male
+Scarecrow,4141,none,Scarecrow,none,none,none,none,male
+Googly-Goo,4142,none,Googly-Goo,none,none,none,none,male
+Goo,4142,none,Goo,none,none,none,none,male
+Scarecrow,4143,none,Scarecrow,none,none,none,none,male
+Scarecrow,4146,none,Scarecrow,none,none,none,none,male
+Krewl,4148,none,Krewl,none,none,none,none,male
+Ork,4148,none,Ork,none,none,none,none,male
+Goo,4149,none,Goo,none,none,none,none,male
+Scarecrow,4151,none,Scarecrow,none,none,none,none,male
+Krewl,4151,none,Krewl,none,none,none,none,male
+Ork,4152,none,Ork,none,none,none,none,male
+Scarecrow,4152,none,Scarecrow,none,none,none,none,male
+Ork,4155,none,Ork,none,none,none,none,male
+Krewl,4155,none,Krewl,none,none,none,none,male
+Scarecrow,4155,none,Scarecrow,none,none,none,none,male
+Scarecrow,4156,none,Scarecrow,none,none,none,none,male
+Krewl,4158,none,Krewl,none,none,none,none,male
+Scarecrow,4158,none,Scarecrow,none,none,none,none,male
+Goo,4159,none,Goo,none,none,none,none,male
+Krewl,4160,none,Krewl,none,none,none,none,male
+Scarecrow,4161,none,Scarecrow,none,none,none,none,male
+Ork,4161,none,Ork,none,none,none,none,male
+Krewl,4162,none,Krewl,none,none,none,none,male
+Pon,4162,none,Pon,none,none,none,none,male
+Pon,4163,none,Pon,none,none,none,none,male
+Trot,4163,none,Trot,none,none,none,none,female
+Button-Bright,4163,none,Button-Bright,none,none,none,none,male
+Bright,4163,none,Bright,none,none,none,none,male
+Scarecrow,4164,none,Scarecrow,none,none,none,none,male
+Cap'n,4165,none,Cap'n,none,none,none,none,female
+Bill,4166,none,Bill,none,none,none,none,male
+Trot,4166,none,Trot,none,none,none,none,female
+Scarecrow,4166,none,Scarecrow,none,none,none,none,male
+Gloria,4166,none,Gloria,none,none,none,none,female
+Jinxland,4166,none,Jinxland,none,none,none,none,female
+Scarecrow,4167,none,Scarecrow,none,none,none,none,male
+Ork,4170,none,Ork,none,none,none,none,male
+Blinkie,4170,none,Blinkie,none,none,none,none,female
+Witch,4170,none,Witch,none,none,none,none,female
+Ork,4171,none,Ork,none,none,none,none,male
+Ork,4173,none,Ork,none,none,none,none,male
+Scarecrow,4174,none,Scarecrow,none,none,none,none,male
+Ork,4176,none,Ork,none,none,none,none,male
+Scarecrow,4177,none,Scarecrow,none,none,none,none,male
+Pon,4177,none,Pon,none,none,none,none,male
+Trot,4178,none,Trot,none,none,none,none,female
+Scarecrow,4179,none,Scarecrow,none,none,none,none,male
+Gloria,4179,none,Gloria,none,none,none,none,female
+Scarecrow,4180,none,Scarecrow,none,none,none,none,male
+Wicked Witch,4180,none,Wicked,none,Witch,none,none,female
+Krewl,4180,none,Krewl,none,none,none,none,male
+Googly-Goo,4180,none,Googly-Goo,none,none,none,none,male
+Goo,4180,none,Goo,none,none,none,none,male
+Ork,4182,none,Ork,none,none,none,none,male
+Blinkie,4182,none,Blinkie,none,none,none,none,female
+Scarecrow,4183,none,Scarecrow,none,none,none,none,male
+Witch,4186,none,Witch,none,none,none,none,female
+Blinkie,4187,none,Blinkie,none,none,none,none,female
+Scarecrow,4190,none,Scarecrow,none,none,none,none,male
+Wicked Witch,4190,none,Wicked,none,Witch,none,none,female
+Glinda,4191,none,Glinda,none,none,none,none,female
+Royal Sorceress,4191,Royal,none,none,Sorceress,none,none,male
+Trot,4193,none,Trot,none,none,none,none,female
+Scarecrow,4195,none,Scarecrow,none,none,none,none,male
+Blinkie,4195,none,Blinkie,none,none,none,none,female
+Scarecrow,4200,none,Scarecrow,none,none,none,none,male
+Sorceress,4201,none,Sorceress,none,none,none,none,female
+Scarecrow,4202,none,Scarecrow,none,none,none,none,male
+Scarecrow,4206,none,Scarecrow,none,none,none,none,male
+Trot,4210,none,Trot,none,none,none,none,female
+Cap'n Bill,4210,none,Cap'n,none,Bill,none,none,male
+Scarecrow,4211,none,Scarecrow,none,none,none,none,male
+Bill,4217,none,Bill,none,none,none,none,male
+Trot,4217,none,Trot,none,none,none,none,female
+Scarecrow,4217,none,Scarecrow,none,none,none,none,male
+Blinkie,4218,none,Blinkie,none,none,none,none,female
+Cap'n Bill,4219,none,Cap'n,none,Bill,none,none,male
+Scarecrow,4219,none,Scarecrow,none,none,none,none,male
+Scarecrow,4219,none,Scarecrow,none,none,none,none,male
+Trot,4220,none,Trot,none,none,none,none,female
+Cap'n Bill,4220,none,Cap'n,none,Bill,none,none,male
+Blinkie,4223,none,Blinkie,none,none,none,none,female
+Scarecrow,4224,none,Scarecrow,none,none,none,none,male
+Gloria,4225,none,Gloria,none,none,none,none,female
+Scarecrow,4228,none,Scarecrow,none,none,none,none,male
+Gloria,4229,none,Gloria,none,none,none,none,female
+Blinkie,4230,none,Blinkie,none,none,none,none,female
+Cap'n,4236,none,Cap'n,none,none,none,none,female
+Bill,4237,none,Bill,none,none,none,none,male
+Blinkie,4237,none,Blinkie,none,none,none,none,female
+Gloria,4238,none,Gloria,none,none,none,none,female
+Gloria,4241,none,Gloria,none,none,none,none,female
+Pon,4242,none,Pon,none,none,none,none,male
+Pon,4243,none,Pon,none,none,none,none,male
+Blinkie,4244,none,Blinkie,none,none,none,none,female
+Scarecrow,4244,none,Scarecrow,none,none,none,none,male
+Scarecrow,4248,none,Scarecrow,none,none,none,none,male
+Scarecrow,4251,none,Scarecrow,none,none,none,none,male
+Blinkie,4252,none,Blinkie,none,none,none,none,female
+Scarecrow,4253,none,Scarecrow,none,none,none,none,male
+Blinkie,4253,none,Blinkie,none,none,none,none,female
+Blinkie,4256,none,Blinkie,none,none,none,none,female
+Gloria,4258,none,Gloria,none,none,none,none,female
+Scarecrow,4258,none,Scarecrow,none,none,none,none,male
+Gloria,4260,none,Gloria,none,none,none,none,female
+Pon,4261,none,Pon,none,none,none,none,male
+Pon,4261,none,Pon,none,none,none,none,male
+Cap'n Bill,4262,none,Cap'n,none,Bill,none,none,male
+Scarecrow,4262,none,Scarecrow,none,none,none,none,male
+Button-Bright,4263,none,Button-Bright,none,none,none,none,male
+Bright,4263,none,Bright,none,none,none,none,male
+Scarecrow,4265,none,Scarecrow,none,none,none,none,male
+Gloria,4266,none,Gloria,none,none,none,none,female
+Kynd,4266,none,Kynd,none,none,none,none,male
+Phearce,4266,none,Phearce,none,none,none,none,male
+Pon,4266,none,Pon,none,none,none,none,male
+Phearce,4266,none,Phearce,none,none,none,none,male
+King Krewl,4266,King,Krewl,none,none,none,none,male
+Scarecrow,4267,none,Scarecrow,none,none,none,none,male
+Gloria,4267,none,Gloria,none,none,none,none,female
+Kynd,4267,none,Kynd,none,none,none,none,male
+Scarecrow,4272,none,Scarecrow,none,none,none,none,male
+Krewl,4273,none,Krewl,none,none,none,none,male
+Scarecrow,4274,none,Scarecrow,none,none,none,none,male
+Trot,4274,none,Trot,none,none,none,none,female
+Ozma,4275,none,Ozma,none,none,none,none,female
+Scarecrow,4279,none,Scarecrow,none,none,none,none,male
+Gloria,4279,none,Gloria,none,none,none,none,female
+Gloria,4280,none,Gloria,none,none,none,none,female
+Pon,4280,none,Pon,none,none,none,none,male
+Pon,4281,none,Pon,none,none,none,none,male
+Pon,4282,none,Pon,none,none,none,none,male
+Button-Bright,4283,none,Button-Bright,none,none,none,none,male
+Bright,4283,none,Bright,none,none,none,none,male
+Cap'n Will,4283,none,Cap'n,none,Will,none,none,male
+Gloria,4283,none,Gloria,none,none,none,none,female
+Ork,4283,none,Ork,none,none,none,none,male
+Scarecrow,4284,none,Scarecrow,none,none,none,none,male
+Krewl,4284,none,Krewl,none,none,none,none,male
+Krewl,4285,none,Krewl,none,none,none,none,male
+Gloria,4286,none,Gloria,none,none,none,none,female
+Pon,4286,none,Pon,none,none,none,none,male
+Krewl,4286,none,Krewl,none,none,none,none,male
+Pon,4286,none,Pon,none,none,none,none,male
+Krewl,4287,none,Krewl,none,none,none,none,male
+Pon,4288,none,Pon,none,none,none,none,male
+Pon,4291,none,Pon,none,none,none,none,male
+Jinxland,4291,none,Jinxland,none,none,none,none,female
+Bill,4293,none,Bill,none,none,none,none,male
+Trot,4293,none,Trot,none,none,none,none,female
+Button-Bright,4293,none,Button-Bright,none,none,none,none,male
+Bright,4293,none,Bright,none,none,none,none,male
+Scarecrow,4293,none,Scarecrow,none,none,none,none,male
+Ork,4293,none,Ork,none,none,none,none,male
+Gloria,4293,none,Gloria,none,none,none,none,female
+Ork,4294,none,Ork,none,none,none,none,male
+Bill,4295,none,Bill,none,none,none,none,male
+Ork,4297,none,Ork,none,none,none,none,male
+Scarecrow,4297,none,Scarecrow,none,none,none,none,male
+King Krewl,4297,King,Krewl,none,none,none,none,male
+Trot,4298,none,Trot,none,none,none,none,female
+Button-Bright,4299,none,Button-Bright,none,none,none,none,male
+Bright,4299,none,Bright,none,none,none,none,male
+Ork,4300,none,Ork,none,none,none,none,male
+Ork,4301,none,Ork,none,none,none,none,male
+Scarecrow,4304,none,Scarecrow,none,none,none,none,male
+Ork,4306,none,Ork,none,none,none,none,male
+Ork,4309,none,Ork,none,none,none,none,male
+Trot,4311,none,Trot,none,none,none,none,female
+Button-Bright,4311,none,Button-Bright,none,none,none,none,male
+Bright,4311,none,Bright,none,none,none,none,male
+Cap'n Bill,4311,none,Cap'n,none,Bill,none,none,male
+Ork,4313,none,Ork,none,none,none,none,male
+Trot,4314,none,Trot,none,none,none,none,female
+Ork,4315,none,Ork,none,none,none,none,male
+Cap'n Bill,4317,none,Cap'n,none,Bill,none,none,male
+Trot,4317,none,Trot,none,none,none,none,female
+Oz,4318,none,Oz,none,none,none,none,male
+Scarecrow,4319,none,Scarecrow,none,none,none,none,male
+Button-Bright,4322,none,Button-Bright,none,none,none,none,male
+Button-Bright,4323,none,Button-Bright,none,none,none,none,male
+Bright,4323,none,Bright,none,none,none,none,male
+Button-Bright,4330,none,Button-Bright,none,none,none,none,male
+Bright,4330,none,Bright,none,none,none,none,male
+Ork,4331,none,Ork,none,none,none,none,male
+Scarecrow,4335,none,Scarecrow,none,none,none,none,male
+Trot,4336,none,Trot,none,none,none,none,female
+Cap'n,4338,none,Cap'n,none,none,none,none,female
+Bill,4339,none,Bill,none,none,none,none,male
+Scarecrow,4340,none,Scarecrow,none,none,none,none,male
+Trot,4345,none,Trot,none,none,none,none,female
+Cap'n Bill,4346,none,Cap'n,none,Bill,none,none,male
+Scarecrow,4348,none,Scarecrow,none,none,none,none,male
+Trot,4350,none,Trot,none,none,none,none,female
+Cap'n,4350,none,Cap'n,none,none,none,none,female
+Bill,4351,none,Bill,none,none,none,none,male
+Scarecrow,4352,none,Scarecrow,none,none,none,none,male
+Cap'n,4352,none,Cap'n,none,none,none,none,female
+Bill,4353,none,Bill,none,none,none,none,male
+Scarecrow,4353,none,Scarecrow,none,none,none,none,male
+Button-Bright,4356,none,Button-Bright,none,none,none,none,male
+Bright,4356,none,Bright,none,none,none,none,male
+Scarecrow,4364,none,Scarecrow,none,none,none,none,male
+Button-Bright,4367,none,Button-Bright,none,none,none,none,male
+Bright,4367,none,Bright,none,none,none,none,male
+Cap'n,4369,none,Cap'n,none,none,none,none,female
+Trot,4369,none,Trot,none,none,none,none,female
+Button-Bright,4370,none,Button-Bright,none,none,none,none,male
+Bright,4370,none,Bright,none,none,none,none,male
+Scarecrow,4372,none,Scarecrow,none,none,none,none,male
+Cap'n Bill,4373,none,Cap'n,none,Bill,none,none,male
+Button-Bright,4374,none,Button-Bright,none,none,none,none,male
+Bright,4374,none,Bright,none,none,none,none,male
+Scarecrow,4375,none,Scarecrow,none,none,none,none,male
+Dorothy,4376,none,Dorothy,none,none,none,none,female
+Betsy,4376,none,Betsy,none,none,none,none,female
+Ozma,4376,none,Ozma,none,none,none,none,female
+Ozma,4379,none,Ozma,none,none,none,none,female
+Ozma,4381,none,Ozma,none,none,none,none,female
+Ozma,4383,none,Ozma,none,none,none,none,female
+Dorothy,4383,none,Dorothy,none,none,none,none,female
+Dorothy,4384,none,Dorothy,none,none,none,none,female
+Ozma,4386,none,Ozma,none,none,none,none,female
+Oz,4386,none,Oz,none,none,none,none,male
+Dorothy,4386,none,Dorothy,none,none,none,none,female
+Dorothy,4388,none,Dorothy,none,none,none,none,female
+Ozma,4388,none,Ozma,none,none,none,none,female
+Shaggy Man,4388,none,Shaggy,none,Man,none,none,male
+Billina,4388,none,Billina,none,none,none,none,female
+Eureka,4388,none,Eureka,none,none,none,none,female
+Pink Kitten,4388,none,Pink,none,Kitten,none,none,female
+Dorothy,4389,none,Dorothy,none,none,none,none,female
+Dorothy,4390,none,Dorothy,none,none,none,none,female
+Betsy Bobbin,4392,none,Betsy,none,Bobbin,none,none,female
+Ozma,4392,none,Ozma,none,none,none,none,female
+Betsy,4393,none,Betsy,none,none,none,none,female
+Dorothy,4393,none,Dorothy,none,none,none,none,female
+Dorothy,4394,none,Dorothy,none,none,none,none,female
+Betsy,4394,none,Betsy,none,none,none,none,female
+Ozma,4394,none,Ozma,none,none,none,none,female
+Ruler,4394,none,Ruler,none,none,none,none,female
+Ozma,4394,none,Ozma,none,none,none,none,female
+Dorothy,4398,none,Dorothy,none,none,none,none,female
+Ozma,4399,none,Ozma,none,none,none,none,female
+Dorothy,4399,none,Dorothy,none,none,none,none,female
+Button-Bright,4400,none,Button-Bright,none,none,none,none,male
+Bright,4400,none,Bright,none,none,none,none,male
+Betsy,4400,none,Betsy,none,none,none,none,female
+Dorothy,4401,none,Dorothy,none,none,none,none,female
+Ozma,4402,none,Ozma,none,none,none,none,female
+Ozma,4402,none,Ozma,none,none,none,none,female
+Ozma,4405,none,Ozma,none,none,none,none,female
+Ork,4405,none,Ork,none,none,none,none,male
+Dorothy,4407,none,Dorothy,none,none,none,none,female
+Betsy,4408,none,Betsy,none,none,none,none,female
+Dorothy,4409,none,Dorothy,none,none,none,none,female
+Cap'n,4409,none,Cap'n,none,none,none,none,female
+Bill,4410,none,Bill,none,none,none,none,male
+Ozma,4411,none,Ozma,none,none,none,none,female
+Dorothy,4413,none,Dorothy,none,none,none,none,female
+Ozma,4416,none,Ozma,none,none,none,none,female
+Trot,4416,none,Trot,none,none,none,none,female
+Cap'n,4416,none,Cap'n,none,none,none,none,female
+Bill,4417,none,Bill,none,none,none,none,male
+Button-Bright,4417,none,Button-Bright,none,none,none,none,male
+Bright,4417,none,Bright,none,none,none,none,male
+Scarecrow,4418,none,Scarecrow,none,none,none,none,male
+Ozma,4418,none,Ozma,none,none,none,none,female
+Glinda,4418,none,Glinda,none,none,none,none,female
+Scarecrow,4418,none,Scarecrow,none,none,none,none,male
+Ozma,4419,none,Ozma,none,none,none,none,female
+Dorothy,4421,none,Dorothy,none,none,none,none,female
+Trot,4421,none,Trot,none,none,none,none,female
+Ozma,4421,none,Ozma,none,none,none,none,female
+Scarecrow,4423,none,Scarecrow,none,none,none,none,male
+Orks,4423,none,Orks,none,none,none,none,male
+Orks,4424,none,Orks,none,none,none,none,male
+Ozma,4424,none,Ozma,none,none,none,none,female
+Wizard,4424,none,Wizard,none,none,none,none,male
+Ozma,4425,none,Ozma,none,none,none,none,female
+Glinda,4426,none,Glinda,none,none,none,none,female
+Orks,4427,none,Orks,none,none,none,none,male
+Bill,4428,none,Bill,none,none,none,none,male
+Trot,4428,none,Trot,none,none,none,none,female
+Button-Bright,4428,none,Button-Bright,none,none,none,none,male
+Bright,4428,none,Bright,none,none,none,none,male
+Dorothy,4429,none,Dorothy,none,none,none,none,female
+Ozma,4429,none,Ozma,none,none,none,none,female
+Ozma,4431,none,Ozma,none,none,none,none,female
+Betsy,4431,none,Betsy,none,none,none,none,female
+Jack Pumpkinhead,4431,none,Jack,none,Pumpkinhead,none,none,male
+Wogglebug,4431,none,Wogglebug,none,none,none,none,male
+Scarecrow,4432,none,Scarecrow,none,none,none,none,male
+Glinda,4432,none,Glinda,none,none,none,none,female
+Dorothy,4433,none,Dorothy,none,none,none,none,female
+Betsy,4433,none,Betsy,none,none,none,none,female
+Scarecrow,4434,none,Scarecrow,none,none,none,none,male
+Button-Bright,4435,none,Button-Bright,none,none,none,none,male
+Bright,4435,none,Bright,none,none,none,none,male
+Trot,4436,none,Trot,none,none,none,none,female
+Cap'n Bill,4436,none,Cap'n,none,Bill,none,none,male
+Glinda,4436,none,Glinda,none,none,none,none,female
+Button-Bright,4437,none,Button-Bright,none,none,none,none,male
+Bright,4437,none,Bright,none,none,none,none,male
+Scarecrow,4437,none,Scarecrow,none,none,none,none,male
+Trot,4440,none,Trot,none,none,none,none,female
+Cap'n,4442,none,Cap'n,none,none,none,none,female
+Bill,4443,none,Bill,none,none,none,none,male
+Scarecrow,4444,none,Scarecrow,none,none,none,none,male
+Wizard,4444,none,Wizard,none,none,none,none,male
+Wizard,4445,none,Wizard,none,none,none,none,male
+Button-Bright,4446,none,Button-Bright,none,none,none,none,male
+Bright,4446,none,Bright,none,none,none,none,male
+Scarecrow,4447,none,Scarecrow,none,none,none,none,male
+Cap'n Bill,4448,none,Cap'n,none,Bill,none,none,male
+Trot,4451,none,Trot,none,none,none,none,female
+Scarecrow,4452,none,Scarecrow,none,none,none,none,male
+Scarecrow,4455,none,Scarecrow,none,none,none,none,male
+Scarecrow,4458,none,Scarecrow,none,none,none,none,male
+Trot,4461,none,Trot,none,none,none,none,female
+Cap'n Bill,4462,none,Cap'n,none,Bill,none,none,male
+Button-Bright,4463,none,Button-Bright,none,none,none,none,male
+Bright,4463,none,Bright,none,none,none,none,male
+Trot,4463,none,Trot,none,none,none,none,female
+Scarecrow,4463,none,Scarecrow,none,none,none,none,male
+Scarecrow,4464,none,Scarecrow,none,none,none,none,male
+Bill,4466,none,Bill,none,none,none,none,male
+Cap'n,4467,none,Cap'n,none,none,none,none,female
+Button-Bright,4469,none,Button-Bright,none,none,none,none,male
+Bright,4469,none,Bright,none,none,none,none,male
+Trot,4470,none,Trot,none,none,none,none,female
+Scarecrow,4470,none,Scarecrow,none,none,none,none,male
+Button-Bright,4471,none,Button-Bright,none,none,none,none,male
+Bright,4471,none,Bright,none,none,none,none,male
+Scarecrow,4476,none,Scarecrow,none,none,none,none,male
+Cap'n,4477,none,Cap'n,none,none,none,none,female
+Bill,4478,none,Bill,none,none,none,none,male
+Trot,4481,none,Trot,none,none,none,none,female
+Bill,4484,none,Bill,none,none,none,none,male
+Button-Bright,4484,none,Button-Bright,none,none,none,none,male
+Bright,4484,none,Bright,none,none,none,none,male
+Trot,4490,none,Trot,none,none,none,none,female
+Scarecrow,4493,none,Scarecrow,none,none,none,none,male
+Button-Bright,4494,none,Button-Bright,none,none,none,none,male
+Bright,4494,none,Bright,none,none,none,none,male
+Cap'n Bill,4495,none,Cap'n,none,Bill,none,none,male
+Scarecrow,4496,none,Scarecrow,none,none,none,none,male
+Cap'n,4497,none,Cap'n,none,none,none,none,female
+Bill,4498,none,Bill,none,none,none,none,male
+Scarecrow,4498,none,Scarecrow,none,none,none,none,male
+Trot,4499,none,Trot,none,none,none,none,female
+Button-Bright,4499,none,Button-Bright,none,none,none,none,male
+Bright,4499,none,Bright,none,none,none,none,male
+Scarecrow,4499,none,Scarecrow,none,none,none,none,male
+Cap'n,4499,none,Cap'n,none,none,none,none,female
+Bill,4500,none,Bill,none,none,none,none,male
+Scarecrow,4501,none,Scarecrow,none,none,none,none,male
+Trot,4502,none,Trot,none,none,none,none,female
+Cap'n Bill,4503,none,Cap'n,none,Bill,none,none,male
+Trot,4503,none,Trot,none,none,none,none,female
+Button-Bright,4503,none,Button-Bright,none,none,none,none,male
+Bright,4503,none,Bright,none,none,none,none,male
+Scarecrow,4503,none,Scarecrow,none,none,none,none,male
+Cap'n,4504,none,Cap'n,none,none,none,none,female
+Bill,4505,none,Bill,none,none,none,none,male
+Scarecrow,4505,none,Scarecrow,none,none,none,none,male
+Trot,4507,none,Trot,none,none,none,none,female
+Cap'n,4508,none,Cap'n,none,none,none,none,female
+Glinda,4509,none,Glinda,none,none,none,none,female
+Scarecrow,4509,none,Scarecrow,none,none,none,none,male
+Scarecrow,4510,none,Scarecrow,none,none,none,none,male
+Cap'n Bill,4511,none,Cap'n,none,Bill,none,none,male
+Scarecrow,4512,none,Scarecrow,none,none,none,none,male
+Trot,4514,none,Trot,none,none,none,none,female
+Scarecrow,4514,none,Scarecrow,none,none,none,none,male
+Button-Bright,4515,none,Button-Bright,none,none,none,none,male
+Bright,4515,none,Bright,none,none,none,none,male
+Trot,4515,none,Trot,none,none,none,none,female
+Cap'n Bill,4515,none,Cap'n,none,Bill,none,none,male
+Scarecrow,4516,none,Scarecrow,none,none,none,none,male
+Scarecrow,4517,none,Scarecrow,none,none,none,none,male
+Ozma,4521,none,Ozma,none,none,none,none,female
+Scarecrow,4521,none,Scarecrow,none,none,none,none,male
+Wizard,4521,none,Wizard,none,none,none,none,male
+Scarecrow,4522,none,Scarecrow,none,none,none,none,male
+Trot,4523,none,Trot,none,none,none,none,female
+Button-Bright,4527,none,Button-Bright,none,none,none,none,male
+Bright,4527,none,Bright,none,none,none,none,male
+Scarecrow,4528,none,Scarecrow,none,none,none,none,male
+Scarecrow,4529,none,Scarecrow,none,none,none,none,male
+Glinda,4530,none,Glinda,none,none,none,none,female
+Glinda,4531,none,Glinda,none,none,none,none,female
+Dorothy,4531,none,Dorothy,none,none,none,none,female
+Betsy,4531,none,Betsy,none,none,none,none,female
+Ozma,4532,none,Ozma,none,none,none,none,female
+Ozma,4532,none,Ozma,none,none,none,none,female
+Sawhorse,4532,none,Sawhorse,none,none,none,none,male
+Dorothy,4533,none,Dorothy,none,none,none,none,female
+Sawhorse,4534,none,Sawhorse,none,none,none,none,male
+Betsy,4538,none,Betsy,none,none,none,none,female
+Glinda,4540,none,Glinda,none,none,none,none,female
+Sorceress,4541,none,Sorceress,none,none,none,none,female
+Trot,4541,none,Trot,none,none,none,none,female
+Button-Bright,4541,none,Button-Bright,none,none,none,none,male
+Bright,4541,none,Bright,none,none,none,none,male
+Trot,4542,none,Trot,none,none,none,none,female
+Dorothy,4542,none,Dorothy,none,none,none,none,female
+Cap'n Bill,4543,none,Cap'n,none,Bill,none,none,male
+Dorothy,4545,none,Dorothy,none,none,none,none,female
+Betsy,4546,none,Betsy,none,none,none,none,female
+Trot,4546,none,Trot,none,none,none,none,female
+Glinda,4548,none,Glinda,none,none,none,none,female
+Trot,4550,none,Trot,none,none,none,none,female
+Scarecrow,4551,none,Scarecrow,none,none,none,none,male
+Button-Bright,4551,none,Button-Bright,none,none,none,none,male
+Bright,4551,none,Bright,none,none,none,none,male
+Glinda,4553,none,Glinda,none,none,none,none,female
+Scarecrow,4553,none,Scarecrow,none,none,none,none,male
+Glinda,4554,none,Glinda,none,none,none,none,female
+Button-Bright,4555,none,Button-Bright,none,none,none,none,male
+Bright,4555,none,Bright,none,none,none,none,male
+Button-Bright,4559,none,Button-Bright,none,none,none,none,male
+Bright,4559,none,Bright,none,none,none,none,male
+Dorothy,4559,none,Dorothy,none,none,none,none,female
+Betsy,4559,none,Betsy,none,none,none,none,female
+Scarecrow,4559,none,Scarecrow,none,none,none,none,male
+Trot,4559,none,Trot,none,none,none,none,female
+Cap'n Bill,4559,none,Cap'n,none,Bill,none,none,male
+Ozma,4560,none,Ozma,none,none,none,none,female
+Dorothy,4560,none,Dorothy,none,none,none,none,female
+Ozma,4560,none,Ozma,none,none,none,none,female
+Glinda,4562,none,Glinda,none,none,none,none,female
+Sorceress,4563,none,Sorceress,none,none,none,none,female
+Betsy,4563,none,Betsy,none,none,none,none,female
+Dorothy,4563,none,Dorothy,none,none,none,none,female
+Cap'n,4563,none,Cap'n,none,none,none,none,female
+Bill,4564,none,Bill,none,none,none,none,male
+Scarecrow,4565,none,Scarecrow,none,none,none,none,male
+Glinda,4565,none,Glinda,none,none,none,none,female
+Oz,4565,none,Oz,none,none,none,none,male
+Dorothy,4566,none,Dorothy,none,none,none,none,female
+Betsy,4566,none,Betsy,none,none,none,none,female
+Glinda,4567,none,Glinda,none,none,none,none,female
+Sorceress,4567,none,Sorceress,none,none,none,none,female
+Cap'n,4567,none,Cap'n,none,none,none,none,female
+Bill,4568,none,Bill,none,none,none,none,male
+Trot,4569,none,Trot,none,none,none,none,female
+Dorothy,4569,none,Dorothy,none,none,none,none,female
+Betsy,4569,none,Betsy,none,none,none,none,female
+Button-Bright,4569,none,Button-Bright,none,none,none,none,male
+Bright,4569,none,Bright,none,none,none,none,male
+Sorceress,4570,none,Sorceress,none,none,none,none,female
+Trot,4570,none,Trot,none,none,none,none,female
+Cap'n,4570,none,Cap'n,none,none,none,none,female
+Bill,4571,none,Bill,none,none,none,none,male
+Jinxland,4571,none,Jinxland,none,none,none,none,female
+Dorothy,4573,none,Dorothy,none,none,none,none,female
+Trot,4573,none,Trot,none,none,none,none,female
+Betsy,4573,none,Betsy,none,none,none,none,female
+Cap'n Bill,4573,none,Cap'n,none,Bill,none,none,male
+Button-Bright,4573,none,Button-Bright,none,none,none,none,male
+Bright,4573,none,Bright,none,none,none,none,male
+Scarecrow,4573,none,Scarecrow,none,none,none,none,male
+Sawhorse,4574,none,Sawhorse,none,none,none,none,male
+Scarecrow,4576,none,Scarecrow,none,none,none,none,male
+Dorothy,4576,none,Dorothy,none,none,none,none,female
+Betsy Bobbin,4576,none,Betsy,none,Bobbin,none,none,female
+Button-Bright,4576,none,Button-Bright,none,none,none,none,male
+Bright,4576,none,Bright,none,none,none,none,male
+Trot,4577,none,Trot,none,none,none,none,female
+Ozma,4577,none,Ozma,none,none,none,none,female
+Cap'n Bill,4577,none,Cap'n,none,Bill,none,none,male
+Ozma,4579,none,Ozma,none,none,none,none,female
+Dorothy,4580,none,Dorothy,none,none,none,none,female
+Cap'n Bill,4580,none,Cap'n,none,Bill,none,none,male
+Trot,4580,none,Trot,none,none,none,none,female
+Ozma,4581,none,Ozma,none,none,none,none,female
+Trot,4582,none,Trot,none,none,none,none,female
+Cap'n Bill,4582,none,Cap'n,none,Bill,none,none,male
+Scarecrow,4583,none,Scarecrow,none,none,none,none,male
+Tin Woodman,4583,none,Tin,none,Woodman,none,none,male
+Jack Pumpkinhead,4584,none,Jack,none,Pumpkinhead,none,none,male
+Wogglebug,4584,none,Wogglebug,none,none,none,none,male
+Cap'n,4585,none,Cap'n,none,none,none,none,female
+Bill,4586,none,Bill,none,none,none,none,male
+Dorothy,4587,none,Dorothy,none,none,none,none,female
+Ozma,4587,none,Ozma,none,none,none,none,female
+Tik,4587,none,Tik,none,none,none,none,male
+Tik-Tok,4587,none,Tik-Tok,none,none,none,none,male
+Shaggy Man,4588,none,Shaggy,none,Man,none,none,male
+Oz,4588,none,Oz,none,none,none,none,male
+Dorothy,4588,none,Dorothy,none,none,none,none,female
+Uncle Henry,4588,Uncle,Henry,none,none,none,none,male
+Aunt Them,4588,Aunt,Them,none,none,none,none,female
+Cap'n,4589,none,Cap'n,none,none,none,none,female
+Bill,4590,none,Bill,none,none,none,none,male
+Hungry Tiger,4591,none,Hungry,none,Tiger,none,none,male
+Eureka,4591,none,Eureka,none,none,none,none,female
+Pink Kitten,4591,none,Pink,none,Kitten,none,none,female
+Sawhorse,4591,none,Sawhorse,none,none,none,none,male
+Wizard,4591,none,Wizard,none,none,none,none,male
+Hank,4591,none,Hank,none,none,none,none,male
+Betsy Bobbin,4591,none,Betsy,none,Bobbin,none,none,female
+Toto,4592,none,Toto,none,none,none,none,male
+Dorothy,4592,none,Dorothy,none,none,none,none,female
+Trot,4593,none,Trot,none,none,none,none,female
+Betsy,4594,none,Betsy,none,none,none,none,female
+Trot,4594,none,Trot,none,none,none,none,female
+Woozy,4594,none,Woozy,none,none,none,none,male
+Bill,4595,none,Bill,none,none,none,none,male
+Trot,4595,none,Trot,none,none,none,none,female
+Trot,4597,none,Trot,none,none,none,none,female
+Button-Bright,4598,none,Button-Bright,none,none,none,none,male
+Bright,4598,none,Bright,none,none,none,none,male
+Ozma,4602,none,Ozma,none,none,none,none,female
+Button-Bright,4602,none,Button-Bright,none,none,none,none,male
+Bright,4602,none,Bright,none,none,none,none,male

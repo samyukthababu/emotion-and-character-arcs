@@ -1,0 +1,1414 @@
+name,sentence_id,title,first,middle,last,suffix,nickname,gender
+,,,,,,,,
+Dorothy,2,none,Dorothy,none,none,none,none,female
+Shaggy Man,7,none,Shaggy,none,Man,none,none,male
+Dorothy,9,none,Dorothy,none,none,none,none,female
+Toto,19,none,Toto,none,none,none,none,male
+Dorothy,20,none,Dorothy,none,none,none,none,female
+Dorothy,26,none,Dorothy,none,none,none,none,female
+Henry,27,none,Henry,none,none,none,none,male
+Dorothy,30,none,Dorothy,none,none,none,none,female
+Butterfield,32,none,Butterfield,none,none,none,none,female
+Dorothy,32,none,Dorothy,none,none,none,none,female
+Uncle Henry,32,Uncle,Henry,none,none,none,none,male
+Toto,39,none,Toto,none,none,none,none,male
+Dorothy,40,none,Dorothy,none,none,none,none,female
+Dorothy,44,none,Dorothy,none,none,none,none,female
+Butterfield,49,none,Butterfield,none,none,none,none,female
+Butterfield,51,none,Butterfield,none,none,none,none,female
+Dorothy,59,none,Dorothy,none,none,none,none,female
+Toto,72,none,Toto,none,none,none,none,male
+Dorothy,74,none,Dorothy,none,none,none,none,female
+Toto,79,none,Toto,none,none,none,none,male
+Toto,80,none,Toto,none,none,none,none,male
+Dorothy,80,none,Dorothy,none,none,none,none,female
+Dorothy,82,none,Dorothy,none,none,none,none,female
+Toto,84,none,Toto,none,none,none,none,male
+Dorothy,102,none,Dorothy,none,none,none,none,female
+Dorothy,104,none,Dorothy,none,none,none,none,female
+Toto,107,none,Toto,none,none,none,none,male
+Dorothy,107,none,Dorothy,none,none,none,none,female
+Toto,108,none,Toto,none,none,none,none,male
+Toto,110,none,Toto,none,none,none,none,male
+Shaggy Man,111,none,Shaggy,none,Man,none,none,male
+Dorothy,111,none,Dorothy,none,none,none,none,female
+Toto,111,none,Toto,none,none,none,none,male
+Toto,115,none,Toto,none,none,none,none,male
+Dorothy,118,none,Dorothy,none,none,none,none,female
+Toto,118,none,Toto,none,none,none,none,male
+Dorothy,119,none,Dorothy,none,none,none,none,female
+Dorothy,123,none,Dorothy,none,none,none,none,female
+Uncle Henry,124,Uncle,Henry,none,none,none,none,male
+Dorothy,129,none,Dorothy,none,none,none,none,female
+Butterfield,134,none,Butterfield,none,none,none,none,female
+Toto,143,none,Toto,none,none,none,none,male
+Love Magnet,154,none,Love,none,Magnet,none,none,female
+Dorothy,156,none,Dorothy,none,none,none,none,female
+Dorothy,160,none,Dorothy,none,none,none,none,female
+Hungry Tiger,160,none,Hungry,none,Tiger,none,none,male
+Toto,162,none,Toto,none,none,none,none,male
+Dorothy,165,none,Dorothy,none,none,none,none,female
+Dorothy,168,none,Dorothy,none,none,none,none,female
+Dorothy,170,none,Dorothy,none,none,none,none,female
+Toto,170,none,Toto,none,none,none,none,male
+Dorothy,173,none,Dorothy,none,none,none,none,female
+Dorothy,177,none,Dorothy,none,none,none,none,female
+Toto,177,none,Toto,none,none,none,none,male
+Button,181,none,Button,none,none,none,none,male
+Button-Bright,181,none,Button-Bright,none,none,none,none,male
+Button,194,none,Button,none,none,none,none,male
+Button-Bright,194,none,Button-Bright,none,none,none,none,male
+Button,198,none,Button,none,none,none,none,male
+Button-Bright,198,none,Button-Bright,none,none,none,none,male
+Dorothy,200,none,Dorothy,none,none,none,none,female
+Dorothy,213,none,Dorothy,none,none,none,none,female
+Dorothy,221,none,Dorothy,none,none,none,none,female
+Dorothy,223,none,Dorothy,none,none,none,none,female
+Button,224,none,Button,none,none,none,none,male
+Button-Bright,224,none,Button-Bright,none,none,none,none,male
+Button,225,none,Button,none,none,none,none,male
+Dorothy,227,none,Dorothy,none,none,none,none,female
+Dorothy,229,none,Dorothy,none,none,none,none,female
+Button,232,none,Button,none,none,none,none,male
+Button-Bright,232,none,Button-Bright,none,none,none,none,male
+Dorothy,235,none,Dorothy,none,none,none,none,female
+Button,236,none,Button,none,none,none,none,male
+Button-Bright,236,none,Button-Bright,none,none,none,none,male
+Button,238,none,Button,none,none,none,none,male
+Button-Bright,238,none,Button-Bright,none,none,none,none,male
+Dorothy,239,none,Dorothy,none,none,none,none,female
+Dorothy,242,none,Dorothy,none,none,none,none,female
+Button,243,none,Button,none,none,none,none,male
+Button-Bright,243,none,Button-Bright,none,none,none,none,male
+Button,250,none,Button,none,none,none,none,male
+Button-Bright,250,none,Button-Bright,none,none,none,none,male
+Toto,252,none,Toto,none,none,none,none,male
+Button,252,none,Button,none,none,none,none,male
+Button-Bright,252,none,Button-Bright,none,none,none,none,male
+Dorothy,255,none,Dorothy,none,none,none,none,female
+Toto,259,none,Toto,none,none,none,none,male
+Dorothy,261,none,Dorothy,none,none,none,none,female
+Button,262,none,Button,none,none,none,none,male
+Button-Bright,262,none,Button-Bright,none,none,none,none,male
+Dorothy,266,none,Dorothy,none,none,none,none,female
+Shaggy Man,266,none,Shaggy,none,Man,none,none,male
+Button,267,none,Button,none,none,none,none,male
+Button-Bright,267,none,Button-Bright,none,none,none,none,male
+Love Magnet,267,none,Love,none,Magnet,none,none,female
+Button,267,none,Button,none,none,none,none,male
+Button-Bright,267,none,Button-Bright,none,none,none,none,male
+Dorothy,268,none,Dorothy,none,none,none,none,female
+Toto,268,none,Toto,none,none,none,none,male
+Dorothy,270,none,Dorothy,none,none,none,none,female
+Toto,270,none,Toto,none,none,none,none,male
+Mary,270,none,Mary,none,none,none,none,female
+Button,271,none,Button,none,none,none,none,male
+Button-Bright,271,none,Button-Bright,none,none,none,none,male
+Dorothy,278,none,Dorothy,none,none,none,none,female
+Button,282,none,Button,none,none,none,none,male
+Button-Bright,282,none,Button-Bright,none,none,none,none,male
+Button,284,none,Button,none,none,none,none,male
+Button-Bright,284,none,Button-Bright,none,none,none,none,male
+Shaggy Man,289,none,Shaggy,none,Man,none,none,male
+Dorothy,289,none,Dorothy,none,none,none,none,female
+Love Magnet,289,none,Love,none,Magnet,none,none,female
+Toto,290,none,Toto,none,none,none,none,male
+Toto,291,none,Toto,none,none,none,none,male
+King Dox,296,King,Dox,none,none,none,none,male
+Button,297,none,Button,none,none,none,none,male
+Button-Bright,297,none,Button-Bright,none,none,none,none,male
+Button,299,none,Button,none,none,none,none,male
+Button-Bright,299,none,Button-Bright,none,none,none,none,male
+Button,301,none,Button,none,none,none,none,male
+Button-Bright,301,none,Button-Bright,none,none,none,none,male
+Dorothy,307,none,Dorothy,none,none,none,none,female
+Toto,307,none,Toto,none,none,none,none,male
+Button,307,none,Button,none,none,none,none,male
+Button-Bright,307,none,Button-Bright,none,none,none,none,male
+Dorothy,312,none,Dorothy,none,none,none,none,female
+Button,313,none,Button,none,none,none,none,male
+Button-Bright,313,none,Button-Bright,none,none,none,none,male
+Toto,314,none,Toto,none,none,none,none,male
+Dorothy,314,none,Dorothy,none,none,none,none,female
+Dorothy,317,none,Dorothy,none,none,none,none,female
+Dorothy,323,none,Dorothy,none,none,none,none,female
+Button,323,none,Button,none,none,none,none,male
+Button-Bright,323,none,Button-Bright,none,none,none,none,male
+Toto,325,none,Toto,none,none,none,none,male
+Dorothy,325,none,Dorothy,none,none,none,none,female
+Dorothy,329,none,Dorothy,none,none,none,none,female
+King,329,King,none,none,none,none,none,male
+Button,331,none,Button,none,none,none,none,male
+Button-Bright,331,none,Button-Bright,none,none,none,none,male
+Royal Hairiness,334,Royal,none,none,Hairiness,none,none,male
+Dorothy,339,none,Dorothy,none,none,none,none,female
+Dorothy,340,none,Dorothy,none,none,none,none,female
+Fox,342,none,Fox,none,none,none,none,male
+Ozma,344,none,Ozma,none,none,none,none,female
+Oz,344,none,Oz,none,none,none,none,male
+Ozma,345,none,Ozma,none,none,none,none,female
+Ozma,347,none,Ozma,none,none,none,none,female
+Dorothy,348,none,Dorothy,none,none,none,none,female
+Dorothy,351,none,Dorothy,none,none,none,none,female
+Ozma,352,none,Ozma,none,none,none,none,female
+Fox,358,none,Fox,none,none,none,none,male
+Uncle Henry,360,Uncle,Henry,none,none,none,none,male
+Dorothy,367,none,Dorothy,none,none,none,none,female
+Fox,368,none,Fox,none,none,none,none,male
+Dorothy,369,none,Dorothy,none,none,none,none,female
+Butterfield,372,none,Butterfield,none,none,none,none,female
+Dorothy,375,none,Dorothy,none,none,none,none,female
+Fox,381,none,Fox,none,none,none,none,male
+Dorothy,384,none,Dorothy,none,none,none,none,female
+Button,384,none,Button,none,none,none,none,male
+Button-Bright,384,none,Button-Bright,none,none,none,none,male
+Dox,385,none,Dox,none,none,none,none,male
+Button,385,none,Button,none,none,none,none,male
+Button-Bright,385,none,Button-Bright,none,none,none,none,male
+Button,389,none,Button,none,none,none,none,male
+Button-Bright,389,none,Button-Bright,none,none,none,none,male
+Button,392,none,Button,none,none,none,none,male
+Button-Bright,392,none,Button-Bright,none,none,none,none,male
+Dox,395,none,Dox,none,none,none,none,male
+King Renard,396,King,Renard,none,none,none,none,male
+Button,398,none,Button,none,none,none,none,male
+Button-Bright,398,none,Button-Bright,none,none,none,none,male
+Button,406,none,Button,none,none,none,none,male
+Button-Bright,406,none,Button-Bright,none,none,none,none,male
+Dox,406,none,Dox,none,none,none,none,male
+Button,412,none,Button,none,none,none,none,male
+Button-Bright,412,none,Button-Bright,none,none,none,none,male
+Button,416,none,Button,none,none,none,none,male
+Button-Bright,416,none,Button-Bright,none,none,none,none,male
+Button,420,none,Button,none,none,none,none,male
+Button-Bright,420,none,Button-Bright,none,none,none,none,male
+Dorothy,422,none,Dorothy,none,none,none,none,female
+Button,424,none,Button,none,none,none,none,male
+Button-Bright,424,none,Button-Bright,none,none,none,none,male
+Button,426,none,Button,none,none,none,none,male
+Button-Bright,426,none,Button-Bright,none,none,none,none,male
+Button,431,none,Button,none,none,none,none,male
+Dorothy,434,none,Dorothy,none,none,none,none,female
+Renard IV,435,none,Renard,none,IV,none,none,male
+Button,437,none,Button,none,none,none,none,male
+Button-Bright,437,none,Button-Bright,none,none,none,none,male
+Dorothy,438,none,Dorothy,none,none,none,none,female
+Toto,439,none,Toto,none,none,none,none,male
+Dorothy,439,none,Dorothy,none,none,none,none,female
+Button,440,none,Button,none,none,none,none,male
+Button-Bright,440,none,Button-Bright,none,none,none,none,male
+Dorothy,443,none,Dorothy,none,none,none,none,female
+Button,444,none,Button,none,none,none,none,male
+Button-Bright,444,none,Button-Bright,none,none,none,none,male
+Button,447,none,Button,none,none,none,none,male
+Button-Bright,447,none,Button-Bright,none,none,none,none,male
+Dorothy,451,none,Dorothy,none,none,none,none,female
+King Renard,453,King,Renard,none,none,none,none,male
+Dorothy,455,none,Dorothy,none,none,none,none,female
+Ozma,456,none,Ozma,none,none,none,none,female
+Button,462,none,Button,none,none,none,none,male
+Button-Bright,462,none,Button-Bright,none,none,none,none,male
+Dorothy,462,none,Dorothy,none,none,none,none,female
+Button,463,none,Button,none,none,none,none,male
+Button-Bright,463,none,Button-Bright,none,none,none,none,male
+Button,466,none,Button,none,none,none,none,male
+Button-Bright,466,none,Button-Bright,none,none,none,none,male
+Dorothy,470,none,Dorothy,none,none,none,none,female
+Ozma,471,none,Ozma,none,none,none,none,female
+Button,472,none,Button,none,none,none,none,male
+Button-Bright,472,none,Button-Bright,none,none,none,none,male
+Dorothy,473,none,Dorothy,none,none,none,none,female
+Dorothy,476,none,Dorothy,none,none,none,none,female
+Dorothy,477,none,Dorothy,none,none,none,none,female
+Button,477,none,Button,none,none,none,none,male
+Button-Bright,477,none,Button-Bright,none,none,none,none,male
+Dorothy,483,none,Dorothy,none,none,none,none,female
+Aesop,485,none,Aesop,none,none,none,none,male
+Aesop,486,none,Aesop,none,none,none,none,male
+King Dox,487,King,Dox,none,none,none,none,male
+Aesop,493,none,Aesop,none,none,none,none,male
+Button,494,none,Button,none,none,none,none,male
+Button-Bright,494,none,Button-Bright,none,none,none,none,male
+Dorothy,497,none,Dorothy,none,none,none,none,female
+Dox,497,none,Dox,none,none,none,none,male
+Button,504,none,Button,none,none,none,none,male
+Button-Bright,504,none,Button-Bright,none,none,none,none,male
+Dorothy,504,none,Dorothy,none,none,none,none,female
+Dox,505,none,Dox,none,none,none,none,male
+Ozma,505,none,Ozma,none,none,none,none,female
+Ozma,508,none,Ozma,none,none,none,none,female
+Ozma,509,none,Ozma,none,none,none,none,female
+Fox,510,none,Fox,none,none,none,none,male
+Dorothy,512,none,Dorothy,none,none,none,none,female
+Button,519,none,Button,none,none,none,none,male
+Button-Bright,519,none,Button-Bright,none,none,none,none,male
+Dorothy,520,none,Dorothy,none,none,none,none,female
+Toto,522,none,Toto,none,none,none,none,male
+Dorothy,524,none,Dorothy,none,none,none,none,female
+Button,525,none,Button,none,none,none,none,male
+Button-Bright,525,none,Button-Bright,none,none,none,none,male
+Dorothy,528,none,Dorothy,none,none,none,none,female
+Dorothy,531,none,Dorothy,none,none,none,none,female
+Dorothy,533,none,Dorothy,none,none,none,none,female
+Dorothy,534,none,Dorothy,none,none,none,none,female
+Dorothy,536,none,Dorothy,none,none,none,none,female
+Dorothy,539,none,Dorothy,none,none,none,none,female
+Dorothy,541,none,Dorothy,none,none,none,none,female
+Dorothy,544,none,Dorothy,none,none,none,none,female
+Polychrome,548,none,Polychrome,none,none,none,none,female
+Dorothy,551,none,Dorothy,none,none,none,none,female
+Rainbow,551,none,Rainbow,none,none,none,none,male
+Polychrome,554,none,Polychrome,none,none,none,none,female
+Dorothy,556,none,Dorothy,none,none,none,none,female
+Dorothy,561,none,Dorothy,none,none,none,none,female
+Shaggy Man,561,none,Shaggy,none,Man,none,none,male
+Button,561,none,Button,none,none,none,none,male
+Button-Bright,561,none,Button-Bright,none,none,none,none,male
+Fox,561,none,Fox,none,none,none,none,male
+Button,562,none,Button,none,none,none,none,male
+Button-Bright,562,none,Button-Bright,none,none,none,none,male
+Rainbow,563,none,Rainbow,none,none,none,none,male
+Toto,565,none,Toto,none,none,none,none,male
+Polly,567,none,Polly,none,none,none,none,female
+Polly,567,none,Polly,none,none,none,none,female
+Polly,569,none,Polly,none,none,none,none,female
+Dorothy,569,none,Dorothy,none,none,none,none,female
+Polly,570,none,Polly,none,none,none,none,female
+Toto,570,none,Toto,none,none,none,none,male
+Button,570,none,Button,none,none,none,none,male
+Button-Bright,570,none,Button-Bright,none,none,none,none,male
+Polychrome,571,none,Polychrome,none,none,none,none,female
+Toto,571,none,Toto,none,none,none,none,male
+Rainbow,572,none,Rainbow,none,none,none,none,male
+Polly,576,none,Polly,none,none,none,none,female
+Dorothy,576,none,Dorothy,none,none,none,none,female
+Rainbow,577,none,Rainbow,none,none,none,none,male
+Dorothy,581,none,Dorothy,none,none,none,none,female
+Ozma,583,none,Ozma,none,none,none,none,female
+Polychrome,584,none,Polychrome,none,none,none,none,female
+Polly,588,none,Polly,none,none,none,none,female
+Dorothy,588,none,Dorothy,none,none,none,none,female
+Fox,591,none,Fox,none,none,none,none,male
+Polychrome,593,none,Polychrome,none,none,none,none,female
+Dorothy,594,none,Dorothy,none,none,none,none,female
+Rainbow,598,none,Rainbow,none,none,none,none,male
+Button,598,none,Button,none,none,none,none,male
+Button-Bright,598,none,Button-Bright,none,none,none,none,male
+Button,603,none,Button,none,none,none,none,male
+Button-Bright,603,none,Button-Bright,none,none,none,none,male
+Polychrome,606,none,Polychrome,none,none,none,none,female
+Dorothy,607,none,Dorothy,none,none,none,none,female
+Button,612,none,Button,none,none,none,none,male
+Button-Bright,612,none,Button-Bright,none,none,none,none,male
+Dorothy,613,none,Dorothy,none,none,none,none,female
+Oz,614,none,Oz,none,none,none,none,male
+Oz,615,none,Oz,none,none,none,none,male
+Scarecrow,618,none,Scarecrow,none,none,none,none,male
+Button,618,none,Button,none,none,none,none,male
+Button-Bright,618,none,Button-Bright,none,none,none,none,male
+Dorothy,621,none,Dorothy,none,none,none,none,female
+Button,621,none,Button,none,none,none,none,male
+Button-Bright,621,none,Button-Bright,none,none,none,none,male
+Rainbow,621,none,Rainbow,none,none,none,none,male
+Dorothy,624,none,Dorothy,none,none,none,none,female
+Button,626,none,Button,none,none,none,none,male
+Button-Bright,626,none,Button-Bright,none,none,none,none,male
+Polychrome,626,none,Polychrome,none,none,none,none,female
+Love Magnet,628,none,Love,none,Magnet,none,none,female
+Dorothy,632,none,Dorothy,none,none,none,none,female
+Button,653,none,Button,none,none,none,none,male
+Button-Bright,653,none,Button-Bright,none,none,none,none,male
+Button,655,none,Button,none,none,none,none,male
+Button-Bright,655,none,Button-Bright,none,none,none,none,male
+Dorothy,664,none,Dorothy,none,none,none,none,female
+Kik-a-bray,671,none,Kik-a-bray,none,none,none,none,male
+Dorothy,672,none,Dorothy,none,none,none,none,female
+Dorothy,686,none,Dorothy,none,none,none,none,female
+Madam de Fayke,687,Madam,none,none,de Fayke,none,none,female
+Hoofist,687,none,Hoofist,none,none,none,none,female
+Dorothy,692,none,Dorothy,none,none,none,none,female
+Button,694,none,Button,none,none,none,none,male
+Button-Bright,694,none,Button-Bright,none,none,none,none,male
+Dorothy,696,none,Dorothy,none,none,none,none,female
+Kik-a-bray,701,none,Kik-a-bray,none,none,none,none,male
+Dorothy,713,none,Dorothy,none,none,none,none,female
+Button,717,none,Button,none,none,none,none,male
+Button-Bright,717,none,Button-Bright,none,none,none,none,male
+Love Magnet,721,none,Love,none,Magnet,none,none,female
+Dorothy,725,none,Dorothy,none,none,none,none,female
+Polly,725,none,Polly,none,none,none,none,female
+Button,725,none,Button,none,none,none,none,male
+Button-Bright,725,none,Button-Bright,none,none,none,none,male
+Dorothy,742,none,Dorothy,none,none,none,none,female
+Shaggy Man,745,none,Shaggy,none,Man,none,none,male
+Dorothy,745,none,Dorothy,none,none,none,none,female
+Kik-a-bray,747,none,Kik-a-bray,none,none,none,none,male
+Ozma,748,none,Ozma,none,none,none,none,female
+Ozma,750,none,Ozma,none,none,none,none,female
+Dorothy,751,none,Dorothy,none,none,none,none,female
+Ozma,755,none,Ozma,none,none,none,none,female
+Polychrome,759,none,Polychrome,none,none,none,none,female
+Button,761,none,Button,none,none,none,none,male
+Button-Bright,761,none,Button-Bright,none,none,none,none,male
+Polly,764,none,Polly,none,none,none,none,female
+Ozma,765,none,Ozma,none,none,none,none,female
+Dorothy,765,none,Dorothy,none,none,none,none,female
+Rainbow,765,none,Rainbow,none,none,none,none,male
+Polychrome,766,none,Polychrome,none,none,none,none,female
+Dorothy,768,none,Dorothy,none,none,none,none,female
+Ozma,768,none,Ozma,none,none,none,none,female
+Oz,768,none,Oz,none,none,none,none,male
+Kik-a-bray,770,none,Kik-a-bray,none,none,none,none,male
+Dorothy,772,none,Dorothy,none,none,none,none,female
+Kik-a-bray,773,none,Kik-a-bray,none,none,none,none,male
+Polychrome,778,none,Polychrome,none,none,none,none,female
+Button,780,none,Button,none,none,none,none,male
+Button-Bright,780,none,Button-Bright,none,none,none,none,male
+Dorothy,781,none,Dorothy,none,none,none,none,female
+Polychrome,787,none,Polychrome,none,none,none,none,female
+Dorothy,790,none,Dorothy,none,none,none,none,female
+Button,792,none,Button,none,none,none,none,male
+Button-Bright,792,none,Button-Bright,none,none,none,none,male
+Button,800,none,Button,none,none,none,none,male
+Button-Bright,800,none,Button-Bright,none,none,none,none,male
+Dorothy,801,none,Dorothy,none,none,none,none,female
+Polly,801,none,Polly,none,none,none,none,female
+Kik-a-bray,804,none,Kik-a-bray,none,none,none,none,male
+Button,805,none,Button,none,none,none,none,male
+Button-Bright,805,none,Button-Bright,none,none,none,none,male
+Dorothy,806,none,Dorothy,none,none,none,none,female
+Button,807,none,Button,none,none,none,none,male
+Button-Bright,807,none,Button-Bright,none,none,none,none,male
+Polly,808,none,Polly,none,none,none,none,female
+Toto,809,none,Toto,none,none,none,none,male
+Dorothy,809,none,Dorothy,none,none,none,none,female
+Kik-a-bray,812,none,Kik-a-bray,none,none,none,none,male
+Dorothy,813,none,Dorothy,none,none,none,none,female
+Polychrome,815,none,Polychrome,none,none,none,none,female
+Toto,816,none,Toto,none,none,none,none,male
+Dorothy,816,none,Dorothy,none,none,none,none,female
+Button,817,none,Button,none,none,none,none,male
+Button-Bright,817,none,Button-Bright,none,none,none,none,male
+Dorothy,827,none,Dorothy,none,none,none,none,female
+Button,828,none,Button,none,none,none,none,male
+Button-Bright,828,none,Button-Bright,none,none,none,none,male
+Dorothy,831,none,Dorothy,none,none,none,none,female
+Polychrome,832,none,Polychrome,none,none,none,none,female
+Button,841,none,Button,none,none,none,none,male
+Button-Bright,841,none,Button-Bright,none,none,none,none,male
+Dorothy,842,none,Dorothy,none,none,none,none,female
+Dorothy,852,none,Dorothy,none,none,none,none,female
+Polychrome,856,none,Polychrome,none,none,none,none,female
+Button,859,none,Button,none,none,none,none,male
+Button-Bright,859,none,Button-Bright,none,none,none,none,male
+Toto,860,none,Toto,none,none,none,none,male
+Dorothy,862,none,Dorothy,none,none,none,none,female
+Allegro da Capo,866,none,Allegro,none,da Capo,none,none,male
+Dorothy,868,none,Dorothy,none,none,none,none,female
+Button,869,none,Button,none,none,none,none,male
+Button-Bright,869,none,Button-Bright,none,none,none,none,male
+Polychrome,875,none,Polychrome,none,none,none,none,female
+Button,876,none,Button,none,none,none,none,male
+Button-Bright,876,none,Button-Bright,none,none,none,none,male
+Polly,877,none,Polly,none,none,none,none,female
+Dorothy,877,none,Dorothy,none,none,none,none,female
+Button,878,none,Button,none,none,none,none,male
+Button-Bright,878,none,Button-Bright,none,none,none,none,male
+Toto,879,none,Toto,none,none,none,none,male
+Dorothy,887,none,Dorothy,none,none,none,none,female
+Button,888,none,Button,none,none,none,none,male
+Button-Bright,888,none,Button-Bright,none,none,none,none,male
+Button,891,none,Button,none,none,none,none,male
+Button-Bright,891,none,Button-Bright,none,none,none,none,male
+Ozma,893,none,Ozma,none,none,none,none,female
+Dorothy,894,none,Dorothy,none,none,none,none,female
+Ozma,895,none,Ozma,none,none,none,none,female
+Polly,897,none,Polly,none,none,none,none,female
+Toto,898,none,Toto,none,none,none,none,male
+Dorothy,899,none,Dorothy,none,none,none,none,female
+Polly,902,none,Polly,none,none,none,none,female
+Dorothy,902,none,Dorothy,none,none,none,none,female
+Button,904,none,Button,none,none,none,none,male
+Button-Bright,904,none,Button-Bright,none,none,none,none,male
+Ozma,905,none,Ozma,none,none,none,none,female
+Button,906,none,Button,none,none,none,none,male
+Button-Bright,906,none,Button-Bright,none,none,none,none,male
+Dorothy,908,none,Dorothy,none,none,none,none,female
+Toto,909,none,Toto,none,none,none,none,male
+Button,913,none,Button,none,none,none,none,male
+Button-Bright,913,none,Button-Bright,none,none,none,none,male
+Polychrome,913,none,Polychrome,none,none,none,none,female
+Dorothy,916,none,Dorothy,none,none,none,none,female
+Button,916,none,Button,none,none,none,none,male
+Button-Bright,916,none,Button-Bright,none,none,none,none,male
+Polly,916,none,Polly,none,none,none,none,female
+Toto,916,none,Toto,none,none,none,none,male
+Rainbow,917,none,Rainbow,none,none,none,none,male
+Dorothy,918,none,Dorothy,none,none,none,none,female
+Button,919,none,Button,none,none,none,none,male
+Button-Bright,919,none,Button-Bright,none,none,none,none,male
+Dorothy,920,none,Dorothy,none,none,none,none,female
+Polychrome,921,none,Polychrome,none,none,none,none,female
+Ozma,923,none,Ozma,none,none,none,none,female
+Button,924,none,Button,none,none,none,none,male
+Button-Bright,924,none,Button-Bright,none,none,none,none,male
+Rainbow,926,none,Rainbow,none,none,none,none,male
+Button,928,none,Button,none,none,none,none,male
+Button-Bright,928,none,Button-Bright,none,none,none,none,male
+Toto,930,none,Toto,none,none,none,none,male
+Dorothy,930,none,Dorothy,none,none,none,none,female
+Toto,931,none,Toto,none,none,none,none,male
+Dorothy,937,none,Dorothy,none,none,none,none,female
+Button,938,none,Button,none,none,none,none,male
+Button-Bright,938,none,Button-Bright,none,none,none,none,male
+Dorothy,942,none,Dorothy,none,none,none,none,female
+Toto,943,none,Toto,none,none,none,none,male
+Button,945,none,Button,none,none,none,none,male
+Button-Bright,945,none,Button-Bright,none,none,none,none,male
+Dorothy,947,none,Dorothy,none,none,none,none,female
+Polychrome,947,none,Polychrome,none,none,none,none,female
+Polychrome,949,none,Polychrome,none,none,none,none,female
+Polly,950,none,Polly,none,none,none,none,female
+Dorothy,950,none,Dorothy,none,none,none,none,female
+Polychrome,955,none,Polychrome,none,none,none,none,female
+Dorothy,956,none,Dorothy,none,none,none,none,female
+Button,957,none,Button,none,none,none,none,male
+Button-Bright,957,none,Button-Bright,none,none,none,none,male
+Toto,958,none,Toto,none,none,none,none,male
+Dorothy,958,none,Dorothy,none,none,none,none,female
+Dorothy,960,none,Dorothy,none,none,none,none,female
+Dorothy,968,none,Dorothy,none,none,none,none,female
+Button,969,none,Button,none,none,none,none,male
+Button-Bright,969,none,Button-Bright,none,none,none,none,male
+Polychrome,972,none,Polychrome,none,none,none,none,female
+Dorothy,972,none,Dorothy,none,none,none,none,female
+Dorothy,979,none,Dorothy,none,none,none,none,female
+Button,982,none,Button,none,none,none,none,male
+Button-Bright,982,none,Button-Bright,none,none,none,none,male
+Toto,982,none,Toto,none,none,none,none,male
+Button,994,none,Button,none,none,none,none,male
+Button-Bright,994,none,Button-Bright,none,none,none,none,male
+Toto,995,none,Toto,none,none,none,none,male
+Toto,996,none,Toto,none,none,none,none,male
+Toto,998,none,Toto,none,none,none,none,male
+Dorothy,998,none,Dorothy,none,none,none,none,female
+Rainbow,999,none,Rainbow,none,none,none,none,male
+Dorothy,1003,none,Dorothy,none,none,none,none,female
+Dorothy,1012,none,Dorothy,none,none,none,none,female
+Button,1014,none,Button,none,none,none,none,male
+Button-Bright,1014,none,Button-Bright,none,none,none,none,male
+Dorothy,1014,none,Dorothy,none,none,none,none,female
+Polly,1014,none,Polly,none,none,none,none,female
+Button,1016,none,Button,none,none,none,none,male
+Button-Bright,1016,none,Button-Bright,none,none,none,none,male
+Rainbow,1019,none,Rainbow,none,none,none,none,male
+Scoodlers,1020,none,Scoodlers,none,none,none,none,female
+Dorothy,1021,none,Dorothy,none,none,none,none,female
+Scoodlers,1022,none,Scoodlers,none,none,none,none,female
+Scoodlers,1027,none,Scoodlers,none,none,none,none,female
+Dorothy,1028,none,Dorothy,none,none,none,none,female
+Button,1038,none,Button,none,none,none,none,male
+Button-Bright,1038,none,Button-Bright,none,none,none,none,male
+Dorothy,1041,none,Dorothy,none,none,none,none,female
+Polly,1042,none,Polly,none,none,none,none,female
+Scoodlers,1048,none,Scoodlers,none,none,none,none,female
+Polychrome,1055,none,Polychrome,none,none,none,none,female
+Polly,1056,none,Polly,none,none,none,none,female
+Dorothy,1057,none,Dorothy,none,none,none,none,female
+Button,1057,none,Button,none,none,none,none,male
+Button-Bright,1057,none,Button-Bright,none,none,none,none,male
+Polychrome,1058,none,Polychrome,none,none,none,none,female
+Rainbow,1059,none,Rainbow,none,none,none,none,male
+Dorothy,1061,none,Dorothy,none,none,none,none,female
+Polly,1061,none,Polly,none,none,none,none,female
+Button,1062,none,Button,none,none,none,none,male
+Button-Bright,1062,none,Button-Bright,none,none,none,none,male
+Dorothy,1063,none,Dorothy,none,none,none,none,female
+Toto,1063,none,Toto,none,none,none,none,male
+Polly,1063,none,Polly,none,none,none,none,female
+Button,1064,none,Button,none,none,none,none,male
+Button-Bright,1064,none,Button-Bright,none,none,none,none,male
+Scoodlers,1065,none,Scoodlers,none,none,none,none,female
+Dorothy,1067,none,Dorothy,none,none,none,none,female
+Polly,1067,none,Polly,none,none,none,none,female
+Scoodlers,1067,none,Scoodlers,none,none,none,none,female
+Button,1068,none,Button,none,none,none,none,male
+Button-Bright,1068,none,Button-Bright,none,none,none,none,male
+Dorothy,1068,none,Dorothy,none,none,none,none,female
+Scoodlers,1070,none,Scoodlers,none,none,none,none,female
+Scoodlers,1076,none,Scoodlers,none,none,none,none,female
+Button,1077,none,Button,none,none,none,none,male
+Button-Bright,1077,none,Button-Bright,none,none,none,none,male
+Scoodlers,1079,none,Scoodlers,none,none,none,none,female
+Scoodlers,1080,none,Scoodlers,none,none,none,none,female
+Dorothy,1081,none,Dorothy,none,none,none,none,female
+Button,1082,none,Button,none,none,none,none,male
+Button-Bright,1082,none,Button-Bright,none,none,none,none,male
+Dorothy,1094,none,Dorothy,none,none,none,none,female
+Button,1096,none,Button,none,none,none,none,male
+Button-Bright,1096,none,Button-Bright,none,none,none,none,male
+Dorothy,1097,none,Dorothy,none,none,none,none,female
+Rainbow,1098,none,Rainbow,none,none,none,none,male
+Button,1100,none,Button,none,none,none,none,male
+Button-Bright,1100,none,Button-Bright,none,none,none,none,male
+Polly,1101,none,Polly,none,none,none,none,female
+Dorothy,1101,none,Dorothy,none,none,none,none,female
+Toto,1104,none,Toto,none,none,none,none,male
+Button,1106,none,Button,none,none,none,none,male
+Button-Bright,1106,none,Button-Bright,none,none,none,none,male
+Dorothy,1111,none,Dorothy,none,none,none,none,female
+Polly,1111,none,Polly,none,none,none,none,female
+Polychrome,1112,none,Polychrome,none,none,none,none,female
+Dorothy,1113,none,Dorothy,none,none,none,none,female
+Polychrome,1114,none,Polychrome,none,none,none,none,female
+Dorothy,1115,none,Dorothy,none,none,none,none,female
+Ozma,1118,none,Ozma,none,none,none,none,female
+Nome King,1118,none,Nome,none,King,none,none,male
+Polly,1120,none,Polly,none,none,none,none,female
+Button,1122,none,Button,none,none,none,none,male
+Button-Bright,1122,none,Button-Bright,none,none,none,none,male
+Love Magnet,1123,none,Love,none,Magnet,none,none,female
+Dorothy,1124,none,Dorothy,none,none,none,none,female
+Johnny Dooit,1125,none,Johnny,none,Dooit,none,none,male
+Johnny,1126,none,Johnny,none,none,none,none,male
+Johnny Dooit,1129,none,Johnny,none,Dooit,none,none,male
+Dorothy,1135,none,Dorothy,none,none,none,none,female
+Johnny Dooit,1135,none,Johnny,none,Dooit,none,none,male
+Johnny,1136,none,Johnny,none,none,none,none,male
+Shaggy Man,1141,none,Shaggy,none,Man,none,none,male
+Johnny Dooit,1142,none,Johnny,none,Dooit,none,none,male
+Dorothy,1142,none,Dorothy,none,none,none,none,female
+Toto,1142,none,Toto,none,none,none,none,male
+Button,1142,none,Button,none,none,none,none,male
+Button-Bright,1142,none,Button-Bright,none,none,none,none,male
+Rainbow,1142,none,Rainbow,none,none,none,none,male
+Dorothy,1142,none,Dorothy,none,none,none,none,female
+Johnny Dooit,1144,none,Johnny,none,Dooit,none,none,male
+Dorothy,1149,none,Dorothy,none,none,none,none,female
+Johnny Dooit,1153,none,Johnny,none,Dooit,none,none,male
+Dorothy,1155,none,Dorothy,none,none,none,none,female
+Johnny Dooit,1156,none,Johnny,none,Dooit,none,none,male
+Dorothy,1158,none,Dorothy,none,none,none,none,female
+Johnny Dooit,1161,none,Johnny,none,Dooit,none,none,male
+Dorothy,1167,none,Dorothy,none,none,none,none,female
+Button,1167,none,Button,none,none,none,none,male
+Button-Bright,1167,none,Button-Bright,none,none,none,none,male
+Polly,1167,none,Polly,none,none,none,none,female
+Johnny Dooit,1168,none,Johnny,none,Dooit,none,none,male
+Johnny Dooit,1171,none,Johnny,none,Dooit,none,none,male
+Dorothy,1179,none,Dorothy,none,none,none,none,female
+Johnny Dooit,1179,none,Johnny,none,Dooit,none,none,male
+Dorothy,1187,none,Dorothy,none,none,none,none,female
+Toto,1187,none,Toto,none,none,none,none,male
+Button,1188,none,Button,none,none,none,none,male
+Button-Bright,1188,none,Button-Bright,none,none,none,none,male
+Dorothy,1188,none,Dorothy,none,none,none,none,female
+Polly,1188,none,Polly,none,none,none,none,female
+Dorothy,1195,none,Dorothy,none,none,none,none,female
+Polychrome,1196,none,Polychrome,none,none,none,none,female
+Dorothy,1204,none,Dorothy,none,none,none,none,female
+Button,1204,none,Button,none,none,none,none,male
+Button-Bright,1204,none,Button-Bright,none,none,none,none,male
+Toto,1204,none,Toto,none,none,none,none,male
+Polly,1204,none,Polly,none,none,none,none,female
+Toto,1205,none,Toto,none,none,none,none,male
+Dorothy,1207,none,Dorothy,none,none,none,none,female
+Polly,1208,none,Polly,none,none,none,none,female
+Button,1208,none,Button,none,none,none,none,male
+Button-Bright,1208,none,Button-Bright,none,none,none,none,male
+Button,1209,none,Button,none,none,none,none,male
+Button-Bright,1209,none,Button-Bright,none,none,none,none,male
+Dorothy,1213,none,Dorothy,none,none,none,none,female
+Dorothy,1226,none,Dorothy,none,none,none,none,female
+Button,1233,none,Button,none,none,none,none,male
+Button-Bright,1233,none,Button-Bright,none,none,none,none,male
+Nick Chopper,1235,none,Nick,none,Chopper,none,none,male
+Wizard,1235,none,Wizard,none,none,none,none,male
+Button,1239,none,Button,none,none,none,none,male
+Button-Bright,1239,none,Button-Bright,none,none,none,none,male
+Scarecrow,1242,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1242,none,Tin,none,Woodman,none,none,male
+Winkies,1242,none,Winkies,none,none,none,none,female
+Polly,1243,none,Polly,none,none,none,none,female
+Dorothy,1244,none,Dorothy,none,none,none,none,female
+Nick Chopper,1245,none,Nick,none,Chopper,none,none,male
+Button,1246,none,Button,none,none,none,none,male
+Button-Bright,1246,none,Button-Bright,none,none,none,none,male
+Ozma,1250,none,Ozma,none,none,none,none,female
+Oz,1250,none,Oz,none,none,none,none,male
+Ozma,1251,none,Ozma,none,none,none,none,female
+Ozma,1252,none,Ozma,none,none,none,none,female
+Button,1253,none,Button,none,none,none,none,male
+Button-Bright,1253,none,Button-Bright,none,none,none,none,male
+Polychrome,1255,none,Polychrome,none,none,none,none,female
+Dorothy,1258,none,Dorothy,none,none,none,none,female
+Button,1259,none,Button,none,none,none,none,male
+Button-Bright,1259,none,Button-Bright,none,none,none,none,male
+Polly,1261,none,Polly,none,none,none,none,female
+Dorothy,1261,none,Dorothy,none,none,none,none,female
+Button,1261,none,Button,none,none,none,none,male
+Button-Bright,1261,none,Button-Bright,none,none,none,none,male
+Dorothy,1263,none,Dorothy,none,none,none,none,female
+Button,1266,none,Button,none,none,none,none,male
+Button-Bright,1266,none,Button-Bright,none,none,none,none,male
+Dorothy,1267,none,Dorothy,none,none,none,none,female
+Ozma,1271,none,Ozma,none,none,none,none,female
+Button,1272,none,Button,none,none,none,none,male
+Button-Bright,1272,none,Button-Bright,none,none,none,none,male
+Button,1275,none,Button,none,none,none,none,male
+Button-Bright,1275,none,Button-Bright,none,none,none,none,male
+Dox,1275,none,Dox,none,none,none,none,male
+Foxville,1275,none,Foxville,none,none,none,none,male
+Polly,1276,none,Polly,none,none,none,none,female
+Dorothy,1278,none,Dorothy,none,none,none,none,female
+Button,1283,none,Button,none,none,none,none,male
+Dorothy,1289,none,Dorothy,none,none,none,none,female
+Button,1290,none,Button,none,none,none,none,male
+Button-Bright,1290,none,Button-Bright,none,none,none,none,male
+Dorothy,1296,none,Dorothy,none,none,none,none,female
+Button,1298,none,Button,none,none,none,none,male
+Button-Bright,1298,none,Button-Bright,none,none,none,none,male
+Dorothy,1301,none,Dorothy,none,none,none,none,female
+Polychrome,1302,none,Polychrome,none,none,none,none,female
+Polly,1305,none,Polly,none,none,none,none,female
+Dorothy,1305,none,Dorothy,none,none,none,none,female
+Rainbow,1306,none,Rainbow,none,none,none,none,male
+Dorothy,1308,none,Dorothy,none,none,none,none,female
+Billina,1310,none,Billina,none,none,none,none,female
+Dorothy,1310,none,Dorothy,none,none,none,none,female
+Billina,1311,none,Billina,none,none,none,none,female
+Dorothy,1315,none,Dorothy,none,none,none,none,female
+Billina,1315,none,Billina,none,none,none,none,female
+Dorothy,1315,none,Dorothy,none,none,none,none,female
+Billina,1316,none,Billina,none,none,none,none,female
+Toto,1317,none,Toto,none,none,none,none,male
+Dorothy,1317,none,Dorothy,none,none,none,none,female
+Billina,1320,none,Billina,none,none,none,none,female
+Toto,1321,none,Toto,none,none,none,none,male
+Dorothy,1321,none,Dorothy,none,none,none,none,female
+Tik-tok,1322,none,Tik-tok,none,none,none,none,male
+Billina,1323,none,Billina,none,none,none,none,female
+Toto,1324,none,Toto,none,none,none,none,male
+Dorothy,1324,none,Dorothy,none,none,none,none,female
+Uncle Henry,1324,Uncle,Henry,none,none,none,none,male
+Toto,1325,none,Toto,none,none,none,none,male
+Billina,1325,none,Billina,none,none,none,none,female
+Toto,1326,none,Toto,none,none,none,none,male
+Billina,1327,none,Billina,none,none,none,none,female
+Dorothy,1328,none,Dorothy,none,none,none,none,female
+Billina,1329,none,Billina,none,none,none,none,female
+Billina,1330,none,Billina,none,none,none,none,female
+Toto,1332,none,Toto,none,none,none,none,male
+Toto,1333,none,Toto,none,none,none,none,male
+Toto,1333,none,Toto,none,none,none,none,male
+Dorothy,1334,none,Dorothy,none,none,none,none,female
+Billina,1335,none,Billina,none,none,none,none,female
+Tik-tok,1336,none,Tik-tok,none,none,none,none,male
+Tik-tok,1339,none,Tik-tok,none,none,none,none,male
+Billina,1339,none,Billina,none,none,none,none,female
+Button,1340,none,Button,none,none,none,none,male
+Button-Bright,1340,none,Button-Bright,none,none,none,none,male
+Tik-tok,1342,none,Tik-tok,none,none,none,none,male
+Polly the Rainbow,1342,none,Polly the Rainbow,none,none,none,none,female
+Button,1342,none,Button,none,none,none,none,male
+Button-Bright,1342,none,Button-Bright,none,none,none,none,male
+Toto,1342,none,Toto,none,none,none,none,male
+Toto,1343,none,Toto,none,none,none,none,male
+Oz,1343,none,Oz,none,none,none,none,male
+Billina,1350,none,Billina,none,none,none,none,female
+Dorothy,1350,none,Dorothy,none,none,none,none,female
+Dorothy,1351,none,Dorothy,none,none,none,none,female
+Billina,1355,none,Billina,none,none,none,none,female
+Dorothy,1357,none,Dorothy,none,none,none,none,female
+Billina,1359,none,Billina,none,none,none,none,female
+Dorothy,1363,none,Dorothy,none,none,none,none,female
+Billina,1364,none,Billina,none,none,none,none,female
+Dorothy,1364,none,Dorothy,none,none,none,none,female
+Tik-tok,1366,none,Tik-tok,none,none,none,none,male
+Dorothy,1367,none,Dorothy,none,none,none,none,female
+Button,1368,none,Button,none,none,none,none,male
+Button-Bright,1368,none,Button-Bright,none,none,none,none,male
+Polly,1369,none,Polly,none,none,none,none,female
+Billina,1370,none,Billina,none,none,none,none,female
+Tik-tok,1370,none,Tik-tok,none,none,none,none,male
+Dorothy,1372,none,Dorothy,none,none,none,none,female
+Dorothy,1373,none,Dorothy,none,none,none,none,female
+Tik-tok,1373,none,Tik-tok,none,none,none,none,male
+Oz,1375,none,Oz,none,none,none,none,male
+Dorothy,1377,none,Dorothy,none,none,none,none,female
+Dorothy,1380,none,Dorothy,none,none,none,none,female
+Nick Chopper,1381,none,Nick,none,Chopper,none,none,male
+Billina,1383,none,Billina,none,none,none,none,female
+Tin Woodman,1383,none,Tin,none,Woodman,none,none,male
+Dorothy,1384,none,Dorothy,none,none,none,none,female
+Ozma,1384,none,Ozma,none,none,none,none,female
+Dorothy,1385,none,Dorothy,none,none,none,none,female
+Polychrome,1386,none,Polychrome,none,none,none,none,female
+Button,1387,none,Button,none,none,none,none,male
+Button-Bright,1387,none,Button-Bright,none,none,none,none,male
+Button,1389,none,Button,none,none,none,none,male
+Button-Bright,1389,none,Button-Bright,none,none,none,none,male
+Dorothy,1389,none,Dorothy,none,none,none,none,female
+Button,1390,none,Button,none,none,none,none,male
+Button-Bright,1390,none,Button-Bright,none,none,none,none,male
+Dorothy,1390,none,Dorothy,none,none,none,none,female
+Billina,1390,none,Billina,none,none,none,none,female
+Polly,1391,none,Polly,none,none,none,none,female
+Toto,1392,none,Toto,none,none,none,none,male
+Nick Chopper,1394,none,Nick,none,Chopper,none,none,male
+Dorothy,1396,none,Dorothy,none,none,none,none,female
+Billina,1398,none,Billina,none,none,none,none,female
+Button,1400,none,Button,none,none,none,none,male
+Button-Bright,1400,none,Button-Bright,none,none,none,none,male
+Dorothy,1401,none,Dorothy,none,none,none,none,female
+Nick Chopper,1403,none,Nick,none,Chopper,none,none,male
+Emperor,1403,Emperor,none,none,none,none,none,male
+Dorothy,1404,none,Dorothy,none,none,none,none,female
+Toto,1406,none,Toto,none,none,none,none,male
+Toto,1407,none,Toto,none,none,none,none,male
+Dorothy,1407,none,Dorothy,none,none,none,none,female
+Dorothy,1408,none,Dorothy,none,none,none,none,female
+Scarecrow,1408,none,Scarecrow,none,none,none,none,male
+Wizard,1408,none,Wizard,none,none,none,none,male
+Ozma,1408,none,Ozma,none,none,none,none,female
+Tin Woodman,1409,none,Tin,none,Woodman,none,none,male
+Dorothy,1409,none,Dorothy,none,none,none,none,female
+Rainbow,1410,none,Rainbow,none,none,none,none,male
+Button,1411,none,Button,none,none,none,none,male
+Button-Bright,1411,none,Button-Bright,none,none,none,none,male
+Nick Chopper,1412,none,Nick,none,Chopper,none,none,male
+Tin Woodman,1412,none,Tin,none,Woodman,none,none,male
+Dorothy,1421,none,Dorothy,none,none,none,none,female
+Tin Woodman,1423,none,Tin,none,Woodman,none,none,male
+Tin Woodman,1426,none,Tin,none,Woodman,none,none,male
+Oz,1428,none,Oz,none,none,none,none,male
+Butterfield,1430,none,Butterfield,none,none,none,none,female
+Tin Woodman,1433,none,Tin,none,Woodman,none,none,male
+Ozma,1435,none,Ozma,none,none,none,none,female
+Shaggy Man,1438,none,Shaggy,none,Man,none,none,male
+Toto,1441,none,Toto,none,none,none,none,male
+Emperor,1442,Emperor,none,none,none,none,none,male
+Dorothy,1442,none,Dorothy,none,none,none,none,female
+Toto,1443,none,Toto,none,none,none,none,male
+Dorothy,1443,none,Dorothy,none,none,none,none,female
+Dorothy,1444,none,Dorothy,none,none,none,none,female
+Button,1445,none,Button,none,none,none,none,male
+Button-Bright,1445,none,Button-Bright,none,none,none,none,male
+Tin Woodman,1445,none,Tin,none,Woodman,none,none,male
+Button,1446,none,Button,none,none,none,none,male
+Button-Bright,1446,none,Button-Bright,none,none,none,none,male
+Tin Woodman,1448,none,Tin,none,Woodman,none,none,male
+Wogglebug,1448,none,Wogglebug,none,none,none,none,male
+Polly,1448,none,Polly,none,none,none,none,female
+Tin Woodman,1449,none,Tin,none,Woodman,none,none,male
+Polychrome,1450,none,Polychrome,none,none,none,none,female
+Rainbow,1451,none,Rainbow,none,none,none,none,male
+Tin Woodman,1451,none,Tin,none,Woodman,none,none,male
+Dorothy,1451,none,Dorothy,none,none,none,none,female
+Miss Polly,1451,Miss,none,none,Polly,none,none,female
+Tin Woodman,1454,none,Tin,none,Woodman,none,none,male
+Winkies,1456,none,Winkies,none,none,none,none,female
+Dorothy,1457,none,Dorothy,none,none,none,none,female
+Button,1457,none,Button,none,none,none,none,male
+Button-Bright,1457,none,Button-Bright,none,none,none,none,male
+Tin Woodman,1460,none,Tin,none,Woodman,none,none,male
+Tik-tok,1461,none,Tik-tok,none,none,none,none,male
+Oz,1461,none,Oz,none,none,none,none,male
+Dorothy,1465,none,Dorothy,none,none,none,none,female
+Jack Pumpkinhead,1466,none,Jack,none,Pumpkinhead,none,none,male
+Tin Woodman,1466,none,Tin,none,Woodman,none,none,male
+Dorothy,1469,none,Dorothy,none,none,none,none,female
+Jack,1473,none,Jack,none,none,none,none,male
+Dorothy,1473,none,Dorothy,none,none,none,none,female
+Tin Woodman,1475,none,Tin,none,Woodman,none,none,male
+Jack,1476,none,Jack,none,none,none,none,male
+Dorothy,1483,none,Dorothy,none,none,none,none,female
+Jack Pumpkinhead,1483,none,Jack,none,Pumpkinhead,none,none,male
+Nick Chopper,1484,none,Nick,none,Chopper,none,none,male
+Button,1485,none,Button,none,none,none,none,male
+Button-Bright,1485,none,Button-Bright,none,none,none,none,male
+Pumpkinhead,1485,none,Pumpkinhead,none,none,none,none,male
+Jack,1485,none,Jack,none,none,none,none,male
+Dorothy,1486,none,Dorothy,none,none,none,none,female
+Ozma,1488,none,Ozma,none,none,none,none,female
+Jack,1489,none,Jack,none,none,none,none,male
+Ozma,1490,none,Ozma,none,none,none,none,female
+Jack Pumpkinhead,1490,none,Jack,none,Pumpkinhead,none,none,male
+Dorothy,1494,none,Dorothy,none,none,none,none,female
+Jack,1497,none,Jack,none,none,none,none,male
+Tin Woodman,1497,none,Tin,none,Woodman,none,none,male
+Ozma,1500,none,Ozma,none,none,none,none,female
+Dorothy,1500,none,Dorothy,none,none,none,none,female
+Ozma,1502,none,Ozma,none,none,none,none,female
+Ozma,1505,none,Ozma,none,none,none,none,female
+Winkies,1507,none,Winkies,none,none,none,none,female
+Tin Woodman,1511,none,Tin,none,Woodman,none,none,male
+Pumpkinhead,1511,none,Pumpkinhead,none,none,none,none,male
+Sorcerer,1512,none,Sorcerer,none,none,none,none,male
+Witch,1513,none,Witch,none,none,none,none,female
+Mombi,1513,none,Mombi,none,none,none,none,female
+Sorcerer,1513,none,Sorcerer,none,none,none,none,male
+Ozma,1514,none,Ozma,none,none,none,none,female
+Witch,1514,none,Witch,none,none,none,none,female
+Mombi,1514,none,Mombi,none,none,none,none,female
+Mombi,1515,none,Mombi,none,none,none,none,female
+Sorcerer 's,1515,none,Sorcerer,none,'s,none,none,male
+Witch,1515,none,Witch,none,none,none,none,female
+Mombi,1516,none,Mombi,none,none,none,none,female
+Ozma,1517,none,Ozma,none,none,none,none,female
+Pumpkinhead,1517,none,Pumpkinhead,none,none,none,none,male
+Jack,1517,none,Jack,none,none,none,none,male
+Jack Pumpkinhead,1519,none,Jack,none,Pumpkinhead,none,none,male
+Ozma,1522,none,Ozma,none,none,none,none,female
+Tin Woodman,1524,none,Tin,none,Woodman,none,none,male
+Sorcerer,1525,none,Sorcerer,none,none,none,none,male
+Dyna,1526,none,Dyna,none,none,none,none,female
+Sorcerer,1527,none,Sorcerer,none,none,none,none,male
+Dyna,1529,none,Dyna,none,none,none,none,female
+Tin Woodman,1532,none,Tin,none,Woodman,none,none,male
+Dyna,1540,none,Dyna,none,none,none,none,female
+Dorothy,1540,none,Dorothy,none,none,none,none,female
+Tin Woodman,1541,none,Tin,none,Woodman,none,none,male
+Dorothy,1545,none,Dorothy,none,none,none,none,female
+Ozma,1545,none,Ozma,none,none,none,none,female
+Polly,1551,none,Polly,none,none,none,none,female
+Polychrome,1552,none,Polychrome,none,none,none,none,female
+Polly,1556,none,Polly,none,none,none,none,female
+Dorothy,1556,none,Dorothy,none,none,none,none,female
+Dorothy,1561,none,Dorothy,none,none,none,none,female
+Lion,1561,none,Lion,none,none,none,none,male
+Ozma,1561,none,Ozma,none,none,none,none,female
+Hungry Tiger,1563,none,Hungry,none,Tiger,none,none,male
+Dorothy,1564,none,Dorothy,none,none,none,none,female
+Tiger,1565,none,Tiger,none,none,none,none,male
+Dorothy,1567,none,Dorothy,none,none,none,none,female
+Polly,1569,none,Polly,none,none,none,none,female
+Polly,1569,none,Polly,none,none,none,none,female
+Dorothy,1570,none,Dorothy,none,none,none,none,female
+Wizard,1573,none,Wizard,none,none,none,none,male
+Polly,1574,none,Polly,none,none,none,none,female
+Dorothy,1577,none,Dorothy,none,none,none,none,female
+Dorothy,1579,none,Dorothy,none,none,none,none,female
+Tiger,1579,none,Tiger,none,none,none,none,male
+Tin Woodman,1582,none,Tin,none,Woodman,none,none,male
+Button,1583,none,Button,none,none,none,none,male
+Button-Bright,1583,none,Button-Bright,none,none,none,none,male
+Dorothy,1583,none,Dorothy,none,none,none,none,female
+Dorothy,1584,none,Dorothy,none,none,none,none,female
+Lion,1584,none,Lion,none,none,none,none,male
+Tiger,1584,none,Tiger,none,none,none,none,male
+Toto,1585,none,Toto,none,none,none,none,male
+Lion,1585,none,Lion,none,none,none,none,male
+Toto,1585,none,Toto,none,none,none,none,male
+Tiger,1586,none,Tiger,none,none,none,none,male
+Tiger,1586,none,Tiger,none,none,none,none,male
+Billina,1587,none,Billina,none,none,none,none,female
+Ozma,1587,none,Ozma,none,none,none,none,female
+Cowardly Lion,1588,none,Cowardly,none,Lion,none,none,male
+Ozma,1590,none,Ozma,none,none,none,none,female
+Dorothy,1591,none,Dorothy,none,none,none,none,female
+Cowardly Lion,1592,none,Cowardly,none,Lion,none,none,male
+Ozma,1592,none,Ozma,none,none,none,none,female
+Polly,1592,none,Polly,none,none,none,none,female
+Dorothy,1592,none,Dorothy,none,none,none,none,female
+Ozma,1594,none,Ozma,none,none,none,none,female
+Polly,1596,none,Polly,none,none,none,none,female
+Polychrome,1597,none,Polychrome,none,none,none,none,female
+Dorothy,1598,none,Dorothy,none,none,none,none,female
+Dorothy,1599,none,Dorothy,none,none,none,none,female
+Polychrome,1599,none,Polychrome,none,none,none,none,female
+Button,1599,none,Button,none,none,none,none,male
+Button,1601,none,Button,none,none,none,none,male
+Button-Bright,1601,none,Button-Bright,none,none,none,none,male
+Dorothy,1601,none,Dorothy,none,none,none,none,female
+Tin Woodman,1602,none,Tin,none,Woodman,none,none,male
+Tik-tok,1602,none,Tik-tok,none,none,none,none,male
+Dorothy,1603,none,Dorothy,none,none,none,none,female
+Dorothy,1606,none,Dorothy,none,none,none,none,female
+Gates,1606,none,Gates,none,none,none,none,female
+Polychrome,1608,none,Polychrome,none,none,none,none,female
+Button,1609,none,Button,none,none,none,none,male
+Button-Bright,1609,none,Button-Bright,none,none,none,none,male
+Ozma,1620,none,Ozma,none,none,none,none,female
+Button,1621,none,Button,none,none,none,none,male
+Button-Bright,1621,none,Button-Bright,none,none,none,none,male
+Cowardly Lion,1623,none,Cowardly,none,Lion,none,none,male
+Hungry Tiger,1623,none,Hungry,none,Tiger,none,none,male
+Dorothy,1624,none,Dorothy,none,none,none,none,female
+Button,1624,none,Button,none,none,none,none,male
+Button-Bright,1624,none,Button-Bright,none,none,none,none,male
+Polychrome,1625,none,Polychrome,none,none,none,none,female
+Dorothy,1627,none,Dorothy,none,none,none,none,female
+Jellia Jamb,1627,none,Jellia,none,Jamb,none,none,female
+Ozma,1629,none,Ozma,none,none,none,none,female
+Ozma,1629,none,Ozma,none,none,none,none,female
+Dorothy,1630,none,Dorothy,none,none,none,none,female
+Jellia,1632,none,Jellia,none,none,none,none,female
+Scarecrow,1634,none,Scarecrow,none,none,none,none,male
+Ozma,1634,none,Ozma,none,none,none,none,female
+Tin Woodman,1636,none,Tin,none,Woodman,none,none,male
+Billina,1636,none,Billina,none,none,none,none,female
+Lion,1636,none,Lion,none,none,none,none,male
+Tiger,1636,none,Tiger,none,none,none,none,male
+Toto,1637,none,Toto,none,none,none,none,male
+Dorothy,1637,none,Dorothy,none,none,none,none,female
+Jellia Jamb,1638,none,Jellia,none,Jamb,none,none,female
+Dorothy,1640,none,Dorothy,none,none,none,none,female
+Dorothy,1641,none,Dorothy,none,none,none,none,female
+Tin Woodman,1642,none,Tin,none,Woodman,none,none,male
+Ozma,1642,none,Ozma,none,none,none,none,female
+Dorothy,1643,none,Dorothy,none,none,none,none,female
+Button,1644,none,Button,none,none,none,none,male
+Button-Bright,1644,none,Button-Bright,none,none,none,none,male
+Jellia Jamb,1644,none,Jellia,none,Jamb,none,none,female
+Rainbow,1644,none,Rainbow,none,none,none,none,male
+Polychrome,1644,none,Polychrome,none,none,none,none,female
+Ozma,1648,none,Ozma,none,none,none,none,female
+Dorothy,1682,none,Dorothy,none,none,none,none,female
+Button,1682,none,Button,none,none,none,none,male
+Button-Bright,1682,none,Button-Bright,none,none,none,none,male
+Toto,1683,none,Toto,none,none,none,none,male
+Ozma,1683,none,Ozma,none,none,none,none,female
+Ozma,1684,none,Ozma,none,none,none,none,female
+Ozma,1686,none,Ozma,none,none,none,none,female
+Ozma,1687,none,Ozma,none,none,none,none,female
+Dorothy,1688,none,Dorothy,none,none,none,none,female
+Toto,1688,none,Toto,none,none,none,none,male
+Button,1688,none,Button,none,none,none,none,male
+Button-Bright,1688,none,Button-Bright,none,none,none,none,male
+Ozma,1690,none,Ozma,none,none,none,none,female
+Dorothy,1691,none,Dorothy,none,none,none,none,female
+Dorothy,1693,none,Dorothy,none,none,none,none,female
+Ozma,1694,none,Ozma,none,none,none,none,female
+Scoodlers,1695,none,Scoodlers,none,none,none,none,female
+Button,1697,none,Button,none,none,none,none,male
+Button-Bright,1697,none,Button-Bright,none,none,none,none,male
+Dorothy,1697,none,Dorothy,none,none,none,none,female
+Polly,1699,none,Polly,none,none,none,none,female
+Rainbow,1700,none,Rainbow,none,none,none,none,male
+Dorothy,1701,none,Dorothy,none,none,none,none,female
+Dox,1701,none,Dox,none,none,none,none,male
+Foxville,1701,none,Foxville,none,none,none,none,male
+Kik-a-bray,1701,none,Kik-a-bray,none,none,none,none,male
+Dunkiton,1701,none,Dunkiton,none,none,none,none,male
+Ozma,1702,none,Ozma,none,none,none,none,female
+Musicker,1703,none,Musicker,none,none,none,none,male
+Button,1703,none,Button,none,none,none,none,male
+Button-Bright,1703,none,Button-Bright,none,none,none,none,male
+Musicker,1706,none,Musicker,none,none,none,none,male
+Dorothy,1707,none,Dorothy,none,none,none,none,female
+Ozma,1708,none,Ozma,none,none,none,none,female
+Button,1708,none,Button,none,none,none,none,male
+Button-Bright,1708,none,Button-Bright,none,none,none,none,male
+Polychrome,1709,none,Polychrome,none,none,none,none,female
+Ozma,1709,none,Ozma,none,none,none,none,female
+Rainbow,1709,none,Rainbow,none,none,none,none,male
+Dorothy,1710,none,Dorothy,none,none,none,none,female
+Polly,1710,none,Polly,none,none,none,none,female
+Ozma,1710,none,Ozma,none,none,none,none,female
+Polly,1712,none,Polly,none,none,none,none,female
+Button,1712,none,Button,none,none,none,none,male
+Button-Bright,1712,none,Button-Bright,none,none,none,none,male
+Dorothy,1713,none,Dorothy,none,none,none,none,female
+Ozma,1713,none,Ozma,none,none,none,none,female
+Dorothy,1714,none,Dorothy,none,none,none,none,female
+Button,1715,none,Button,none,none,none,none,male
+Button-Bright,1715,none,Button-Bright,none,none,none,none,male
+Ozma,1715,none,Ozma,none,none,none,none,female
+Dorothy,1716,none,Dorothy,none,none,none,none,female
+Highness,1716,Highness,none,none,none,none,none,female
+Oz,1717,none,Oz,none,none,none,none,male
+Dorothy,1720,none,Dorothy,none,none,none,none,female
+Dorothy,1724,none,Dorothy,none,none,none,none,female
+Ozma,1725,none,Ozma,none,none,none,none,female
+Butterfield,1727,none,Butterfield,none,none,none,none,female
+Dorothy,1730,none,Dorothy,none,none,none,none,female
+Dorothy,1733,none,Dorothy,none,none,none,none,female
+Dorothy,1734,none,Dorothy,none,none,none,none,female
+Wizard,1734,none,Wizard,none,none,none,none,male
+Button,1735,none,Button,none,none,none,none,male
+Button-Bright,1735,none,Button-Bright,none,none,none,none,male
+Wizard,1737,none,Wizard,none,none,none,none,male
+Ozma,1737,none,Ozma,none,none,none,none,female
+Wizard,1738,none,Wizard,none,none,none,none,male
+Ozma,1740,none,Ozma,none,none,none,none,female
+Wizard,1740,none,Wizard,none,none,none,none,male
+Wizard,1741,none,Wizard,none,none,none,none,male
+Wizard,1743,none,Wizard,none,none,none,none,male
+Polychrome,1743,none,Polychrome,none,none,none,none,female
+Ozma,1745,none,Ozma,none,none,none,none,female
+Scarecrow,1747,none,Scarecrow,none,none,none,none,male
+Dorothy,1747,none,Dorothy,none,none,none,none,female
+Ozma,1748,none,Ozma,none,none,none,none,female
+Dorothy,1751,none,Dorothy,none,none,none,none,female
+Polly,1751,none,Polly,none,none,none,none,female
+Button,1751,none,Button,none,none,none,none,male
+Button-Bright,1751,none,Button-Bright,none,none,none,none,male
+Toto,1752,none,Toto,none,none,none,none,male
+Oz,1752,none,Oz,none,none,none,none,male
+Dorothy,1756,none,Dorothy,none,none,none,none,female
+Scarecrow,1756,none,Scarecrow,none,none,none,none,male
+Scarecrow,1758,none,Scarecrow,none,none,none,none,male
+Dorothy,1758,none,Dorothy,none,none,none,none,female
+Dorothy,1760,none,Dorothy,none,none,none,none,female
+Scarecrow,1760,none,Scarecrow,none,none,none,none,male
+Button,1761,none,Button,none,none,none,none,male
+Button-Bright,1761,none,Button-Bright,none,none,none,none,male
+Polychrome,1761,none,Polychrome,none,none,none,none,female
+Dorothy,1763,none,Dorothy,none,none,none,none,female
+Scarecrow,1764,none,Scarecrow,none,none,none,none,male
+Dorothy,1769,none,Dorothy,none,none,none,none,female
+Button,1770,none,Button,none,none,none,none,male
+Button-Bright,1770,none,Button-Bright,none,none,none,none,male
+Polly,1770,none,Polly,none,none,none,none,female
+Jellia Jamb,1772,none,Jellia,none,Jamb,none,none,female
+Ozma,1772,none,Ozma,none,none,none,none,female
+Dorothy,1772,none,Dorothy,none,none,none,none,female
+Dorothy,1774,none,Dorothy,none,none,none,none,female
+Ozma,1774,none,Ozma,none,none,none,none,female
+Polly,1774,none,Polly,none,none,none,none,female
+Button,1774,none,Button,none,none,none,none,male
+Button-Bright,1774,none,Button-Bright,none,none,none,none,male
+Scarecrow,1775,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1775,none,Tin,none,Woodman,none,none,male
+Dorothy,1777,none,Dorothy,none,none,none,none,female
+Scarecrow,1778,none,Scarecrow,none,none,none,none,male
+Button,1778,none,Button,none,none,none,none,male
+Button-Bright,1778,none,Button-Bright,none,none,none,none,male
+Dorothy,1779,none,Dorothy,none,none,none,none,female
+Scarecrow,1780,none,Scarecrow,none,none,none,none,male
+Button,1781,none,Button,none,none,none,none,male
+Button-Bright,1781,none,Button-Bright,none,none,none,none,male
+Scarecrow,1782,none,Scarecrow,none,none,none,none,male
+Button,1783,none,Button,none,none,none,none,male
+Button-Bright,1783,none,Button-Bright,none,none,none,none,male
+Scarecrow,1784,none,Scarecrow,none,none,none,none,male
+Button,1785,none,Button,none,none,none,none,male
+Button-Bright,1785,none,Button-Bright,none,none,none,none,male
+Scarecrow,1786,none,Scarecrow,none,none,none,none,male
+Button,1787,none,Button,none,none,none,none,male
+Button-Bright,1787,none,Button-Bright,none,none,none,none,male
+Scarecrow,1788,none,Scarecrow,none,none,none,none,male
+Button,1793,none,Button,none,none,none,none,male
+Button-Bright,1793,none,Button-Bright,none,none,none,none,male
+Jack Pumpkinhead,1794,none,Jack,none,Pumpkinhead,none,none,male
+Ozma,1794,none,Ozma,none,none,none,none,female
+Jellia Jamb,1796,none,Jellia,none,Jamb,none,none,female
+Ozma,1796,none,Ozma,none,none,none,none,female
+Sorceress,1798,none,Sorceress,none,none,none,none,female
+Glinda the Good,1798,none,Glinda the Good,none,none,none,none,female
+Ozma,1798,none,Ozma,none,none,none,none,female
+Dorothy,1798,none,Dorothy,none,none,none,none,female
+Glinda,1799,none,Glinda,none,none,none,none,female
+Dorothy,1800,none,Dorothy,none,none,none,none,female
+Button,1800,none,Button,none,none,none,none,male
+Button-Bright,1800,none,Button-Bright,none,none,none,none,male
+Polly,1800,none,Polly,none,none,none,none,female
+Jellia Jamb,1800,none,Jellia,none,Jamb,none,none,female
+Sorceress,1800,none,Sorceress,none,none,none,none,female
+Woggle-Bug,1801,none,Woggle-Bug,none,none,none,none,male
+Woggle-Bug,1802,none,Woggle-Bug,none,none,none,none,male
+Ozma,1802,none,Ozma,none,none,none,none,female
+Scarecrow,1803,none,Scarecrow,none,none,none,none,male
+Billina,1806,none,Billina,none,none,none,none,female
+Dorothy,1807,none,Dorothy,none,none,none,none,female
+Billina,1808,none,Billina,none,none,none,none,female
+Dorothy,1809,none,Dorothy,none,none,none,none,female
+Billina,1809,none,Billina,none,none,none,none,female
+Dorothy,1813,none,Dorothy,none,none,none,none,female
+Billina,1816,none,Billina,none,none,none,none,female
+Tik-tok,1816,none,Tik-tok,none,none,none,none,male
+Dorothy,1817,none,Dorothy,none,none,none,none,female
+Button,1818,none,Button,none,none,none,none,male
+Button-Bright,1818,none,Button-Bright,none,none,none,none,male
+Tin Woodman,1819,none,Tin,none,Woodman,none,none,male
+Dorothy,1821,none,Dorothy,none,none,none,none,female
+Billina,1821,none,Billina,none,none,none,none,female
+Ozma,1831,none,Ozma,none,none,none,none,female
+King Dough,1831,King,Dough,none,none,none,none,male
+Para Bruin,1832,none,Para,none,Bruin,none,none,male
+Dorothy,1833,none,Dorothy,none,none,none,none,female
+Ozma,1834,none,Ozma,none,none,none,none,female
+Billina,1835,none,Billina,none,none,none,none,female
+John Dough,1835,none,John,none,Dough,none,none,male
+Dorothy,1836,none,Dorothy,none,none,none,none,female
+Button,1837,none,Button,none,none,none,none,male
+Button-Bright,1837,none,Button-Bright,none,none,none,none,male
+Button,1840,none,Button,none,none,none,none,male
+Button-Bright,1840,none,Button-Bright,none,none,none,none,male
+Scarecrow,1843,none,Scarecrow,none,none,none,none,male
+Billina,1847,none,Billina,none,none,none,none,female
+John Dough,1850,none,John,none,Dough,none,none,male
+Ozma,1850,none,Ozma,none,none,none,none,female
+Dorothy,1851,none,Dorothy,none,none,none,none,female
+Button,1855,none,Button,none,none,none,none,male
+Button-Bright,1855,none,Button-Bright,none,none,none,none,male
+Santa Claus,1857,none,Santa,none,Claus,none,none,male
+Santa Claus,1859,none,Santa,none,Claus,none,none,male
+Ozma,1861,none,Ozma,none,none,none,none,female
+Dorothy,1862,none,Dorothy,none,none,none,none,female
+Santa,1864,none,Santa,none,none,none,none,male
+Button,1867,none,Button,none,none,none,none,male
+Button-Bright,1867,none,Button-Bright,none,none,none,none,male
+Santa Claus,1867,none,Santa,none,Claus,none,none,male
+Button,1869,none,Button,none,none,none,none,male
+Button-Bright,1869,none,Button-Bright,none,none,none,none,male
+Dorothy,1869,none,Dorothy,none,none,none,none,female
+Wizard,1874,none,Wizard,none,none,none,none,male
+Button,1876,none,Button,none,none,none,none,male
+Button-Bright,1876,none,Button-Bright,none,none,none,none,male
+Santa,1877,none,Santa,none,none,none,none,male
+Wizard,1878,none,Wizard,none,none,none,none,male
+Wizard,1878,none,Wizard,none,none,none,none,male
+Santa Claus,1879,none,Santa,none,Claus,none,none,male
+Polychrome,1879,none,Polychrome,none,none,none,none,female
+Polly,1881,none,Polly,none,none,none,none,female
+Santa Claus,1882,none,Santa,none,Claus,none,none,male
+Ozma,1883,none,Ozma,none,none,none,none,female
+Ozma,1884,none,Ozma,none,none,none,none,female
+Dorothy,1886,none,Dorothy,none,none,none,none,female
+Oz,1888,none,Oz,none,none,none,none,male
+Dorothy,1892,none,Dorothy,none,none,none,none,female
+Santa Claus,1893,none,Santa,none,Claus,none,none,male
+Scarecrow,1893,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1893,none,Tin,none,Woodman,none,none,male
+Ozma,1894,none,Ozma,none,none,none,none,female
+Polychrome,1895,none,Polychrome,none,none,none,none,female
+Ryls,1898,none,Ryls,none,none,none,none,male
+Knooks,1898,none,Knooks,none,none,none,none,male
+Button,1901,none,Button,none,none,none,none,male
+Button-Bright,1901,none,Button-Bright,none,none,none,none,male
+Merryland,1903,none,Merryland,none,none,none,none,female
+High Chamberlain,1906,High,none,none,Chamberlain,none,none,male
+Dorothy,1906,none,Dorothy,none,none,none,none,female
+Dorothy,1907,none,Dorothy,none,none,none,none,female
+Ozma,1907,none,Ozma,none,none,none,none,female
+Candy Man,1909,none,Candy,none,Man,none,none,male
+Scarecrow,1909,none,Scarecrow,none,none,none,none,male
+Tik-tok,1909,none,Tik-tok,none,none,none,none,male
+Wizard,1909,none,Wizard,none,none,none,none,male
+Tin Woodman,1909,none,Tin,none,Woodman,none,none,male
+Button,1910,none,Button,none,none,none,none,male
+Button-Bright,1910,none,Button-Bright,none,none,none,none,male
+Candy Man,1910,none,Candy,none,Man,none,none,male
+Ozma,1911,none,Ozma,none,none,none,none,female
+Ozma,1913,none,Ozma,none,none,none,none,female
+Braided Man,1913,none,Braided,none,Man,none,none,male
+Dorothy,1914,none,Dorothy,none,none,none,none,female
+Wizard,1914,none,Wizard,none,none,none,none,male
+Ev,1915,none,Ev,none,none,none,none,male
+Evardo,1916,none,Evardo,none,none,none,none,male
+Ev,1916,none,Ev,none,none,none,none,male
+Ozma,1917,none,Ozma,none,none,none,none,female
+Ev,1917,none,Ev,none,none,none,none,male
+Nome King,1917,none,Nome,none,King,none,none,male
+Dorothy,1918,none,Dorothy,none,none,none,none,female
+Tik-tok,1919,none,Tik-tok,none,none,none,none,male
+Billina,1919,none,Billina,none,none,none,none,female
+Scarecrow,1919,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1919,none,Tin,none,Woodman,none,none,male
+Evardo,1920,none,Evardo,none,none,none,none,male
+Ozma,1920,none,Ozma,none,none,none,none,female
+King Renard,1921,King,Renard,none,none,none,none,male
+King Dox,1921,King,Dox,none,none,none,none,male
+Dox,1923,none,Dox,none,none,none,none,male
+Dorothy,1923,none,Dorothy,none,none,none,none,female
+Room,1924,none,Room,none,none,none,none,male
+Dorothy,1924,none,Dorothy,none,none,none,none,female
+Oz,1924,none,Oz,none,none,none,none,male
+Fox,1924,none,Fox,none,none,none,none,male
+Sublime,1925,none,Sublime,none,none,none,none,female
+Queen Zixi,1925,Queen,Zixi,none,none,none,none,female
+Serene,1926,none,Serene,none,none,none,none,female
+King Bud,1926,King,Bud,none,none,none,none,male
+Noland,1926,none,Noland,none,none,none,none,male
+Fluff,1927,none,Fluff,none,none,none,none,female
+Dorothy,1928,none,Dorothy,none,none,none,none,female
+Zixi,1928,none,Zixi,none,none,none,none,female
+Dorothy,1929,none,Dorothy,none,none,none,none,female
+Zixi,1929,none,Zixi,none,none,none,none,female
+Wizard,1929,none,Wizard,none,none,none,none,male
+Bud,1930,none,Bud,none,none,none,none,male
+Noland,1930,none,Noland,none,none,none,none,male
+Fluff,1930,none,Fluff,none,none,none,none,female
+Zixi,1930,none,Zixi,none,none,none,none,female
+Ozma,1930,none,Ozma,none,none,none,none,female
+Dorothy,1932,none,Dorothy,none,none,none,none,female
+Polly,1932,none,Polly,none,none,none,none,female
+Fluff,1932,none,Fluff,none,none,none,none,female
+Bud,1932,none,Bud,none,none,none,none,male
+Button,1932,none,Button,none,none,none,none,male
+Button-Bright,1932,none,Button-Bright,none,none,none,none,male
+Fairyland,1933,none,Fairyland,none,none,none,none,female
+Zixi,1933,none,Zixi,none,none,none,none,female
+Jellia Jamb,1933,none,Jellia,none,Jamb,none,none,female
+Bud,1933,none,Bud,none,none,none,none,male
+Fluff,1933,none,Fluff,none,none,none,none,female
+Ozma,1934,none,Ozma,none,none,none,none,female
+Dorothy,1934,none,Dorothy,none,none,none,none,female
+Button,1935,none,Button,none,none,none,none,male
+Candy Man,1937,none,Candy,none,Man,none,none,male
+Tin Woodman,1939,none,Tin,none,Woodman,none,none,male
+Scarecrow,1939,none,Scarecrow,none,none,none,none,male
+Billina,1940,none,Billina,none,none,none,none,female
+Dorothy,1941,none,Dorothy,none,none,none,none,female
+Button,1941,none,Button,none,none,none,none,male
+Button-Bright,1941,none,Button-Bright,none,none,none,none,male
+Ozma,1941,none,Ozma,none,none,none,none,female
+Scarecrow,1942,none,Scarecrow,none,none,none,none,male
+Kik-a-bray,1943,none,Kik-a-bray,none,none,none,none,male
+Dunkiton,1943,none,Dunkiton,none,none,none,none,male
+Johnny Dooit,1943,none,Johnny,none,Dooit,none,none,male
+Johnny Dooit,1944,none,Johnny,none,Dooit,none,none,male
+Scarecrow,1945,none,Scarecrow,none,none,none,none,male
+Dorothy,1946,none,Dorothy,none,none,none,none,female
+Santa Claus,1949,none,Santa,none,Claus,none,none,male
+Ozma,1949,none,Ozma,none,none,none,none,female
+John Dough,1950,none,John,none,Dough,none,none,male
+Zixi,1950,none,Zixi,none,none,none,none,female
+Bud,1950,none,Bud,none,none,none,none,male
+Ev,1950,none,Ev,none,none,none,none,male
+Evardo,1950,none,Evardo,none,none,none,none,male
+Merryland,1950,none,Merryland,none,none,none,none,female
+Toto,1952,none,Toto,none,none,none,none,male
+Billina,1953,none,Billina,none,none,none,none,female
+Ryls,1956,none,Ryls,none,none,none,none,male
+Knooks,1956,none,Knooks,none,none,none,none,male
+Santa Claus,1956,none,Santa,none,Claus,none,none,male
+Merryland,1956,none,Merryland,none,none,none,none,female
+Hilanders,1956,none,Hilanders,none,none,none,none,female
+John Dough,1956,none,John,none,Dough,none,none,male
+Ozma,1957,none,Ozma,none,none,none,none,female
+Ozma,1960,none,Ozma,none,none,none,none,female
+Santa,1963,none,Santa,none,none,none,none,male
+Ozma,1963,none,Ozma,none,none,none,none,female
+Merryland,1968,none,Merryland,none,none,none,none,female
+Woggle-Bug,1969,none,Woggle-Bug,none,none,none,none,male
+Wizard,1970,none,Wizard,none,none,none,none,male
+Dorothy,1970,none,Dorothy,none,none,none,none,female
+Polychrome,1971,none,Polychrome,none,none,none,none,female
+Billina,1972,none,Billina,none,none,none,none,female
+Johnny Dooit,1973,none,Johnny,none,Dooit,none,none,male
+Tin Woodman,1973,none,Tin,none,Woodman,none,none,male
+Ryls,1973,none,Ryls,none,none,none,none,male
+Knooks,1973,none,Knooks,none,none,none,none,male
+Rubber Bear,1973,none,Rubber,none,Bear,none,none,male
+Button,1975,none,Button,none,none,none,none,male
+Button-Bright,1975,none,Button-Bright,none,none,none,none,male
+Ozma,1977,none,Ozma,none,none,none,none,female
+Ruler,1978,none,Ruler,none,none,none,none,female
+Quadlings,1983,none,Quadlings,none,none,none,none,male
+Ozma,1987,none,Ozma,none,none,none,none,female
+Dyna,1989,none,Dyna,none,none,none,none,female
+Ozma,1990,none,Ozma,none,none,none,none,female
+Cowardly Lion,1991,none,Cowardly,none,Lion,none,none,male
+Santa Claus,1993,none,Santa,none,Claus,none,none,male
+Ryls,1995,none,Ryls,none,none,none,none,male
+Knooks,1995,none,Knooks,none,none,none,none,male
+Zixi,1996,none,Zixi,none,none,none,none,female
+Queen Zixi of Ix,1996,Queen,Zixi of Ix,none,none,none,none,female
+John Dough,1996,none,John,none,Dough,none,none,male
+Para Bruin,1996,none,Para,none,Bruin,none,none,male
+Merryland,1996,none,Merryland,none,none,none,none,female
+Bud,1996,none,Bud,none,none,none,none,male
+Noland,1996,none,Noland,none,none,none,none,male
+Fluff,1996,none,Fluff,none,none,none,none,female
+Ev,1996,none,Ev,none,none,none,none,male
+Braided Man,1996,none,Braided,none,Man,none,none,male
+Candy Man,1996,none,Candy,none,Man,none,none,male
+Dox,1996,none,Dox,none,none,none,none,male
+Foxville,1996,none,Foxville,none,none,none,none,male
+Kik-a-bray,1996,none,Kik-a-bray,none,none,none,none,male
+Dunkiton,1996,none,Dunkiton,none,none,none,none,male
+Johnny Dooit,1996,none,Johnny,none,Dooit,none,none,male
+Dorothy,1998,none,Dorothy,none,none,none,none,female
+Scarecrow,1998,none,Scarecrow,none,none,none,none,male
+Polychrome,1999,none,Polychrome,none,none,none,none,female
+Button,1999,none,Button,none,none,none,none,male
+Button-Bright,1999,none,Button-Bright,none,none,none,none,male
+Tik-tok,2001,none,Tik-tok,none,none,none,none,male
+Jack Pumpkinhead,2002,none,Jack,none,Pumpkinhead,none,none,male
+Glinda,2002,none,Glinda,none,none,none,none,female
+Sorceress,2002,none,Sorceress,none,none,none,none,female
+Billina,2003,none,Billina,none,none,none,none,female
+Wizard,2009,none,Wizard,none,none,none,none,male
+Ozma,2009,none,Ozma,none,none,none,none,female
+Wizard,2010,none,Wizard,none,none,none,none,male
+Scarecrow,2012,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2013,none,Tin,none,Woodman,none,none,male
+Glinda,2014,none,Glinda,none,none,none,none,female
+Sorceress,2014,none,Sorceress,none,none,none,none,female
+Para Bruin,2015,none,Para,none,Bruin,none,none,male
+Glinda,2017,none,Glinda,none,none,none,none,female
+Johnny Dooit,2019,none,Johnny,none,Dooit,none,none,male
+Johnny,2019,none,Johnny,none,none,none,none,male
+Wizard,2020,none,Wizard,none,none,none,none,male
+Wizard,2023,none,Wizard,none,none,none,none,male
+Wizard,2024,none,Wizard,none,none,none,none,male
+Wizard,2024,none,Wizard,none,none,none,none,male
+Dorothy,2026,none,Dorothy,none,none,none,none,female
+Button,2026,none,Button,none,none,none,none,male
+Button-Bright,2026,none,Button-Bright,none,none,none,none,male
+Wizard,2027,none,Wizard,none,none,none,none,male
+Santa Claus,2028,none,Santa,none,Claus,none,none,male
+Wizard,2029,none,Wizard,none,none,none,none,male
+Wizard,2032,none,Wizard,none,none,none,none,male
+Santa Claus,2033,none,Santa,none,Claus,none,none,male
+Santa,2037,none,Santa,none,none,none,none,male
+Ozma,2038,none,Ozma,none,none,none,none,female
+Wizard,2038,none,Wizard,none,none,none,none,male
+Merryland,2039,none,Merryland,none,none,none,none,female
+Fluff,2041,none,Fluff,none,none,none,none,female
+Wizard,2043,none,Wizard,none,none,none,none,male
+Fluff,2043,none,Fluff,none,none,none,none,female
+Bud,2043,none,Bud,none,none,none,none,male
+Zixi,2043,none,Zixi,none,none,none,none,female
+Wizard,2044,none,Wizard,none,none,none,none,male
+Santa Claus,2044,none,Santa,none,Claus,none,none,male
+Button,2045,none,Button,none,none,none,none,male
+Button-Bright,2045,none,Button-Bright,none,none,none,none,male
+Santa,2047,none,Santa,none,none,none,none,male
+Wizard,2048,none,Wizard,none,none,none,none,male
+Button,2048,none,Button,none,none,none,none,male
+Button-Bright,2048,none,Button-Bright,none,none,none,none,male
+Dorothy,2049,none,Dorothy,none,none,none,none,female
+Button,2049,none,Button,none,none,none,none,male
+Button-Bright,2049,none,Button-Bright,none,none,none,none,male
+Ozma,2050,none,Ozma,none,none,none,none,female
+Dorothy,2051,none,Dorothy,none,none,none,none,female
+Button,2052,none,Button,none,none,none,none,male
+Button-Bright,2052,none,Button-Bright,none,none,none,none,male
+Wizard,2053,none,Wizard,none,none,none,none,male
+Button,2054,none,Button,none,none,none,none,male
+Button-Bright,2054,none,Button-Bright,none,none,none,none,male
+Toto,2055,none,Toto,none,none,none,none,male
+Dorothy,2056,none,Dorothy,none,none,none,none,female
+Toto,2059,none,Toto,none,none,none,none,male
+Santa Claus,2061,none,Santa,none,Claus,none,none,male
+Ozma,2062,none,Ozma,none,none,none,none,female
+Wizard,2063,none,Wizard,none,none,none,none,male
+Knooks,2063,none,Knooks,none,none,none,none,male
+Santa Claus,2064,none,Santa,none,Claus,none,none,male
+Polly,2066,none,Polly,none,none,none,none,female
+Dorothy,2067,none,Dorothy,none,none,none,none,female
+Polychrome,2068,none,Polychrome,none,none,none,none,female
+Santa Claus,2068,none,Santa,none,Claus,none,none,male
+Rainbow,2071,none,Rainbow,none,none,none,none,male
+Ozma,2072,none,Ozma,none,none,none,none,female
+Dorothy,2073,none,Dorothy,none,none,none,none,female
+Polychrome,2073,none,Polychrome,none,none,none,none,female
+Dorothy,2075,none,Dorothy,none,none,none,none,female
+Ozma,2075,none,Ozma,none,none,none,none,female
+Polly,2076,none,Polly,none,none,none,none,female
+Polychrome,2077,none,Polychrome,none,none,none,none,female
+Rainbow,2077,none,Rainbow,none,none,none,none,male
+Dorothy,2079,none,Dorothy,none,none,none,none,female
+Toto,2079,none,Toto,none,none,none,none,male
+Ozma,2079,none,Ozma,none,none,none,none,female
+Dorothy,2082,none,Dorothy,none,none,none,none,female
+Ozma,2083,none,Ozma,none,none,none,none,female
+Dorothy,2083,none,Dorothy,none,none,none,none,female
+Toto,2083,none,Toto,none,none,none,none,male
+Uncle Henry,2083,Uncle,Henry,none,none,none,none,male
+Dorothy,2084,none,Dorothy,none,none,none,none,female
+Toto,2084,none,Toto,none,none,none,none,male

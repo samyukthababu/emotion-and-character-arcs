@@ -1,0 +1,3207 @@
+name,sentence_id,title,first,middle,last,suffix,nickname,gender
+,,,,,,,,
+Woot,1,none,Woot,none,none,none,none,male
+Tin Woodman,1,none,Tin,none,Woodman,none,none,male
+Scarecrow of Oz,2,none,Scarecrow of Oz,none,none,none,none,male
+Woot the Wanderer,8,none,Woot the Wanderer,none,none,none,none,male
+Tin Woodman,9,none,Tin,none,Woodman,none,none,male
+Tin Woodman,9,none,Tin,none,Woodman,none,none,male
+Woot,10,none,Woot,none,none,none,none,male
+Wanderer,10,none,Wanderer,none,none,none,none,male
+Woot,11,none,Woot,none,none,none,none,male
+Woot,18,none,Woot,none,none,none,none,male
+Wanderer,18,none,Wanderer,none,none,none,none,male
+Tin Woodman,19,none,Tin,none,Woodman,none,none,male
+Scarecrow,19,none,Scarecrow,none,none,none,none,male
+Woot,21,none,Woot,none,none,none,none,male
+Wanderer,21,none,Wanderer,none,none,none,none,male
+Tin Woodman,23,none,Tin,none,Woodman,none,none,male
+Woot the Wanderer,25,none,Woot the Wanderer,none,none,none,none,male
+Scarecrow,25,none,Scarecrow,none,none,none,none,male
+Woot,28,none,Woot,none,none,none,none,male
+Tin Woodman,32,none,Tin,none,Woodman,none,none,male
+Woot,33,none,Woot,none,none,none,none,male
+Scarecrow,35,none,Scarecrow,none,none,none,none,male
+Tin Woodman,37,none,Tin,none,Woodman,none,none,male
+Scarecrow,39,none,Scarecrow,none,none,none,none,male
+Wanderer,40,none,Wanderer,none,none,none,none,male
+Tin Woodman,45,none,Tin,none,Woodman,none,none,male
+Wanderer,47,none,Wanderer,none,none,none,none,male
+Scarecrow,49,none,Scarecrow,none,none,none,none,male
+Tin Woodman,55,none,Tin,none,Woodman,none,none,male
+Woot the Wanderer,58,none,Woot the Wanderer,none,none,none,none,male
+Munchkin,62,none,Munchkin,none,none,none,none,female
+Woot,62,none,Woot,none,none,none,none,male
+Nimmie Amee,65,none,Nimmie,none,Amee,none,none,female
+Witch,68,none,Witch,none,none,none,none,female
+Witch,69,none,Witch,none,none,none,none,female
+Nimmie Amee,69,none,Nimmie,none,Amee,none,none,female
+Witch,69,none,Witch,none,none,none,none,female
+Witch,70,none,Witch,none,none,none,none,female
+Woot the Wanderer,71,none,Woot the Wanderer,none,none,none,none,male
+Witch,73,none,Witch,none,none,none,none,female
+Woot,78,none,Woot,none,none,none,none,male
+Nimmie Amee,81,none,Nimmie,none,Amee,none,none,female
+Witch,82,none,Witch,none,none,none,none,female
+Nimmie Amee,85,none,Nimmie,none,Amee,none,none,female
+Witch,86,none,Witch,none,none,none,none,female
+Nimmie Amee,87,none,Nimmie,none,Amee,none,none,female
+Woot,89,none,Woot,none,none,none,none,male
+Wanderer,89,none,Wanderer,none,none,none,none,male
+Tin Man,89,none,Tin,none,Man,none,none,male
+Witch,90,none,Witch,none,none,none,none,female
+Nimmie Amee,90,none,Nimmie,none,Amee,none,none,female
+Witch,93,none,Witch,none,none,none,none,female
+Witch,94,none,Witch,none,none,none,none,female
+Nimmie Amee,95,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,99,none,Nimmie,none,Amee,none,none,female
+Witch,99,none,Witch,none,none,none,none,female
+Nimmie Amee,104,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,105,none,Nimmie,none,Amee,none,none,female
+Witch,105,none,Witch,none,none,none,none,female
+Wicked Witch,108,none,Wicked,none,Witch,none,none,female
+Nimmie Amee,109,none,Nimmie,none,Amee,none,none,female
+Nick,110,none,Nick,none,none,none,none,male
+Nick Chopper,110,none,Nick,none,Chopper,none,none,male
+Tin Woodman,114,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,115,none,Nimmie,none,Amee,none,none,female
+Woot the Wanderer,116,none,Woot the Wanderer,none,none,none,none,male
+Nimmie Amee,121,none,Nimmie,none,Amee,none,none,female
+Witch,124,none,Witch,none,none,none,none,female
+Woot,125,none,Woot,none,none,none,none,male
+Nimmie Amee,126,none,Nimmie,none,Amee,none,none,female
+Dorothy,129,none,Dorothy,none,none,none,none,female
+Scarecrow,129,none,Scarecrow,none,none,none,none,male
+Dorothy,131,none,Dorothy,none,none,none,none,female
+Wanderer,131,none,Wanderer,none,none,none,none,male
+Wicked Witch,133,none,Wicked,none,Witch,none,none,female
+Witch,134,none,Witch,none,none,none,none,female
+Scarecrow,135,none,Scarecrow,none,none,none,none,male
+Dorothy,135,none,Dorothy,none,none,none,none,female
+Witch,135,none,Witch,none,none,none,none,female
+Tin Woodman,136,none,Tin,none,Woodman,none,none,male
+Scarecrow,136,none,Scarecrow,none,none,none,none,male
+Dorothy,136,none,Dorothy,none,none,none,none,female
+Wizard,137,none,Wizard,none,none,none,none,male
+Nimmie Amee,137,none,Nimmie,none,Amee,none,none,female
+Wizard,138,none,Wizard,none,none,none,none,male
+Kind,138,none,Kind,none,none,none,none,male
+Loving,138,none,Loving,none,none,none,none,male
+Woot,141,none,Woot,none,none,none,none,male
+Wizard,141,none,Wizard,none,none,none,none,male
+Wizard,145,none,Wizard,none,none,none,none,male
+Munchkin,145,none,Munchkin,none,none,none,none,female
+Empress,145,Empress,none,none,none,none,none,female
+Tin Woodman,146,none,Tin,none,Woodman,none,none,male
+Wanderer,146,none,Wanderer,none,none,none,none,male
+Scarecrow,147,none,Scarecrow,none,none,none,none,male
+Tin Woodman,150,none,Tin,none,Woodman,none,none,male
+Scarecrow,150,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,151,none,Nimmie,none,Amee,none,none,female
+Wanderer,153,none,Wanderer,none,none,none,none,male
+Nimmie Amee,153,none,Nimmie,none,Amee,none,none,female
+Scarecrow,155,none,Scarecrow,none,none,none,none,male
+Scarecrow,157,none,Scarecrow,none,none,none,none,male
+Woot,158,none,Woot,none,none,none,none,male
+Wanderer,158,none,Wanderer,none,none,none,none,male
+Tin Woodman,159,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,160,none,Nimmie,none,Amee,none,none,female
+Nick Chopper,160,none,Nick,none,Chopper,none,none,male
+Woot,161,none,Woot,none,none,none,none,male
+Tin Man,162,none,Tin,none,Man,none,none,male
+Scarecrow,166,none,Scarecrow,none,none,none,none,male
+Wanderer,170,none,Wanderer,none,none,none,none,male
+Scarecrow,173,none,Scarecrow,none,none,none,none,male
+Woot,174,none,Woot,none,none,none,none,male
+Scarecrow,174,none,Scarecrow,none,none,none,none,male
+Scarecrow,176,none,Scarecrow,none,none,none,none,male
+Woot,178,none,Woot,none,none,none,none,male
+Scarecrow,178,none,Scarecrow,none,none,none,none,male
+Woot,180,none,Woot,none,none,none,none,male
+Wanderer,180,none,Wanderer,none,none,none,none,male
+Tin Woodman,181,none,Tin,none,Woodman,none,none,male
+Scarecrow,181,none,Scarecrow,none,none,none,none,male
+Emperor,181,Emperor,none,none,none,none,none,male
+Ozma of Oz,184,none,Ozma of Oz,none,none,none,none,female
+Winkies,184,none,Winkies,none,none,none,none,female
+Munchkin,187,none,Munchkin,none,none,none,none,female
+Scarecrow,188,none,Scarecrow,none,none,none,none,male
+Tin Woodman,189,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,189,none,Nimmie,none,Amee,none,none,female
+Scarecrow,190,none,Scarecrow,none,none,none,none,male
+Woot,191,none,Woot,none,none,none,none,male
+Scarecrow,193,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,194,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,197,none,Nimmie,none,Amee,none,none,female
+Scarecrow,198,none,Scarecrow,none,none,none,none,male
+Tin Woodman,198,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,201,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,202,none,Nimmie,none,Amee,none,none,female
+Ozma,202,none,Ozma,none,none,none,none,female
+Dorothy,202,none,Dorothy,none,none,none,none,female
+Betsy Bobbin,202,none,Betsy,none,Bobbin,none,none,female
+Trot,202,none,Trot,none,none,none,none,female
+Nimmie Amee,202,none,Nimmie,none,Amee,none,none,female
+Woot,203,none,Woot,none,none,none,none,male
+Tin Man,205,none,Tin,none,Man,none,none,male
+Tin Woodman,207,none,Tin,none,Woodman,none,none,male
+Wanderer,211,none,Wanderer,none,none,none,none,male
+Scarecrow,211,none,Scarecrow,none,none,none,none,male
+Woot,212,none,Woot,none,none,none,none,male
+Scarecrow,216,none,Scarecrow,none,none,none,none,male
+Scarecrow,217,none,Scarecrow,none,none,none,none,male
+Woot,218,none,Woot,none,none,none,none,male
+Woot,221,none,Woot,none,none,none,none,male
+Scarecrow,222,none,Scarecrow,none,none,none,none,male
+Tin Woodman,222,none,Tin,none,Woodman,none,none,male
+Scarecrow,223,none,Scarecrow,none,none,none,none,male
+Woot,225,none,Woot,none,none,none,none,male
+Scarecrow,227,none,Scarecrow,none,none,none,none,male
+Scarecrow,229,none,Scarecrow,none,none,none,none,male
+Tin Woodman,229,none,Tin,none,Woodman,none,none,male
+Scarecrow,230,none,Scarecrow,none,none,none,none,male
+Wogglebug,231,none,Wogglebug,none,none,none,none,male
+Woot,232,none,Woot,none,none,none,none,male
+Tin Woodman,232,none,Tin,none,Woodman,none,none,male
+Scarecrow,233,none,Scarecrow,none,none,none,none,male
+Woot,246,none,Woot,none,none,none,none,male
+Wanderer,246,none,Wanderer,none,none,none,none,male
+Woot,246,none,Woot,none,none,none,none,male
+Scarecrow,247,none,Scarecrow,none,none,none,none,male
+Woot,247,none,Woot,none,none,none,none,male
+Tin Woodman,247,none,Tin,none,Woodman,none,none,male
+Scarecrow,249,none,Scarecrow,none,none,none,none,male
+Woot,250,none,Woot,none,none,none,none,male
+Tin Woodman,251,none,Tin,none,Woodman,none,none,male
+Scarecrow,254,none,Scarecrow,none,none,none,none,male
+Tin Woodman,257,none,Tin,none,Woodman,none,none,male
+Scarecrow,258,none,Scarecrow,none,none,none,none,male
+Woot,259,none,Woot,none,none,none,none,male
+Wanderer,259,none,Wanderer,none,none,none,none,male
+Scarecrow,261,none,Scarecrow,none,none,none,none,male
+Tin Woodman,263,none,Tin,none,Woodman,none,none,male
+Woot,265,none,Woot,none,none,none,none,male
+Woot,266,none,Woot,none,none,none,none,male
+Scarecrow,270,none,Scarecrow,none,none,none,none,male
+Dorothy,271,none,Dorothy,none,none,none,none,female
+Ozma,271,none,Ozma,none,none,none,none,female
+Tin Man,273,none,Tin,none,Man,none,none,male
+Woot,274,none,Woot,none,none,none,none,male
+Scarecrow,274,none,Scarecrow,none,none,none,none,male
+Tin Woodman,275,none,Tin,none,Woodman,none,none,male
+Woot,278,none,Woot,none,none,none,none,male
+Scarecrow,279,none,Scarecrow,none,none,none,none,male
+Woot,279,none,Woot,none,none,none,none,male
+Scarecrow,285,none,Scarecrow,none,none,none,none,male
+Woot,286,none,Woot,none,none,none,none,male
+Tin Woodman,289,none,Tin,none,Woodman,none,none,male
+Bal,293,none,Bal,none,none,none,none,male
+Scarecrow,295,none,Scarecrow,none,none,none,none,male
+Bal,300,none,Bal,none,none,none,none,male
+Loon,318,none,Loon,none,none,none,none,male
+Bal,318,none,Bal,none,none,none,none,male
+Scarecrow,319,none,Scarecrow,none,none,none,none,male
+Tin Woodman,319,none,Tin,none,Woodman,none,none,male
+Woot the Wanderer,319,none,Woot the Wanderer,none,none,none,none,male
+Loon,326,none,Loon,none,none,none,none,male
+Bal,328,none,Bal,none,none,none,none,male
+Loon,330,none,Loon,none,none,none,none,male
+Loon,336,none,Loon,none,none,none,none,male
+Scarecrow,341,none,Scarecrow,none,none,none,none,male
+Scarecrow,342,none,Scarecrow,none,none,none,none,male
+Loon,343,none,Loon,none,none,none,none,male
+Tin Woodman,343,none,Tin,none,Woodman,none,none,male
+Til,344,none,Til,none,none,none,none,female
+Loon,344,none,Loon,none,none,none,none,male
+Woot,344,none,Woot,none,none,none,none,male
+Wanderer,344,none,Wanderer,none,none,none,none,male
+Woot,346,none,Woot,none,none,none,none,male
+Loon,347,none,Loon,none,none,none,none,male
+Til,362,none,Til,none,none,none,none,female
+Woot,363,none,Woot,none,none,none,none,male
+Tin Woodman,363,none,Tin,none,Woodman,none,none,male
+Loon,364,none,Loon,none,none,none,none,male
+Woot,365,none,Woot,none,none,none,none,male
+Wanderer,366,none,Wanderer,none,none,none,none,male
+Woot,367,none,Woot,none,none,none,none,male
+Wanderer,367,none,Wanderer,none,none,none,none,male
+Woot,373,none,Woot,none,none,none,none,male
+Wanderer,374,none,Wanderer,none,none,none,none,male
+Tin Woodman,374,none,Tin,none,Woodman,none,none,male
+Woot,376,none,Woot,none,none,none,none,male
+Scarecrow,376,none,Scarecrow,none,none,none,none,male
+Tin Woodman,377,none,Tin,none,Woodman,none,none,male
+Loon,378,none,Loon,none,none,none,none,male
+Bal,381,none,Bal,none,none,none,none,male
+Scarecrow,384,none,Scarecrow,none,none,none,none,male
+Woot,385,none,Woot,none,none,none,none,male
+Woot,386,none,Woot,none,none,none,none,male
+Tin Woodman,387,none,Tin,none,Woodman,none,none,male
+Scarecrow,390,none,Scarecrow,none,none,none,none,male
+Tin Woodman,392,none,Tin,none,Woodman,none,none,male
+Scarecrow,393,none,Scarecrow,none,none,none,none,male
+Woot,393,none,Woot,none,none,none,none,male
+Yoop,395,none,Yoop,none,none,none,none,male
+Giantess,395,none,Giantess,none,none,none,none,female
+Tin Woodman,404,none,Tin,none,Woodman,none,none,male
+Woot,406,none,Woot,none,none,none,none,male
+Woot,410,none,Woot,none,none,none,none,male
+Scarecrow,412,none,Scarecrow,none,none,none,none,male
+Yoop,414,none,Yoop,none,none,none,none,male
+Yoop,416,none,Yoop,none,none,none,none,male
+Woot,419,none,Woot,none,none,none,none,male
+Nick Chopper,419,none,Nick,none,Chopper,none,none,male
+Woot,420,none,Woot,none,none,none,none,male
+Scarecrow,424,none,Scarecrow,none,none,none,none,male
+Giantess,433,none,Giantess,none,none,none,none,female
+Giantess,438,none,Giantess,none,none,none,none,female
+Woot,440,none,Woot,none,none,none,none,male
+Giantess,441,none,Giantess,none,none,none,none,female
+Madam,442,Madam,none,none,none,none,none,female
+Scarecrow,442,none,Scarecrow,none,none,none,none,male
+Yoop,444,none,Yoop,none,none,none,none,male
+Giantess,445,none,Giantess,none,none,none,none,female
+Woot,445,none,Woot,none,none,none,none,male
+Yoop,446,none,Yoop,none,none,none,none,male
+Yoop,447,none,Yoop,none,none,none,none,male
+Woot,448,none,Woot,none,none,none,none,male
+Yoop,450,none,Yoop,none,none,none,none,male
+Yoop,451,none,Yoop,none,none,none,none,male
+Yoop,452,none,Yoop,none,none,none,none,male
+Woot,456,none,Woot,none,none,none,none,male
+Scarecrow,457,none,Scarecrow,none,none,none,none,male
+Nick Chopper,457,none,Nick,none,Chopper,none,none,male
+Yoop,458,none,Yoop,none,none,none,none,male
+Witch,460,none,Witch,none,none,none,none,female
+Woot,460,none,Woot,none,none,none,none,male
+Witch,461,none,Witch,none,none,none,none,female
+Witch,462,none,Witch,none,none,none,none,female
+Giantess,464,none,Giantess,none,none,none,none,female
+Scarecrow,465,none,Scarecrow,none,none,none,none,male
+Yoop,465,none,Yoop,none,none,none,none,male
+Polychrome,468,none,Polychrome,none,none,none,none,female
+Tin Woodman,469,none,Tin,none,Woodman,none,none,male
+Polychrome,470,none,Polychrome,none,none,none,none,female
+Giantess,471,none,Giantess,none,none,none,none,female
+Polychrome,472,none,Polychrome,none,none,none,none,female
+Rainbow,473,none,Rainbow,none,none,none,none,male
+Poly,473,none,Poly,none,none,none,none,female
+Woot,477,none,Woot,none,none,none,none,male
+Polychrome,477,none,Polychrome,none,none,none,none,female
+Giantess,478,none,Giantess,none,none,none,none,female
+Giantess,479,none,Giantess,none,none,none,none,female
+Polychrome,480,none,Polychrome,none,none,none,none,female
+Rainbow,480,none,Rainbow,none,none,none,none,male
+Yookoohoo,480,none,Yookoohoo,none,none,none,none,female
+Scarecrow,481,none,Scarecrow,none,none,none,none,male
+Yoop,481,none,Yoop,none,none,none,none,male
+Tin Woodman,483,none,Tin,none,Woodman,none,none,male
+Scarecrow,488,none,Scarecrow,none,none,none,none,male
+Yoop,488,none,Yoop,none,none,none,none,male
+Tin Woodman,488,none,Tin,none,Woodman,none,none,male
+Yoop,488,none,Yoop,none,none,none,none,male
+Scarecrow,489,none,Scarecrow,none,none,none,none,male
+Giantess,494,none,Giantess,none,none,none,none,female
+Scarecrow,496,none,Scarecrow,none,none,none,none,male
+Tin Woodman,496,none,Tin,none,Woodman,none,none,male
+Woot,502,none,Woot,none,none,none,none,male
+Woot,506,none,Woot,none,none,none,none,male
+Scarecrow,511,none,Scarecrow,none,none,none,none,male
+Mercy,512,none,Mercy,none,none,none,none,female
+Scarecrow,520,none,Scarecrow,none,none,none,none,male
+Tin Woodman,521,none,Tin,none,Woodman,none,none,male
+Woot,522,none,Woot,none,none,none,none,male
+Wanderer,522,none,Wanderer,none,none,none,none,male
+Giantess,523,none,Giantess,none,none,none,none,female
+Woot,525,none,Woot,none,none,none,none,male
+Scarecrow,525,none,Scarecrow,none,none,none,none,male
+Tin Woodman,525,none,Tin,none,Woodman,none,none,male
+Yoop,525,none,Yoop,none,none,none,none,male
+Giantess,526,none,Giantess,none,none,none,none,female
+Yoop,530,none,Yoop,none,none,none,none,male
+Tin Man,531,none,Tin,none,Man,none,none,male
+Scarecrow,531,none,Scarecrow,none,none,none,none,male
+Giantess,532,none,Giantess,none,none,none,none,female
+Tin Woodman,533,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,533,none,Nimmie,none,Amee,none,none,female
+Scarecrow,534,none,Scarecrow,none,none,none,none,male
+Ozma,534,none,Ozma,none,none,none,none,female
+Oz,534,none,Oz,none,none,none,none,male
+Dorothy,534,none,Dorothy,none,none,none,none,female
+Jack Pumpkinhead,534,none,Jack,none,Pumpkinhead,none,none,male
+Pipt,534,none,Pipt,none,none,none,none,male
+Tik-tok,534,none,Tik-tok,none,none,none,none,male
+Woot,535,none,Woot,none,none,none,none,male
+Giantess,536,none,Giantess,none,none,none,none,female
+Loons,536,none,Loons,none,none,none,none,female
+Yoop,537,none,Yoop,none,none,none,none,male
+Ozma,538,none,Ozma,none,none,none,none,female
+Scarecrow,538,none,Scarecrow,none,none,none,none,male
+Glinda the Good,538,none,Glinda the Good,none,none,none,none,female
+Wizard,538,none,Wizard,none,none,none,none,male
+Ozma,538,none,Ozma,none,none,none,none,female
+Ozma,539,none,Ozma,none,none,none,none,female
+Giantess,539,none,Giantess,none,none,none,none,female
+Ozma,541,none,Ozma,none,none,none,none,female
+Tin Woodman,541,none,Tin,none,Woodman,none,none,male
+Ozma,542,none,Ozma,none,none,none,none,female
+Ozma,543,none,Ozma,none,none,none,none,female
+Giantess,543,none,Giantess,none,none,none,none,female
+Yoop,547,none,Yoop,none,none,none,none,male
+Giantess,548,none,Giantess,none,none,none,none,female
+Tin Woodman,550,none,Tin,none,Woodman,none,none,male
+Scarecrow,550,none,Scarecrow,none,none,none,none,male
+Woot,550,none,Woot,none,none,none,none,male
+Wanderer,550,none,Wanderer,none,none,none,none,male
+Scarecrow,554,none,Scarecrow,none,none,none,none,male
+Emperor,554,Emperor,none,none,none,none,none,male
+Woot,555,none,Woot,none,none,none,none,male
+Giantess,556,none,Giantess,none,none,none,none,female
+Giantess,560,none,Giantess,none,none,none,none,female
+Woot,562,none,Woot,none,none,none,none,male
+Giantess,564,none,Giantess,none,none,none,none,female
+Woot,564,none,Woot,none,none,none,none,male
+Woot,566,none,Woot,none,none,none,none,male
+Yoop,567,none,Yoop,none,none,none,none,male
+Woot,578,none,Woot,none,none,none,none,male
+Yoop,583,none,Yoop,none,none,none,none,male
+Scarecrow,585,none,Scarecrow,none,none,none,none,male
+Tin Man,587,none,Tin,none,Man,none,none,male
+Tin Woodman,587,none,Tin,none,Woodman,none,none,male
+Owl,587,none,Owl,none,none,none,none,male
+Nick Chopper,588,none,Nick,none,Chopper,none,none,male
+Owl,588,none,Owl,none,none,none,none,male
+Giantess,592,none,Giantess,none,none,none,none,female
+Tin Owl,592,none,Tin,none,Owl,none,none,male
+Scarecrow,597,none,Scarecrow,none,none,none,none,male
+Yoop,597,none,Yoop,none,none,none,none,male
+Tin Woodman,597,none,Tin,none,Woodman,none,none,male
+Woot,598,none,Woot,none,none,none,none,male
+Scarecrow,607,none,Scarecrow,none,none,none,none,male
+Scarecrow,609,none,Scarecrow,none,none,none,none,male
+Scarecrow,610,none,Scarecrow,none,none,none,none,male
+Brown Bear,611,none,Brown,none,Bear,none,none,male
+Brown Bear,611,none,Brown,none,Bear,none,none,male
+Scarecrow,611,none,Scarecrow,none,none,none,none,male
+Woot,612,none,Woot,none,none,none,none,male
+Brown Bear,613,none,Brown,none,Bear,none,none,male
+Scarecrow,614,none,Scarecrow,none,none,none,none,male
+Bear,614,none,Bear,none,none,none,none,male
+Owl,619,none,Owl,none,none,none,none,male
+Woot,619,none,Woot,none,none,none,none,male
+Giantess,621,none,Giantess,none,none,none,none,female
+Woot,623,none,Woot,none,none,none,none,male
+Green Monkey,627,none,Green,none,Monkey,none,none,male
+Woot,628,none,Woot,none,none,none,none,male
+Giantess,634,none,Giantess,none,none,none,none,female
+Monkey,636,none,Monkey,none,none,none,none,male
+Woot,638,none,Woot,none,none,none,none,male
+Yoop,640,none,Yoop,none,none,none,none,male
+Giantess,642,none,Giantess,none,none,none,none,female
+Tin Owl,644,none,Tin,none,Owl,none,none,male
+Owl,644,none,Owl,none,none,none,none,male
+Giantess,647,none,Giantess,none,none,none,none,female
+Bear,648,none,Bear,none,none,none,none,male
+Scarecrow,648,none,Scarecrow,none,none,none,none,male
+Giantess,649,none,Giantess,none,none,none,none,female
+Yoop,653,none,Yoop,none,none,none,none,male
+Giantess,654,none,Giantess,none,none,none,none,female
+Woot the Wanderer,654,none,Woot the Wanderer,none,none,none,none,male
+Nick Chopper,654,none,Nick,none,Chopper,none,none,male
+Brown Bear,654,none,Brown,none,Bear,none,none,male
+Scarecrow,655,none,Scarecrow,none,none,none,none,male
+Polychrome,656,none,Polychrome,none,none,none,none,female
+Scarecrow,657,none,Scarecrow,none,none,none,none,male
+Yoop,658,none,Yoop,none,none,none,none,male
+Scarecrow,659,none,Scarecrow,none,none,none,none,male
+Poly,660,none,Poly,none,none,none,none,female
+Tin Woodman,660,none,Tin,none,Woodman,none,none,male
+Tin Owl,661,none,Tin,none,Owl,none,none,male
+Scarecrow,664,none,Scarecrow,none,none,none,none,male
+Polychrome,666,none,Polychrome,none,none,none,none,female
+Green Monkey,669,none,Green,none,Monkey,none,none,male
+Daughter of the Rainbow,669,none,Daughter of the Rainbow,none,none,none,none,female
+Giantess,673,none,Giantess,none,none,none,none,female
+Giantess,677,none,Giantess,none,none,none,none,female
+Yoop,678,none,Yoop,none,none,none,none,male
+Green Monkey,679,none,Green,none,Monkey,none,none,male
+Canary,680,none,Canary,none,none,none,none,female
+Yoop,680,none,Yoop,none,none,none,none,male
+Woot,682,none,Woot,none,none,none,none,male
+Monkey,682,none,Monkey,none,none,none,none,male
+Canary,683,none,Canary,none,none,none,none,female
+Tin Owl,684,none,Tin,none,Owl,none,none,male
+Giantess,685,none,Giantess,none,none,none,none,female
+Polychrome,686,none,Polychrome,none,none,none,none,female
+Canary,686,none,Canary,none,none,none,none,female
+Yoop,688,none,Yoop,none,none,none,none,male
+Brown Bear,691,none,Brown,none,Bear,none,none,male
+Yoop,692,none,Yoop,none,none,none,none,male
+Polychrome,693,none,Polychrome,none,none,none,none,female
+Canary,693,none,Canary,none,none,none,none,female
+Bird,693,none,Bird,none,none,none,none,female
+Owl,694,none,Owl,none,none,none,none,male
+Bear,694,none,Bear,none,none,none,none,male
+Monkey,694,none,Monkey,none,none,none,none,male
+Woot the Monkey,696,none,Woot the Monkey,none,none,none,none,male
+Giantess,700,none,Giantess,none,none,none,none,female
+Polychrome,702,none,Polychrome,none,none,none,none,female
+Yoop,703,none,Yoop,none,none,none,none,male
+Yoop,704,none,Yoop,none,none,none,none,male
+Green Monkey,707,none,Green,none,Monkey,none,none,male
+Giantess,708,none,Giantess,none,none,none,none,female
+Monkey,708,none,Monkey,none,none,none,none,male
+Brown Bear,709,none,Brown,none,Bear,none,none,male
+Owl,710,none,Owl,none,none,none,none,male
+Canary,710,none,Canary,none,none,none,none,female
+Giantess,710,none,Giantess,none,none,none,none,female
+Bear,710,none,Bear,none,none,none,none,male
+Monkey,710,none,Monkey,none,none,none,none,male
+Yoop,711,none,Yoop,none,none,none,none,male
+Monkey,712,none,Monkey,none,none,none,none,male
+Bear,712,none,Bear,none,none,none,none,male
+Owl,712,none,Owl,none,none,none,none,male
+Canary,712,none,Canary,none,none,none,none,female
+Green Monkey,713,none,Green,none,Monkey,none,none,male
+Giantess,714,none,Giantess,none,none,none,none,female
+Yoop,716,none,Yoop,none,none,none,none,male
+Woot,716,none,Woot,none,none,none,none,male
+Monkey,716,none,Monkey,none,none,none,none,male
+Giantess,716,none,Giantess,none,none,none,none,female
+Woot,718,none,Woot,none,none,none,none,male
+Canary,718,none,Canary,none,none,none,none,female
+Rainbow,719,none,Rainbow,none,none,none,none,male
+Woot,719,none,Woot,none,none,none,none,male
+Yoop,725,none,Yoop,none,none,none,none,male
+Green Monkey,726,none,Green,none,Monkey,none,none,male
+Giantess,726,none,Giantess,none,none,none,none,female
+Woot,727,none,Woot,none,none,none,none,male
+Monkey,727,none,Monkey,none,none,none,none,male
+Tin Owl,728,none,Tin,none,Owl,none,none,male
+Woot,728,none,Woot,none,none,none,none,male
+Giantess,729,none,Giantess,none,none,none,none,female
+Polychrome,730,none,Polychrome,none,none,none,none,female
+Yoop,730,none,Yoop,none,none,none,none,male
+Giantess,732,none,Giantess,none,none,none,none,female
+Green Monkey,733,none,Green,none,Monkey,none,none,male
+Tin Owl,734,none,Tin,none,Owl,none,none,male
+Brown Bear,735,none,Brown,none,Bear,none,none,male
+Green Monkey,736,none,Green,none,Monkey,none,none,male
+Polychrome,737,none,Polychrome,none,none,none,none,female
+Yoop,737,none,Yoop,none,none,none,none,male
+Yoop,739,none,Yoop,none,none,none,none,male
+Woot,739,none,Woot,none,none,none,none,male
+Tin Woodman,739,none,Tin,none,Woodman,none,none,male
+Polychrome,740,none,Polychrome,none,none,none,none,female
+Yoop,741,none,Yoop,none,none,none,none,male
+Green Monkey,742,none,Green,none,Monkey,none,none,male
+Canary,743,none,Canary,none,none,none,none,female
+Brown Bear,746,none,Brown,none,Bear,none,none,male
+Tin Owl,747,none,Tin,none,Owl,none,none,male
+Green Monkey,748,none,Green,none,Monkey,none,none,male
+Monkey,751,none,Monkey,none,none,none,none,male
+Canary,752,none,Canary,none,none,none,none,female
+Tin Owl,752,none,Tin,none,Owl,none,none,male
+Brown Bear,752,none,Brown,none,Bear,none,none,male
+Woot,753,none,Woot,none,none,none,none,male
+Scarecrow Bear,754,none,Scarecrow,none,Bear,none,none,male
+Canary,755,none,Canary,none,none,none,none,female
+Green Monkey,759,none,Green,none,Monkey,none,none,male
+Canary,759,none,Canary,none,none,none,none,female
+Canary,761,none,Canary,none,none,none,none,female
+Brown Bear,764,none,Brown,none,Bear,none,none,male
+Owl,764,none,Owl,none,none,none,none,male
+Canary,765,none,Canary,none,none,none,none,female
+Green Monkey,765,none,Green,none,Monkey,none,none,male
+Polychrome,766,none,Polychrome,none,none,none,none,female
+Tin Owl,767,none,Tin,none,Owl,none,none,male
+Nimmie Amee,768,none,Nimmie,none,Amee,none,none,female
+Munchkin,768,none,Munchkin,none,none,none,none,female
+Tin Woodman,768,none,Tin,none,Woodman,none,none,male
+Tin Owl,768,none,Tin,none,Owl,none,none,male
+Brown Bear,769,none,Brown,none,Bear,none,none,male
+Scarecrow,770,none,Scarecrow,none,none,none,none,male
+Woot,771,none,Woot,none,none,none,none,male
+Giantess,772,none,Giantess,none,none,none,none,female
+Brown Bear,773,none,Brown,none,Bear,none,none,male
+Woot,773,none,Woot,none,none,none,none,male
+Canary,775,none,Canary,none,none,none,none,female
+Polychrome,776,none,Polychrome,none,none,none,none,female
+Ozma,776,none,Ozma,none,none,none,none,female
+Tin Owl,776,none,Tin,none,Owl,none,none,male
+Giantess,776,none,Giantess,none,none,none,none,female
+Canary,777,none,Canary,none,none,none,none,female
+Green Monkey,777,none,Green,none,Monkey,none,none,male
+Yoop,778,none,Yoop,none,none,none,none,male
+Glinda,778,none,Glinda,none,none,none,none,female
+Good Sorceress,778,none,Good,none,Sorceress,none,none,female
+Glinda,779,none,Glinda,none,none,none,none,female
+Sorceress,779,none,Sorceress,none,none,none,none,female
+Glinda,780,none,Glinda,none,none,none,none,female
+Woot,782,none,Woot,none,none,none,none,male
+Green Monkey,784,none,Green,none,Monkey,none,none,male
+Brown Bear,785,none,Brown,none,Bear,none,none,male
+Tin Owl,787,none,Tin,none,Owl,none,none,male
+Canary,788,none,Canary,none,none,none,none,female
+Owl,788,none,Owl,none,none,none,none,male
+Green Monkey,788,none,Green,none,Monkey,none,none,male
+Brown Bear,789,none,Brown,none,Bear,none,none,male
+Bear,791,none,Bear,none,none,none,none,male
+Jaguar,792,none,Jaguar,none,none,none,none,male
+Bear,792,none,Bear,none,none,none,none,male
+Canary,793,none,Canary,none,none,none,none,female
+Monkey,793,none,Monkey,none,none,none,none,male
+Brown Bear,794,none,Brown,none,Bear,none,none,male
+Polychrome,798,none,Polychrome,none,none,none,none,female
+Monkey,801,none,Monkey,none,none,none,none,male
+Woot,802,none,Woot,none,none,none,none,male
+Monkey,802,none,Monkey,none,none,none,none,male
+Jaguar,803,none,Jaguar,none,none,none,none,male
+Woot,804,none,Woot,none,none,none,none,male
+Jaguar,804,none,Jaguar,none,none,none,none,male
+Apron,805,none,Apron,none,none,none,none,male
+Woot,805,none,Woot,none,none,none,none,male
+Jaguar,806,none,Jaguar,none,none,none,none,male
+Woot,807,none,Woot,none,none,none,none,male
+Monkey,807,none,Monkey,none,none,none,none,male
+Tin Owl,809,none,Tin,none,Owl,none,none,male
+Brown Bear,809,none,Brown,none,Bear,none,none,male
+Canary,813,none,Canary,none,none,none,none,female
+Canary,816,none,Canary,none,none,none,none,female
+Canary,818,none,Canary,none,none,none,none,female
+Yoop,818,none,Yoop,none,none,none,none,male
+Giantess,818,none,Giantess,none,none,none,none,female
+Polychrome,826,none,Polychrome,none,none,none,none,female
+Canary,826,none,Canary,none,none,none,none,female
+Canary,828,none,Canary,none,none,none,none,female
+Polychrome,832,none,Polychrome,none,none,none,none,female
+Canary,834,none,Canary,none,none,none,none,female
+Canary,836,none,Canary,none,none,none,none,female
+Poly,838,none,Poly,none,none,none,none,female
+Bear Scarecrow,838,none,Bear,none,Scarecrow,none,none,male
+Canary,840,none,Canary,none,none,none,none,female
+Bear,841,none,Bear,none,none,none,none,male
+Owl,841,none,Owl,none,none,none,none,male
+Jaguar,841,none,Jaguar,none,none,none,none,male
+Bear,842,none,Bear,none,none,none,none,male
+Jaguar,842,none,Jaguar,none,none,none,none,male
+Poly,848,none,Poly,none,none,none,none,female
+Tin Woodman,848,none,Tin,none,Woodman,none,none,male
+Canary,848,none,Canary,none,none,none,none,female
+Woot,848,none,Woot,none,none,none,none,male
+Polychrome,849,none,Polychrome,none,none,none,none,female
+Scarecrow Bear,850,none,Scarecrow,none,Bear,none,none,male
+Green Monkey,853,none,Green,none,Monkey,none,none,male
+Woot,856,none,Woot,none,none,none,none,male
+Woot,863,none,Woot,none,none,none,none,male
+Woot,865,none,Woot,none,none,none,none,male
+Woot,878,none,Woot,none,none,none,none,male
+Mother,889,Mother,none,none,none,none,none,female
+Woot,893,none,Woot,none,none,none,none,male
+Green Monkey,895,none,Green,none,Monkey,none,none,male
+Woot,898,none,Woot,none,none,none,none,male
+Woot,905,none,Woot,none,none,none,none,male
+Dragon,906,none,Dragon,none,none,none,none,male
+Woot,907,none,Woot,none,none,none,none,male
+Dragon,908,none,Dragon,none,none,none,none,male
+Green Monkey,908,none,Green,none,Monkey,none,none,male
+Woot,909,none,Woot,none,none,none,none,male
+Dragon,911,none,Dragon,none,none,none,none,male
+Woot,911,none,Woot,none,none,none,none,male
+Woot,912,none,Woot,none,none,none,none,male
+Woot,914,none,Woot,none,none,none,none,male
+Woot,916,none,Woot,none,none,none,none,male
+Woot,918,none,Woot,none,none,none,none,male
+Woot,921,none,Woot,none,none,none,none,male
+Green Monkey,923,none,Green,none,Monkey,none,none,male
+Woot,930,none,Woot,none,none,none,none,male
+Brown Bear,930,none,Brown,none,Bear,none,none,male
+Canary,930,none,Canary,none,none,none,none,female
+Green Monkey,930,none,Green,none,Monkey,none,none,male
+Tommy Kwikstep,931,none,Tommy,none,Kwikstep,none,none,male
+Green Monkey,931,none,Green,none,Monkey,none,none,male
+Glinda,932,none,Glinda,none,none,none,none,female
+Tin Owl,933,none,Tin,none,Owl,none,none,male
+Canary,935,none,Canary,none,none,none,none,female
+Glinda,936,none,Glinda,none,none,none,none,female
+Woot,939,none,Woot,none,none,none,none,male
+Scarecrow,940,none,Scarecrow,none,none,none,none,male
+Yoop,945,none,Yoop,none,none,none,none,male
+Scarecrow Bear,948,none,Scarecrow,none,Bear,none,none,male
+Jinjur,950,none,Jinjur,none,none,none,none,female
+Jinjur,951,none,Jinjur,none,none,none,none,female
+Woot,951,none,Woot,none,none,none,none,male
+Green Monkey,951,none,Green,none,Monkey,none,none,male
+Jinjur,952,none,Jinjur,none,none,none,none,female
+Scarecrow,952,none,Scarecrow,none,none,none,none,male
+Woot,953,none,Woot,none,none,none,none,male
+Jinjur,954,none,Jinjur,none,none,none,none,female
+Jinjur,955,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,955,none,Scarecrow,none,Bear,none,none,male
+General Jinjur,957,General,none,none,Jinjur,none,none,male
+Ozma,959,none,Ozma,none,none,none,none,female
+Jinjur,959,none,Jinjur,none,none,none,none,female
+Jinjur,960,none,Jinjur,none,none,none,none,female
+Giantess,962,none,Giantess,none,none,none,none,female
+Jinjur,962,none,Jinjur,none,none,none,none,female
+Woot,963,none,Woot,none,none,none,none,male
+Jinjur,964,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,964,none,Scarecrow,none,Bear,none,none,male
+Jinjur,966,none,Jinjur,none,none,none,none,female
+Jinjur,967,none,Jinjur,none,none,none,none,female
+Woot,969,none,Woot,none,none,none,none,male
+Oz,969,none,Oz,none,none,none,none,male
+Munchkin,973,none,Munchkin,none,none,none,none,female
+Polychrome,977,none,Polychrome,none,none,none,none,female
+Canary,977,none,Canary,none,none,none,none,female
+Tommy Kwikstep,978,none,Tommy,none,Kwikstep,none,none,male
+Scarecrow Bear,980,none,Scarecrow,none,Bear,none,none,male
+Tommy Kwikstep,980,none,Tommy,none,Kwikstep,none,none,male
+Tommy,982,none,Tommy,none,none,none,none,male
+Tommy Kwikstep,984,none,Tommy,none,Kwikstep,none,none,male
+Woot the Monkey,994,none,Woot the Monkey,none,none,none,none,male
+Tommy Kwikstep,996,none,Tommy,none,Kwikstep,none,none,male
+Tin Owl,997,none,Tin,none,Owl,none,none,male
+Scarecrow,1001,none,Scarecrow,none,none,none,none,male
+Tommy Kwikstep,1004,none,Tommy,none,Kwikstep,none,none,male
+Tin Owl,1005,none,Tin,none,Owl,none,none,male
+Tommy Kwikstep,1006,none,Tommy,none,Kwikstep,none,none,male
+Woot,1010,none,Woot,none,none,none,none,male
+Polychrome,1012,none,Polychrome,none,none,none,none,female
+Canary,1012,none,Canary,none,none,none,none,female
+Green Monkey,1012,none,Green,none,Monkey,none,none,male
+Tommy Kwikstep,1012,none,Tommy,none,Kwikstep,none,none,male
+Rainbow,1014,none,Rainbow,none,none,none,none,male
+Tommy Kwikstep,1014,none,Tommy,none,Kwikstep,none,none,male
+Canary,1016,none,Canary,none,none,none,none,female
+Scarecrow Bear,1016,none,Scarecrow,none,Bear,none,none,male
+Tommy Kwikstep,1018,none,Tommy,none,Kwikstep,none,none,male
+Polychrome,1019,none,Polychrome,none,none,none,none,female
+Canary,1019,none,Canary,none,none,none,none,female
+Canary,1021,none,Canary,none,none,none,none,female
+Tommy Kwikstep,1023,none,Tommy,none,Kwikstep,none,none,male
+Woot the Monkey,1024,none,Woot the Monkey,none,none,none,none,male
+Polychrome,1028,none,Polychrome,none,none,none,none,female
+Tommy Kwikstep,1028,none,Tommy,none,Kwikstep,none,none,male
+Jinjur,1029,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,1029,none,Scarecrow,none,Bear,none,none,male
+Jinjur,1029,none,Jinjur,none,none,none,none,female
+Brown Bear,1035,none,Brown,none,Bear,none,none,male
+Jinjur,1036,none,Jinjur,none,none,none,none,female
+Green Monkey,1038,none,Green,none,Monkey,none,none,male
+Jinjur,1039,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,1040,none,Scarecrow,none,Bear,none,none,male
+Woot,1041,none,Woot,none,none,none,none,male
+Canary,1043,none,Canary,none,none,none,none,female
+Tin Owl,1043,none,Tin,none,Owl,none,none,male
+Scarecrow,1043,none,Scarecrow,none,none,none,none,male
+Jinjur,1044,none,Jinjur,none,none,none,none,female
+Canary,1044,none,Canary,none,none,none,none,female
+Glinda,1045,none,Glinda,none,none,none,none,female
+Owl,1047,none,Owl,none,none,none,none,male
+Nimmie Amee,1047,none,Nimmie,none,Amee,none,none,female
+Woot,1047,none,Woot,none,none,none,none,male
+Wanderer,1047,none,Wanderer,none,none,none,none,male
+Giantess,1049,none,Giantess,none,none,none,none,female
+Yoop,1049,none,Yoop,none,none,none,none,male
+Green Monkey,1051,none,Green,none,Monkey,none,none,male
+Polychrome,1052,none,Polychrome,none,none,none,none,female
+Yoop,1052,none,Yoop,none,none,none,none,male
+Glinda,1054,none,Glinda,none,none,none,none,female
+Ozma,1054,none,Ozma,none,none,none,none,female
+Tin Owl,1057,none,Tin,none,Owl,none,none,male
+Woot,1058,none,Woot,none,none,none,none,male
+Polychrome,1059,none,Polychrome,none,none,none,none,female
+Green Monkey,1060,none,Green,none,Monkey,none,none,male
+Bear,1062,none,Bear,none,none,none,none,male
+Patchwork Girl,1063,none,Patchwork,none,Girl,none,none,female
+Tin Owl,1064,none,Tin,none,Owl,none,none,male
+Nimmie Amee,1065,none,Nimmie,none,Amee,none,none,female
+Jinjur,1067,none,Jinjur,none,none,none,none,female
+Green Monkey,1068,none,Green,none,Monkey,none,none,male
+Owl,1069,none,Owl,none,none,none,none,male
+Brown Bear,1069,none,Brown,none,Bear,none,none,male
+Jinjur,1070,none,Jinjur,none,none,none,none,female
+Canary,1070,none,Canary,none,none,none,none,female
+Brown Bear,1072,none,Brown,none,Bear,none,none,male
+Tin Owl,1072,none,Tin,none,Owl,none,none,male
+Green Monkey,1073,none,Green,none,Monkey,none,none,male
+Woot,1076,none,Woot,none,none,none,none,male
+Jinjur,1077,none,Jinjur,none,none,none,none,female
+Brown Bear,1077,none,Brown,none,Bear,none,none,male
+Scarecrow,1079,none,Scarecrow,none,none,none,none,male
+Yoop,1083,none,Yoop,none,none,none,none,male
+Yoop,1084,none,Yoop,none,none,none,none,male
+Jinjur,1084,none,Jinjur,none,none,none,none,female
+Yoop,1087,none,Yoop,none,none,none,none,male
+Jinjur,1089,none,Jinjur,none,none,none,none,female
+Brown Bear,1090,none,Brown,none,Bear,none,none,male
+Tin Woodman,1091,none,Tin,none,Woodman,none,none,male
+Nick Chopper,1091,none,Nick,none,Chopper,none,none,male
+Green Monkey,1091,none,Green,none,Monkey,none,none,male
+Woot the Wanderer,1091,none,Woot the Wanderer,none,none,none,none,male
+Canary,1092,none,Canary,none,none,none,none,female
+Jinjur,1092,none,Jinjur,none,none,none,none,female
+Polychrome,1092,none,Polychrome,none,none,none,none,female
+Jinjur,1093,none,Jinjur,none,none,none,none,female
+Giantess,1093,none,Giantess,none,none,none,none,female
+Sorceress,1093,none,Sorceress,none,none,none,none,female
+Polychrome,1094,none,Polychrome,none,none,none,none,female
+Glinda,1095,none,Glinda,none,none,none,none,female
+Jinjur,1096,none,Jinjur,none,none,none,none,female
+Bear,1101,none,Bear,none,none,none,none,male
+Owl,1101,none,Owl,none,none,none,none,male
+Monkey,1101,none,Monkey,none,none,none,none,male
+Jinjur,1102,none,Jinjur,none,none,none,none,female
+Woot,1102,none,Woot,none,none,none,none,male
+Green Monkey,1103,none,Green,none,Monkey,none,none,male
+Woot,1106,none,Woot,none,none,none,none,male
+Woot,1110,none,Woot,none,none,none,none,male
+Jinjur,1111,none,Jinjur,none,none,none,none,female
+Woot,1112,none,Woot,none,none,none,none,male
+Jinjur,1113,none,Jinjur,none,none,none,none,female
+Woot,1114,none,Woot,none,none,none,none,male
+Jinjur,1114,none,Jinjur,none,none,none,none,female
+Bear,1115,none,Bear,none,none,none,none,male
+Owl,1115,none,Owl,none,none,none,none,male
+Woot,1115,none,Woot,none,none,none,none,male
+Canary,1116,none,Canary,none,none,none,none,female
+Jinjur,1116,none,Jinjur,none,none,none,none,female
+Woot,1118,none,Woot,none,none,none,none,male
+Jinjur,1119,none,Jinjur,none,none,none,none,female
+Woot,1121,none,Woot,none,none,none,none,male
+Woot,1122,none,Woot,none,none,none,none,male
+Jinjur,1124,none,Jinjur,none,none,none,none,female
+Ozma,1128,none,Ozma,none,none,none,none,female
+Dorothy,1128,none,Dorothy,none,none,none,none,female
+Dorothy,1129,none,Dorothy,none,none,none,none,female
+Ozma,1130,none,Ozma,none,none,none,none,female
+Dorothy,1130,none,Dorothy,none,none,none,none,female
+Toto,1131,none,Toto,none,none,none,none,male
+Dorothy,1131,none,Dorothy,none,none,none,none,female
+Ozma,1132,none,Ozma,none,none,none,none,female
+Oz,1132,none,Oz,none,none,none,none,male
+Dorothy,1133,none,Dorothy,none,none,none,none,female
+Ozma,1133,none,Ozma,none,none,none,none,female
+Oz,1135,none,Oz,none,none,none,none,male
+Lurline,1137,none,Lurline,none,none,none,none,female
+Oz,1137,none,Oz,none,none,none,none,male
+Lurline,1138,none,Lurline,none,none,none,none,female
+Oz,1139,none,Oz,none,none,none,none,male
+Dorothy,1146,none,Dorothy,none,none,none,none,female
+Ozma,1146,none,Ozma,none,none,none,none,female
+Ozma,1147,none,Ozma,none,none,none,none,female
+Ozma,1148,none,Ozma,none,none,none,none,female
+Oz,1149,none,Oz,none,none,none,none,male
+Ozma,1149,none,Ozma,none,none,none,none,female
+Glinda the Good,1149,none,Glinda the Good,none,none,none,none,female
+Ozma,1150,none,Ozma,none,none,none,none,female
+Ozma,1152,none,Ozma,none,none,none,none,female
+Dorothy,1152,none,Dorothy,none,none,none,none,female
+Oz,1153,none,Oz,none,none,none,none,male
+Dorothy,1153,none,Dorothy,none,none,none,none,female
+Ozma,1154,none,Ozma,none,none,none,none,female
+Ozma,1155,none,Ozma,none,none,none,none,female
+Dorothy,1156,none,Dorothy,none,none,none,none,female
+Dorothy,1158,none,Dorothy,none,none,none,none,female
+Button Bright,1158,none,Button,none,Bright,none,none,male
+Button Bright,1159,none,Button,none,Bright,none,none,male
+Ojo,1159,none,Ojo,none,none,none,none,male
+Munchkin,1159,none,Munchkin,none,none,none,none,female
+Dorothy,1159,none,Dorothy,none,none,none,none,female
+Aunt Them,1159,Aunt,Them,none,none,none,none,female
+Uncle Henry,1160,Uncle,Henry,none,none,none,none,male
+Dorothy,1160,none,Dorothy,none,none,none,none,female
+Tin Woodman,1160,none,Tin,none,Woodman,none,none,male
+Tin Woodman,1161,none,Tin,none,Woodman,none,none,male
+Woot the Wanderer,1161,none,Woot the Wanderer,none,none,none,none,male
+Dorothy,1162,none,Dorothy,none,none,none,none,female
+Woot,1163,none,Woot,none,none,none,none,male
+Ozma,1164,none,Ozma,none,none,none,none,female
+Ozma,1164,none,Ozma,none,none,none,none,female
+Dorothy,1165,none,Dorothy,none,none,none,none,female
+Dorothy,1165,none,Dorothy,none,none,none,none,female
+Ozma,1166,none,Ozma,none,none,none,none,female
+Scarecrow,1166,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1166,none,Tin,none,Woodman,none,none,male
+Yoop,1166,none,Yoop,none,none,none,none,male
+Giantess,1166,none,Giantess,none,none,none,none,female
+Dorothy,1167,none,Dorothy,none,none,none,none,female
+Ozma,1167,none,Ozma,none,none,none,none,female
+Giantess,1168,none,Giantess,none,none,none,none,female
+Dorothy,1168,none,Dorothy,none,none,none,none,female
+Ozma,1169,none,Ozma,none,none,none,none,female
+Brown Bear,1170,none,Brown,none,Bear,none,none,male
+Yoop,1170,none,Yoop,none,none,none,none,male
+Canary,1171,none,Canary,none,none,none,none,female
+Giantess,1171,none,Giantess,none,none,none,none,female
+Dorothy,1172,none,Dorothy,none,none,none,none,female
+Ozma,1172,none,Ozma,none,none,none,none,female
+Ozma,1175,none,Ozma,none,none,none,none,female
+Yoop,1176,none,Yoop,none,none,none,none,male
+Dorothy,1179,none,Dorothy,none,none,none,none,female
+Ozma,1181,none,Ozma,none,none,none,none,female
+Oz,1181,none,Oz,none,none,none,none,male
+Dorothy,1182,none,Dorothy,none,none,none,none,female
+Ozma,1182,none,Ozma,none,none,none,none,female
+Ozma,1183,none,Ozma,none,none,none,none,female
+Sawhorse,1184,none,Sawhorse,none,none,none,none,male
+Ozma,1185,none,Ozma,none,none,none,none,female
+Sawhorse,1185,none,Sawhorse,none,none,none,none,male
+Sawhorse,1187,none,Sawhorse,none,none,none,none,male
+Ozma,1187,none,Ozma,none,none,none,none,female
+Dorothy,1189,none,Dorothy,none,none,none,none,female
+Toto,1189,none,Toto,none,none,none,none,male
+Dorothy,1189,none,Dorothy,none,none,none,none,female
+Dorothy,1190,none,Dorothy,none,none,none,none,female
+Ozma,1190,none,Ozma,none,none,none,none,female
+Toto,1190,none,Toto,none,none,none,none,male
+Dorothy,1191,none,Dorothy,none,none,none,none,female
+Sawhorse,1191,none,Sawhorse,none,none,none,none,male
+Jinjur,1193,none,Jinjur,none,none,none,none,female
+Green Monkey,1193,none,Green,none,Monkey,none,none,male
+Tin Owl,1195,none,Tin,none,Owl,none,none,male
+Jinjur,1195,none,Jinjur,none,none,none,none,female
+Brown Bear,1195,none,Brown,none,Bear,none,none,male
+Ozma,1195,none,Ozma,none,none,none,none,female
+Canary,1196,none,Canary,none,none,none,none,female
+Dorothy,1196,none,Dorothy,none,none,none,none,female
+Dorothy,1197,none,Dorothy,none,none,none,none,female
+Polychrome,1200,none,Polychrome,none,none,none,none,female
+Canary,1200,none,Canary,none,none,none,none,female
+Dorothy,1201,none,Dorothy,none,none,none,none,female
+Polychrome,1203,none,Polychrome,none,none,none,none,female
+Ozma,1204,none,Ozma,none,none,none,none,female
+Dorothy,1204,none,Dorothy,none,none,none,none,female
+Scarecrow,1205,none,Scarecrow,none,none,none,none,male
+Scarecrow Bear,1207,none,Scarecrow,none,Bear,none,none,male
+Owl,1209,none,Owl,none,none,none,none,male
+Dorothy,1210,none,Dorothy,none,none,none,none,female
+Dorothy,1211,none,Dorothy,none,none,none,none,female
+Ozma,1212,none,Ozma,none,none,none,none,female
+Green Monkey,1213,none,Green,none,Monkey,none,none,male
+Jinjur,1213,none,Jinjur,none,none,none,none,female
+Ozma,1213,none,Ozma,none,none,none,none,female
+Woot,1213,none,Woot,none,none,none,none,male
+Ozma,1214,none,Ozma,none,none,none,none,female
+Yoop,1214,none,Yoop,none,none,none,none,male
+Tin Woodman,1216,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,1216,none,Nimmie,none,Amee,none,none,female
+Woot,1217,none,Woot,none,none,none,none,male
+Tin Owl,1217,none,Tin,none,Owl,none,none,male
+Giantess,1217,none,Giantess,none,none,none,none,female
+Polychrome,1218,none,Polychrome,none,none,none,none,female
+Dorothy,1218,none,Dorothy,none,none,none,none,female
+Toto,1218,none,Toto,none,none,none,none,male
+Ozma,1218,none,Ozma,none,none,none,none,female
+Yoop,1221,none,Yoop,none,none,none,none,male
+Scarecrow,1222,none,Scarecrow,none,none,none,none,male
+Giantess,1224,none,Giantess,none,none,none,none,female
+Brown Bear,1226,none,Brown,none,Bear,none,none,male
+Tin Woodman,1227,none,Tin,none,Woodman,none,none,male
+Ozma,1227,none,Ozma,none,none,none,none,female
+Giantess,1228,none,Giantess,none,none,none,none,female
+Wand,1230,none,Wand,none,none,none,none,female
+Wand,1230,none,Wand,none,none,none,none,female
+Bear,1230,none,Bear,none,none,none,none,male
+Scarecrow,1232,none,Scarecrow,none,none,none,none,male
+Ozma,1232,none,Ozma,none,none,none,none,female
+Oz,1232,none,Oz,none,none,none,none,male
+Tin Woodman,1232,none,Tin,none,Woodman,none,none,male
+Tin Owl,1232,none,Tin,none,Owl,none,none,male
+Canary,1233,none,Canary,none,none,none,none,female
+Ozma,1233,none,Ozma,none,none,none,none,female
+Ozma,1234,none,Ozma,none,none,none,none,female
+Polychrome,1235,none,Polychrome,none,none,none,none,female
+Polychrome,1236,none,Polychrome,none,none,none,none,female
+Rainbow,1236,none,Rainbow,none,none,none,none,male
+Bird,1236,none,Bird,none,none,none,none,female
+Canary,1238,none,Canary,none,none,none,none,female
+Dove,1238,none,Dove,none,none,none,none,female
+Dove,1238,none,Dove,none,none,none,none,female
+Fawn,1238,none,Fawn,none,none,none,none,female
+Fawn,1239,none,Fawn,none,none,none,none,female
+Polychrome,1240,none,Polychrome,none,none,none,none,female
+Woot,1241,none,Woot,none,none,none,none,male
+Sky Fairy,1241,none,Sky,none,Fairy,none,none,male
+Ozma,1241,none,Ozma,none,none,none,none,female
+Dorothy,1242,none,Dorothy,none,none,none,none,female
+Ruler of Oz,1242,none,Ruler of Oz,none,none,none,none,female
+Jinjur,1243,none,Jinjur,none,none,none,none,female
+Ozma,1243,none,Ozma,none,none,none,none,female
+Woot,1246,none,Woot,none,none,none,none,male
+Ozma,1247,none,Ozma,none,none,none,none,female
+Ozma,1247,none,Ozma,none,none,none,none,female
+Giantess,1250,none,Giantess,none,none,none,none,female
+Woot,1251,none,Woot,none,none,none,none,male
+Dorothy,1254,none,Dorothy,none,none,none,none,female
+Ozma,1254,none,Ozma,none,none,none,none,female
+Glinda,1254,none,Glinda,none,none,none,none,female
+Glinda,1256,none,Glinda,none,none,none,none,female
+Woot,1257,none,Woot,none,none,none,none,male
+Green Monkey,1259,none,Green,none,Monkey,none,none,male
+Scarecrow,1260,none,Scarecrow,none,none,none,none,male
+Ozma,1261,none,Ozma,none,none,none,none,female
+Green Monkey,1262,none,Green,none,Monkey,none,none,male
+Yoop,1262,none,Yoop,none,none,none,none,male
+Toto,1264,none,Toto,none,none,none,none,male
+Woot,1265,none,Woot,none,none,none,none,male
+Toto,1266,none,Toto,none,none,none,none,male
+Woot,1268,none,Woot,none,none,none,none,male
+Toto,1270,none,Toto,none,none,none,none,male
+Scarecrow,1271,none,Scarecrow,none,none,none,none,male
+Toto,1273,none,Toto,none,none,none,none,male
+Jinjur,1276,none,Jinjur,none,none,none,none,female
+Toto,1278,none,Toto,none,none,none,none,male
+Jinjur,1280,none,Jinjur,none,none,none,none,female
+Toto,1281,none,Toto,none,none,none,none,male
+Dorothy,1282,none,Dorothy,none,none,none,none,female
+Jinjur,1283,none,Jinjur,none,none,none,none,female
+Woot,1283,none,Woot,none,none,none,none,male
+Dorothy,1284,none,Dorothy,none,none,none,none,female
+Woot,1285,none,Woot,none,none,none,none,male
+Dorothy,1286,none,Dorothy,none,none,none,none,female
+Ozma,1287,none,Ozma,none,none,none,none,female
+Oz,1287,none,Oz,none,none,none,none,male
+Woot the Wanderer,1287,none,Woot the Wanderer,none,none,none,none,male
+Ozma,1288,none,Ozma,none,none,none,none,female
+Woot,1288,none,Woot,none,none,none,none,male
+Dorothy,1290,none,Dorothy,none,none,none,none,female
+Woot,1292,none,Woot,none,none,none,none,male
+Dorothy,1296,none,Dorothy,none,none,none,none,female
+Ozma,1296,none,Ozma,none,none,none,none,female
+Scarecrow,1297,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1297,none,Tin,none,Woodman,none,none,male
+Polychrome,1299,none,Polychrome,none,none,none,none,female
+Ozma,1299,none,Ozma,none,none,none,none,female
+Woot,1299,none,Woot,none,none,none,none,male
+Rainbow,1300,none,Rainbow,none,none,none,none,male
+Ozma,1301,none,Ozma,none,none,none,none,female
+Yoop,1301,none,Yoop,none,none,none,none,male
+Giantess,1301,none,Giantess,none,none,none,none,female
+Woot the Wanderer,1302,none,Woot the Wanderer,none,none,none,none,male
+Yoop,1306,none,Yoop,none,none,none,none,male
+Yoop,1307,none,Yoop,none,none,none,none,male
+Green Monkey,1307,none,Green,none,Monkey,none,none,male
+Woot,1307,none,Woot,none,none,none,none,male
+Ozma,1308,none,Ozma,none,none,none,none,female
+Polychrome,1309,none,Polychrome,none,none,none,none,female
+Yoop,1311,none,Yoop,none,none,none,none,male
+Giantess,1311,none,Giantess,none,none,none,none,female
+Tin Woodman,1320,none,Tin,none,Woodman,none,none,male
+Woot,1322,none,Woot,none,none,none,none,male
+Woot,1326,none,Woot,none,none,none,none,male
+Scarecrow,1328,none,Scarecrow,none,none,none,none,male
+Yoop,1330,none,Yoop,none,none,none,none,male
+Yoop,1332,none,Yoop,none,none,none,none,male
+Woot,1335,none,Woot,none,none,none,none,male
+Nick Chopper,1335,none,Nick,none,Chopper,none,none,male
+Woot,1336,none,Woot,none,none,none,none,male
+Scarecrow,1340,none,Scarecrow,none,none,none,none,male
+Giantess,1349,none,Giantess,none,none,none,none,female
+Giantess,1354,none,Giantess,none,none,none,none,female
+Woot,1356,none,Woot,none,none,none,none,male
+Giantess,1357,none,Giantess,none,none,none,none,female
+Madam,1358,Madam,none,none,none,none,none,female
+Scarecrow,1358,none,Scarecrow,none,none,none,none,male
+Yoop,1360,none,Yoop,none,none,none,none,male
+Giantess,1361,none,Giantess,none,none,none,none,female
+Woot,1361,none,Woot,none,none,none,none,male
+Yoop,1362,none,Yoop,none,none,none,none,male
+Yoop,1363,none,Yoop,none,none,none,none,male
+Woot,1364,none,Woot,none,none,none,none,male
+Yoop,1366,none,Yoop,none,none,none,none,male
+Yoop,1367,none,Yoop,none,none,none,none,male
+Yoop,1368,none,Yoop,none,none,none,none,male
+Woot,1372,none,Woot,none,none,none,none,male
+Scarecrow,1373,none,Scarecrow,none,none,none,none,male
+Nick Chopper,1373,none,Nick,none,Chopper,none,none,male
+Yoop,1374,none,Yoop,none,none,none,none,male
+Witch,1376,none,Witch,none,none,none,none,female
+Woot,1376,none,Woot,none,none,none,none,male
+Witch,1377,none,Witch,none,none,none,none,female
+Witch,1378,none,Witch,none,none,none,none,female
+Giantess,1380,none,Giantess,none,none,none,none,female
+Scarecrow,1381,none,Scarecrow,none,none,none,none,male
+Yoop,1381,none,Yoop,none,none,none,none,male
+Polychrome,1384,none,Polychrome,none,none,none,none,female
+Tin Woodman,1385,none,Tin,none,Woodman,none,none,male
+Polychrome,1386,none,Polychrome,none,none,none,none,female
+Giantess,1387,none,Giantess,none,none,none,none,female
+Polychrome,1388,none,Polychrome,none,none,none,none,female
+Rainbow,1389,none,Rainbow,none,none,none,none,male
+Poly,1389,none,Poly,none,none,none,none,female
+Woot,1393,none,Woot,none,none,none,none,male
+Polychrome,1393,none,Polychrome,none,none,none,none,female
+Giantess,1394,none,Giantess,none,none,none,none,female
+Giantess,1395,none,Giantess,none,none,none,none,female
+Polychrome,1396,none,Polychrome,none,none,none,none,female
+Rainbow,1396,none,Rainbow,none,none,none,none,male
+Yookoohoo,1396,none,Yookoohoo,none,none,none,none,female
+Scarecrow,1397,none,Scarecrow,none,none,none,none,male
+Yoop,1397,none,Yoop,none,none,none,none,male
+Tin Woodman,1399,none,Tin,none,Woodman,none,none,male
+Scarecrow,1404,none,Scarecrow,none,none,none,none,male
+Yoop,1404,none,Yoop,none,none,none,none,male
+Tin Woodman,1404,none,Tin,none,Woodman,none,none,male
+Yoop,1404,none,Yoop,none,none,none,none,male
+Scarecrow,1405,none,Scarecrow,none,none,none,none,male
+Giantess,1410,none,Giantess,none,none,none,none,female
+Scarecrow,1412,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1412,none,Tin,none,Woodman,none,none,male
+Woot,1418,none,Woot,none,none,none,none,male
+Woot,1422,none,Woot,none,none,none,none,male
+Scarecrow,1427,none,Scarecrow,none,none,none,none,male
+Mercy,1428,none,Mercy,none,none,none,none,female
+Scarecrow,1436,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1437,none,Tin,none,Woodman,none,none,male
+Woot,1438,none,Woot,none,none,none,none,male
+Wanderer,1438,none,Wanderer,none,none,none,none,male
+Giantess,1439,none,Giantess,none,none,none,none,female
+Woot,1441,none,Woot,none,none,none,none,male
+Scarecrow,1441,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1441,none,Tin,none,Woodman,none,none,male
+Yoop,1441,none,Yoop,none,none,none,none,male
+Giantess,1442,none,Giantess,none,none,none,none,female
+Yoop,1446,none,Yoop,none,none,none,none,male
+Tin Man,1447,none,Tin,none,Man,none,none,male
+Scarecrow,1447,none,Scarecrow,none,none,none,none,male
+Giantess,1448,none,Giantess,none,none,none,none,female
+Tin Woodman,1449,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,1449,none,Nimmie,none,Amee,none,none,female
+Scarecrow,1450,none,Scarecrow,none,none,none,none,male
+Ozma,1450,none,Ozma,none,none,none,none,female
+Oz,1450,none,Oz,none,none,none,none,male
+Dorothy,1450,none,Dorothy,none,none,none,none,female
+Jack Pumpkinhead,1450,none,Jack,none,Pumpkinhead,none,none,male
+Pipt,1450,none,Pipt,none,none,none,none,male
+Tik-tok,1450,none,Tik-tok,none,none,none,none,male
+Woot,1451,none,Woot,none,none,none,none,male
+Giantess,1452,none,Giantess,none,none,none,none,female
+Loons,1452,none,Loons,none,none,none,none,female
+Yoop,1453,none,Yoop,none,none,none,none,male
+Ozma,1454,none,Ozma,none,none,none,none,female
+Scarecrow,1454,none,Scarecrow,none,none,none,none,male
+Glinda the Good,1454,none,Glinda the Good,none,none,none,none,female
+Wizard,1454,none,Wizard,none,none,none,none,male
+Ozma,1454,none,Ozma,none,none,none,none,female
+Ozma,1455,none,Ozma,none,none,none,none,female
+Giantess,1455,none,Giantess,none,none,none,none,female
+Ozma,1457,none,Ozma,none,none,none,none,female
+Tin Woodman,1457,none,Tin,none,Woodman,none,none,male
+Ozma,1458,none,Ozma,none,none,none,none,female
+Ozma,1459,none,Ozma,none,none,none,none,female
+Giantess,1459,none,Giantess,none,none,none,none,female
+Yoop,1463,none,Yoop,none,none,none,none,male
+Giantess,1464,none,Giantess,none,none,none,none,female
+Tin Woodman,1466,none,Tin,none,Woodman,none,none,male
+Scarecrow,1466,none,Scarecrow,none,none,none,none,male
+Woot,1466,none,Woot,none,none,none,none,male
+Wanderer,1466,none,Wanderer,none,none,none,none,male
+Scarecrow,1470,none,Scarecrow,none,none,none,none,male
+Emperor,1470,Emperor,none,none,none,none,none,male
+Woot,1471,none,Woot,none,none,none,none,male
+Giantess,1472,none,Giantess,none,none,none,none,female
+Giantess,1476,none,Giantess,none,none,none,none,female
+Woot,1478,none,Woot,none,none,none,none,male
+Giantess,1480,none,Giantess,none,none,none,none,female
+Woot,1480,none,Woot,none,none,none,none,male
+Woot,1482,none,Woot,none,none,none,none,male
+Yoop,1483,none,Yoop,none,none,none,none,male
+Woot,1494,none,Woot,none,none,none,none,male
+Yoop,1499,none,Yoop,none,none,none,none,male
+Scarecrow,1501,none,Scarecrow,none,none,none,none,male
+Tin Man,1503,none,Tin,none,Man,none,none,male
+Tin Woodman,1503,none,Tin,none,Woodman,none,none,male
+Owl,1503,none,Owl,none,none,none,none,male
+Nick Chopper,1504,none,Nick,none,Chopper,none,none,male
+Owl,1504,none,Owl,none,none,none,none,male
+Giantess,1508,none,Giantess,none,none,none,none,female
+Tin Owl,1508,none,Tin,none,Owl,none,none,male
+Scarecrow,1513,none,Scarecrow,none,none,none,none,male
+Yoop,1513,none,Yoop,none,none,none,none,male
+Tin Woodman,1513,none,Tin,none,Woodman,none,none,male
+Woot,1514,none,Woot,none,none,none,none,male
+Scarecrow,1523,none,Scarecrow,none,none,none,none,male
+Scarecrow,1525,none,Scarecrow,none,none,none,none,male
+Scarecrow,1526,none,Scarecrow,none,none,none,none,male
+Brown Bear,1527,none,Brown,none,Bear,none,none,male
+Brown Bear,1527,none,Brown,none,Bear,none,none,male
+Scarecrow,1527,none,Scarecrow,none,none,none,none,male
+Woot,1528,none,Woot,none,none,none,none,male
+Brown Bear,1529,none,Brown,none,Bear,none,none,male
+Scarecrow,1530,none,Scarecrow,none,none,none,none,male
+Bear,1530,none,Bear,none,none,none,none,male
+Owl,1535,none,Owl,none,none,none,none,male
+Woot,1535,none,Woot,none,none,none,none,male
+Giantess,1537,none,Giantess,none,none,none,none,female
+Woot,1539,none,Woot,none,none,none,none,male
+Green Monkey,1543,none,Green,none,Monkey,none,none,male
+Woot,1544,none,Woot,none,none,none,none,male
+Giantess,1550,none,Giantess,none,none,none,none,female
+Monkey,1552,none,Monkey,none,none,none,none,male
+Woot,1554,none,Woot,none,none,none,none,male
+Yoop,1556,none,Yoop,none,none,none,none,male
+Giantess,1558,none,Giantess,none,none,none,none,female
+Tin Owl,1560,none,Tin,none,Owl,none,none,male
+Owl,1560,none,Owl,none,none,none,none,male
+Giantess,1563,none,Giantess,none,none,none,none,female
+Bear,1564,none,Bear,none,none,none,none,male
+Scarecrow,1564,none,Scarecrow,none,none,none,none,male
+Giantess,1565,none,Giantess,none,none,none,none,female
+Yoop,1569,none,Yoop,none,none,none,none,male
+Giantess,1570,none,Giantess,none,none,none,none,female
+Woot the Wanderer,1570,none,Woot the Wanderer,none,none,none,none,male
+Nick Chopper,1570,none,Nick,none,Chopper,none,none,male
+Brown Bear,1570,none,Brown,none,Bear,none,none,male
+Scarecrow,1571,none,Scarecrow,none,none,none,none,male
+Polychrome,1572,none,Polychrome,none,none,none,none,female
+Scarecrow,1573,none,Scarecrow,none,none,none,none,male
+Yoop,1574,none,Yoop,none,none,none,none,male
+Scarecrow,1575,none,Scarecrow,none,none,none,none,male
+Poly,1576,none,Poly,none,none,none,none,female
+Tin Woodman,1576,none,Tin,none,Woodman,none,none,male
+Tin Owl,1577,none,Tin,none,Owl,none,none,male
+Scarecrow,1580,none,Scarecrow,none,none,none,none,male
+Polychrome,1582,none,Polychrome,none,none,none,none,female
+Green Monkey,1585,none,Green,none,Monkey,none,none,male
+Daughter of the Rainbow,1585,none,Daughter of the Rainbow,none,none,none,none,female
+Giantess,1589,none,Giantess,none,none,none,none,female
+Giantess,1593,none,Giantess,none,none,none,none,female
+Yoop,1594,none,Yoop,none,none,none,none,male
+Green Monkey,1595,none,Green,none,Monkey,none,none,male
+Canary,1596,none,Canary,none,none,none,none,female
+Yoop,1596,none,Yoop,none,none,none,none,male
+Woot,1598,none,Woot,none,none,none,none,male
+Monkey,1598,none,Monkey,none,none,none,none,male
+Canary,1599,none,Canary,none,none,none,none,female
+Tin Owl,1600,none,Tin,none,Owl,none,none,male
+Giantess,1601,none,Giantess,none,none,none,none,female
+Polychrome,1602,none,Polychrome,none,none,none,none,female
+Canary,1602,none,Canary,none,none,none,none,female
+Yoop,1604,none,Yoop,none,none,none,none,male
+Brown Bear,1607,none,Brown,none,Bear,none,none,male
+Yoop,1608,none,Yoop,none,none,none,none,male
+Polychrome,1609,none,Polychrome,none,none,none,none,female
+Canary,1609,none,Canary,none,none,none,none,female
+Bird,1609,none,Bird,none,none,none,none,female
+Owl,1610,none,Owl,none,none,none,none,male
+Bear,1610,none,Bear,none,none,none,none,male
+Monkey,1610,none,Monkey,none,none,none,none,male
+Woot the Monkey,1612,none,Woot the Monkey,none,none,none,none,male
+Giantess,1616,none,Giantess,none,none,none,none,female
+Polychrome,1618,none,Polychrome,none,none,none,none,female
+Yoop,1619,none,Yoop,none,none,none,none,male
+Yoop,1620,none,Yoop,none,none,none,none,male
+Green Monkey,1623,none,Green,none,Monkey,none,none,male
+Giantess,1624,none,Giantess,none,none,none,none,female
+Monkey,1624,none,Monkey,none,none,none,none,male
+Brown Bear,1625,none,Brown,none,Bear,none,none,male
+Owl,1626,none,Owl,none,none,none,none,male
+Canary,1626,none,Canary,none,none,none,none,female
+Giantess,1626,none,Giantess,none,none,none,none,female
+Bear,1626,none,Bear,none,none,none,none,male
+Monkey,1626,none,Monkey,none,none,none,none,male
+Yoop,1627,none,Yoop,none,none,none,none,male
+Monkey,1628,none,Monkey,none,none,none,none,male
+Bear,1628,none,Bear,none,none,none,none,male
+Owl,1628,none,Owl,none,none,none,none,male
+Canary,1628,none,Canary,none,none,none,none,female
+Green Monkey,1629,none,Green,none,Monkey,none,none,male
+Giantess,1630,none,Giantess,none,none,none,none,female
+Yoop,1632,none,Yoop,none,none,none,none,male
+Woot,1632,none,Woot,none,none,none,none,male
+Monkey,1632,none,Monkey,none,none,none,none,male
+Giantess,1632,none,Giantess,none,none,none,none,female
+Woot,1634,none,Woot,none,none,none,none,male
+Canary,1634,none,Canary,none,none,none,none,female
+Rainbow,1635,none,Rainbow,none,none,none,none,male
+Woot,1635,none,Woot,none,none,none,none,male
+Yoop,1641,none,Yoop,none,none,none,none,male
+Green Monkey,1642,none,Green,none,Monkey,none,none,male
+Giantess,1642,none,Giantess,none,none,none,none,female
+Woot,1643,none,Woot,none,none,none,none,male
+Monkey,1643,none,Monkey,none,none,none,none,male
+Tin Owl,1644,none,Tin,none,Owl,none,none,male
+Woot,1644,none,Woot,none,none,none,none,male
+Giantess,1645,none,Giantess,none,none,none,none,female
+Polychrome,1646,none,Polychrome,none,none,none,none,female
+Yoop,1646,none,Yoop,none,none,none,none,male
+Giantess,1648,none,Giantess,none,none,none,none,female
+Green Monkey,1649,none,Green,none,Monkey,none,none,male
+Tin Owl,1650,none,Tin,none,Owl,none,none,male
+Brown Bear,1651,none,Brown,none,Bear,none,none,male
+Green Monkey,1652,none,Green,none,Monkey,none,none,male
+Polychrome,1653,none,Polychrome,none,none,none,none,female
+Yoop,1653,none,Yoop,none,none,none,none,male
+Yoop,1655,none,Yoop,none,none,none,none,male
+Woot,1655,none,Woot,none,none,none,none,male
+Tin Woodman,1655,none,Tin,none,Woodman,none,none,male
+Polychrome,1656,none,Polychrome,none,none,none,none,female
+Yoop,1657,none,Yoop,none,none,none,none,male
+Green Monkey,1658,none,Green,none,Monkey,none,none,male
+Canary,1659,none,Canary,none,none,none,none,female
+Brown Bear,1662,none,Brown,none,Bear,none,none,male
+Tin Owl,1663,none,Tin,none,Owl,none,none,male
+Green Monkey,1664,none,Green,none,Monkey,none,none,male
+Monkey,1667,none,Monkey,none,none,none,none,male
+Canary,1668,none,Canary,none,none,none,none,female
+Tin Owl,1668,none,Tin,none,Owl,none,none,male
+Brown Bear,1668,none,Brown,none,Bear,none,none,male
+Woot,1669,none,Woot,none,none,none,none,male
+Scarecrow Bear,1670,none,Scarecrow,none,Bear,none,none,male
+Canary,1671,none,Canary,none,none,none,none,female
+Green Monkey,1675,none,Green,none,Monkey,none,none,male
+Canary,1675,none,Canary,none,none,none,none,female
+Canary,1677,none,Canary,none,none,none,none,female
+Brown Bear,1680,none,Brown,none,Bear,none,none,male
+Owl,1680,none,Owl,none,none,none,none,male
+Canary,1681,none,Canary,none,none,none,none,female
+Green Monkey,1681,none,Green,none,Monkey,none,none,male
+Polychrome,1682,none,Polychrome,none,none,none,none,female
+Tin Owl,1683,none,Tin,none,Owl,none,none,male
+Nimmie Amee,1684,none,Nimmie,none,Amee,none,none,female
+Munchkin,1684,none,Munchkin,none,none,none,none,female
+Tin Woodman,1684,none,Tin,none,Woodman,none,none,male
+Tin Owl,1684,none,Tin,none,Owl,none,none,male
+Brown Bear,1685,none,Brown,none,Bear,none,none,male
+Scarecrow,1686,none,Scarecrow,none,none,none,none,male
+Woot,1687,none,Woot,none,none,none,none,male
+Giantess,1688,none,Giantess,none,none,none,none,female
+Brown Bear,1689,none,Brown,none,Bear,none,none,male
+Woot,1689,none,Woot,none,none,none,none,male
+Canary,1691,none,Canary,none,none,none,none,female
+Polychrome,1692,none,Polychrome,none,none,none,none,female
+Ozma,1692,none,Ozma,none,none,none,none,female
+Tin Owl,1692,none,Tin,none,Owl,none,none,male
+Giantess,1692,none,Giantess,none,none,none,none,female
+Canary,1693,none,Canary,none,none,none,none,female
+Green Monkey,1693,none,Green,none,Monkey,none,none,male
+Yoop,1694,none,Yoop,none,none,none,none,male
+Glinda,1694,none,Glinda,none,none,none,none,female
+Good Sorceress,1694,none,Good,none,Sorceress,none,none,female
+Glinda,1695,none,Glinda,none,none,none,none,female
+Sorceress,1695,none,Sorceress,none,none,none,none,female
+Glinda,1696,none,Glinda,none,none,none,none,female
+Woot,1698,none,Woot,none,none,none,none,male
+Green Monkey,1700,none,Green,none,Monkey,none,none,male
+Brown Bear,1701,none,Brown,none,Bear,none,none,male
+Tin Owl,1703,none,Tin,none,Owl,none,none,male
+Canary,1704,none,Canary,none,none,none,none,female
+Owl,1704,none,Owl,none,none,none,none,male
+Green Monkey,1704,none,Green,none,Monkey,none,none,male
+Brown Bear,1705,none,Brown,none,Bear,none,none,male
+Bear,1707,none,Bear,none,none,none,none,male
+Jaguar,1708,none,Jaguar,none,none,none,none,male
+Bear,1708,none,Bear,none,none,none,none,male
+Canary,1709,none,Canary,none,none,none,none,female
+Monkey,1709,none,Monkey,none,none,none,none,male
+Brown Bear,1710,none,Brown,none,Bear,none,none,male
+Polychrome,1714,none,Polychrome,none,none,none,none,female
+Monkey,1717,none,Monkey,none,none,none,none,male
+Woot,1718,none,Woot,none,none,none,none,male
+Monkey,1718,none,Monkey,none,none,none,none,male
+Jaguar,1719,none,Jaguar,none,none,none,none,male
+Woot,1720,none,Woot,none,none,none,none,male
+Jaguar,1720,none,Jaguar,none,none,none,none,male
+Apron,1721,none,Apron,none,none,none,none,male
+Woot,1721,none,Woot,none,none,none,none,male
+Jaguar,1722,none,Jaguar,none,none,none,none,male
+Woot,1723,none,Woot,none,none,none,none,male
+Monkey,1723,none,Monkey,none,none,none,none,male
+Tin Owl,1725,none,Tin,none,Owl,none,none,male
+Brown Bear,1725,none,Brown,none,Bear,none,none,male
+Canary,1729,none,Canary,none,none,none,none,female
+Canary,1732,none,Canary,none,none,none,none,female
+Canary,1734,none,Canary,none,none,none,none,female
+Yoop,1734,none,Yoop,none,none,none,none,male
+Giantess,1734,none,Giantess,none,none,none,none,female
+Polychrome,1742,none,Polychrome,none,none,none,none,female
+Canary,1742,none,Canary,none,none,none,none,female
+Canary,1744,none,Canary,none,none,none,none,female
+Polychrome,1748,none,Polychrome,none,none,none,none,female
+Canary,1750,none,Canary,none,none,none,none,female
+Canary,1752,none,Canary,none,none,none,none,female
+Poly,1754,none,Poly,none,none,none,none,female
+Bear Scarecrow,1754,none,Bear,none,Scarecrow,none,none,male
+Canary,1756,none,Canary,none,none,none,none,female
+Bear,1757,none,Bear,none,none,none,none,male
+Owl,1757,none,Owl,none,none,none,none,male
+Jaguar,1757,none,Jaguar,none,none,none,none,male
+Bear,1758,none,Bear,none,none,none,none,male
+Jaguar,1758,none,Jaguar,none,none,none,none,male
+Poly,1764,none,Poly,none,none,none,none,female
+Tin Woodman,1764,none,Tin,none,Woodman,none,none,male
+Canary,1764,none,Canary,none,none,none,none,female
+Woot,1764,none,Woot,none,none,none,none,male
+Polychrome,1765,none,Polychrome,none,none,none,none,female
+Scarecrow Bear,1766,none,Scarecrow,none,Bear,none,none,male
+Green Monkey,1769,none,Green,none,Monkey,none,none,male
+Woot,1772,none,Woot,none,none,none,none,male
+Woot,1779,none,Woot,none,none,none,none,male
+Woot,1781,none,Woot,none,none,none,none,male
+Dragon,1788,none,Dragon,none,none,none,none,male
+Dragon,1790,none,Dragon,none,none,none,none,male
+Woot,1794,none,Woot,none,none,none,none,male
+Dragon,1804,none,Dragon,none,none,none,none,male
+Mother,1805,Mother,none,none,none,none,none,female
+Dragon,1805,none,Dragon,none,none,none,none,male
+Woot,1809,none,Woot,none,none,none,none,male
+Dragon,1810,none,Dragon,none,none,none,none,male
+Green Monkey,1811,none,Green,none,Monkey,none,none,male
+Dragon,1813,none,Dragon,none,none,none,none,male
+Woot,1814,none,Woot,none,none,none,none,male
+Dragon,1821,none,Dragon,none,none,none,none,male
+Woot,1821,none,Woot,none,none,none,none,male
+Dragon,1822,none,Dragon,none,none,none,none,male
+Woot,1823,none,Woot,none,none,none,none,male
+Dragon,1824,none,Dragon,none,none,none,none,male
+Green Monkey,1824,none,Green,none,Monkey,none,none,male
+Woot,1825,none,Woot,none,none,none,none,male
+Dragon,1827,none,Dragon,none,none,none,none,male
+Woot,1827,none,Woot,none,none,none,none,male
+Woot,1828,none,Woot,none,none,none,none,male
+Woot,1830,none,Woot,none,none,none,none,male
+Woot,1832,none,Woot,none,none,none,none,male
+Woot,1834,none,Woot,none,none,none,none,male
+Woot,1837,none,Woot,none,none,none,none,male
+Green Monkey,1839,none,Green,none,Monkey,none,none,male
+Woot,1846,none,Woot,none,none,none,none,male
+Brown Bear,1846,none,Brown,none,Bear,none,none,male
+Canary,1846,none,Canary,none,none,none,none,female
+Green Monkey,1846,none,Green,none,Monkey,none,none,male
+Tommy Kwikstep,1847,none,Tommy,none,Kwikstep,none,none,male
+Green Monkey,1847,none,Green,none,Monkey,none,none,male
+Glinda,1848,none,Glinda,none,none,none,none,female
+Tin Owl,1849,none,Tin,none,Owl,none,none,male
+Canary,1851,none,Canary,none,none,none,none,female
+Glinda,1852,none,Glinda,none,none,none,none,female
+Woot,1855,none,Woot,none,none,none,none,male
+Scarecrow,1856,none,Scarecrow,none,none,none,none,male
+Yoop,1861,none,Yoop,none,none,none,none,male
+Scarecrow Bear,1864,none,Scarecrow,none,Bear,none,none,male
+Jinjur,1866,none,Jinjur,none,none,none,none,female
+Jinjur,1867,none,Jinjur,none,none,none,none,female
+Woot,1867,none,Woot,none,none,none,none,male
+Green Monkey,1867,none,Green,none,Monkey,none,none,male
+Jinjur,1868,none,Jinjur,none,none,none,none,female
+Scarecrow,1868,none,Scarecrow,none,none,none,none,male
+Woot,1869,none,Woot,none,none,none,none,male
+Jinjur,1870,none,Jinjur,none,none,none,none,female
+Jinjur,1871,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,1871,none,Scarecrow,none,Bear,none,none,male
+General Jinjur,1873,General,none,none,Jinjur,none,none,male
+Ozma,1875,none,Ozma,none,none,none,none,female
+Jinjur,1875,none,Jinjur,none,none,none,none,female
+Jinjur,1876,none,Jinjur,none,none,none,none,female
+Giantess,1878,none,Giantess,none,none,none,none,female
+Jinjur,1878,none,Jinjur,none,none,none,none,female
+Woot,1879,none,Woot,none,none,none,none,male
+Jinjur,1880,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,1880,none,Scarecrow,none,Bear,none,none,male
+Jinjur,1882,none,Jinjur,none,none,none,none,female
+Jinjur,1883,none,Jinjur,none,none,none,none,female
+Woot,1885,none,Woot,none,none,none,none,male
+Oz,1885,none,Oz,none,none,none,none,male
+Munchkin,1889,none,Munchkin,none,none,none,none,female
+Polychrome,1893,none,Polychrome,none,none,none,none,female
+Canary,1893,none,Canary,none,none,none,none,female
+Tommy Kwikstep,1894,none,Tommy,none,Kwikstep,none,none,male
+Scarecrow Bear,1896,none,Scarecrow,none,Bear,none,none,male
+Tommy Kwikstep,1896,none,Tommy,none,Kwikstep,none,none,male
+Tommy,1898,none,Tommy,none,none,none,none,male
+Tommy Kwikstep,1900,none,Tommy,none,Kwikstep,none,none,male
+Woot the Monkey,1910,none,Woot the Monkey,none,none,none,none,male
+Tommy Kwikstep,1912,none,Tommy,none,Kwikstep,none,none,male
+Tin Owl,1913,none,Tin,none,Owl,none,none,male
+Scarecrow,1917,none,Scarecrow,none,none,none,none,male
+Tommy Kwikstep,1920,none,Tommy,none,Kwikstep,none,none,male
+Tin Owl,1921,none,Tin,none,Owl,none,none,male
+Tommy Kwikstep,1922,none,Tommy,none,Kwikstep,none,none,male
+Woot,1926,none,Woot,none,none,none,none,male
+Polychrome,1928,none,Polychrome,none,none,none,none,female
+Canary,1928,none,Canary,none,none,none,none,female
+Green Monkey,1928,none,Green,none,Monkey,none,none,male
+Tommy Kwikstep,1928,none,Tommy,none,Kwikstep,none,none,male
+Rainbow,1930,none,Rainbow,none,none,none,none,male
+Tommy Kwikstep,1930,none,Tommy,none,Kwikstep,none,none,male
+Canary,1932,none,Canary,none,none,none,none,female
+Scarecrow Bear,1932,none,Scarecrow,none,Bear,none,none,male
+Tommy Kwikstep,1934,none,Tommy,none,Kwikstep,none,none,male
+Polychrome,1935,none,Polychrome,none,none,none,none,female
+Canary,1935,none,Canary,none,none,none,none,female
+Canary,1937,none,Canary,none,none,none,none,female
+Tommy Kwikstep,1939,none,Tommy,none,Kwikstep,none,none,male
+Woot the Monkey,1940,none,Woot the Monkey,none,none,none,none,male
+Polychrome,1944,none,Polychrome,none,none,none,none,female
+Tommy Kwikstep,1944,none,Tommy,none,Kwikstep,none,none,male
+Jinjur,1945,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,1945,none,Scarecrow,none,Bear,none,none,male
+Jinjur,1945,none,Jinjur,none,none,none,none,female
+Brown Bear,1951,none,Brown,none,Bear,none,none,male
+Jinjur,1952,none,Jinjur,none,none,none,none,female
+Green Monkey,1954,none,Green,none,Monkey,none,none,male
+Jinjur,1955,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,1956,none,Scarecrow,none,Bear,none,none,male
+Woot,1957,none,Woot,none,none,none,none,male
+Canary,1959,none,Canary,none,none,none,none,female
+Tin Owl,1959,none,Tin,none,Owl,none,none,male
+Scarecrow,1959,none,Scarecrow,none,none,none,none,male
+Jinjur,1960,none,Jinjur,none,none,none,none,female
+Canary,1960,none,Canary,none,none,none,none,female
+Glinda,1961,none,Glinda,none,none,none,none,female
+Owl,1963,none,Owl,none,none,none,none,male
+Nimmie Amee,1963,none,Nimmie,none,Amee,none,none,female
+Woot,1963,none,Woot,none,none,none,none,male
+Wanderer,1963,none,Wanderer,none,none,none,none,male
+Giantess,1965,none,Giantess,none,none,none,none,female
+Yoop,1965,none,Yoop,none,none,none,none,male
+Green Monkey,1967,none,Green,none,Monkey,none,none,male
+Polychrome,1968,none,Polychrome,none,none,none,none,female
+Yoop,1968,none,Yoop,none,none,none,none,male
+Glinda,1970,none,Glinda,none,none,none,none,female
+Ozma,1970,none,Ozma,none,none,none,none,female
+Tin Owl,1973,none,Tin,none,Owl,none,none,male
+Woot,1974,none,Woot,none,none,none,none,male
+Polychrome,1975,none,Polychrome,none,none,none,none,female
+Green Monkey,1976,none,Green,none,Monkey,none,none,male
+Bear,1978,none,Bear,none,none,none,none,male
+Patchwork Girl,1979,none,Patchwork,none,Girl,none,none,female
+Tin Owl,1980,none,Tin,none,Owl,none,none,male
+Nimmie Amee,1981,none,Nimmie,none,Amee,none,none,female
+Jinjur,1983,none,Jinjur,none,none,none,none,female
+Green Monkey,1984,none,Green,none,Monkey,none,none,male
+Owl,1985,none,Owl,none,none,none,none,male
+Brown Bear,1985,none,Brown,none,Bear,none,none,male
+Jinjur,1986,none,Jinjur,none,none,none,none,female
+Canary,1986,none,Canary,none,none,none,none,female
+Brown Bear,1988,none,Brown,none,Bear,none,none,male
+Tin Owl,1988,none,Tin,none,Owl,none,none,male
+Green Monkey,1989,none,Green,none,Monkey,none,none,male
+Woot,1992,none,Woot,none,none,none,none,male
+Jinjur,1993,none,Jinjur,none,none,none,none,female
+Brown Bear,1993,none,Brown,none,Bear,none,none,male
+Scarecrow,1995,none,Scarecrow,none,none,none,none,male
+Yoop,1999,none,Yoop,none,none,none,none,male
+Yoop,2000,none,Yoop,none,none,none,none,male
+Jinjur,2000,none,Jinjur,none,none,none,none,female
+Yoop,2003,none,Yoop,none,none,none,none,male
+Jinjur,2005,none,Jinjur,none,none,none,none,female
+Brown Bear,2006,none,Brown,none,Bear,none,none,male
+Tin Woodman,2007,none,Tin,none,Woodman,none,none,male
+Nick Chopper,2007,none,Nick,none,Chopper,none,none,male
+Green Monkey,2007,none,Green,none,Monkey,none,none,male
+Woot the Wanderer,2007,none,Woot the Wanderer,none,none,none,none,male
+Canary,2008,none,Canary,none,none,none,none,female
+Jinjur,2008,none,Jinjur,none,none,none,none,female
+Polychrome,2008,none,Polychrome,none,none,none,none,female
+Jinjur,2009,none,Jinjur,none,none,none,none,female
+Giantess,2009,none,Giantess,none,none,none,none,female
+Sorceress,2009,none,Sorceress,none,none,none,none,female
+Polychrome,2010,none,Polychrome,none,none,none,none,female
+Glinda,2011,none,Glinda,none,none,none,none,female
+Jinjur,2012,none,Jinjur,none,none,none,none,female
+Bear,2017,none,Bear,none,none,none,none,male
+Owl,2017,none,Owl,none,none,none,none,male
+Monkey,2017,none,Monkey,none,none,none,none,male
+Jinjur,2018,none,Jinjur,none,none,none,none,female
+Woot,2018,none,Woot,none,none,none,none,male
+Green Monkey,2019,none,Green,none,Monkey,none,none,male
+Woot,2022,none,Woot,none,none,none,none,male
+Woot,2026,none,Woot,none,none,none,none,male
+Jinjur,2027,none,Jinjur,none,none,none,none,female
+Woot,2028,none,Woot,none,none,none,none,male
+Jinjur,2029,none,Jinjur,none,none,none,none,female
+Woot,2030,none,Woot,none,none,none,none,male
+Jinjur,2030,none,Jinjur,none,none,none,none,female
+Bear,2031,none,Bear,none,none,none,none,male
+Owl,2031,none,Owl,none,none,none,none,male
+Woot,2031,none,Woot,none,none,none,none,male
+Canary,2032,none,Canary,none,none,none,none,female
+Jinjur,2032,none,Jinjur,none,none,none,none,female
+Woot,2034,none,Woot,none,none,none,none,male
+Jinjur,2035,none,Jinjur,none,none,none,none,female
+Woot,2037,none,Woot,none,none,none,none,male
+Woot,2038,none,Woot,none,none,none,none,male
+Jinjur,2040,none,Jinjur,none,none,none,none,female
+Ozma,2044,none,Ozma,none,none,none,none,female
+Dorothy,2044,none,Dorothy,none,none,none,none,female
+Dorothy,2045,none,Dorothy,none,none,none,none,female
+Ozma,2046,none,Ozma,none,none,none,none,female
+Dorothy,2046,none,Dorothy,none,none,none,none,female
+Toto,2047,none,Toto,none,none,none,none,male
+Dorothy,2047,none,Dorothy,none,none,none,none,female
+Ozma,2048,none,Ozma,none,none,none,none,female
+Oz,2048,none,Oz,none,none,none,none,male
+Dorothy,2049,none,Dorothy,none,none,none,none,female
+Ozma,2049,none,Ozma,none,none,none,none,female
+Oz,2051,none,Oz,none,none,none,none,male
+Lurline,2053,none,Lurline,none,none,none,none,female
+Oz,2053,none,Oz,none,none,none,none,male
+Lurline,2054,none,Lurline,none,none,none,none,female
+Oz,2055,none,Oz,none,none,none,none,male
+Dorothy,2062,none,Dorothy,none,none,none,none,female
+Ozma,2062,none,Ozma,none,none,none,none,female
+Ozma,2063,none,Ozma,none,none,none,none,female
+Ozma,2064,none,Ozma,none,none,none,none,female
+Oz,2065,none,Oz,none,none,none,none,male
+Ozma,2065,none,Ozma,none,none,none,none,female
+Glinda the Good,2065,none,Glinda the Good,none,none,none,none,female
+Ozma,2066,none,Ozma,none,none,none,none,female
+Ozma,2068,none,Ozma,none,none,none,none,female
+Dorothy,2068,none,Dorothy,none,none,none,none,female
+Oz,2069,none,Oz,none,none,none,none,male
+Dorothy,2069,none,Dorothy,none,none,none,none,female
+Ozma,2070,none,Ozma,none,none,none,none,female
+Ozma,2071,none,Ozma,none,none,none,none,female
+Dorothy,2072,none,Dorothy,none,none,none,none,female
+Dorothy,2074,none,Dorothy,none,none,none,none,female
+Button Bright,2074,none,Button,none,Bright,none,none,male
+Button Bright,2075,none,Button,none,Bright,none,none,male
+Ojo,2075,none,Ojo,none,none,none,none,male
+Munchkin,2075,none,Munchkin,none,none,none,none,female
+Dorothy,2075,none,Dorothy,none,none,none,none,female
+Aunt Them,2075,Aunt,Them,none,none,none,none,female
+Uncle Henry,2076,Uncle,Henry,none,none,none,none,male
+Dorothy,2076,none,Dorothy,none,none,none,none,female
+Tin Woodman,2076,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2077,none,Tin,none,Woodman,none,none,male
+Woot the Wanderer,2077,none,Woot the Wanderer,none,none,none,none,male
+Dorothy,2078,none,Dorothy,none,none,none,none,female
+Woot,2079,none,Woot,none,none,none,none,male
+Ozma,2080,none,Ozma,none,none,none,none,female
+Ozma,2080,none,Ozma,none,none,none,none,female
+Dorothy,2081,none,Dorothy,none,none,none,none,female
+Dorothy,2081,none,Dorothy,none,none,none,none,female
+Ozma,2082,none,Ozma,none,none,none,none,female
+Scarecrow,2082,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2082,none,Tin,none,Woodman,none,none,male
+Yoop,2082,none,Yoop,none,none,none,none,male
+Giantess,2082,none,Giantess,none,none,none,none,female
+Dorothy,2083,none,Dorothy,none,none,none,none,female
+Ozma,2083,none,Ozma,none,none,none,none,female
+Giantess,2084,none,Giantess,none,none,none,none,female
+Dorothy,2084,none,Dorothy,none,none,none,none,female
+Ozma,2085,none,Ozma,none,none,none,none,female
+Brown Bear,2086,none,Brown,none,Bear,none,none,male
+Yoop,2086,none,Yoop,none,none,none,none,male
+Canary,2087,none,Canary,none,none,none,none,female
+Giantess,2087,none,Giantess,none,none,none,none,female
+Dorothy,2088,none,Dorothy,none,none,none,none,female
+Ozma,2088,none,Ozma,none,none,none,none,female
+Ozma,2091,none,Ozma,none,none,none,none,female
+Yoop,2092,none,Yoop,none,none,none,none,male
+Dorothy,2095,none,Dorothy,none,none,none,none,female
+Ozma,2097,none,Ozma,none,none,none,none,female
+Oz,2097,none,Oz,none,none,none,none,male
+Dorothy,2098,none,Dorothy,none,none,none,none,female
+Ozma,2098,none,Ozma,none,none,none,none,female
+Ozma,2099,none,Ozma,none,none,none,none,female
+Sawhorse,2100,none,Sawhorse,none,none,none,none,male
+Ozma,2101,none,Ozma,none,none,none,none,female
+Sawhorse,2101,none,Sawhorse,none,none,none,none,male
+Sawhorse,2103,none,Sawhorse,none,none,none,none,male
+Ozma,2103,none,Ozma,none,none,none,none,female
+Dorothy,2105,none,Dorothy,none,none,none,none,female
+Toto,2105,none,Toto,none,none,none,none,male
+Dorothy,2105,none,Dorothy,none,none,none,none,female
+Dorothy,2106,none,Dorothy,none,none,none,none,female
+Ozma,2106,none,Ozma,none,none,none,none,female
+Toto,2106,none,Toto,none,none,none,none,male
+Dorothy,2107,none,Dorothy,none,none,none,none,female
+Sawhorse,2107,none,Sawhorse,none,none,none,none,male
+Jinjur,2109,none,Jinjur,none,none,none,none,female
+Green Monkey,2109,none,Green,none,Monkey,none,none,male
+Tin Owl,2111,none,Tin,none,Owl,none,none,male
+Jinjur,2111,none,Jinjur,none,none,none,none,female
+Brown Bear,2111,none,Brown,none,Bear,none,none,male
+Ozma,2111,none,Ozma,none,none,none,none,female
+Canary,2112,none,Canary,none,none,none,none,female
+Dorothy,2112,none,Dorothy,none,none,none,none,female
+Dorothy,2113,none,Dorothy,none,none,none,none,female
+Polychrome,2116,none,Polychrome,none,none,none,none,female
+Canary,2116,none,Canary,none,none,none,none,female
+Dorothy,2117,none,Dorothy,none,none,none,none,female
+Polychrome,2119,none,Polychrome,none,none,none,none,female
+Ozma,2120,none,Ozma,none,none,none,none,female
+Dorothy,2120,none,Dorothy,none,none,none,none,female
+Scarecrow,2121,none,Scarecrow,none,none,none,none,male
+Scarecrow Bear,2123,none,Scarecrow,none,Bear,none,none,male
+Owl,2125,none,Owl,none,none,none,none,male
+Dorothy,2126,none,Dorothy,none,none,none,none,female
+Dorothy,2127,none,Dorothy,none,none,none,none,female
+Ozma,2128,none,Ozma,none,none,none,none,female
+Green Monkey,2129,none,Green,none,Monkey,none,none,male
+Jinjur,2129,none,Jinjur,none,none,none,none,female
+Ozma,2129,none,Ozma,none,none,none,none,female
+Woot,2129,none,Woot,none,none,none,none,male
+Ruler of Oz,2129,none,Ruler of Oz,none,none,none,none,female
+Ozma,2130,none,Ozma,none,none,none,none,female
+Yoop,2130,none,Yoop,none,none,none,none,male
+Tin Woodman,2132,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,2132,none,Nimmie,none,Amee,none,none,female
+Woot,2133,none,Woot,none,none,none,none,male
+Tin Owl,2133,none,Tin,none,Owl,none,none,male
+Giantess,2133,none,Giantess,none,none,none,none,female
+Polychrome,2134,none,Polychrome,none,none,none,none,female
+Dorothy,2134,none,Dorothy,none,none,none,none,female
+Toto,2134,none,Toto,none,none,none,none,male
+Ozma,2134,none,Ozma,none,none,none,none,female
+Yoop,2137,none,Yoop,none,none,none,none,male
+Scarecrow,2138,none,Scarecrow,none,none,none,none,male
+Giantess,2140,none,Giantess,none,none,none,none,female
+Brown Bear,2142,none,Brown,none,Bear,none,none,male
+Tin Woodman,2143,none,Tin,none,Woodman,none,none,male
+Ozma,2143,none,Ozma,none,none,none,none,female
+Giantess,2144,none,Giantess,none,none,none,none,female
+Wand,2146,none,Wand,none,none,none,none,female
+Wand,2146,none,Wand,none,none,none,none,female
+Bear,2146,none,Bear,none,none,none,none,male
+Scarecrow,2148,none,Scarecrow,none,none,none,none,male
+Ozma,2148,none,Ozma,none,none,none,none,female
+Oz,2148,none,Oz,none,none,none,none,male
+Tin Woodman,2148,none,Tin,none,Woodman,none,none,male
+Tin Owl,2148,none,Tin,none,Owl,none,none,male
+Canary,2149,none,Canary,none,none,none,none,female
+Ozma,2149,none,Ozma,none,none,none,none,female
+Ozma,2150,none,Ozma,none,none,none,none,female
+Polychrome,2151,none,Polychrome,none,none,none,none,female
+Polychrome,2152,none,Polychrome,none,none,none,none,female
+Rainbow,2152,none,Rainbow,none,none,none,none,male
+Bird,2152,none,Bird,none,none,none,none,female
+Canary,2154,none,Canary,none,none,none,none,female
+Dove,2154,none,Dove,none,none,none,none,female
+Dove,2154,none,Dove,none,none,none,none,female
+Fawn,2154,none,Fawn,none,none,none,none,female
+Fawn,2155,none,Fawn,none,none,none,none,female
+Polychrome,2156,none,Polychrome,none,none,none,none,female
+Woot,2157,none,Woot,none,none,none,none,male
+Sky Fairy,2157,none,Sky,none,Fairy,none,none,male
+Ozma,2157,none,Ozma,none,none,none,none,female
+Dorothy,2158,none,Dorothy,none,none,none,none,female
+Ruler of Oz,2158,none,Ruler of Oz,none,none,none,none,female
+Jinjur,2159,none,Jinjur,none,none,none,none,female
+Ozma,2159,none,Ozma,none,none,none,none,female
+Woot,2162,none,Woot,none,none,none,none,male
+Ozma,2163,none,Ozma,none,none,none,none,female
+Ozma,2163,none,Ozma,none,none,none,none,female
+Giantess,2166,none,Giantess,none,none,none,none,female
+Woot,2167,none,Woot,none,none,none,none,male
+Dorothy,2170,none,Dorothy,none,none,none,none,female
+Ozma,2170,none,Ozma,none,none,none,none,female
+Glinda,2170,none,Glinda,none,none,none,none,female
+Glinda,2172,none,Glinda,none,none,none,none,female
+Woot,2173,none,Woot,none,none,none,none,male
+Green Monkey,2175,none,Green,none,Monkey,none,none,male
+Scarecrow,2176,none,Scarecrow,none,none,none,none,male
+Ozma,2177,none,Ozma,none,none,none,none,female
+Green Monkey,2178,none,Green,none,Monkey,none,none,male
+Yoop,2178,none,Yoop,none,none,none,none,male
+Toto,2180,none,Toto,none,none,none,none,male
+Woot,2181,none,Woot,none,none,none,none,male
+Toto,2182,none,Toto,none,none,none,none,male
+Woot,2184,none,Woot,none,none,none,none,male
+Toto,2186,none,Toto,none,none,none,none,male
+Scarecrow,2187,none,Scarecrow,none,none,none,none,male
+Toto,2189,none,Toto,none,none,none,none,male
+Jinjur,2192,none,Jinjur,none,none,none,none,female
+Toto,2194,none,Toto,none,none,none,none,male
+Jinjur,2196,none,Jinjur,none,none,none,none,female
+Toto,2197,none,Toto,none,none,none,none,male
+Dorothy,2198,none,Dorothy,none,none,none,none,female
+Jinjur,2199,none,Jinjur,none,none,none,none,female
+Woot,2199,none,Woot,none,none,none,none,male
+Dorothy,2200,none,Dorothy,none,none,none,none,female
+Woot,2201,none,Woot,none,none,none,none,male
+Dorothy,2202,none,Dorothy,none,none,none,none,female
+Ozma,2203,none,Ozma,none,none,none,none,female
+Oz,2203,none,Oz,none,none,none,none,male
+Woot the Wanderer,2203,none,Woot the Wanderer,none,none,none,none,male
+Ozma,2204,none,Ozma,none,none,none,none,female
+Woot,2204,none,Woot,none,none,none,none,male
+Dorothy,2206,none,Dorothy,none,none,none,none,female
+Woot,2208,none,Woot,none,none,none,none,male
+Dorothy,2212,none,Dorothy,none,none,none,none,female
+Ozma,2212,none,Ozma,none,none,none,none,female
+Scarecrow,2213,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2213,none,Tin,none,Woodman,none,none,male
+Polychrome,2215,none,Polychrome,none,none,none,none,female
+Ozma,2215,none,Ozma,none,none,none,none,female
+Woot,2215,none,Woot,none,none,none,none,male
+Rainbow,2216,none,Rainbow,none,none,none,none,male
+Ozma,2217,none,Ozma,none,none,none,none,female
+Yoop,2217,none,Yoop,none,none,none,none,male
+Giantess,2217,none,Giantess,none,none,none,none,female
+Woot the Wanderer,2218,none,Woot the Wanderer,none,none,none,none,male
+Yoop,2222,none,Yoop,none,none,none,none,male
+Yoop,2223,none,Yoop,none,none,none,none,male
+Green Monkey,2223,none,Green,none,Monkey,none,none,male
+Woot,2223,none,Woot,none,none,none,none,male
+Ozma,2224,none,Ozma,none,none,none,none,female
+Polychrome,2225,none,Polychrome,none,none,none,none,female
+Jinjur,2228,none,Jinjur,none,none,none,none,female
+Ozma,2228,none,Ozma,none,none,none,none,female
+Ozma,2229,none,Ozma,none,none,none,none,female
+Polychrome,2230,none,Polychrome,none,none,none,none,female
+Rainbow,2230,none,Rainbow,none,none,none,none,male
+Ozma,2232,none,Ozma,none,none,none,none,female
+Ozma,2233,none,Ozma,none,none,none,none,female
+Jinjur,2233,none,Jinjur,none,none,none,none,female
+Dorothy,2235,none,Dorothy,none,none,none,none,female
+Toto,2235,none,Toto,none,none,none,none,male
+Ozma,2235,none,Ozma,none,none,none,none,female
+Yoop,2236,none,Yoop,none,none,none,none,male
+Giantess,2237,none,Giantess,none,none,none,none,female
+Woot,2239,none,Woot,none,none,none,none,male
+Woot,2241,none,Woot,none,none,none,none,male
+Giantess,2241,none,Giantess,none,none,none,none,female
+Ozma,2242,none,Ozma,none,none,none,none,female
+Wand,2242,none,Wand,none,none,none,none,female
+Woot the Wanderer,2243,none,Woot the Wanderer,none,none,none,none,male
+Yoop,2243,none,Yoop,none,none,none,none,male
+Ozma,2245,none,Ozma,none,none,none,none,female
+Wand,2245,none,Wand,none,none,none,none,female
+Green Monkey,2245,none,Green,none,Monkey,none,none,male
+Yoop,2246,none,Yoop,none,none,none,none,male
+Woot,2247,none,Woot,none,none,none,none,male
+Woot,2248,none,Woot,none,none,none,none,male
+Wanderer,2248,none,Wanderer,none,none,none,none,male
+Ozma,2248,none,Ozma,none,none,none,none,female
+Jinjur,2249,none,Jinjur,none,none,none,none,female
+Ozma,2250,none,Ozma,none,none,none,none,female
+Oz,2250,none,Oz,none,none,none,none,male
+Giantess,2250,none,Giantess,none,none,none,none,female
+Dorothy,2251,none,Dorothy,none,none,none,none,female
+Green Monkey,2252,none,Green,none,Monkey,none,none,male
+Ozma,2252,none,Ozma,none,none,none,none,female
+Dorothy,2254,none,Dorothy,none,none,none,none,female
+Tin Woodman,2255,none,Tin,none,Woodman,none,none,male
+Green Monkey,2255,none,Green,none,Monkey,none,none,male
+Yoop,2255,none,Yoop,none,none,none,none,male
+Scarecrow,2256,none,Scarecrow,none,none,none,none,male
+Green Monkey,2257,none,Green,none,Monkey,none,none,male
+Dorothy,2258,none,Dorothy,none,none,none,none,female
+Woot,2259,none,Woot,none,none,none,none,male
+Yoop,2261,none,Yoop,none,none,none,none,male
+Dorothy,2263,none,Dorothy,none,none,none,none,female
+Woot the Wanderer,2263,none,Woot the Wanderer,none,none,none,none,male
+Oz,2264,none,Oz,none,none,none,none,male
+Ozma,2265,none,Ozma,none,none,none,none,female
+Ojo the Munchkin,2265,none,Ojo the Munchkin,none,none,none,none,male
+Button,2265,none,Button,none,none,none,none,male
+Button-Bright,2265,none,Button-Bright,none,none,none,none,male
+Woot,2266,none,Woot,none,none,none,none,male
+Tin Woodman,2266,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,2267,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,2268,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,2268,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,2269,none,Nimmie,none,Amee,none,none,female
+Scarecrow,2270,none,Scarecrow,none,none,none,none,male
+Scarecrow,2271,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,2273,none,Nimmie,none,Amee,none,none,female
+Dorothy,2273,none,Dorothy,none,none,none,none,female
+Tin Woodman,2274,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,2276,none,Nimmie,none,Amee,none,none,female
+Dorothy,2276,none,Dorothy,none,none,none,none,female
+Woot,2278,none,Woot,none,none,none,none,male
+Wanderer,2278,none,Wanderer,none,none,none,none,male
+Ozma,2279,none,Ozma,none,none,none,none,female
+Ozma,2280,none,Ozma,none,none,none,none,female
+Nimmie Amee,2281,none,Nimmie,none,Amee,none,none,female
+Empress,2283,Empress,none,none,none,none,none,female
+Nimmie Amee,2283,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,2284,none,Tin,none,Woodman,none,none,male
+Scarecrow,2284,none,Scarecrow,none,none,none,none,male
+Woot,2284,none,Woot,none,none,none,none,male
+Wanderer,2284,none,Wanderer,none,none,none,none,male
+Polychrome,2285,none,Polychrome,none,none,none,none,female
+Ozma,2286,none,Ozma,none,none,none,none,female
+Rainbow,2286,none,Rainbow,none,none,none,none,male
+Tin Woodman,2287,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,2287,none,Nimmie,none,Amee,none,none,female
+Dorothy,2288,none,Dorothy,none,none,none,none,female
+Tin Woodman,2288,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2290,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,2290,none,Nimmie,none,Amee,none,none,female
+Dorothy,2291,none,Dorothy,none,none,none,none,female
+Ozma,2291,none,Ozma,none,none,none,none,female
+Winkies,2291,none,Winkies,none,none,none,none,female
+Ozma,2292,none,Ozma,none,none,none,none,female
+Jinjur,2293,none,Jinjur,none,none,none,none,female
+Woot,2293,none,Woot,none,none,none,none,male
+Ozma,2293,none,Ozma,none,none,none,none,female
+Sawhorse,2293,none,Sawhorse,none,none,none,none,male
+Ozma,2295,none,Ozma,none,none,none,none,female
+Dorothy,2295,none,Dorothy,none,none,none,none,female
+Toto,2295,none,Toto,none,none,none,none,male
+Tin Woodman,2295,none,Tin,none,Woodman,none,none,male
+Scarecrow,2295,none,Scarecrow,none,none,none,none,male
+Woot the Wanderer,2295,none,Woot the Wanderer,none,none,none,none,male
+Polychrome,2295,none,Polychrome,none,none,none,none,female
+Tin Man,2296,none,Tin,none,Man,none,none,male
+Scarecrow,2296,none,Scarecrow,none,none,none,none,male
+Nick Chopper,2297,none,Nick,none,Chopper,none,none,male
+Witch,2297,none,Witch,none,none,none,none,female
+Nimmie Amee,2298,none,Nimmie,none,Amee,none,none,female
+Ku-Klip,2298,none,Ku-Klip,none,none,none,none,male
+Woot,2299,none,Woot,none,none,none,none,male
+Tin Woodman,2300,none,Tin,none,Woodman,none,none,male
+Woot,2301,none,Woot,none,none,none,none,male
+Scarecrow,2302,none,Scarecrow,none,none,none,none,male
+Munchkin,2302,none,Munchkin,none,none,none,none,female
+Scarecrow,2303,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2304,none,Tin,none,Woodman,none,none,male
+Scarecrow,2305,none,Scarecrow,none,none,none,none,male
+Polychrome,2306,none,Polychrome,none,none,none,none,female
+Woot,2306,none,Woot,none,none,none,none,male
+Polychrome,2308,none,Polychrome,none,none,none,none,female
+Scarecrow,2309,none,Scarecrow,none,none,none,none,male
+Dorothy,2310,none,Dorothy,none,none,none,none,female
+Tin Woodman,2311,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2313,none,Tin,none,Woodman,none,none,male
+Dorothy,2316,none,Dorothy,none,none,none,none,female
+Woot,2320,none,Woot,none,none,none,none,male
+Nimmie Amee,2322,none,Nimmie,none,Amee,none,none,female
+Wicked Witch,2323,none,Wicked,none,Witch,none,none,female
+Witch,2325,none,Witch,none,none,none,none,female
+Dorothy,2325,none,Dorothy,none,none,none,none,female
+Nimmie Amee,2325,none,Nimmie,none,Amee,none,none,female
+Witch,2326,none,Witch,none,none,none,none,female
+Scarecrow,2327,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,2327,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,2329,none,Tin,none,Woodman,none,none,male
+Tin Man,2330,none,Tin,none,Man,none,none,male
+Emperor,2331,Emperor,none,none,none,none,none,male
+Scarecrow,2332,none,Scarecrow,none,none,none,none,male
+Woot,2333,none,Woot,none,none,none,none,male
+Wanderer,2333,none,Wanderer,none,none,none,none,male
+Polychrome,2334,none,Polychrome,none,none,none,none,female
+Tin Woodman,2335,none,Tin,none,Woodman,none,none,male
+Winkies,2339,none,Winkies,none,none,none,none,female
+Tin Woodman,2340,none,Tin,none,Woodman,none,none,male
+Woot,2342,none,Woot,none,none,none,none,male
+Scarecrow,2343,none,Scarecrow,none,none,none,none,male
+Polychrome,2344,none,Polychrome,none,none,none,none,female
+Tin Woodman,2346,none,Tin,none,Woodman,none,none,male
+Polychrome,2348,none,Polychrome,none,none,none,none,female
+Nick Chopper,2349,none,Nick,none,Chopper,none,none,male
+Tin Woodman,2350,none,Tin,none,Woodman,none,none,male
+Polychrome,2350,none,Polychrome,none,none,none,none,female
+Tin Soldier,2350,none,Tin,none,Soldier,none,none,male
+Woot,2354,none,Woot,none,none,none,none,male
+Tin Soldier,2355,none,Tin,none,Soldier,none,none,male
+Fyter,2358,none,Fyter,none,none,none,none,male
+Woot,2359,none,Woot,none,none,none,none,male
+Tin Woodman,2362,none,Tin,none,Woodman,none,none,male
+Wicked Witch,2363,none,Wicked,none,Witch,none,none,female
+Witch,2364,none,Witch,none,none,none,none,female
+Ku,2365,none,Ku,none,none,none,none,male
+Ku-Klip,2365,none,Ku-Klip,none,none,none,none,male
+Ku,2366,none,Ku,none,none,none,none,male
+Ku-Klip,2366,none,Ku-Klip,none,none,none,none,male
+Ku,2368,none,Ku,none,none,none,none,male
+Ku-Klip,2368,none,Ku-Klip,none,none,none,none,male
+Tin Woodman,2369,none,Tin,none,Woodman,none,none,male
+Ku-Klip,2369,none,Ku-Klip,none,none,none,none,male
+Nimmie Amee,2371,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,2373,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,2373,none,Nimmie,none,Amee,none,none,female
+Nick Chopper,2375,none,Nick,none,Chopper,none,none,male
+Tin Woodman,2376,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,2380,none,Nimmie,none,Amee,none,none,female
+Wicked Witch,2381,none,Wicked,none,Witch,none,none,female
+Nimmie Amee,2383,none,Nimmie,none,Amee,none,none,female
+Nick Chopper,2383,none,Nick,none,Chopper,none,none,male
+Nimmie Amee,2385,none,Nimmie,none,Amee,none,none,female
+Witch,2385,none,Witch,none,none,none,none,female
+Nimmie Amee,2386,none,Nimmie,none,Amee,none,none,female
+Scarecrow,2394,none,Scarecrow,none,none,none,none,male
+Ku,2395,none,Ku,none,none,none,none,male
+Ku-Klip,2395,none,Ku-Klip,none,none,none,none,male
+Ku-Klip,2397,none,Ku-Klip,none,none,none,none,male
+Nimmie Amee,2398,none,Nimmie,none,Amee,none,none,female
+Winkies,2401,none,Winkies,none,none,none,none,female
+Dorothy,2401,none,Dorothy,none,none,none,none,female
+Scarecrow,2401,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,2402,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,2404,none,Nimmie,none,Amee,none,none,female
+Woot,2405,none,Woot,none,none,none,none,male
+Scarecrow,2407,none,Scarecrow,none,none,none,none,male
+Polychrome,2408,none,Polychrome,none,none,none,none,female
+Tin Woodman,2412,none,Tin,none,Woodman,none,none,male
+Fyter,2414,none,Fyter,none,none,none,none,male
+Witch,2416,none,Witch,none,none,none,none,female
+Witch,2417,none,Witch,none,none,none,none,female
+Scarecrow,2417,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,2419,none,Nimmie,none,Amee,none,none,female
+Scarecrow,2422,none,Scarecrow,none,none,none,none,male
+Wicked Witch,2422,none,Wicked,none,Witch,none,none,female
+Nimmie Amee,2422,none,Nimmie,none,Amee,none,none,female
+Woot,2423,none,Woot,none,none,none,none,male
+Polychrome,2425,none,Polychrome,none,none,none,none,female
+Nimmie Amee,2426,none,Nimmie,none,Amee,none,none,female
+Scarecrow,2426,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,2429,none,Nimmie,none,Amee,none,none,female
+Ku,2430,none,Ku,none,none,none,none,male
+Ku-Klip,2430,none,Ku-Klip,none,none,none,none,male
+Polychrome,2430,none,Polychrome,none,none,none,none,female
+Ku-Klip,2431,none,Ku-Klip,none,none,none,none,male
+Ku,2432,none,Ku,none,none,none,none,male
+Ku-Klip,2432,none,Ku-Klip,none,none,none,none,male
+Ku-Klip,2437,none,Ku-Klip,none,none,none,none,male
+Nimmie Amee,2439,none,Nimmie,none,Amee,none,none,female
+Scarecrow,2439,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2440,none,Tin,none,Woodman,none,none,male
+Ku,2443,none,Ku,none,none,none,none,male
+Ku-Klip,2443,none,Ku-Klip,none,none,none,none,male
+Ku,2446,none,Ku,none,none,none,none,male
+Ku-Klip,2446,none,Ku-Klip,none,none,none,none,male
+Woot,2447,none,Woot,none,none,none,none,male
+Tin Woodman,2448,none,Tin,none,Woodman,none,none,male
+Wicked Witch,2450,none,Wicked,none,Witch,none,none,female
+Woot,2450,none,Woot,none,none,none,none,male
+Oz,2451,none,Oz,none,none,none,none,male
+Scarecrow,2451,none,Scarecrow,none,none,none,none,male
+Dorothy,2452,none,Dorothy,none,none,none,none,female
+Tin Woodman,2454,none,Tin,none,Woodman,none,none,male
+Woot,2457,none,Woot,none,none,none,none,male
+Woot,2462,none,Woot,none,none,none,none,male
+Ku,2462,none,Ku,none,none,none,none,male
+Ku-Klip,2462,none,Ku-Klip,none,none,none,none,male
+Scarecrow,2464,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2464,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2465,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2465,none,Tin,none,Woodman,none,none,male
+Emperor,2466,Emperor,none,none,none,none,none,male
+Tin Woodman,2467,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2468,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2469,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2473,none,Tin,none,Woodman,none,none,male
+Ku-Klip,2480,none,Ku-Klip,none,none,none,none,male
+Nick Chopper,2486,none,Nick,none,Chopper,none,none,male
+Tin Woodman,2487,none,Tin,none,Woodman,none,none,male
+Nick Chopper,2488,none,Nick,none,Chopper,none,none,male
+Ku,2497,none,Ku,none,none,none,none,male
+Ku-Klip,2497,none,Ku-Klip,none,none,none,none,male
+Tin Woodman,2498,none,Tin,none,Woodman,none,none,male
+Munchkin,2499,none,Munchkin,none,none,none,none,female
+Nimmie Amee,2499,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,2510,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2513,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2514,none,Tin,none,Woodman,none,none,male
+Tin Soldier,2515,none,Tin,none,Soldier,none,none,male
+Woot,2517,none,Woot,none,none,none,none,male
+Wanderer,2517,none,Wanderer,none,none,none,none,male
+Polychrome,2518,none,Polychrome,none,none,none,none,female
+Scarecrow,2520,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2521,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2524,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2534,none,Tin,none,Woodman,none,none,male
+Tin Soldier,2535,none,Tin,none,Soldier,none,none,male
+Chopper,2535,none,Chopper,none,none,none,none,male
+Tin Woodman,2536,none,Tin,none,Woodman,none,none,male
+Ku,2538,none,Ku,none,none,none,none,male
+Ku-Klip,2538,none,Ku-Klip,none,none,none,none,male
+Tinsmith,2538,none,Tinsmith,none,none,none,none,male
+Ku,2539,none,Ku,none,none,none,none,male
+Ku-Klip,2539,none,Ku-Klip,none,none,none,none,male
+Woot,2540,none,Woot,none,none,none,none,male
+Ku,2541,none,Ku,none,none,none,none,male
+Ku-Klip,2541,none,Ku-Klip,none,none,none,none,male
+Ku,2550,none,Ku,none,none,none,none,male
+Ku-Klip,2550,none,Ku-Klip,none,none,none,none,male
+Nick Chopper,2550,none,Nick,none,Chopper,none,none,male
+Tin Woodman,2550,none,Tin,none,Woodman,none,none,male
+Ozma of Oz,2550,none,Ozma of Oz,none,none,none,none,female
+Scarecrow,2553,none,Scarecrow,none,none,none,none,male
+Polychrome,2554,none,Polychrome,none,none,none,none,female
+Rainbow,2556,none,Rainbow,none,none,none,none,male
+Ku,2557,none,Ku,none,none,none,none,male
+Ku-Klip,2557,none,Ku-Klip,none,none,none,none,male
+Woot,2557,none,Woot,none,none,none,none,male
+Woot,2558,none,Woot,none,none,none,none,male
+Nimmie Amee,2559,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,2559,none,Tin,none,Woodman,none,none,male
+Tin Soldier,2559,none,Tin,none,Soldier,none,none,male
+Ku,2560,none,Ku,none,none,none,none,male
+Ku-Klip,2560,none,Ku-Klip,none,none,none,none,male
+Nimmie Amee,2560,none,Nimmie,none,Amee,none,none,female
+Tin Soldier,2561,none,Tin,none,Soldier,none,none,male
+Witch,2562,none,Witch,none,none,none,none,female
+Nimmie Amee,2562,none,Nimmie,none,Amee,none,none,female
+Dorothy,2563,none,Dorothy,none,none,none,none,female
+Wicked Witch,2563,none,Wicked,none,Witch,none,none,female
+Nimmie Amee,2564,none,Nimmie,none,Amee,none,none,female
+Witch,2564,none,Witch,none,none,none,none,female
+Dorothy,2564,none,Dorothy,none,none,none,none,female
+Scarecrow,2565,none,Scarecrow,none,none,none,none,male
+Ku,2566,none,Ku,none,none,none,none,male
+Ku-Klip,2566,none,Ku-Klip,none,none,none,none,male
+Nimmie Amee,2566,none,Nimmie,none,Amee,none,none,female
+Mount Munch,2568,none,Mount,none,Munch,none,none,female
+Tin Woodman,2568,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,2569,none,Nimmie,none,Amee,none,none,female
+Witch,2570,none,Witch,none,none,none,none,female
+Woot,2572,none,Woot,none,none,none,none,male
+Witch,2574,none,Witch,none,none,none,none,female
+Nick Chopper,2577,none,Nick,none,Chopper,none,none,male
+Fyter,2577,none,Fyter,none,none,none,none,male
+Witch,2577,none,Witch,none,none,none,none,female
+Tin Woodman,2580,none,Tin,none,Woodman,none,none,male
+Ku,2582,none,Ku,none,none,none,none,male
+Ku-Klip,2582,none,Ku-Klip,none,none,none,none,male
+Tin Woodman,2582,none,Tin,none,Woodman,none,none,male
+Ku,2583,none,Ku,none,none,none,none,male
+Ku-Klip,2583,none,Ku-Klip,none,none,none,none,male
+Chopfyt,2585,none,Chopfyt,none,none,none,none,male
+Chopfyt,2587,none,Chopfyt,none,none,none,none,male
+Woot,2587,none,Woot,none,none,none,none,male
+Chopfyt,2588,none,Chopfyt,none,none,none,none,male
+Ku,2588,none,Ku,none,none,none,none,male
+Ku-Klip,2588,none,Ku-Klip,none,none,none,none,male
+Chopfyt,2591,none,Chopfyt,none,none,none,none,male
+Witch,2592,none,Witch,none,none,none,none,female
+Nimmie Amee,2592,none,Nimmie,none,Amee,none,none,female
+Witch,2592,none,Witch,none,none,none,none,female
+Nick Chopper,2594,none,Nick,none,Chopper,none,none,male
+Captain Fyter,2594,Captain,none,none,Fyter,none,none,male
+Witch,2596,none,Witch,none,none,none,none,female
+Fyter,2598,none,Fyter,none,none,none,none,male
+Nick Chopper,2598,none,Nick,none,Chopper,none,none,male
+Tin Woodman,2599,none,Tin,none,Woodman,none,none,male
+Nick Chopper,2602,none,Nick,none,Chopper,none,none,male
+Fyter,2602,none,Fyter,none,none,none,none,male
+Ku,2609,none,Ku,none,none,none,none,male
+Ku-Klip,2609,none,Ku-Klip,none,none,none,none,male
+Chopfyt,2611,none,Chopfyt,none,none,none,none,male
+Nick Chopper,2611,none,Nick,none,Chopper,none,none,male
+Fyter,2611,none,Fyter,none,none,none,none,male
+Chopfyt,2612,none,Chopfyt,none,none,none,none,male
+Chopfyt,2616,none,Chopfyt,none,none,none,none,male
+Chopfyt,2619,none,Chopfyt,none,none,none,none,male
+Chopfyt,2621,none,Chopfyt,none,none,none,none,male
+Scarecrow,2622,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2625,none,Tin,none,Woodman,none,none,male
+Chopfyt,2626,none,Chopfyt,none,none,none,none,male
+Ku,2627,none,Ku,none,none,none,none,male
+Ku-Klip,2627,none,Ku-Klip,none,none,none,none,male
+Chopfyt,2630,none,Chopfyt,none,none,none,none,male
+Scarecrow,2630,none,Scarecrow,none,none,none,none,male
+Ku-Klip,2632,none,Ku-Klip,none,none,none,none,male
+Woot,2633,none,Woot,none,none,none,none,male
+Polychrome,2634,none,Polychrome,none,none,none,none,female
+Polychrome,2638,none,Polychrome,none,none,none,none,female
+Tommy Kwikstep,2639,none,Tommy,none,Kwikstep,none,none,male
+Green Monkey,2639,none,Green,none,Monkey,none,none,male
+Glinda,2640,none,Glinda,none,none,none,none,female
+Tin Owl,2641,none,Tin,none,Owl,none,none,male
+Canary,2643,none,Canary,none,none,none,none,female
+Glinda,2644,none,Glinda,none,none,none,none,female
+Woot,2647,none,Woot,none,none,none,none,male
+Scarecrow,2648,none,Scarecrow,none,none,none,none,male
+Yoop,2653,none,Yoop,none,none,none,none,male
+Scarecrow Bear,2656,none,Scarecrow,none,Bear,none,none,male
+Jinjur,2658,none,Jinjur,none,none,none,none,female
+Jinjur,2659,none,Jinjur,none,none,none,none,female
+Woot,2659,none,Woot,none,none,none,none,male
+Green Monkey,2659,none,Green,none,Monkey,none,none,male
+Jinjur,2660,none,Jinjur,none,none,none,none,female
+Scarecrow,2660,none,Scarecrow,none,none,none,none,male
+Woot,2661,none,Woot,none,none,none,none,male
+Jinjur,2662,none,Jinjur,none,none,none,none,female
+Jinjur,2663,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,2663,none,Scarecrow,none,Bear,none,none,male
+General Jinjur,2665,General,none,none,Jinjur,none,none,male
+Ozma,2667,none,Ozma,none,none,none,none,female
+Jinjur,2667,none,Jinjur,none,none,none,none,female
+Jinjur,2668,none,Jinjur,none,none,none,none,female
+Giantess,2670,none,Giantess,none,none,none,none,female
+Jinjur,2670,none,Jinjur,none,none,none,none,female
+Woot,2671,none,Woot,none,none,none,none,male
+Jinjur,2672,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,2672,none,Scarecrow,none,Bear,none,none,male
+Jinjur,2674,none,Jinjur,none,none,none,none,female
+Jinjur,2675,none,Jinjur,none,none,none,none,female
+Woot,2677,none,Woot,none,none,none,none,male
+Oz,2677,none,Oz,none,none,none,none,male
+Munchkin,2681,none,Munchkin,none,none,none,none,female
+Polychrome,2685,none,Polychrome,none,none,none,none,female
+Canary,2685,none,Canary,none,none,none,none,female
+Tommy Kwikstep,2686,none,Tommy,none,Kwikstep,none,none,male
+Scarecrow Bear,2688,none,Scarecrow,none,Bear,none,none,male
+Tommy Kwikstep,2688,none,Tommy,none,Kwikstep,none,none,male
+Tommy,2690,none,Tommy,none,none,none,none,male
+Tommy Kwikstep,2692,none,Tommy,none,Kwikstep,none,none,male
+Woot the Monkey,2702,none,Woot the Monkey,none,none,none,none,male
+Tommy Kwikstep,2704,none,Tommy,none,Kwikstep,none,none,male
+Tin Owl,2705,none,Tin,none,Owl,none,none,male
+Scarecrow,2709,none,Scarecrow,none,none,none,none,male
+Tommy Kwikstep,2712,none,Tommy,none,Kwikstep,none,none,male
+Tin Owl,2713,none,Tin,none,Owl,none,none,male
+Tommy Kwikstep,2714,none,Tommy,none,Kwikstep,none,none,male
+Woot,2718,none,Woot,none,none,none,none,male
+Polychrome,2720,none,Polychrome,none,none,none,none,female
+Canary,2720,none,Canary,none,none,none,none,female
+Green Monkey,2720,none,Green,none,Monkey,none,none,male
+Tommy Kwikstep,2720,none,Tommy,none,Kwikstep,none,none,male
+Rainbow,2722,none,Rainbow,none,none,none,none,male
+Tommy Kwikstep,2722,none,Tommy,none,Kwikstep,none,none,male
+Canary,2724,none,Canary,none,none,none,none,female
+Scarecrow Bear,2724,none,Scarecrow,none,Bear,none,none,male
+Tommy Kwikstep,2726,none,Tommy,none,Kwikstep,none,none,male
+Polychrome,2727,none,Polychrome,none,none,none,none,female
+Canary,2727,none,Canary,none,none,none,none,female
+Canary,2729,none,Canary,none,none,none,none,female
+Tommy Kwikstep,2731,none,Tommy,none,Kwikstep,none,none,male
+Woot the Monkey,2732,none,Woot the Monkey,none,none,none,none,male
+Polychrome,2736,none,Polychrome,none,none,none,none,female
+Tommy Kwikstep,2736,none,Tommy,none,Kwikstep,none,none,male
+Jinjur,2737,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,2737,none,Scarecrow,none,Bear,none,none,male
+Jinjur,2737,none,Jinjur,none,none,none,none,female
+Brown Bear,2743,none,Brown,none,Bear,none,none,male
+Jinjur,2744,none,Jinjur,none,none,none,none,female
+Green Monkey,2746,none,Green,none,Monkey,none,none,male
+Jinjur,2747,none,Jinjur,none,none,none,none,female
+Scarecrow Bear,2748,none,Scarecrow,none,Bear,none,none,male
+Woot,2749,none,Woot,none,none,none,none,male
+Canary,2751,none,Canary,none,none,none,none,female
+Tin Owl,2751,none,Tin,none,Owl,none,none,male
+Scarecrow,2751,none,Scarecrow,none,none,none,none,male
+Jinjur,2752,none,Jinjur,none,none,none,none,female
+Canary,2752,none,Canary,none,none,none,none,female
+Glinda,2753,none,Glinda,none,none,none,none,female
+Owl,2755,none,Owl,none,none,none,none,male
+Nimmie Amee,2755,none,Nimmie,none,Amee,none,none,female
+Woot,2755,none,Woot,none,none,none,none,male
+Wanderer,2755,none,Wanderer,none,none,none,none,male
+Giantess,2757,none,Giantess,none,none,none,none,female
+Yoop,2757,none,Yoop,none,none,none,none,male
+Green Monkey,2759,none,Green,none,Monkey,none,none,male
+Polychrome,2760,none,Polychrome,none,none,none,none,female
+Yoop,2760,none,Yoop,none,none,none,none,male
+Glinda,2762,none,Glinda,none,none,none,none,female
+Ozma,2762,none,Ozma,none,none,none,none,female
+Tin Owl,2765,none,Tin,none,Owl,none,none,male
+Woot,2766,none,Woot,none,none,none,none,male
+Polychrome,2767,none,Polychrome,none,none,none,none,female
+Green Monkey,2768,none,Green,none,Monkey,none,none,male
+Bear,2770,none,Bear,none,none,none,none,male
+Patchwork Girl,2771,none,Patchwork,none,Girl,none,none,female
+Tin Owl,2772,none,Tin,none,Owl,none,none,male
+Nimmie Amee,2773,none,Nimmie,none,Amee,none,none,female
+Jinjur,2775,none,Jinjur,none,none,none,none,female
+Green Monkey,2776,none,Green,none,Monkey,none,none,male
+Owl,2777,none,Owl,none,none,none,none,male
+Brown Bear,2777,none,Brown,none,Bear,none,none,male
+Jinjur,2778,none,Jinjur,none,none,none,none,female
+Canary,2778,none,Canary,none,none,none,none,female
+Brown Bear,2780,none,Brown,none,Bear,none,none,male
+Tin Owl,2780,none,Tin,none,Owl,none,none,male
+Green Monkey,2781,none,Green,none,Monkey,none,none,male
+Woot,2784,none,Woot,none,none,none,none,male
+Jinjur,2785,none,Jinjur,none,none,none,none,female
+Brown Bear,2785,none,Brown,none,Bear,none,none,male
+Scarecrow,2787,none,Scarecrow,none,none,none,none,male
+Yoop,2791,none,Yoop,none,none,none,none,male
+Yoop,2792,none,Yoop,none,none,none,none,male
+Jinjur,2792,none,Jinjur,none,none,none,none,female
+Yoop,2795,none,Yoop,none,none,none,none,male
+Jinjur,2797,none,Jinjur,none,none,none,none,female
+Brown Bear,2798,none,Brown,none,Bear,none,none,male
+Tin Woodman,2799,none,Tin,none,Woodman,none,none,male
+Nick Chopper,2799,none,Nick,none,Chopper,none,none,male
+Green Monkey,2799,none,Green,none,Monkey,none,none,male
+Woot the Wanderer,2799,none,Woot the Wanderer,none,none,none,none,male
+Canary,2800,none,Canary,none,none,none,none,female
+Jinjur,2800,none,Jinjur,none,none,none,none,female
+Polychrome,2800,none,Polychrome,none,none,none,none,female
+Jinjur,2801,none,Jinjur,none,none,none,none,female
+Giantess,2801,none,Giantess,none,none,none,none,female
+Sorceress,2801,none,Sorceress,none,none,none,none,female
+Polychrome,2802,none,Polychrome,none,none,none,none,female
+Glinda,2803,none,Glinda,none,none,none,none,female
+Jinjur,2804,none,Jinjur,none,none,none,none,female
+Bear,2809,none,Bear,none,none,none,none,male
+Owl,2809,none,Owl,none,none,none,none,male
+Monkey,2809,none,Monkey,none,none,none,none,male
+Jinjur,2810,none,Jinjur,none,none,none,none,female
+Woot,2810,none,Woot,none,none,none,none,male
+Green Monkey,2811,none,Green,none,Monkey,none,none,male
+Woot,2814,none,Woot,none,none,none,none,male
+Woot,2818,none,Woot,none,none,none,none,male
+Jinjur,2819,none,Jinjur,none,none,none,none,female
+Woot,2820,none,Woot,none,none,none,none,male
+Jinjur,2821,none,Jinjur,none,none,none,none,female
+Woot,2822,none,Woot,none,none,none,none,male
+Jinjur,2822,none,Jinjur,none,none,none,none,female
+Bear,2823,none,Bear,none,none,none,none,male
+Owl,2823,none,Owl,none,none,none,none,male
+Woot,2823,none,Woot,none,none,none,none,male
+Canary,2824,none,Canary,none,none,none,none,female
+Jinjur,2824,none,Jinjur,none,none,none,none,female
+Woot,2826,none,Woot,none,none,none,none,male
+Jinjur,2827,none,Jinjur,none,none,none,none,female
+Woot,2829,none,Woot,none,none,none,none,male
+Woot,2830,none,Woot,none,none,none,none,male
+Jinjur,2832,none,Jinjur,none,none,none,none,female
+Ozma,2836,none,Ozma,none,none,none,none,female
+Dorothy,2836,none,Dorothy,none,none,none,none,female
+Dorothy,2836,none,Dorothy,none,none,none,none,female
+Ozma,2837,none,Ozma,none,none,none,none,female
+Dorothy,2837,none,Dorothy,none,none,none,none,female
+Toto,2838,none,Toto,none,none,none,none,male
+Dorothy,2838,none,Dorothy,none,none,none,none,female
+Ozma,2839,none,Ozma,none,none,none,none,female
+Oz,2839,none,Oz,none,none,none,none,male
+Dorothy,2840,none,Dorothy,none,none,none,none,female
+Ozma,2840,none,Ozma,none,none,none,none,female
+Oz,2842,none,Oz,none,none,none,none,male
+Lurline,2844,none,Lurline,none,none,none,none,female
+Oz,2844,none,Oz,none,none,none,none,male
+Lurline,2845,none,Lurline,none,none,none,none,female
+Oz,2846,none,Oz,none,none,none,none,male
+Dorothy,2853,none,Dorothy,none,none,none,none,female
+Ozma,2853,none,Ozma,none,none,none,none,female
+Ozma,2854,none,Ozma,none,none,none,none,female
+Ozma,2855,none,Ozma,none,none,none,none,female
+Oz,2856,none,Oz,none,none,none,none,male
+Ozma,2856,none,Ozma,none,none,none,none,female
+Glinda the Good,2856,none,Glinda the Good,none,none,none,none,female
+Ozma,2857,none,Ozma,none,none,none,none,female
+Ozma,2859,none,Ozma,none,none,none,none,female
+Dorothy,2859,none,Dorothy,none,none,none,none,female
+Oz,2860,none,Oz,none,none,none,none,male
+Dorothy,2860,none,Dorothy,none,none,none,none,female
+Ozma,2861,none,Ozma,none,none,none,none,female
+Ozma,2862,none,Ozma,none,none,none,none,female
+Dorothy,2863,none,Dorothy,none,none,none,none,female
+Dorothy,2865,none,Dorothy,none,none,none,none,female
+Button Bright,2865,none,Button,none,Bright,none,none,male
+Button Bright,2866,none,Button,none,Bright,none,none,male
+Ojo,2866,none,Ojo,none,none,none,none,male
+Munchkin,2866,none,Munchkin,none,none,none,none,female
+Dorothy,2866,none,Dorothy,none,none,none,none,female
+Aunt Them,2866,Aunt,Them,none,none,none,none,female
+Uncle Henry,2867,Uncle,Henry,none,none,none,none,male
+Dorothy,2867,none,Dorothy,none,none,none,none,female
+Tin Woodman,2867,none,Tin,none,Woodman,none,none,male
+Tin Woodman,2868,none,Tin,none,Woodman,none,none,male
+Woot the Wanderer,2868,none,Woot the Wanderer,none,none,none,none,male
+Dorothy,2869,none,Dorothy,none,none,none,none,female
+Woot,2870,none,Woot,none,none,none,none,male
+Ozma,2871,none,Ozma,none,none,none,none,female
+Ozma,2871,none,Ozma,none,none,none,none,female
+Dorothy,2872,none,Dorothy,none,none,none,none,female
+Dorothy,2872,none,Dorothy,none,none,none,none,female
+Ozma,2873,none,Ozma,none,none,none,none,female
+Scarecrow,2873,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2873,none,Tin,none,Woodman,none,none,male
+Yoop,2873,none,Yoop,none,none,none,none,male
+Giantess,2873,none,Giantess,none,none,none,none,female
+Dorothy,2874,none,Dorothy,none,none,none,none,female
+Ozma,2874,none,Ozma,none,none,none,none,female
+Giantess,2875,none,Giantess,none,none,none,none,female
+Dorothy,2875,none,Dorothy,none,none,none,none,female
+Ozma,2876,none,Ozma,none,none,none,none,female
+Brown Bear,2877,none,Brown,none,Bear,none,none,male
+Yoop,2877,none,Yoop,none,none,none,none,male
+Canary,2878,none,Canary,none,none,none,none,female
+Giantess,2878,none,Giantess,none,none,none,none,female
+Dorothy,2879,none,Dorothy,none,none,none,none,female
+Ozma,2879,none,Ozma,none,none,none,none,female
+Ozma,2882,none,Ozma,none,none,none,none,female
+Yoop,2883,none,Yoop,none,none,none,none,male
+Dorothy,2886,none,Dorothy,none,none,none,none,female
+Ozma,2888,none,Ozma,none,none,none,none,female
+Oz,2888,none,Oz,none,none,none,none,male
+Dorothy,2889,none,Dorothy,none,none,none,none,female
+Ozma,2889,none,Ozma,none,none,none,none,female
+Ozma,2890,none,Ozma,none,none,none,none,female
+Sawhorse,2891,none,Sawhorse,none,none,none,none,male
+Ozma,2892,none,Ozma,none,none,none,none,female
+Sawhorse,2892,none,Sawhorse,none,none,none,none,male
+Sawhorse,2894,none,Sawhorse,none,none,none,none,male
+Ozma,2894,none,Ozma,none,none,none,none,female
+Dorothy,2896,none,Dorothy,none,none,none,none,female
+Toto,2896,none,Toto,none,none,none,none,male
+Dorothy,2896,none,Dorothy,none,none,none,none,female
+Dorothy,2897,none,Dorothy,none,none,none,none,female
+Ozma,2897,none,Ozma,none,none,none,none,female
+Toto,2897,none,Toto,none,none,none,none,male
+Dorothy,2898,none,Dorothy,none,none,none,none,female
+Sawhorse,2898,none,Sawhorse,none,none,none,none,male
+Jinjur,2900,none,Jinjur,none,none,none,none,female
+Green Monkey,2900,none,Green,none,Monkey,none,none,male
+Tin Owl,2901,none,Tin,none,Owl,none,none,male
+Jinjur,2901,none,Jinjur,none,none,none,none,female
+Brown Bear,2901,none,Brown,none,Bear,none,none,male
+Ozma,2901,none,Ozma,none,none,none,none,female
+Canary,2902,none,Canary,none,none,none,none,female
+Dorothy,2902,none,Dorothy,none,none,none,none,female
+Dorothy,2903,none,Dorothy,none,none,none,none,female
+Polychrome,2906,none,Polychrome,none,none,none,none,female
+Canary,2906,none,Canary,none,none,none,none,female
+Dorothy,2907,none,Dorothy,none,none,none,none,female
+Polychrome,2909,none,Polychrome,none,none,none,none,female
+Ozma,2910,none,Ozma,none,none,none,none,female
+Dorothy,2910,none,Dorothy,none,none,none,none,female
+Scarecrow,2911,none,Scarecrow,none,none,none,none,male
+Scarecrow Bear,2913,none,Scarecrow,none,Bear,none,none,male
+Owl,2915,none,Owl,none,none,none,none,male
+Dorothy,2916,none,Dorothy,none,none,none,none,female
+Dorothy,2917,none,Dorothy,none,none,none,none,female
+Ozma,2918,none,Ozma,none,none,none,none,female
+Green Monkey,2919,none,Green,none,Monkey,none,none,male
+Jinjur,2919,none,Jinjur,none,none,none,none,female
+Ozma,2919,none,Ozma,none,none,none,none,female
+Woot,2919,none,Woot,none,none,none,none,male
+Ruler of Oz,2919,none,Ruler of Oz,none,none,none,none,female
+Ozma,2920,none,Ozma,none,none,none,none,female
+Yoop,2920,none,Yoop,none,none,none,none,male
+Tin Woodman,2922,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,2922,none,Nimmie,none,Amee,none,none,female
+Woot,2923,none,Woot,none,none,none,none,male
+Tin Owl,2923,none,Tin,none,Owl,none,none,male
+Giantess,2923,none,Giantess,none,none,none,none,female
+Polychrome,2924,none,Polychrome,none,none,none,none,female
+Dorothy,2924,none,Dorothy,none,none,none,none,female
+Toto,2924,none,Toto,none,none,none,none,male
+Ozma,2924,none,Ozma,none,none,none,none,female
+Yoop,2927,none,Yoop,none,none,none,none,male
+Scarecrow,2928,none,Scarecrow,none,none,none,none,male
+Giantess,2930,none,Giantess,none,none,none,none,female
+Brown Bear,2932,none,Brown,none,Bear,none,none,male
+Tin Woodman,2933,none,Tin,none,Woodman,none,none,male
+Ozma,2933,none,Ozma,none,none,none,none,female
+Giantess,2934,none,Giantess,none,none,none,none,female
+Wand,2936,none,Wand,none,none,none,none,female
+Wand,2936,none,Wand,none,none,none,none,female
+Bear,2936,none,Bear,none,none,none,none,male
+Scarecrow,2938,none,Scarecrow,none,none,none,none,male
+Ozma,2938,none,Ozma,none,none,none,none,female
+Oz,2938,none,Oz,none,none,none,none,male
+Tin Woodman,2938,none,Tin,none,Woodman,none,none,male
+Tin Owl,2938,none,Tin,none,Owl,none,none,male
+Canary,2939,none,Canary,none,none,none,none,female
+Ozma,2939,none,Ozma,none,none,none,none,female
+Ozma,2940,none,Ozma,none,none,none,none,female
+Polychrome,2941,none,Polychrome,none,none,none,none,female
+Polychrome,2942,none,Polychrome,none,none,none,none,female
+Rainbow,2942,none,Rainbow,none,none,none,none,male
+Bird,2942,none,Bird,none,none,none,none,female
+Canary,2944,none,Canary,none,none,none,none,female
+Dove,2944,none,Dove,none,none,none,none,female
+Dove,2944,none,Dove,none,none,none,none,female
+Fawn,2944,none,Fawn,none,none,none,none,female
+Fawn,2945,none,Fawn,none,none,none,none,female
+Polychrome,2946,none,Polychrome,none,none,none,none,female
+Woot,2947,none,Woot,none,none,none,none,male
+Sky Fairy,2947,none,Sky,none,Fairy,none,none,male
+Ozma,2947,none,Ozma,none,none,none,none,female
+Dorothy,2948,none,Dorothy,none,none,none,none,female
+Ruler of Oz,2948,none,Ruler of Oz,none,none,none,none,female
+Jinjur,2949,none,Jinjur,none,none,none,none,female
+Ozma,2949,none,Ozma,none,none,none,none,female
+Woot,2952,none,Woot,none,none,none,none,male
+Ozma,2953,none,Ozma,none,none,none,none,female
+Ozma,2953,none,Ozma,none,none,none,none,female
+Giantess,2956,none,Giantess,none,none,none,none,female
+Woot,2957,none,Woot,none,none,none,none,male
+Dorothy,2960,none,Dorothy,none,none,none,none,female
+Ozma,2960,none,Ozma,none,none,none,none,female
+Glinda,2960,none,Glinda,none,none,none,none,female
+Glinda,2962,none,Glinda,none,none,none,none,female
+Woot,2963,none,Woot,none,none,none,none,male
+Green Monkey,2965,none,Green,none,Monkey,none,none,male
+Scarecrow,2966,none,Scarecrow,none,none,none,none,male
+Ozma,2967,none,Ozma,none,none,none,none,female
+Green Monkey,2968,none,Green,none,Monkey,none,none,male
+Yoop,2968,none,Yoop,none,none,none,none,male
+Toto,2970,none,Toto,none,none,none,none,male
+Woot,2971,none,Woot,none,none,none,none,male
+Toto,2972,none,Toto,none,none,none,none,male
+Woot,2974,none,Woot,none,none,none,none,male
+Toto,2976,none,Toto,none,none,none,none,male
+Scarecrow,2977,none,Scarecrow,none,none,none,none,male
+Toto,2979,none,Toto,none,none,none,none,male
+Jinjur,2982,none,Jinjur,none,none,none,none,female
+Toto,2984,none,Toto,none,none,none,none,male
+Jinjur,2986,none,Jinjur,none,none,none,none,female
+Toto,2987,none,Toto,none,none,none,none,male
+Dorothy,2988,none,Dorothy,none,none,none,none,female
+Jinjur,2989,none,Jinjur,none,none,none,none,female
+Woot,2989,none,Woot,none,none,none,none,male
+Dorothy,2990,none,Dorothy,none,none,none,none,female
+Woot,2991,none,Woot,none,none,none,none,male
+Dorothy,2992,none,Dorothy,none,none,none,none,female
+Ozma,2993,none,Ozma,none,none,none,none,female
+Oz,2993,none,Oz,none,none,none,none,male
+Woot the Wanderer,2993,none,Woot the Wanderer,none,none,none,none,male
+Ozma,2994,none,Ozma,none,none,none,none,female
+Woot,2994,none,Woot,none,none,none,none,male
+Dorothy,2996,none,Dorothy,none,none,none,none,female
+Woot,2998,none,Woot,none,none,none,none,male
+Dorothy,3002,none,Dorothy,none,none,none,none,female
+Ozma,3002,none,Ozma,none,none,none,none,female
+Scarecrow,3003,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3003,none,Tin,none,Woodman,none,none,male
+Polychrome,3005,none,Polychrome,none,none,none,none,female
+Ozma,3005,none,Ozma,none,none,none,none,female
+Woot,3005,none,Woot,none,none,none,none,male
+Rainbow,3006,none,Rainbow,none,none,none,none,male
+Ozma,3007,none,Ozma,none,none,none,none,female
+Yoop,3007,none,Yoop,none,none,none,none,male
+Giantess,3007,none,Giantess,none,none,none,none,female
+Woot the Wanderer,3008,none,Woot the Wanderer,none,none,none,none,male
+Yoop,3012,none,Yoop,none,none,none,none,male
+Yoop,3013,none,Yoop,none,none,none,none,male
+Green Monkey,3013,none,Green,none,Monkey,none,none,male
+Woot,3013,none,Woot,none,none,none,none,male
+Ozma,3014,none,Ozma,none,none,none,none,female
+Polychrome,3015,none,Polychrome,none,none,none,none,female
+Jinjur,3017,none,Jinjur,none,none,none,none,female
+Ozma,3017,none,Ozma,none,none,none,none,female
+Ozma,3018,none,Ozma,none,none,none,none,female
+Polychrome,3019,none,Polychrome,none,none,none,none,female
+Rainbow,3019,none,Rainbow,none,none,none,none,male
+Ozma,3021,none,Ozma,none,none,none,none,female
+Ozma,3022,none,Ozma,none,none,none,none,female
+Jinjur,3022,none,Jinjur,none,none,none,none,female
+Dorothy,3024,none,Dorothy,none,none,none,none,female
+Toto,3024,none,Toto,none,none,none,none,male
+Ozma,3024,none,Ozma,none,none,none,none,female
+Yoop,3025,none,Yoop,none,none,none,none,male
+Giantess,3026,none,Giantess,none,none,none,none,female
+Woot,3028,none,Woot,none,none,none,none,male
+Woot,3030,none,Woot,none,none,none,none,male
+Giantess,3030,none,Giantess,none,none,none,none,female
+Ozma,3031,none,Ozma,none,none,none,none,female
+Wand,3031,none,Wand,none,none,none,none,female
+Woot the Wanderer,3032,none,Woot the Wanderer,none,none,none,none,male
+Yoop,3032,none,Yoop,none,none,none,none,male
+Ozma,3034,none,Ozma,none,none,none,none,female
+Wand,3034,none,Wand,none,none,none,none,female
+Green Monkey,3034,none,Green,none,Monkey,none,none,male
+Yoop,3035,none,Yoop,none,none,none,none,male
+Woot,3036,none,Woot,none,none,none,none,male
+Woot,3037,none,Woot,none,none,none,none,male
+Wanderer,3037,none,Wanderer,none,none,none,none,male
+Ozma,3037,none,Ozma,none,none,none,none,female
+Jinjur,3038,none,Jinjur,none,none,none,none,female
+Ozma,3039,none,Ozma,none,none,none,none,female
+Oz,3039,none,Oz,none,none,none,none,male
+Giantess,3039,none,Giantess,none,none,none,none,female
+Dorothy,3040,none,Dorothy,none,none,none,none,female
+Green Monkey,3041,none,Green,none,Monkey,none,none,male
+Ozma,3041,none,Ozma,none,none,none,none,female
+Dorothy,3043,none,Dorothy,none,none,none,none,female
+Tin Woodman,3044,none,Tin,none,Woodman,none,none,male
+Green Monkey,3044,none,Green,none,Monkey,none,none,male
+Yoop,3044,none,Yoop,none,none,none,none,male
+Scarecrow,3045,none,Scarecrow,none,none,none,none,male
+Green Monkey,3046,none,Green,none,Monkey,none,none,male
+Dorothy,3047,none,Dorothy,none,none,none,none,female
+Woot,3048,none,Woot,none,none,none,none,male
+Yoop,3050,none,Yoop,none,none,none,none,male
+Dorothy,3051,none,Dorothy,none,none,none,none,female
+Woot the Wanderer,3051,none,Woot the Wanderer,none,none,none,none,male
+Oz,3052,none,Oz,none,none,none,none,male
+Ozma,3053,none,Ozma,none,none,none,none,female
+Ojo the Munchkin,3053,none,Ojo the Munchkin,none,none,none,none,male
+Button,3053,none,Button,none,none,none,none,male
+Button-Bright,3053,none,Button-Bright,none,none,none,none,male
+Woot,3054,none,Woot,none,none,none,none,male
+Tin Woodman,3054,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3055,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3056,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3056,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,3057,none,Nimmie,none,Amee,none,none,female
+Scarecrow,3058,none,Scarecrow,none,none,none,none,male
+Scarecrow,3059,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3061,none,Nimmie,none,Amee,none,none,female
+Dorothy,3061,none,Dorothy,none,none,none,none,female
+Tin Woodman,3062,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3064,none,Nimmie,none,Amee,none,none,female
+Dorothy,3064,none,Dorothy,none,none,none,none,female
+Woot,3066,none,Woot,none,none,none,none,male
+Wanderer,3066,none,Wanderer,none,none,none,none,male
+Ozma,3067,none,Ozma,none,none,none,none,female
+Ozma,3068,none,Ozma,none,none,none,none,female
+Nimmie Amee,3069,none,Nimmie,none,Amee,none,none,female
+Empress,3071,Empress,none,none,none,none,none,female
+Nimmie Amee,3071,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3072,none,Tin,none,Woodman,none,none,male
+Scarecrow,3072,none,Scarecrow,none,none,none,none,male
+Woot,3072,none,Woot,none,none,none,none,male
+Wanderer,3072,none,Wanderer,none,none,none,none,male
+Polychrome,3073,none,Polychrome,none,none,none,none,female
+Ozma,3074,none,Ozma,none,none,none,none,female
+Rainbow,3074,none,Rainbow,none,none,none,none,male
+Tin Woodman,3075,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3075,none,Nimmie,none,Amee,none,none,female
+Dorothy,3076,none,Dorothy,none,none,none,none,female
+Tin Woodman,3076,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3078,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3078,none,Nimmie,none,Amee,none,none,female
+Dorothy,3079,none,Dorothy,none,none,none,none,female
+Ozma,3079,none,Ozma,none,none,none,none,female
+Winkies,3079,none,Winkies,none,none,none,none,female
+Ozma,3080,none,Ozma,none,none,none,none,female
+Jinjur,3081,none,Jinjur,none,none,none,none,female
+Woot,3081,none,Woot,none,none,none,none,male
+Ozma,3081,none,Ozma,none,none,none,none,female
+Sawhorse,3081,none,Sawhorse,none,none,none,none,male
+Ozma,3083,none,Ozma,none,none,none,none,female
+Dorothy,3083,none,Dorothy,none,none,none,none,female
+Toto,3083,none,Toto,none,none,none,none,male
+Tin Woodman,3083,none,Tin,none,Woodman,none,none,male
+Scarecrow,3083,none,Scarecrow,none,none,none,none,male
+Woot the Wanderer,3083,none,Woot the Wanderer,none,none,none,none,male
+Polychrome,3083,none,Polychrome,none,none,none,none,female
+Tin Man,3084,none,Tin,none,Man,none,none,male
+Scarecrow,3084,none,Scarecrow,none,none,none,none,male
+Nick Chopper,3085,none,Nick,none,Chopper,none,none,male
+Witch,3085,none,Witch,none,none,none,none,female
+Nimmie Amee,3086,none,Nimmie,none,Amee,none,none,female
+Ku,3086,none,Ku,none,none,none,none,male
+Ku-Klip,3086,none,Ku-Klip,none,none,none,none,male
+Woot,3087,none,Woot,none,none,none,none,male
+Tin Woodman,3088,none,Tin,none,Woodman,none,none,male
+Woot,3089,none,Woot,none,none,none,none,male
+Scarecrow,3090,none,Scarecrow,none,none,none,none,male
+Munchkin,3090,none,Munchkin,none,none,none,none,female
+Scarecrow,3091,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3092,none,Tin,none,Woodman,none,none,male
+Scarecrow,3093,none,Scarecrow,none,none,none,none,male
+Polychrome,3094,none,Polychrome,none,none,none,none,female
+Woot,3094,none,Woot,none,none,none,none,male
+Polychrome,3096,none,Polychrome,none,none,none,none,female
+Scarecrow,3097,none,Scarecrow,none,none,none,none,male
+Dorothy,3098,none,Dorothy,none,none,none,none,female
+Tin Woodman,3099,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3101,none,Tin,none,Woodman,none,none,male
+Dorothy,3104,none,Dorothy,none,none,none,none,female
+Woot,3108,none,Woot,none,none,none,none,male
+Nimmie Amee,3110,none,Nimmie,none,Amee,none,none,female
+Wicked Witch,3111,none,Wicked,none,Witch,none,none,female
+Witch,3113,none,Witch,none,none,none,none,female
+Dorothy,3113,none,Dorothy,none,none,none,none,female
+Nimmie Amee,3113,none,Nimmie,none,Amee,none,none,female
+Witch,3114,none,Witch,none,none,none,none,female
+Scarecrow,3115,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3115,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3117,none,Tin,none,Woodman,none,none,male
+Tin Man,3118,none,Tin,none,Man,none,none,male
+Emperor,3119,Emperor,none,none,none,none,none,male
+Scarecrow,3120,none,Scarecrow,none,none,none,none,male
+Woot,3121,none,Woot,none,none,none,none,male
+Wanderer,3121,none,Wanderer,none,none,none,none,male
+Polychrome,3122,none,Polychrome,none,none,none,none,female
+Tin Woodman,3123,none,Tin,none,Woodman,none,none,male
+Winkies,3127,none,Winkies,none,none,none,none,female
+Tin Woodman,3128,none,Tin,none,Woodman,none,none,male
+Woot,3130,none,Woot,none,none,none,none,male
+Scarecrow,3131,none,Scarecrow,none,none,none,none,male
+Polychrome,3132,none,Polychrome,none,none,none,none,female
+Tin Woodman,3134,none,Tin,none,Woodman,none,none,male
+Polychrome,3136,none,Polychrome,none,none,none,none,female
+Nick Chopper,3137,none,Nick,none,Chopper,none,none,male
+Tin Woodman,3138,none,Tin,none,Woodman,none,none,male
+Polychrome,3138,none,Polychrome,none,none,none,none,female
+Tin Soldier,3138,none,Tin,none,Soldier,none,none,male
+Woot,3142,none,Woot,none,none,none,none,male
+Tin Soldier,3143,none,Tin,none,Soldier,none,none,male
+Fyter,3146,none,Fyter,none,none,none,none,male
+Woot,3147,none,Woot,none,none,none,none,male
+Tin Woodman,3150,none,Tin,none,Woodman,none,none,male
+Wicked Witch,3151,none,Wicked,none,Witch,none,none,female
+Witch,3152,none,Witch,none,none,none,none,female
+Ku,3153,none,Ku,none,none,none,none,male
+Ku-Klip,3153,none,Ku-Klip,none,none,none,none,male
+Ku,3154,none,Ku,none,none,none,none,male
+Ku-Klip,3154,none,Ku-Klip,none,none,none,none,male
+Ku,3156,none,Ku,none,none,none,none,male
+Ku-Klip,3156,none,Ku-Klip,none,none,none,none,male
+Tin Woodman,3157,none,Tin,none,Woodman,none,none,male
+Ku-Klip,3157,none,Ku-Klip,none,none,none,none,male
+Nimmie Amee,3159,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3161,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3161,none,Nimmie,none,Amee,none,none,female
+Nick Chopper,3163,none,Nick,none,Chopper,none,none,male
+Tin Woodman,3164,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3168,none,Nimmie,none,Amee,none,none,female
+Wicked Witch,3169,none,Wicked,none,Witch,none,none,female
+Nimmie Amee,3171,none,Nimmie,none,Amee,none,none,female
+Nick Chopper,3171,none,Nick,none,Chopper,none,none,male
+Nimmie Amee,3173,none,Nimmie,none,Amee,none,none,female
+Witch,3173,none,Witch,none,none,none,none,female
+Nimmie Amee,3174,none,Nimmie,none,Amee,none,none,female
+Scarecrow,3182,none,Scarecrow,none,none,none,none,male
+Ku,3183,none,Ku,none,none,none,none,male
+Ku-Klip,3183,none,Ku-Klip,none,none,none,none,male
+Ku-Klip,3185,none,Ku-Klip,none,none,none,none,male
+Nimmie Amee,3186,none,Nimmie,none,Amee,none,none,female
+Winkies,3189,none,Winkies,none,none,none,none,female
+Dorothy,3189,none,Dorothy,none,none,none,none,female
+Scarecrow,3189,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3190,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,3192,none,Nimmie,none,Amee,none,none,female
+Woot,3193,none,Woot,none,none,none,none,male
+Scarecrow,3195,none,Scarecrow,none,none,none,none,male
+Polychrome,3196,none,Polychrome,none,none,none,none,female
+Tin Woodman,3200,none,Tin,none,Woodman,none,none,male
+Fyter,3202,none,Fyter,none,none,none,none,male
+Witch,3204,none,Witch,none,none,none,none,female
+Witch,3205,none,Witch,none,none,none,none,female
+Scarecrow,3205,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3207,none,Nimmie,none,Amee,none,none,female
+Scarecrow,3210,none,Scarecrow,none,none,none,none,male
+Wicked Witch,3210,none,Wicked,none,Witch,none,none,female
+Nimmie Amee,3210,none,Nimmie,none,Amee,none,none,female
+Woot,3211,none,Woot,none,none,none,none,male
+Polychrome,3213,none,Polychrome,none,none,none,none,female
+Nimmie Amee,3214,none,Nimmie,none,Amee,none,none,female
+Scarecrow,3214,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3217,none,Nimmie,none,Amee,none,none,female
+Ku,3218,none,Ku,none,none,none,none,male
+Ku-Klip,3218,none,Ku-Klip,none,none,none,none,male
+Polychrome,3218,none,Polychrome,none,none,none,none,female
+Ku-Klip,3219,none,Ku-Klip,none,none,none,none,male
+Ku,3220,none,Ku,none,none,none,none,male
+Ku-Klip,3220,none,Ku-Klip,none,none,none,none,male
+Ku-Klip,3225,none,Ku-Klip,none,none,none,none,male
+Nimmie Amee,3227,none,Nimmie,none,Amee,none,none,female
+Scarecrow,3227,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3228,none,Tin,none,Woodman,none,none,male
+Ku,3231,none,Ku,none,none,none,none,male
+Ku-Klip,3231,none,Ku-Klip,none,none,none,none,male
+Ku,3234,none,Ku,none,none,none,none,male
+Ku-Klip,3234,none,Ku-Klip,none,none,none,none,male
+Woot,3235,none,Woot,none,none,none,none,male
+Tin Woodman,3236,none,Tin,none,Woodman,none,none,male
+Wicked Witch,3238,none,Wicked,none,Witch,none,none,female
+Woot,3238,none,Woot,none,none,none,none,male
+Oz,3239,none,Oz,none,none,none,none,male
+Scarecrow,3239,none,Scarecrow,none,none,none,none,male
+Dorothy,3240,none,Dorothy,none,none,none,none,female
+Tin Woodman,3242,none,Tin,none,Woodman,none,none,male
+Woot,3245,none,Woot,none,none,none,none,male
+Woot,3250,none,Woot,none,none,none,none,male
+Ku,3250,none,Ku,none,none,none,none,male
+Ku-Klip,3250,none,Ku-Klip,none,none,none,none,male
+Scarecrow,3252,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3252,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3253,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3253,none,Tin,none,Woodman,none,none,male
+Emperor,3254,Emperor,none,none,none,none,none,male
+Tin Woodman,3255,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3256,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3257,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3261,none,Tin,none,Woodman,none,none,male
+Ku-Klip,3268,none,Ku-Klip,none,none,none,none,male
+Nick Chopper,3274,none,Nick,none,Chopper,none,none,male
+Tin Woodman,3275,none,Tin,none,Woodman,none,none,male
+Nick Chopper,3276,none,Nick,none,Chopper,none,none,male
+Ku,3285,none,Ku,none,none,none,none,male
+Ku-Klip,3285,none,Ku-Klip,none,none,none,none,male
+Tin Woodman,3286,none,Tin,none,Woodman,none,none,male
+Munchkin,3287,none,Munchkin,none,none,none,none,female
+Nimmie Amee,3287,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3298,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3301,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3302,none,Tin,none,Woodman,none,none,male
+Tin Soldier,3303,none,Tin,none,Soldier,none,none,male
+Woot,3305,none,Woot,none,none,none,none,male
+Wanderer,3305,none,Wanderer,none,none,none,none,male
+Polychrome,3306,none,Polychrome,none,none,none,none,female
+Scarecrow,3308,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3309,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3312,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3322,none,Tin,none,Woodman,none,none,male
+Tin Soldier,3323,none,Tin,none,Soldier,none,none,male
+Chopper,3323,none,Chopper,none,none,none,none,male
+Tin Woodman,3324,none,Tin,none,Woodman,none,none,male
+Ku,3326,none,Ku,none,none,none,none,male
+Ku-Klip,3326,none,Ku-Klip,none,none,none,none,male
+Tinsmith,3326,none,Tinsmith,none,none,none,none,male
+Ku,3327,none,Ku,none,none,none,none,male
+Ku-Klip,3327,none,Ku-Klip,none,none,none,none,male
+Woot,3328,none,Woot,none,none,none,none,male
+Ku,3329,none,Ku,none,none,none,none,male
+Ku-Klip,3329,none,Ku-Klip,none,none,none,none,male
+Ku,3338,none,Ku,none,none,none,none,male
+Ku-Klip,3338,none,Ku-Klip,none,none,none,none,male
+Nick Chopper,3338,none,Nick,none,Chopper,none,none,male
+Tin Woodman,3338,none,Tin,none,Woodman,none,none,male
+Ozma of Oz,3338,none,Ozma of Oz,none,none,none,none,female
+Scarecrow,3341,none,Scarecrow,none,none,none,none,male
+Polychrome,3342,none,Polychrome,none,none,none,none,female
+Rainbow,3344,none,Rainbow,none,none,none,none,male
+Ku,3345,none,Ku,none,none,none,none,male
+Ku-Klip,3345,none,Ku-Klip,none,none,none,none,male
+Woot,3345,none,Woot,none,none,none,none,male
+Woot,3346,none,Woot,none,none,none,none,male
+Nimmie Amee,3347,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3347,none,Tin,none,Woodman,none,none,male
+Tin Soldier,3347,none,Tin,none,Soldier,none,none,male
+Ku,3348,none,Ku,none,none,none,none,male
+Ku-Klip,3348,none,Ku-Klip,none,none,none,none,male
+Nimmie Amee,3348,none,Nimmie,none,Amee,none,none,female
+Tin Soldier,3349,none,Tin,none,Soldier,none,none,male
+Witch,3350,none,Witch,none,none,none,none,female
+Nimmie Amee,3350,none,Nimmie,none,Amee,none,none,female
+Dorothy,3351,none,Dorothy,none,none,none,none,female
+Wicked Witch,3351,none,Wicked,none,Witch,none,none,female
+Nimmie Amee,3352,none,Nimmie,none,Amee,none,none,female
+Witch,3352,none,Witch,none,none,none,none,female
+Dorothy,3352,none,Dorothy,none,none,none,none,female
+Scarecrow,3353,none,Scarecrow,none,none,none,none,male
+Ku,3354,none,Ku,none,none,none,none,male
+Ku-Klip,3354,none,Ku-Klip,none,none,none,none,male
+Nimmie Amee,3354,none,Nimmie,none,Amee,none,none,female
+Mount Munch,3356,none,Mount,none,Munch,none,none,female
+Tin Woodman,3356,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3357,none,Nimmie,none,Amee,none,none,female
+Witch,3358,none,Witch,none,none,none,none,female
+Woot,3360,none,Woot,none,none,none,none,male
+Witch,3362,none,Witch,none,none,none,none,female
+Nick Chopper,3365,none,Nick,none,Chopper,none,none,male
+Fyter,3365,none,Fyter,none,none,none,none,male
+Witch,3365,none,Witch,none,none,none,none,female
+Tin Woodman,3368,none,Tin,none,Woodman,none,none,male
+Ku,3370,none,Ku,none,none,none,none,male
+Ku-Klip,3370,none,Ku-Klip,none,none,none,none,male
+Tin Woodman,3370,none,Tin,none,Woodman,none,none,male
+Ku,3371,none,Ku,none,none,none,none,male
+Ku-Klip,3371,none,Ku-Klip,none,none,none,none,male
+Chopfyt,3373,none,Chopfyt,none,none,none,none,male
+Chopfyt,3375,none,Chopfyt,none,none,none,none,male
+Woot,3375,none,Woot,none,none,none,none,male
+Chopfyt,3376,none,Chopfyt,none,none,none,none,male
+Ku,3376,none,Ku,none,none,none,none,male
+Ku-Klip,3376,none,Ku-Klip,none,none,none,none,male
+Chopfyt,3379,none,Chopfyt,none,none,none,none,male
+Witch,3380,none,Witch,none,none,none,none,female
+Nimmie Amee,3380,none,Nimmie,none,Amee,none,none,female
+Witch,3380,none,Witch,none,none,none,none,female
+Nick Chopper,3382,none,Nick,none,Chopper,none,none,male
+Captain Fyter,3382,Captain,none,none,Fyter,none,none,male
+Witch,3384,none,Witch,none,none,none,none,female
+Fyter,3386,none,Fyter,none,none,none,none,male
+Nick Chopper,3386,none,Nick,none,Chopper,none,none,male
+Tin Woodman,3387,none,Tin,none,Woodman,none,none,male
+Nick Chopper,3390,none,Nick,none,Chopper,none,none,male
+Fyter,3390,none,Fyter,none,none,none,none,male
+Ku,3397,none,Ku,none,none,none,none,male
+Ku-Klip,3397,none,Ku-Klip,none,none,none,none,male
+Chopfyt,3399,none,Chopfyt,none,none,none,none,male
+Nick Chopper,3399,none,Nick,none,Chopper,none,none,male
+Fyter,3399,none,Fyter,none,none,none,none,male
+Chopfyt,3400,none,Chopfyt,none,none,none,none,male
+Chopfyt,3404,none,Chopfyt,none,none,none,none,male
+Chopfyt,3407,none,Chopfyt,none,none,none,none,male
+Chopfyt,3409,none,Chopfyt,none,none,none,none,male
+Scarecrow,3410,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3413,none,Tin,none,Woodman,none,none,male
+Chopfyt,3414,none,Chopfyt,none,none,none,none,male
+Ku,3415,none,Ku,none,none,none,none,male
+Ku-Klip,3415,none,Ku-Klip,none,none,none,none,male
+Chopfyt,3418,none,Chopfyt,none,none,none,none,male
+Scarecrow,3418,none,Scarecrow,none,none,none,none,male
+Ku-Klip,3420,none,Ku-Klip,none,none,none,none,male
+Woot,3421,none,Woot,none,none,none,none,male
+Polychrome,3422,none,Polychrome,none,none,none,none,female
+Polychrome,3426,none,Polychrome,none,none,none,none,female
+Woot,3427,none,Woot,none,none,none,none,male
+Polychrome,3428,none,Polychrome,none,none,none,none,female
+Scarecrow,3432,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3435,none,Tin,none,Woodman,none,none,male
+Soldier,3436,Soldier,none,none,none,none,none,male
+Nick Chopper,3438,none,Nick,none,Chopper,none,none,male
+Scarecrow,3439,none,Scarecrow,none,none,none,none,male
+Polychrome,3443,none,Polychrome,none,none,none,none,female
+Rainbow,3443,none,Rainbow,none,none,none,none,male
+Scarecrow,3443,none,Scarecrow,none,none,none,none,male
+Woot,3445,none,Woot,none,none,none,none,male
+Woot,3453,none,Woot,none,none,none,none,male
+Mercy,3456,none,Mercy,none,none,none,none,female
+Tin Woodman,3457,none,Tin,none,Woodman,none,none,male
+Tin Soldier,3458,none,Tin,none,Soldier,none,none,male
+Tin Woodman,3461,none,Tin,none,Woodman,none,none,male
+Woot,3462,none,Woot,none,none,none,none,male
+Scarecrow,3462,none,Scarecrow,none,none,none,none,male
+Scarecrow,3462,none,Scarecrow,none,none,none,none,male
+Polychrome,3462,none,Polychrome,none,none,none,none,female
+Poly,3463,none,Poly,none,none,none,none,female
+Rainbow,3463,none,Rainbow,none,none,none,none,male
+Scarecrow,3464,none,Scarecrow,none,none,none,none,male
+Poly,3465,none,Poly,none,none,none,none,female
+Woot,3467,none,Woot,none,none,none,none,male
+Polychrome,3468,none,Polychrome,none,none,none,none,female
+Woot,3470,none,Woot,none,none,none,none,male
+Polychrome,3470,none,Polychrome,none,none,none,none,female
+Woot,3474,none,Woot,none,none,none,none,male
+Polychrome,3474,none,Polychrome,none,none,none,none,female
+Scarecrow,3475,none,Scarecrow,none,none,none,none,male
+Polychrome,3475,none,Polychrome,none,none,none,none,female
+Nick Chopper,3476,none,Nick,none,Chopper,none,none,male
+Tin Soldier,3476,none,Tin,none,Soldier,none,none,male
+Tin Woodman,3476,none,Tin,none,Woodman,none,none,male
+Woot,3478,none,Woot,none,none,none,none,male
+Tin Soldier,3479,none,Tin,none,Soldier,none,none,male
+Scarecrow,3479,none,Scarecrow,none,none,none,none,male
+Tin Soldier,3481,none,Tin,none,Soldier,none,none,male
+Scarecrow,3492,none,Scarecrow,none,none,none,none,male
+Emperor,3495,Emperor,none,none,none,none,none,male
+Woot,3496,none,Woot,none,none,none,none,male
+Pooh,3498,none,Pooh,none,none,none,none,male
+Polychrome,3499,none,Polychrome,none,none,none,none,female
+Scarecrow,3502,none,Scarecrow,none,none,none,none,male
+Polychrome,3502,none,Polychrome,none,none,none,none,female
+Polychrome,3503,none,Polychrome,none,none,none,none,female
+Tin Woodman,3504,none,Tin,none,Woodman,none,none,male
+Woot,3510,none,Woot,none,none,none,none,male
+Scarecrow,3512,none,Scarecrow,none,none,none,none,male
+Woot,3516,none,Woot,none,none,none,none,male
+Woot,3519,none,Woot,none,none,none,none,male
+Polychrome,3520,none,Polychrome,none,none,none,none,female
+Scarecrow,3520,none,Scarecrow,none,none,none,none,male
+Woot,3523,none,Woot,none,none,none,none,male
+Scarecrow,3523,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3524,none,Tin,none,Woodman,none,none,male
+Soldier,3526,Soldier,none,none,none,none,none,male
+Tin Woodman,3529,none,Tin,none,Woodman,none,none,male
+Polychrome,3530,none,Polychrome,none,none,none,none,female
+Soldier,3530,Soldier,none,none,none,none,none,male
+Scarecrow,3531,none,Scarecrow,none,none,none,none,male
+Woot,3532,none,Woot,none,none,none,none,male
+Scarecrow,3538,none,Scarecrow,none,none,none,none,male
+Scarecrow,3542,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3542,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3543,none,Tin,none,Woodman,none,none,male
+Tin Soldier,3544,none,Tin,none,Soldier,none,none,male
+Tin Woodman,3546,none,Tin,none,Woodman,none,none,male
+Scarecrow,3546,none,Scarecrow,none,none,none,none,male
+Woot,3551,none,Woot,none,none,none,none,male
+Scarecrow,3561,none,Scarecrow,none,none,none,none,male
+Polychrome,3563,none,Polychrome,none,none,none,none,female
+Polychrome,3568,none,Polychrome,none,none,none,none,female
+Scarecrow,3569,none,Scarecrow,none,none,none,none,male
+Rainbow,3570,none,Rainbow,none,none,none,none,male
+Polychrome,3575,none,Polychrome,none,none,none,none,female
+Scarecrow,3577,none,Scarecrow,none,none,none,none,male
+Winkies,3581,none,Winkies,none,none,none,none,female
+Soldier,3581,Soldier,none,none,none,none,none,male
+Scarecrow,3585,none,Scarecrow,none,none,none,none,male
+Scarecrow,3589,none,Scarecrow,none,none,none,none,male
+Polychrome,3590,none,Polychrome,none,none,none,none,female
+Woot,3590,none,Woot,none,none,none,none,male
+Scarecrow,3590,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3591,none,Tin,none,Woodman,none,none,male
+Polychrome,3595,none,Polychrome,none,none,none,none,female
+Scarecrow,3595,none,Scarecrow,none,none,none,none,male
+Woot,3597,none,Woot,none,none,none,none,male
+Tin Woodman,3597,none,Tin,none,Woodman,none,none,male
+Scarecrow,3598,none,Scarecrow,none,none,none,none,male
+Woot the Wanderer,3598,none,Woot the Wanderer,none,none,none,none,male
+Fyter,3599,none,Fyter,none,none,none,none,male
+Woot,3600,none,Woot,none,none,none,none,male
+Rainbow,3601,none,Rainbow,none,none,none,none,male
+Fairy Powers,3603,none,Fairy,none,Powers,none,none,female
+Fyter,3605,none,Fyter,none,none,none,none,male
+Tin Woodman,3606,none,Tin,none,Woodman,none,none,male
+Polychrome,3606,none,Polychrome,none,none,none,none,female
+Poly,3606,none,Poly,none,none,none,none,female
+Rainbow,3607,none,Rainbow,none,none,none,none,male
+Fairy Powers,3608,none,Fairy,none,Powers,none,none,female
+Tin Woodman,3608,none,Tin,none,Woodman,none,none,male
+Polychrome,3610,none,Polychrome,none,none,none,none,female
+Scarecrow,3612,none,Scarecrow,none,none,none,none,male
+Woot,3613,none,Woot,none,none,none,none,male
+Fyter,3614,none,Fyter,none,none,none,none,male
+Scarecrow,3615,none,Scarecrow,none,none,none,none,male
+Woot,3616,none,Woot,none,none,none,none,male
+Polychrome,3616,none,Polychrome,none,none,none,none,female
+Scarecrow,3616,none,Scarecrow,none,none,none,none,male
+Woot,3617,none,Woot,none,none,none,none,male
+Scarecrow,3617,none,Scarecrow,none,none,none,none,male
+Scarecrow,3620,none,Scarecrow,none,none,none,none,male
+Woot,3620,none,Woot,none,none,none,none,male
+Tin Woodman,3620,none,Tin,none,Woodman,none,none,male
+Rainbow,3621,none,Rainbow,none,none,none,none,male
+Woot,3625,none,Woot,none,none,none,none,male
+Tin Woodman,3627,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3630,none,Nimmie,none,Amee,none,none,female
+Woot,3631,none,Woot,none,none,none,none,male
+Scarecrow,3632,none,Scarecrow,none,none,none,none,male
+Woot,3635,none,Woot,none,none,none,none,male
+Polychrome,3637,none,Polychrome,none,none,none,none,female
+Woot,3638,none,Woot,none,none,none,none,male
+Woot,3643,none,Woot,none,none,none,none,male
+Squealina Swyne,3644,none,Squealina,none,Swyne,none,none,female
+Grunter Swyne,3644,none,Grunter,none,Swyne,none,none,male
+Tin Woodman,3646,none,Tin,none,Woodman,none,none,male
+Swyne,3648,none,Swyne,none,none,none,none,male
+Tin Woodman,3651,none,Tin,none,Woodman,none,none,male
+Winkies,3653,none,Winkies,none,none,none,none,female
+Woot,3653,none,Woot,none,none,none,none,male
+Swyne,3653,none,Swyne,none,none,none,none,male
+Scarecrow,3654,none,Scarecrow,none,none,none,none,male
+Polychrome,3654,none,Polychrome,none,none,none,none,female
+Swyne,3656,none,Swyne,none,none,none,none,male
+Munchkin,3657,none,Munchkin,none,none,none,none,female
+Scarecrow,3662,none,Scarecrow,none,none,none,none,male
+Swyne,3663,none,Swyne,none,none,none,none,male
+Woot,3664,none,Woot,none,none,none,none,male
+Fyter,3665,none,Fyter,none,none,none,none,male
+Scarecrow,3667,none,Scarecrow,none,none,none,none,male
+Polychrome,3670,none,Polychrome,none,none,none,none,female
+Woot,3670,none,Woot,none,none,none,none,male
+Scarecrow,3670,none,Scarecrow,none,none,none,none,male
+Woot,3672,none,Woot,none,none,none,none,male
+Scarecrow,3672,none,Scarecrow,none,none,none,none,male
+Polychrome,3672,none,Polychrome,none,none,none,none,female
+Tin Woodman,3673,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3674,none,Tin,none,Woodman,none,none,male
+Tin Soldier,3674,none,Tin,none,Soldier,none,none,male
+Tin Woodman,3674,none,Tin,none,Woodman,none,none,male
+Wanderer,3675,none,Wanderer,none,none,none,none,male
+Rainbow 's,3675,none,Rainbow,none,'s,none,none,male
+Woot,3676,none,Woot,none,none,none,none,male
+Swyne,3676,none,Swyne,none,none,none,none,male
+Scarecrow,3679,none,Scarecrow,none,none,none,none,male
+Wizard,3681,none,Wizard,none,none,none,none,male
+Tin Woodman,3682,none,Tin,none,Woodman,none,none,male
+Scarecrow,3683,none,Scarecrow,none,none,none,none,male
+Wizard,3684,none,Wizard,none,none,none,none,male
+Squealina Swyne,3685,none,Squealina,none,Swyne,none,none,female
+Scarecrow,3686,none,Scarecrow,none,none,none,none,male
+Swyne,3687,none,Swyne,none,none,none,none,male
+Tin Woodman,3688,none,Tin,none,Woodman,none,none,male
+Woot,3691,none,Woot,none,none,none,none,male
+Polychrome,3691,none,Polychrome,none,none,none,none,female
+Nimmie Amee,3696,none,Nimmie,none,Amee,none,none,female
+Woot,3697,none,Woot,none,none,none,none,male
+Wanderer,3697,none,Wanderer,none,none,none,none,male
+Scarecrow,3698,none,Scarecrow,none,none,none,none,male
+Woot,3701,none,Woot,none,none,none,none,male
+Woot,3704,none,Woot,none,none,none,none,male
+Polychrome,3705,none,Polychrome,none,none,none,none,female
+Scarecrow,3706,none,Scarecrow,none,none,none,none,male
+Woot,3707,none,Woot,none,none,none,none,male
+Tin Woodman,3708,none,Tin,none,Woodman,none,none,male
+Polychrome,3709,none,Polychrome,none,none,none,none,female
+Woot,3714,none,Woot,none,none,none,none,male
+Polychrome,3714,none,Polychrome,none,none,none,none,female
+Woot,3721,none,Woot,none,none,none,none,male
+Tin Woodman,3722,none,Tin,none,Woodman,none,none,male
+Fyter,3724,none,Fyter,none,none,none,none,male
+Woot,3726,none,Woot,none,none,none,none,male
+Scarecrow,3728,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3729,none,Nimmie,none,Amee,none,none,female
+Witch,3733,none,Witch,none,none,none,none,female
+Nimmie Amee,3733,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,3735,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3735,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3739,none,Tin,none,Woodman,none,none,male
+Scarecrow,3739,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3739,none,Nimmie,none,Amee,none,none,female
+Scarecrow,3686,none,Scarecrow,none,none,none,none,male
+Swyne,3687,none,Swyne,none,none,none,none,male
+Tin Woodman,3688,none,Tin,none,Woodman,none,none,male
+Woot,3691,none,Woot,none,none,none,none,male
+Polychrome,3691,none,Polychrome,none,none,none,none,female
+Nimmie Amee,3696,none,Nimmie,none,Amee,none,none,female
+Woot,3697,none,Woot,none,none,none,none,male
+Wanderer,3697,none,Wanderer,none,none,none,none,male
+Scarecrow,3698,none,Scarecrow,none,none,none,none,male
+Woot,3701,none,Woot,none,none,none,none,male
+Woot,3704,none,Woot,none,none,none,none,male
+Polychrome,3705,none,Polychrome,none,none,none,none,female
+Scarecrow,3706,none,Scarecrow,none,none,none,none,male
+Woot,3707,none,Woot,none,none,none,none,male
+Tin Woodman,3708,none,Tin,none,Woodman,none,none,male
+Polychrome,3709,none,Polychrome,none,none,none,none,female
+Woot,3714,none,Woot,none,none,none,none,male
+Polychrome,3714,none,Polychrome,none,none,none,none,female
+Woot,3721,none,Woot,none,none,none,none,male
+Tin Woodman,3722,none,Tin,none,Woodman,none,none,male
+Fyter,3724,none,Fyter,none,none,none,none,male
+Woot,3726,none,Woot,none,none,none,none,male
+Scarecrow,3728,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3729,none,Nimmie,none,Amee,none,none,female
+Witch,3733,none,Witch,none,none,none,none,female
+Nimmie Amee,3733,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,3735,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3735,none,Tin,none,Woodman,none,none,male
+Tin Woodman,3739,none,Tin,none,Woodman,none,none,male
+Scarecrow,3739,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3739,none,Nimmie,none,Amee,none,none,female
+Fyter,3740,none,Fyter,none,none,none,none,male
+Tin Soldier,3740,none,Tin,none,Soldier,none,none,male
+Tin Woodman,3741,none,Tin,none,Woodman,none,none,male
+Polychrome,3742,none,Polychrome,none,none,none,none,female
+Blue Rabbit,3743,none,Blue,none,Rabbit,none,none,female
+Polychrome,3746,none,Polychrome,none,none,none,none,female
+Blue Rabbit,3747,none,Blue,none,Rabbit,none,none,female
+Nimmie Amee,3748,none,Nimmie,none,Amee,none,none,female
+Polychrome,3750,none,Polychrome,none,none,none,none,female
+Blue Rabbit,3751,none,Blue,none,Rabbit,none,none,female
+Nimmie Amee,3752,none,Nimmie,none,Amee,none,none,female
+Scarecrow,3757,none,Scarecrow,none,none,none,none,male
+Polychrome,3757,none,Polychrome,none,none,none,none,female
+Woot,3758,none,Woot,none,none,none,none,male
+Polychrome,3760,none,Polychrome,none,none,none,none,female
+Woot,3761,none,Woot,none,none,none,none,male
+Polychrome,3763,none,Polychrome,none,none,none,none,female
+Scarecrow,3764,none,Scarecrow,none,none,none,none,male
+Blue Rabbit,3765,none,Blue,none,Rabbit,none,none,female
+Woot the Wanderer,3765,none,Woot the Wanderer,none,none,none,none,male
+Woot,3768,none,Woot,none,none,none,none,male
+Woot,3769,none,Woot,none,none,none,none,male
+Scarecrow,3773,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3774,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3775,none,Nimmie,none,Amee,none,none,female
+Fyter,3776,none,Fyter,none,none,none,none,male
+Polychrome,3777,none,Polychrome,none,none,none,none,female
+Polychrome,3778,none,Polychrome,none,none,none,none,female
+Nimmie Amee,3779,none,Nimmie,none,Amee,none,none,female
+Woot,3781,none,Woot,none,none,none,none,male
+Tin Woodman,3781,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3781,none,Nimmie,none,Amee,none,none,female
+Fyter,3782,none,Fyter,none,none,none,none,male
+Scarecrow,3784,none,Scarecrow,none,none,none,none,male
+Woot,3785,none,Woot,none,none,none,none,male
+Polychrome,3785,none,Polychrome,none,none,none,none,female
+Blue Rabbit,3787,none,Blue,none,Rabbit,none,none,female
+Nimme Amee,3787,none,Nimme,none,Amee,none,none,female
+Nimmie Amee,3788,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3789,none,Tin,none,Woodman,none,none,male
+Tin Soldier,3789,none,Tin,none,Soldier,none,none,male
+Nimmie Amee,3790,none,Nimmie,none,Amee,none,none,female
+Woot,3799,none,Woot,none,none,none,none,male
+Nimmie,3806,none,Nimmie,none,none,none,none,female
+Tin Woodman,3806,none,Tin,none,Woodman,none,none,male
+Nick Chopper,3807,none,Nick,none,Chopper,none,none,male
+Tin Soldier,3808,none,Tin,none,Soldier,none,none,male
+Fyter,3809,none,Fyter,none,none,none,none,male
+Nimmie Amee,3810,none,Nimmie,none,Amee,none,none,female
+Nimmie Amee,3816,none,Nimmie,none,Amee,none,none,female
+Munchkin,3817,none,Munchkin,none,none,none,none,female
+Munchkin,3819,none,Munchkin,none,none,none,none,female
+Fyter,3820,none,Fyter,none,none,none,none,male
+Scarecrow,3821,none,Scarecrow,none,none,none,none,male
+Tin Soldier,3822,none,Tin,none,Soldier,none,none,male
+Tin Woodman,3824,none,Tin,none,Woodman,none,none,male
+Woot,3827,none,Woot,none,none,none,none,male
+Ku-Klip,3828,none,Ku-Klip,none,none,none,none,male
+Chopfyt,3828,none,Chopfyt,none,none,none,none,male
+Fyter,3833,none,Fyter,none,none,none,none,male
+Nimmie Amee,3835,none,Nimmie,none,Amee,none,none,female
+Chopfyt,3835,none,Chopfyt,none,none,none,none,male
+Chopfyt,3840,none,Chopfyt,none,none,none,none,male
+Nick Chopper,3841,none,Nick,none,Chopper,none,none,male
+Fyter,3841,none,Fyter,none,none,none,none,male
+Tin Woodman,3842,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3844,none,Nimmie,none,Amee,none,none,female
+Chopfyt,3847,none,Chopfyt,none,none,none,none,male
+Scarecrow,3849,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3850,none,Nimmie,none,Amee,none,none,female
+Woot,3850,none,Woot,none,none,none,none,male
+Polychrome,3851,none,Polychrome,none,none,none,none,female
+Chopfyt,3852,none,Chopfyt,none,none,none,none,male
+Ku-Klip,3854,none,Ku-Klip,none,none,none,none,male
+Tin Woodman,3854,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3856,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3860,none,Tin,none,Woodman,none,none,male
+Fyter,3860,none,Fyter,none,none,none,none,male
+Fyter,3862,none,Fyter,none,none,none,none,male
+Nimmie Amee,3863,none,Nimmie,none,Amee,none,none,female
+Chopfyt,3866,none,Chopfyt,none,none,none,none,male
+Polychrome,3869,none,Polychrome,none,none,none,none,female
+Nimmie Amee,3871,none,Nimmie,none,Amee,none,none,female
+Tin Woodman,3872,none,Tin,none,Woodman,none,none,male
+Mercy,3873,none,Mercy,none,none,none,none,female
+Woot the Wanderer,3877,none,Woot the Wanderer,none,none,none,none,male
+Woot,3879,none,Woot,none,none,none,none,male
+Tin Woodman,3880,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3880,none,Nimmie,none,Amee,none,none,female
+Chopfyt,3883,none,Chopfyt,none,none,none,none,male
+Winkies,3884,none,Winkies,none,none,none,none,female
+Nimmie Amee,3885,none,Nimmie,none,Amee,none,none,female
+Chopfyt,3885,none,Chopfyt,none,none,none,none,male
+Soldier,3886,Soldier,none,none,none,none,none,male
+Polychrome,3886,none,Polychrome,none,none,none,none,female
+Polychrome,3890,none,Polychrome,none,none,none,none,female
+Rainbow,3890,none,Rainbow,none,none,none,none,male
+Scarecrow,3892,none,Scarecrow,none,none,none,none,male
+Polychrome,3892,none,Polychrome,none,none,none,none,female
+Woot,3895,none,Woot,none,none,none,none,male
+Wanderer,3895,none,Wanderer,none,none,none,none,male
+Polychrome,3895,none,Polychrome,none,none,none,none,female
+Scarecrow,3895,none,Scarecrow,none,none,none,none,male
+Nimmie Amee,3895,none,Nimmie,none,Amee,none,none,female
+Scarecrow,3896,none,Scarecrow,none,none,none,none,male
+Woot,3897,none,Woot,none,none,none,none,male
+Chopfyt,3897,none,Chopfyt,none,none,none,none,male
+Tin Woodman,3899,none,Tin,none,Woodman,none,none,male
+Chopfyt,3900,none,Chopfyt,none,none,none,none,male
+Polychrome,3901,none,Polychrome,none,none,none,none,female
+Blue Rabbit,3901,none,Blue,none,Rabbit,none,none,female
+Blue Rabbit,3903,none,Blue,none,Rabbit,none,none,female
+Polychrome,3905,none,Polychrome,none,none,none,none,female
+Scarecrow,3907,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3910,none,Tin,none,Woodman,none,none,male
+Rainbow,3911,none,Rainbow,none,none,none,none,male
+Giantess,3913,none,Giantess,none,none,none,none,female
+Yoop,3913,none,Yoop,none,none,none,none,male
+Woot,3915,none,Woot,none,none,none,none,male
+Polychrome,3916,none,Polychrome,none,none,none,none,female
+Rainbow,3919,none,Rainbow,none,none,none,none,male
+Scarecrow,3921,none,Scarecrow,none,none,none,none,male
+Woot the Wanderer,3921,none,Woot the Wanderer,none,none,none,none,male
+Woot,3923,none,Woot,none,none,none,none,male
+Polychrome,3923,none,Polychrome,none,none,none,none,female
+Polychrome,3924,none,Polychrome,none,none,none,none,female
+Polychrome,3926,none,Polychrome,none,none,none,none,female
+Scarecrow,3928,none,Scarecrow,none,none,none,none,male
+Ozma,3929,none,Ozma,none,none,none,none,female
+Tin Soldier,3930,none,Tin,none,Soldier,none,none,male
+Ozma,3930,none,Ozma,none,none,none,none,female
+Scarecrow,3930,none,Scarecrow,none,none,none,none,male
+Tin Woodman,3930,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3931,none,Nimmie,none,Amee,none,none,female
+Chopfyt,3931,none,Chopfyt,none,none,none,none,male
+Nick Chopper,3931,none,Nick,none,Chopper,none,none,male
+Fyter,3931,none,Fyter,none,none,none,none,male
+Ozma,3931,none,Ozma,none,none,none,none,female
+Chopfyt,3932,none,Chopfyt,none,none,none,none,male
+Ruler of Oz,3932,none,Ruler of Oz,none,none,none,none,female
+Nimmie Amee,3933,none,Nimmie,none,Amee,none,none,female
+Ku,3933,none,Ku,none,none,none,none,male
+Ku-Klip,3933,none,Ku-Klip,none,none,none,none,male
+Dorothy,3934,none,Dorothy,none,none,none,none,female
+Ku,3934,none,Ku,none,none,none,none,male
+Ku-Klip,3934,none,Ku-Klip,none,none,none,none,male
+Woot the Wanderer,3936,none,Woot the Wanderer,none,none,none,none,male
+Chopfyt,3936,none,Chopfyt,none,none,none,none,male
+Betsy Bobbin,3938,none,Betsy,none,Bobbin,none,none,female
+Tin Woodman,3938,none,Tin,none,Woodman,none,none,male
+Nimmie Amee,3938,none,Nimmie,none,Amee,none,none,female
+Trot,3939,none,Trot,none,none,none,none,female
+Chopfyt,3939,none,Chopfyt,none,none,none,none,male
+Mount Munch,3939,none,Mount,none,Munch,none,none,female
+Tin Woodman,3940,none,Tin,none,Woodman,none,none,male
+Winkies,3940,none,Winkies,none,none,none,none,female
+Empress,3940,Empress,none,none,none,none,none,female
+Ozma,3941,none,Ozma,none,none,none,none,female
+Tin Woodman,3942,none,Tin,none,Woodman,none,none,male
+Emperor,3942,Emperor,none,none,none,none,none,male
+Fyter,3943,none,Fyter,none,none,none,none,male
+Ozma,3944,none,Ozma,none,none,none,none,female
+Woot,3945,none,Woot,none,none,none,none,male
+Wanderer,3945,none,Wanderer,none,none,none,none,male
+Ozma,3945,none,Ozma,none,none,none,none,female
+Tin Woodman,3946,none,Tin,none,Woodman,none,none,male
+Scarecrow,3946,none,Scarecrow,none,none,none,none,male

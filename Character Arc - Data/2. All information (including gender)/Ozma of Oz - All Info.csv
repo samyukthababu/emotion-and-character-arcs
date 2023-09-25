@@ -1,0 +1,1294 @@
+name,sentence_id,title,first,middle,last,suffix,nickname,gender
+,,,,,,,,
+Dorothy Gale,10,none,Dorothy,none,Gale,none,none,female
+Uncle Henry,10,Uncle,Henry,none,none,none,none,male
+Henry,11,none,Henry,none,none,none,none,male
+Dorothy,13,none,Dorothy,none,none,none,none,female
+Uncle Henry,13,Uncle,Henry,none,none,none,none,male
+Uncle Henry,16,Uncle,Henry,none,none,none,none,male
+Dorothy,19,none,Dorothy,none,none,none,none,female
+Uncle Henry,19,Uncle,Henry,none,none,none,none,male
+Uncle Henry,22,Uncle,Henry,none,none,none,none,male
+Dorothy,22,none,Dorothy,none,none,none,none,female
+Dorothy,25,none,Dorothy,none,none,none,none,female
+Uncle Henry,26,Uncle,Henry,none,none,none,none,male
+Uncle Henry,27,Uncle,Henry,none,none,none,none,male
+Dorothy,29,none,Dorothy,none,none,none,none,female
+Dorothy,31,none,Dorothy,none,none,none,none,female
+Dorothy,33,none,Dorothy,none,none,none,none,female
+Dorothy,35,none,Dorothy,none,none,none,none,female
+Dorothy,42,none,Dorothy,none,none,none,none,female
+Uncle Henry,42,Uncle,Henry,none,none,none,none,male
+Dorothy Gale,47,none,Dorothy,none,Gale,none,none,female
+Dorothy,51,none,Dorothy,none,none,none,none,female
+Dorothy,52,none,Dorothy,none,none,none,none,female
+Dorothy,54,none,Dorothy,none,none,none,none,female
+Dorothy,55,none,Dorothy,none,none,none,none,female
+Dorothy,59,none,Dorothy,none,none,none,none,female
+Dorothy,66,none,Dorothy,none,none,none,none,female
+Dorothy,74,none,Dorothy,none,none,none,none,female
+Dorothy,79,none,Dorothy,none,none,none,none,female
+Dorothy,86,none,Dorothy,none,none,none,none,female
+Dorothy,91,none,Dorothy,none,none,none,none,female
+Dorothy,94,none,Dorothy,none,none,none,none,female
+Dorothy,102,none,Dorothy,none,none,none,none,female
+Dorothy,105,none,Dorothy,none,none,none,none,female
+Dorothy,112,none,Dorothy,none,none,none,none,female
+Dorothy,114,none,Dorothy,none,none,none,none,female
+Dorothy,118,none,Dorothy,none,none,none,none,female
+Dorothy,121,none,Dorothy,none,none,none,none,female
+Dorothy,127,none,Dorothy,none,none,none,none,female
+Bill,135,none,Bill,none,none,none,none,male
+Bill,141,none,Bill,none,none,none,none,male
+Bill,142,none,Bill,none,none,none,none,male
+Bill,143,none,Bill,none,none,none,none,male
+Bill,143,none,Bill,none,none,none,none,male
+Dorothy,144,none,Dorothy,none,none,none,none,female
+Billina,144,none,Billina,none,none,none,none,female
+Billina,148,none,Billina,none,none,none,none,female
+Dorothy Gale,149,none,Dorothy,none,Gale,none,none,female
+Dorothy,149,none,Dorothy,none,none,none,none,female
+Miss Gale,149,Miss,none,none,Gale,none,none,female
+Dorothy,150,none,Dorothy,none,none,none,none,female
+Dorothy,158,none,Dorothy,none,none,none,none,female
+Dorothy,159,none,Dorothy,none,none,none,none,female
+Billina,160,none,Billina,none,none,none,none,female
+Dorothy,161,none,Dorothy,none,none,none,none,female
+Dorothy,167,none,Dorothy,none,none,none,none,female
+Dorothy,171,none,Dorothy,none,none,none,none,female
+Dorothy,173,none,Dorothy,none,none,none,none,female
+Billina,174,none,Billina,none,none,none,none,female
+Dorothy,176,none,Dorothy,none,none,none,none,female
+Dorothy,183,none,Dorothy,none,none,none,none,female
+Billina,184,none,Billina,none,none,none,none,female
+Billina,186,none,Billina,none,none,none,none,female
+Dorothy,190,none,Dorothy,none,none,none,none,female
+Billina,197,none,Billina,none,none,none,none,female
+Dorothy,197,none,Dorothy,none,none,none,none,female
+Billina,203,none,Billina,none,none,none,none,female
+Dorothy,207,none,Dorothy,none,none,none,none,female
+Billina,211,none,Billina,none,none,none,none,female
+Dorothy,212,none,Dorothy,none,none,none,none,female
+Dorothy,218,none,Dorothy,none,none,none,none,female
+Dorothy,220,none,Dorothy,none,none,none,none,female
+Dorothy,223,none,Dorothy,none,none,none,none,female
+Billina,229,none,Billina,none,none,none,none,female
+Dorothy,232,none,Dorothy,none,none,none,none,female
+Dorothy,241,none,Dorothy,none,none,none,none,female
+Dorothy,244,none,Dorothy,none,none,none,none,female
+Billina,245,none,Billina,none,none,none,none,female
+Dorothy,249,none,Dorothy,none,none,none,none,female
+Billina,249,none,Billina,none,none,none,none,female
+Billina,251,none,Billina,none,none,none,none,female
+Billina,254,none,Billina,none,none,none,none,female
+Billina,257,none,Billina,none,none,none,none,female
+Dorothy,258,none,Dorothy,none,none,none,none,female
+Billina,263,none,Billina,none,none,none,none,female
+Dorothy,264,none,Dorothy,none,none,none,none,female
+Dorothy,266,none,Dorothy,none,none,none,none,female
+Dorothy,268,none,Dorothy,none,none,none,none,female
+Wheeler,272,none,Wheeler,none,none,none,none,male
+Dorothy,272,none,Dorothy,none,none,none,none,female
+Dorothy,275,none,Dorothy,none,none,none,none,female
+Wheeler,275,none,Wheeler,none,none,none,none,male
+Billina,279,none,Billina,none,none,none,none,female
+Dorothy,280,none,Dorothy,none,none,none,none,female
+Dorothy,281,none,Dorothy,none,none,none,none,female
+Wheeler,282,none,Wheeler,none,none,none,none,male
+Dorothy,283,none,Dorothy,none,none,none,none,female
+Billina,284,none,Billina,none,none,none,none,female
+Dorothy,286,none,Dorothy,none,none,none,none,female
+Dorothy,287,none,Dorothy,none,none,none,none,female
+Billina,288,none,Billina,none,none,none,none,female
+Dorothy,289,none,Dorothy,none,none,none,none,female
+Dorothy,292,none,Dorothy,none,none,none,none,female
+Billina,300,none,Billina,none,none,none,none,female
+Dorothy,303,none,Dorothy,none,none,none,none,female
+Dorothy,308,none,Dorothy,none,none,none,none,female
+Billina,308,none,Billina,none,none,none,none,female
+Dorothy,310,none,Dorothy,none,none,none,none,female
+Billina,310,none,Billina,none,none,none,none,female
+Dorothy,312,none,Dorothy,none,none,none,none,female
+Dorothy,313,none,Dorothy,none,none,none,none,female
+Dorothy,315,none,Dorothy,none,none,none,none,female
+Billina,316,none,Billina,none,none,none,none,female
+Dorothy,320,none,Dorothy,none,none,none,none,female
+Billina,321,none,Billina,none,none,none,none,female
+Dorothy,324,none,Dorothy,none,none,none,none,female
+Billina,325,none,Billina,none,none,none,none,female
+Dorothy,326,none,Dorothy,none,none,none,none,female
+Dorothy,328,none,Dorothy,none,none,none,none,female
+Dorothy,330,none,Dorothy,none,none,none,none,female
+Billina,333,none,Billina,none,none,none,none,female
+Dorothy,337,none,Dorothy,none,none,none,none,female
+Nick Chopper,337,none,Nick,none,Chopper,none,none,male
+Dorothy,341,none,Dorothy,none,none,none,none,female
+Dorothy,343,none,Dorothy,none,none,none,none,female
+Dorothy,346,none,Dorothy,none,none,none,none,female
+Dorothy,351,none,Dorothy,none,none,none,none,female
+Billina,352,none,Billina,none,none,none,none,female
+Dorothy,361,none,Dorothy,none,none,none,none,female
+Billina,362,none,Billina,none,none,none,none,female
+Dorothy,366,none,Dorothy,none,none,none,none,female
+Billina,369,none,Billina,none,none,none,none,female
+Dorothy,371,none,Dorothy,none,none,none,none,female
+Dorothy,373,none,Dorothy,none,none,none,none,female
+Dorothy,378,none,Dorothy,none,none,none,none,female
+Billina,378,none,Billina,none,none,none,none,female
+Dorothy,381,none,Dorothy,none,none,none,none,female
+Ev,384,none,Ev,none,none,none,none,male
+Ev,384,none,Ev,none,none,none,none,male
+Nome King,387,none,Nome,none,King,none,none,male
+Dorothy,391,none,Dorothy,none,none,none,none,female
+Dorothy,395,none,Dorothy,none,none,none,none,female
+Dorothy,398,none,Dorothy,none,none,none,none,female
+Dorothy,403,none,Dorothy,none,none,none,none,female
+Dorothy,411,none,Dorothy,none,none,none,none,female
+Tiktok,413,none,Tiktok,none,none,none,none,male
+Tiktok,417,none,Tiktok,none,none,none,none,male
+Dorothy,418,none,Dorothy,none,none,none,none,female
+Billina,419,none,Billina,none,none,none,none,female
+Dorothy,421,none,Dorothy,none,none,none,none,female
+Tiktok,423,none,Tiktok,none,none,none,none,male
+Dorothy,428,none,Dorothy,none,none,none,none,female
+Dorothy,434,none,Dorothy,none,none,none,none,female
+Billina,435,none,Billina,none,none,none,none,female
+Dorothy,439,none,Dorothy,none,none,none,none,female
+Tiktok,440,none,Tiktok,none,none,none,none,male
+Dorothy,441,none,Dorothy,none,none,none,none,female
+Ev,443,none,Ev,none,none,none,none,male
+Billina,445,none,Billina,none,none,none,none,female
+Dorothy,446,none,Dorothy,none,none,none,none,female
+Dorothy,451,none,Dorothy,none,none,none,none,female
+Tiktok,452,none,Tiktok,none,none,none,none,male
+Tiktok,455,none,Tiktok,none,none,none,none,male
+Dorothy,456,none,Dorothy,none,none,none,none,female
+Billina,457,none,Billina,none,none,none,none,female
+Dorothy,457,none,Dorothy,none,none,none,none,female
+Dorothy,461,none,Dorothy,none,none,none,none,female
+Tiktok,462,none,Tiktok,none,none,none,none,male
+Billina,463,none,Billina,none,none,none,none,female
+Tiktok,465,none,Tiktok,none,none,none,none,male
+Ev,467,none,Ev,none,none,none,none,male
+Nome King,467,none,Nome,none,King,none,none,male
+Dorothy,471,none,Dorothy,none,none,none,none,female
+Tiktok,471,none,Tiktok,none,none,none,none,male
+Ev,474,none,Ev,none,none,none,none,male
+Dorothy,476,none,Dorothy,none,none,none,none,female
+Tiktok,478,none,Tiktok,none,none,none,none,male
+Dorothy,482,none,Dorothy,none,none,none,none,female
+Smith,485,none,Smith,none,none,none,none,male
+Tiktok,488,none,Tiktok,none,none,none,none,male
+Dorothy,490,none,Dorothy,none,none,none,none,female
+Tiktok,491,none,Tiktok,none,none,none,none,male
+Dorothy,496,none,Dorothy,none,none,none,none,female
+Dorothy,499,none,Dorothy,none,none,none,none,female
+Billina,500,none,Billina,none,none,none,none,female
+Dorothy,501,none,Dorothy,none,none,none,none,female
+Billina,504,none,Billina,none,none,none,none,female
+Dorothy,507,none,Dorothy,none,none,none,none,female
+Billina,510,none,Billina,none,none,none,none,female
+Tiktok,511,none,Tiktok,none,none,none,none,male
+Billina,513,none,Billina,none,none,none,none,female
+Dorothy,514,none,Dorothy,none,none,none,none,female
+Dorothy,518,none,Dorothy,none,none,none,none,female
+Billina,522,none,Billina,none,none,none,none,female
+Tiktok,524,none,Tiktok,none,none,none,none,male
+Dorothy,525,none,Dorothy,none,none,none,none,female
+Tiktok,526,none,Tiktok,none,none,none,none,male
+Jin-jur,527,none,Jin-jur,none,none,none,none,female
+Oz,527,none,Oz,none,none,none,none,male
+Oz-ma,527,none,Oz-ma,none,none,none,none,female
+Dorothy,528,none,Dorothy,none,none,none,none,female
+Tin Woodman,530,none,Tin,none,Woodman,none,none,male
+Ozma,531,none,Ozma,none,none,none,none,female
+Tiktok,532,none,Tiktok,none,none,none,none,male
+Dorothy,534,none,Dorothy,none,none,none,none,female
+Dorothy,534,none,Dorothy,none,none,none,none,female
+Tiktok,535,none,Tiktok,none,none,none,none,male
+Dorothy,537,none,Dorothy,none,none,none,none,female
+Tiktok,539,none,Tiktok,none,none,none,none,male
+Dorothy,539,none,Dorothy,none,none,none,none,female
+Dorothy,541,none,Dorothy,none,none,none,none,female
+Tiktok,545,none,Tiktok,none,none,none,none,male
+Wheeler,545,none,Wheeler,none,none,none,none,male
+Wheeler,546,none,Wheeler,none,none,none,none,male
+Tiktok,548,none,Tiktok,none,none,none,none,male
+Wheeler,548,none,Wheeler,none,none,none,none,male
+Wheeler,549,none,Wheeler,none,none,none,none,male
+Tiktok,551,none,Tiktok,none,none,none,none,male
+Dorothy,555,none,Dorothy,none,none,none,none,female
+Billina,555,none,Billina,none,none,none,none,female
+Wheeler,559,none,Wheeler,none,none,none,none,male
+Tiktok,559,none,Tiktok,none,none,none,none,male
+Tiktok,561,none,Tiktok,none,none,none,none,male
+Wheeler,561,none,Wheeler,none,none,none,none,male
+Tiktok,563,none,Tiktok,none,none,none,none,male
+Wheeler,564,none,Wheeler,none,none,none,none,male
+Tiktok,566,none,Tiktok,none,none,none,none,male
+Wheeler,568,none,Wheeler,none,none,none,none,male
+Wheeler,574,none,Wheeler,none,none,none,none,male
+Dorothy,574,none,Dorothy,none,none,none,none,female
+Dorothy,579,none,Dorothy,none,none,none,none,female
+Wheeler,579,none,Wheeler,none,none,none,none,male
+Tiktok,579,none,Tiktok,none,none,none,none,male
+Billina,579,none,Billina,none,none,none,none,female
+Wheeler,581,none,Wheeler,none,none,none,none,male
+Tiktok,583,none,Tiktok,none,none,none,none,male
+Wheeler,587,none,Wheeler,none,none,none,none,male
+Tiktok,588,none,Tiktok,none,none,none,none,male
+Tiktok,589,none,Tiktok,none,none,none,none,male
+Wheeler,592,none,Wheeler,none,none,none,none,male
+Nome King,595,none,Nome,none,King,none,none,male
+Langwidere,596,none,Langwidere,none,none,none,none,female
+Evoldo,596,none,Evoldo,none,none,none,none,male
+Langwidere,597,none,Langwidere,none,none,none,none,female
+Tiktok,598,none,Tiktok,none,none,none,none,male
+Wheeler,600,none,Wheeler,none,none,none,none,male
+Langwidere,601,none,Langwidere,none,none,none,none,female
+Dorothy,603,none,Dorothy,none,none,none,none,female
+Wheeler,605,none,Wheeler,none,none,none,none,male
+Wheeler,608,none,Wheeler,none,none,none,none,male
+Dorothy,615,none,Dorothy,none,none,none,none,female
+Tiktok,619,none,Tiktok,none,none,none,none,male
+Wheeler,619,none,Wheeler,none,none,none,none,male
+Dorothy,621,none,Dorothy,none,none,none,none,female
+Wheeler,621,none,Wheeler,none,none,none,none,male
+Langwidere,623,none,Langwidere,none,none,none,none,female
+Wheeler,624,none,Wheeler,none,none,none,none,male
+Tiktok,626,none,Tiktok,none,none,none,none,male
+Langwidere,627,none,Langwidere,none,none,none,none,female
+Dorothy,627,none,Dorothy,none,none,none,none,female
+Dorothy,631,none,Dorothy,none,none,none,none,female
+Shoo,632,none,Shoo,none,none,none,none,female
+Billina,632,none,Billina,none,none,none,none,female
+Billina,636,none,Billina,none,none,none,none,female
+Billina,639,none,Billina,none,none,none,none,female
+Dorothy,640,none,Dorothy,none,none,none,none,female
+Langwidere,642,none,Langwidere,none,none,none,none,female
+Dorothy,643,none,Dorothy,none,none,none,none,female
+Billina,644,none,Billina,none,none,none,none,female
+Dorothy Gale,648,none,Dorothy,none,Gale,none,none,female
+Tiktok,648,none,Tiktok,none,none,none,none,male
+Billina,648,none,Billina,none,none,none,none,female
+Langwidere,650,none,Langwidere,none,none,none,none,female
+Langwidere,651,none,Langwidere,none,none,none,none,female
+Langwidere,656,none,Langwidere,none,none,none,none,female
+Dorothy Gale,657,none,Dorothy,none,Gale,none,none,female
+Tiktok,657,none,Tiktok,none,none,none,none,male
+Billina,657,none,Billina,none,none,none,none,female
+Dorothy Gale,660,none,Dorothy,none,Gale,none,none,female
+Tiktok,662,none,Tiktok,none,none,none,none,male
+Nanda,666,none,Nanda,none,none,none,none,female
+Nanda,669,none,Nanda,none,none,none,none,female
+Langwidere,672,none,Langwidere,none,none,none,none,female
+Nanda,672,none,Nanda,none,none,none,none,female
+Langwidere,673,none,Langwidere,none,none,none,none,female
+Langwidere,675,none,Langwidere,none,none,none,none,female
+Nanda,688,none,Nanda,none,none,none,none,female
+Langwidere,688,none,Langwidere,none,none,none,none,female
+Langwidere,689,none,Langwidere,none,none,none,none,female
+Langwidere,692,none,Langwidere,none,none,none,none,female
+Langwidere,695,none,Langwidere,none,none,none,none,female
+Dorothy,697,none,Dorothy,none,none,none,none,female
+Billina,698,none,Billina,none,none,none,none,female
+Tiktok,699,none,Tiktok,none,none,none,none,male
+Dorothy,701,none,Dorothy,none,none,none,none,female
+Dorothy,703,none,Dorothy,none,none,none,none,female
+Dorothy,708,none,Dorothy,none,none,none,none,female
+Dorothy,710,none,Dorothy,none,none,none,none,female
+Langwidere,710,none,Langwidere,none,none,none,none,female
+Dorothy,715,none,Dorothy,none,none,none,none,female
+Dorothy,719,none,Dorothy,none,none,none,none,female
+Langwidere,723,none,Langwidere,none,none,none,none,female
+Nanda,724,none,Nanda,none,none,none,none,female
+Nanda,725,none,Nanda,none,none,none,none,female
+Dorothy,727,none,Dorothy,none,none,none,none,female
+Tiktok,729,none,Tiktok,none,none,none,none,male
+Tiktok,732,none,Tiktok,none,none,none,none,male
+Dorothy,733,none,Dorothy,none,none,none,none,female
+Dorothy,738,none,Dorothy,none,none,none,none,female
+Dorothy,740,none,Dorothy,none,none,none,none,female
+Langwidere,741,none,Langwidere,none,none,none,none,female
+Dorothy,741,none,Dorothy,none,none,none,none,female
+Langwidere,744,none,Langwidere,none,none,none,none,female
+Nanda,744,none,Nanda,none,none,none,none,female
+Billina,744,none,Billina,none,none,none,none,female
+Nanda,747,none,Nanda,none,none,none,none,female
+Billina,749,none,Billina,none,none,none,none,female
+Langwidere,751,none,Langwidere,none,none,none,none,female
+Nanda,752,none,Nanda,none,none,none,none,female
+Dorothy,752,none,Dorothy,none,none,none,none,female
+Dorothy,770,none,Dorothy,none,none,none,none,female
+Lion,772,none,Lion,none,none,none,none,male
+Tiger,772,none,Tiger,none,none,none,none,male
+Dorothy,775,none,Dorothy,none,none,none,none,female
+Ozma,775,none,Ozma,none,none,none,none,female
+Oz,775,none,Oz,none,none,none,none,male
+Tiktok,775,none,Tiktok,none,none,none,none,male
+Dorothy,776,none,Dorothy,none,none,none,none,female
+Scarecrow,776,none,Scarecrow,none,none,none,none,male
+Nick Chopper,777,none,Nick,none,Chopper,none,none,male
+Tin Woodman,777,none,Tin,none,Woodman,none,none,male
+Tin Woodman,778,none,Tin,none,Woodman,none,none,male
+Dorothy,780,none,Dorothy,none,none,none,none,female
+Oz,780,none,Oz,none,none,none,none,male
+Scarecrow,780,none,Scarecrow,none,none,none,none,male
+Tin Woodman,780,none,Tin,none,Woodman,none,none,male
+Ozma,782,none,Ozma,none,none,none,none,female
+Lion,783,none,Lion,none,none,none,none,male
+Tiger,783,none,Tiger,none,none,none,none,male
+Dorothy,783,none,Dorothy,none,none,none,none,female
+Scarecrow,784,none,Scarecrow,none,none,none,none,male
+Dorothy,785,none,Dorothy,none,none,none,none,female
+Dorothy,788,none,Dorothy,none,none,none,none,female
+Dorothy,789,none,Dorothy,none,none,none,none,female
+Scarecrow,789,none,Scarecrow,none,none,none,none,male
+Dorothy Gale,790,none,Dorothy,none,Gale,none,none,female
+Dorothy,792,none,Dorothy,none,none,none,none,female
+Scarecrow,792,none,Scarecrow,none,none,none,none,male
+Scarecrow,796,none,Scarecrow,none,none,none,none,male
+Scarecrow,799,none,Scarecrow,none,none,none,none,male
+Dorothy,800,none,Dorothy,none,none,none,none,female
+Wheeler,802,none,Wheeler,none,none,none,none,male
+Tin Woodman,804,none,Tin,none,Woodman,none,none,male
+Scarecrow,805,none,Scarecrow,none,none,none,none,male
+Langwidere,808,none,Langwidere,none,none,none,none,female
+Ozma,809,none,Ozma,none,none,none,none,female
+Dorothy,809,none,Dorothy,none,none,none,none,female
+Dorothy,810,none,Dorothy,none,none,none,none,female
+Ozma,811,none,Ozma,none,none,none,none,female
+Dorothy,813,none,Dorothy,none,none,none,none,female
+Oz,813,none,Oz,none,none,none,none,male
+Ozma,814,none,Ozma,none,none,none,none,female
+Tin Woodman,814,none,Tin,none,Woodman,none,none,male
+Ozma,815,none,Ozma,none,none,none,none,female
+Lion,815,none,Lion,none,none,none,none,male
+Tiger,815,none,Tiger,none,none,none,none,male
+Nanda,816,none,Nanda,none,none,none,none,female
+Langwidere,816,none,Langwidere,none,none,none,none,female
+Oz,817,none,Oz,none,none,none,none,male
+Scarecrow,819,none,Scarecrow,none,none,none,none,male
+Tin Woodman,820,none,Tin,none,Woodman,none,none,male
+Ozma,821,none,Ozma,none,none,none,none,female
+Ozma,825,none,Ozma,none,none,none,none,female
+Ev,827,none,Ev,none,none,none,none,male
+Nome King,827,none,Nome,none,King,none,none,male
+Langwidere,828,none,Langwidere,none,none,none,none,female
+Ozma,832,none,Ozma,none,none,none,none,female
+Langwidere,834,none,Langwidere,none,none,none,none,female
+Ozma,838,none,Ozma,none,none,none,none,female
+Ozma,839,none,Ozma,none,none,none,none,female
+Scarecrow,839,none,Scarecrow,none,none,none,none,male
+Tiktok,844,none,Tiktok,none,none,none,none,male
+Scarecrow,847,none,Scarecrow,none,none,none,none,male
+Dorothy,848,none,Dorothy,none,none,none,none,female
+Tiktok,851,none,Tiktok,none,none,none,none,male
+Scarecrow,852,none,Scarecrow,none,none,none,none,male
+Smith,854,none,Smith,none,none,none,none,male
+Scarecrow,857,none,Scarecrow,none,none,none,none,male
+Tiktok,861,none,Tiktok,none,none,none,none,male
+Tin Woodman,862,none,Tin,none,Woodman,none,none,male
+Tiktok,863,none,Tiktok,none,none,none,none,male
+Tin Woodman,864,none,Tin,none,Woodman,none,none,male
+Scarecrow,864,none,Scarecrow,none,none,none,none,male
+Tiktok,866,none,Tiktok,none,none,none,none,male
+Scarecrow,871,none,Scarecrow,none,none,none,none,male
+Tiktok,873,none,Tiktok,none,none,none,none,male
+Scarecrow,874,none,Scarecrow,none,none,none,none,male
+Tiktok,875,none,Tiktok,none,none,none,none,male
+Scarecrow,876,none,Scarecrow,none,none,none,none,male
+Tiktok,878,none,Tiktok,none,none,none,none,male
+Ozma,879,none,Ozma,none,none,none,none,female
+Dorothy,879,none,Dorothy,none,none,none,none,female
+Langwidere,879,none,Langwidere,none,none,none,none,female
+Dorothy,880,none,Dorothy,none,none,none,none,female
+Scarecrow,880,none,Scarecrow,none,none,none,none,male
+Tin Woodman,881,none,Tin,none,Woodman,none,none,male
+Dorothy,882,none,Dorothy,none,none,none,none,female
+Tiktok,883,none,Tiktok,none,none,none,none,male
+Scarecrow,883,none,Scarecrow,none,none,none,none,male
+Tin Woodman,883,none,Tin,none,Woodman,none,none,male
+Dorothy,884,none,Dorothy,none,none,none,none,female
+Billina,884,none,Billina,none,none,none,none,female
+Scarecrow,884,none,Scarecrow,none,none,none,none,male
+Billina,885,none,Billina,none,none,none,none,female
+Dorothy,890,none,Dorothy,none,none,none,none,female
+Billina,890,none,Billina,none,none,none,none,female
+Cowardly Lion,890,none,Cowardly,none,Lion,none,none,male
+Tiger,890,none,Tiger,none,none,none,none,male
+Cowardly Lion,891,none,Cowardly,none,Lion,none,none,male
+Tiger,891,none,Tiger,none,none,none,none,male
+Dorothy,892,none,Dorothy,none,none,none,none,female
+Dorothy,895,none,Dorothy,none,none,none,none,female
+Lion,895,none,Lion,none,none,none,none,male
+Tiger,904,none,Tiger,none,none,none,none,male
+Dorothy,908,none,Dorothy,none,none,none,none,female
+Dorothy,912,none,Dorothy,none,none,none,none,female
+Hungry Tiger,913,none,Hungry,none,Tiger,none,none,male
+Dorothy,920,none,Dorothy,none,none,none,none,female
+Dorothy,925,none,Dorothy,none,none,none,none,female
+Dorothy,929,none,Dorothy,none,none,none,none,female
+Billina,930,none,Billina,none,none,none,none,female
+Dorothy,932,none,Dorothy,none,none,none,none,female
+Dorothy,933,none,Dorothy,none,none,none,none,female
+Billina,934,none,Billina,none,none,none,none,female
+Billina,936,none,Billina,none,none,none,none,female
+Dorothy,936,none,Dorothy,none,none,none,none,female
+Billina,937,none,Billina,none,none,none,none,female
+Bill,939,none,Bill,none,none,none,none,male
+Bill,940,none,Bill,none,none,none,none,male
+Billina,940,none,Billina,none,none,none,none,female
+Dorothy,940,none,Dorothy,none,none,none,none,female
+Billina,941,none,Billina,none,none,none,none,female
+Ozma,941,none,Ozma,none,none,none,none,female
+Dorothy,942,none,Dorothy,none,none,none,none,female
+Billina,943,none,Billina,none,none,none,none,female
+Billina,946,none,Billina,none,none,none,none,female
+Dorothy,949,none,Dorothy,none,none,none,none,female
+Billina,950,none,Billina,none,none,none,none,female
+Billina,953,none,Billina,none,none,none,none,female
+Billina,956,none,Billina,none,none,none,none,female
+Dorothy,956,none,Dorothy,none,none,none,none,female
+Dorothy,959,none,Dorothy,none,none,none,none,female
+Lion,959,none,Lion,none,none,none,none,male
+Tiger,961,none,Tiger,none,none,none,none,male
+Billina,961,none,Billina,none,none,none,none,female
+Dorothy,966,none,Dorothy,none,none,none,none,female
+Tiger,967,none,Tiger,none,none,none,none,male
+Billina,967,none,Billina,none,none,none,none,female
+Dorothy,968,none,Dorothy,none,none,none,none,female
+Billina,969,none,Billina,none,none,none,none,female
+Dorothy,971,none,Dorothy,none,none,none,none,female
+Tiktok,971,none,Tiktok,none,none,none,none,male
+Ozma,971,none,Ozma,none,none,none,none,female
+Scarecrow,971,none,Scarecrow,none,none,none,none,male
+Tin Woodman,971,none,Tin,none,Woodman,none,none,male
+Ozma,972,none,Ozma,none,none,none,none,female
+Langwidere,972,none,Langwidere,none,none,none,none,female
+Dorothy,972,none,Dorothy,none,none,none,none,female
+Dorothy,973,none,Dorothy,none,none,none,none,female
+Tin Woodman,974,none,Tin,none,Woodman,none,none,male
+Dorothy,978,none,Dorothy,none,none,none,none,female
+Ozma,978,none,Ozma,none,none,none,none,female
+Tin Woodman,980,none,Tin,none,Woodman,none,none,male
+Ozma,981,none,Ozma,none,none,none,none,female
+Ev,981,none,Ev,none,none,none,none,male
+Evoldo,981,none,Evoldo,none,none,none,none,male
+Nome King,981,none,Nome,none,King,none,none,male
+Ev,982,none,Ev,none,none,none,none,male
+Ozma,983,none,Ozma,none,none,none,none,female
+Glinda the Good,984,none,Glinda the Good,none,none,none,none,female
+Ozma,984,none,Ozma,none,none,none,none,female
+Nome King,986,none,Nome,none,King,none,none,male
+Tiktok,987,none,Tiktok,none,none,none,none,male
+Dorothy,990,none,Dorothy,none,none,none,none,female
+Ev,992,none,Ev,none,none,none,none,male
+Tiktok,992,none,Tiktok,none,none,none,none,male
+Ev,993,none,Ev,none,none,none,none,male
+Ozma,994,none,Ozma,none,none,none,none,female
+Evoldo,997,none,Evoldo,none,none,none,none,male
+Langwidere,997,none,Langwidere,none,none,none,none,female
+Nome King,999,none,Nome,none,King,none,none,male
+Ozma,1000,none,Ozma,none,none,none,none,female
+Nome King,1000,none,Nome,none,King,none,none,male
+Roquat of the Rocks,1002,none,Roquat of the Rocks,none,none,none,none,male
+Dorothy,1003,none,Dorothy,none,none,none,none,female
+Nome King,1003,none,Nome,none,King,none,none,male
+Ozma,1004,none,Ozma,none,none,none,none,female
+Nome King,1007,none,Nome,none,King,none,none,male
+Dorothy,1008,none,Dorothy,none,none,none,none,female
+Ozma,1009,none,Ozma,none,none,none,none,female
+Roquat,1010,none,Roquat,none,none,none,none,male
+Dorothy,1011,none,Dorothy,none,none,none,none,female
+Scarecrow,1012,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1014,none,Tin,none,Woodman,none,none,male
+Langwidere,1015,none,Langwidere,none,none,none,none,female
+Ozma,1017,none,Ozma,none,none,none,none,female
+Ozma,1022,none,Ozma,none,none,none,none,female
+Tiktok,1022,none,Tiktok,none,none,none,none,male
+Dor,1023,none,Dor,none,none,none,none,female
+Dorothy,1025,none,Dorothy,none,none,none,none,female
+Billina,1027,none,Billina,none,none,none,none,female
+Billina,1027,none,Billina,none,none,none,none,female
+Scarecrow,1029,none,Scarecrow,none,none,none,none,male
+Ozma,1031,none,Ozma,none,none,none,none,female
+Langwidere,1033,none,Langwidere,none,none,none,none,female
+Oz,1033,none,Oz,none,none,none,none,male
+Cowardly Lion,1035,none,Cowardly,none,Lion,none,none,male
+Dorothy,1036,none,Dorothy,none,none,none,none,female
+Nanda,1036,none,Nanda,none,none,none,none,female
+Hungry Tiger,1036,none,Hungry,none,Tiger,none,none,male
+Tiger,1040,none,Tiger,none,none,none,none,male
+Nanda,1041,none,Nanda,none,none,none,none,female
+Dorothy,1042,none,Dorothy,none,none,none,none,female
+Tiger,1043,none,Tiger,none,none,none,none,male
+Dorothy,1047,none,Dorothy,none,none,none,none,female
+Hungry Tiger,1048,none,Hungry,none,Tiger,none,none,male
+Scarecrow,1049,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1049,none,Tin,none,Woodman,none,none,male
+Dorothy,1049,none,Dorothy,none,none,none,none,female
+Ozma,1050,none,Ozma,none,none,none,none,female
+Ozma,1053,none,Ozma,none,none,none,none,female
+Woggle,1053,none,Woggle,none,none,none,none,male
+Scarecrow,1054,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1054,none,Tin,none,Woodman,none,none,male
+Ozma,1054,none,Ozma,none,none,none,none,female
+Oz,1054,none,Oz,none,none,none,none,male
+Cowardly Lion,1055,none,Cowardly,none,Lion,none,none,male
+Hungry Tiger,1055,none,Hungry,none,Tiger,none,none,male
+Dorothy,1056,none,Dorothy,none,none,none,none,female
+Sawhorse,1056,none,Sawhorse,none,none,none,none,male
+Ozma,1056,none,Ozma,none,none,none,none,female
+Sawhorse,1057,none,Sawhorse,none,none,none,none,male
+Dorothy,1057,none,Dorothy,none,none,none,none,female
+Dorothy,1058,none,Dorothy,none,none,none,none,female
+Sawhorse,1059,none,Sawhorse,none,none,none,none,male
+Dorothy,1062,none,Dorothy,none,none,none,none,female
+Scarecrow,1063,none,Scarecrow,none,none,none,none,male
+Sawhorse,1064,none,Sawhorse,none,none,none,none,male
+Sawhorse,1068,none,Sawhorse,none,none,none,none,male
+Dorothy,1071,none,Dorothy,none,none,none,none,female
+Ozma,1071,none,Ozma,none,none,none,none,female
+Oz,1071,none,Oz,none,none,none,none,male
+Billina,1071,none,Billina,none,none,none,none,female
+Dorothy,1071,none,Dorothy,none,none,none,none,female
+Ozma,1073,none,Ozma,none,none,none,none,female
+Dorothy,1073,none,Dorothy,none,none,none,none,female
+Scarecrow,1073,none,Scarecrow,none,none,none,none,male
+Scarecrow,1074,none,Scarecrow,none,none,none,none,male
+Ozma,1074,none,Ozma,none,none,none,none,female
+Lion,1075,none,Lion,none,none,none,none,male
+Tiger,1075,none,Tiger,none,none,none,none,male
+Billina,1075,none,Billina,none,none,none,none,female
+Lion,1076,none,Lion,none,none,none,none,male
+Tiger,1076,none,Tiger,none,none,none,none,male
+Ozma,1077,none,Ozma,none,none,none,none,female
+Dorothy,1077,none,Dorothy,none,none,none,none,female
+Billina,1077,none,Billina,none,none,none,none,female
+Scarecrow,1078,none,Scarecrow,none,none,none,none,male
+Sawhorse,1078,none,Sawhorse,none,none,none,none,male
+Tin Woodman,1078,none,Tin,none,Woodman,none,none,male
+Tiktok,1078,none,Tiktok,none,none,none,none,male
+Billina,1083,none,Billina,none,none,none,none,female
+Ozma,1084,none,Ozma,none,none,none,none,female
+Scarecrow,1084,none,Scarecrow,none,none,none,none,male
+Sawhorse,1084,none,Sawhorse,none,none,none,none,male
+Dorothy,1085,none,Dorothy,none,none,none,none,female
+Tin Woodman,1086,none,Tin,none,Woodman,none,none,male
+Billina,1087,none,Billina,none,none,none,none,female
+Dorothy,1087,none,Dorothy,none,none,none,none,female
+Tin Woodman,1091,none,Tin,none,Woodman,none,none,male
+Billina,1093,none,Billina,none,none,none,none,female
+Tin Woodman,1094,none,Tin,none,Woodman,none,none,male
+Scarecrow,1095,none,Scarecrow,none,none,none,none,male
+Dorothy,1097,none,Dorothy,none,none,none,none,female
+Billina,1098,none,Billina,none,none,none,none,female
+Scarecrow,1102,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1103,none,Tin,none,Woodman,none,none,male
+Dorothy,1103,none,Dorothy,none,none,none,none,female
+Billina,1103,none,Billina,none,none,none,none,female
+Scarecrow,1105,none,Scarecrow,none,none,none,none,male
+Sawhorse,1105,none,Sawhorse,none,none,none,none,male
+Sawhorse,1107,none,Sawhorse,none,none,none,none,male
+Scarecrow,1107,none,Scarecrow,none,none,none,none,male
+Ozma,1107,none,Ozma,none,none,none,none,female
+Dorothy,1109,none,Dorothy,none,none,none,none,female
+Scarecrow,1114,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1115,none,Tin,none,Woodman,none,none,male
+Dorothy,1117,none,Dorothy,none,none,none,none,female
+Nome King,1119,none,Nome,none,King,none,none,male
+Ozma,1121,none,Ozma,none,none,none,none,female
+Scarecrow,1124,none,Scarecrow,none,none,none,none,male
+Ozma,1126,none,Ozma,none,none,none,none,female
+Cowardly Lion,1133,none,Cowardly,none,Lion,none,none,male
+Tiktok,1136,none,Tiktok,none,none,none,none,male
+Smith & Tin,1137,none,Smith,&,Tin,none,none,male
+Ozma,1138,none,Ozma,none,none,none,none,female
+Scarecrow,1141,none,Scarecrow,none,none,none,none,male
+Nome King,1144,none,Nome,none,King,none,none,male
+Tiktok,1144,none,Tiktok,none,none,none,none,male
+Dorothy,1145,none,Dorothy,none,none,none,none,female
+Scarecrow,1146,none,Scarecrow,none,none,none,none,male
+Scarecrow,1149,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1152,none,Tin,none,Woodman,none,none,male
+Cowardly Lion,1156,none,Cowardly,none,Lion,none,none,male
+Ozma,1158,none,Ozma,none,none,none,none,female
+Scarecrow,1160,none,Scarecrow,none,none,none,none,male
+Ozma,1162,none,Ozma,none,none,none,none,female
+Lion,1162,none,Lion,none,none,none,none,male
+Dorothy,1163,none,Dorothy,none,none,none,none,female
+Ozma,1165,none,Ozma,none,none,none,none,female
+Lion,1166,none,Lion,none,none,none,none,male
+Ozma,1166,none,Ozma,none,none,none,none,female
+Dorothy,1168,none,Dorothy,none,none,none,none,female
+Dorothy,1169,none,Dorothy,none,none,none,none,female
+Ozma,1169,none,Ozma,none,none,none,none,female
+Sawhorse,1170,none,Sawhorse,none,none,none,none,male
+Tiktok,1171,none,Tiktok,none,none,none,none,male
+Tin Woodman,1172,none,Tin,none,Woodman,none,none,male
+Scarecrow,1177,none,Scarecrow,none,none,none,none,male
+Cowardly Lion,1180,none,Cowardly,none,Lion,none,none,male
+Tiger,1180,none,Tiger,none,none,none,none,male
+Ozma,1182,none,Ozma,none,none,none,none,female
+Dorothy,1182,none,Dorothy,none,none,none,none,female
+Lion,1182,none,Lion,none,none,none,none,male
+Tiger,1182,none,Tiger,none,none,none,none,male
+Ozma,1185,none,Ozma,none,none,none,none,female
+Lion,1186,none,Lion,none,none,none,none,male
+Tiger,1189,none,Tiger,none,none,none,none,male
+Scarecrow,1189,none,Scarecrow,none,none,none,none,male
+Scarecrow,1192,none,Scarecrow,none,none,none,none,male
+Sawhorse,1192,none,Sawhorse,none,none,none,none,male
+Sawhorse,1193,none,Sawhorse,none,none,none,none,male
+Billina,1195,none,Billina,none,none,none,none,female
+Scarecrow,1196,none,Scarecrow,none,none,none,none,male
+Scarecrow,1197,none,Scarecrow,none,none,none,none,male
+Scarecrow,1198,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1199,none,Tin,none,Woodman,none,none,male
+Sawhorse,1199,none,Sawhorse,none,none,none,none,male
+Ozma,1202,none,Ozma,none,none,none,none,female
+Dorothy,1202,none,Dorothy,none,none,none,none,female
+Sawhorse,1202,none,Sawhorse,none,none,none,none,male
+Scarecrow,1202,none,Scarecrow,none,none,none,none,male
+Ozma,1209,none,Ozma,none,none,none,none,female
+Tiktok,1214,none,Tiktok,none,none,none,none,male
+Dorothy,1214,none,Dorothy,none,none,none,none,female
+Nomes,1216,none,Nomes,none,none,none,none,female
+Nome King,1217,none,Nome,none,King,none,none,male
+Dorothy,1220,none,Dorothy,none,none,none,none,female
+Ozma,1220,none,Ozma,none,none,none,none,female
+Nomes,1221,none,Nomes,none,none,none,none,female
+Tin Woodman,1223,none,Tin,none,Woodman,none,none,male
+Tin Woodman,1226,none,Tin,none,Woodman,none,none,male
+Tin Woodman,1230,none,Tin,none,Woodman,none,none,male
+Tin Woodman,1235,none,Tin,none,Woodman,none,none,male
+Ozma,1236,none,Ozma,none,none,none,none,female
+Ozma,1238,none,Ozma,none,none,none,none,female
+Ozma,1239,none,Ozma,none,none,none,none,female
+Nome King,1239,none,Nome,none,King,none,none,male
+Nomes,1240,none,Nomes,none,none,none,none,female
+Tiktok,1241,none,Tiktok,none,none,none,none,male
+Ozma,1242,none,Ozma,none,none,none,none,female
+Nome King,1242,none,Nome,none,King,none,none,male
+Nomes,1243,none,Nomes,none,none,none,none,female
+Tiktok,1244,none,Tiktok,none,none,none,none,male
+Ozma,1244,none,Ozma,none,none,none,none,female
+Nome King,1245,none,Nome,none,King,none,none,male
+Ozma,1245,none,Ozma,none,none,none,none,female
+Nome King,1246,none,Nome,none,King,none,none,male
+Scarecrow,1249,none,Scarecrow,none,none,none,none,male
+Dorothy,1251,none,Dorothy,none,none,none,none,female
+Hungry Tiger,1254,none,Hungry,none,Tiger,none,none,male
+Dorothy,1255,none,Dorothy,none,none,none,none,female
+Nome King,1255,none,Nome,none,King,none,none,male
+Nomes,1256,none,Nomes,none,none,none,none,female
+Tin Woodman,1258,none,Tin,none,Woodman,none,none,male
+Ozma,1259,none,Ozma,none,none,none,none,female
+Ev,1260,none,Ev,none,none,none,none,male
+Tiktok,1261,none,Tiktok,none,none,none,none,male
+Ozma,1263,none,Ozma,none,none,none,none,female
+Dorothy,1263,none,Dorothy,none,none,none,none,female
+Nome King,1266,none,Nome,none,King,none,none,male
+Ozma,1270,none,Ozma,none,none,none,none,female
+Dorothy,1270,none,Dorothy,none,none,none,none,female
+Santa Claus,1271,none,Santa,none,Claus,none,none,male
+Dorothy,1272,none,Dorothy,none,none,none,none,female
+Nome King,1272,none,Nome,none,King,none,none,male
+Ozma,1274,none,Ozma,none,none,none,none,female
+Dorothy,1274,none,Dorothy,none,none,none,none,female
+Nome King,1274,none,Nome,none,King,none,none,male
+Nome King,1276,none,Nome,none,King,none,none,male
+Dorothy,1277,none,Dorothy,none,none,none,none,female
+Santa Claus,1277,none,Santa,none,Claus,none,none,male
+Ozma,1277,none,Ozma,none,none,none,none,female
+Ev,1278,none,Ev,none,none,none,none,male
+Ev,1280,none,Ev,none,none,none,none,male
+Ozma,1281,none,Ozma,none,none,none,none,female
+Ev,1282,none,Ev,none,none,none,none,male
+Dorothy,1283,none,Dorothy,none,none,none,none,female
+Ev,1283,none,Ev,none,none,none,none,male
+Nome King,1285,none,Nome,none,King,none,none,male
+Dorothy,1287,none,Dorothy,none,none,none,none,female
+Dorothy,1291,none,Dorothy,none,none,none,none,female
+Dorothy,1293,none,Dorothy,none,none,none,none,female
+Nome King,1294,none,Nome,none,King,none,none,male
+Ev,1295,none,Ev,none,none,none,none,male
+Ozma,1297,none,Ozma,none,none,none,none,female
+Ev,1301,none,Ev,none,none,none,none,male
+Ozma,1304,none,Ozma,none,none,none,none,female
+Nome King,1307,none,Nome,none,King,none,none,male
+Ozma,1309,none,Ozma,none,none,none,none,female
+Nome King,1310,none,Nome,none,King,none,none,male
+Ozma,1312,none,Ozma,none,none,none,none,female
+Ozma,1315,none,Ozma,none,none,none,none,female
+Nomes,1317,none,Nomes,none,none,none,none,female
+Ozma,1318,none,Ozma,none,none,none,none,female
+Oz,1319,none,Oz,none,none,none,none,male
+Nome King,1319,none,Nome,none,King,none,none,male
+Nome King,1319,none,Nome,none,King,none,none,male
+Nomes,1321,none,Nomes,none,none,none,none,female
+Nome King,1324,none,Nome,none,King,none,none,male
+Ozma,1327,none,Ozma,none,none,none,none,female
+Oz,1327,none,Oz,none,none,none,none,male
+Nome King,1327,none,Nome,none,King,none,none,male
+Tin Woodman,1328,none,Tin,none,Woodman,none,none,male
+Tiger,1331,none,Tiger,none,none,none,none,male
+Lion,1335,none,Lion,none,none,none,none,male
+Nome King,1335,none,Nome,none,King,none,none,male
+Scarecrow,1336,none,Scarecrow,none,none,none,none,male
+Nome King,1337,none,Nome,none,King,none,none,male
+Ozma,1339,none,Ozma,none,none,none,none,female
+Ozma,1340,none,Ozma,none,none,none,none,female
+Ev,1343,none,Ev,none,none,none,none,male
+Ev,1345,none,Ev,none,none,none,none,male
+Ozma,1346,none,Ozma,none,none,none,none,female
+Nome King,1347,none,Nome,none,King,none,none,male
+Ev,1348,none,Ev,none,none,none,none,male
+Ev,1348,none,Ev,none,none,none,none,male
+Ozma,1352,none,Ozma,none,none,none,none,female
+Nome King,1353,none,Nome,none,King,none,none,male
+Ev,1356,none,Ev,none,none,none,none,male
+Nome King,1358,none,Nome,none,King,none,none,male
+Ozma,1358,none,Ozma,none,none,none,none,female
+Dorothy,1360,none,Dorothy,none,none,none,none,female
+Ozma,1362,none,Ozma,none,none,none,none,female
+Scarecrow,1365,none,Scarecrow,none,none,none,none,male
+Ozma,1368,none,Ozma,none,none,none,none,female
+Nome King,1370,none,Nome,none,King,none,none,male
+Ozma,1373,none,Ozma,none,none,none,none,female
+Ozma,1378,none,Ozma,none,none,none,none,female
+Nome King,1379,none,Nome,none,King,none,none,male
+Ozma,1383,none,Ozma,none,none,none,none,female
+Ev,1383,none,Ev,none,none,none,none,male
+Ozma,1387,none,Ozma,none,none,none,none,female
+Ev,1388,none,Ev,none,none,none,none,male
+Ev,1389,none,Ev,none,none,none,none,male
+Nome King,1389,none,Nome,none,King,none,none,male
+Ev,1399,none,Ev,none,none,none,none,male
+Nome King,1401,none,Nome,none,King,none,none,male
+Nome King,1404,none,Nome,none,King,none,none,male
+Dorothy,1407,none,Dorothy,none,none,none,none,female
+Scarecrow,1407,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1407,none,Tin,none,Woodman,none,none,male
+Tiktok,1408,none,Tiktok,none,none,none,none,male
+Dorothy,1414,none,Dorothy,none,none,none,none,female
+Tin Woodman,1415,none,Tin,none,Woodman,none,none,male
+Ozma,1416,none,Ozma,none,none,none,none,female
+Scarecrow,1417,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1419,none,Tin,none,Woodman,none,none,male
+Nome King,1419,none,Nome,none,King,none,none,male
+Nome King,1423,none,Nome,none,King,none,none,male
+Scarecrow,1428,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1429,none,Tin,none,Woodman,none,none,male
+Scarecrow,1434,none,Scarecrow,none,none,none,none,male
+Scarecrow,1436,none,Scarecrow,none,none,none,none,male
+Scarecrow,1443,none,Scarecrow,none,none,none,none,male
+Nome King,1449,none,Nome,none,King,none,none,male
+Nome King,1452,none,Nome,none,King,none,none,male
+Nome King,1453,none,Nome,none,King,none,none,male
+Dorothy,1453,none,Dorothy,none,none,none,none,female
+Steward,1453,none,Steward,none,none,none,none,male
+Nome King,1453,none,Nome,none,King,none,none,male
+Dorothy,1454,none,Dorothy,none,none,none,none,female
+Scarecrow,1455,none,Scarecrow,none,none,none,none,male
+Tiktok,1455,none,Tiktok,none,none,none,none,male
+Sawhorse,1456,none,Sawhorse,none,none,none,none,male
+Billina,1457,none,Billina,none,none,none,none,female
+Dorothy,1460,none,Dorothy,none,none,none,none,female
+Scarecrow,1460,none,Scarecrow,none,none,none,none,male
+Nome King,1462,none,Nome,none,King,none,none,male
+Dorothy,1464,none,Dorothy,none,none,none,none,female
+Steward,1470,none,Steward,none,none,none,none,male
+Steward,1472,none,Steward,none,none,none,none,male
+Steward,1474,none,Steward,none,none,none,none,male
+Dorothy,1474,none,Dorothy,none,none,none,none,female
+Scarecrow,1475,none,Scarecrow,none,none,none,none,male
+Tiktok,1475,none,Tiktok,none,none,none,none,male
+Lion,1475,none,Lion,none,none,none,none,male
+Tiger,1475,none,Tiger,none,none,none,none,male
+Sawhorse,1476,none,Sawhorse,none,none,none,none,male
+Steward,1476,none,Steward,none,none,none,none,male
+Scarecrow,1477,none,Scarecrow,none,none,none,none,male
+Tiktok,1477,none,Tiktok,none,none,none,none,male
+Sawhorse,1477,none,Sawhorse,none,none,none,none,male
+Steward,1478,none,Steward,none,none,none,none,male
+Scarecrow,1478,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1478,none,Tin,none,Woodman,none,none,male
+Tiktok,1480,none,Tiktok,none,none,none,none,male
+Nome King,1481,none,Nome,none,King,none,none,male
+Scarecrow,1482,none,Scarecrow,none,none,none,none,male
+Dorothy,1484,none,Dorothy,none,none,none,none,female
+Billina,1484,none,Billina,none,none,none,none,female
+Billina,1485,none,Billina,none,none,none,none,female
+Scarecrow,1487,none,Scarecrow,none,none,none,none,male
+Scarecrow,1489,none,Scarecrow,none,none,none,none,male
+Dorothy,1491,none,Dorothy,none,none,none,none,female
+Dorothy,1493,none,Dorothy,none,none,none,none,female
+Cowardly Lion,1494,none,Cowardly,none,Lion,none,none,male
+Dorothy,1497,none,Dorothy,none,none,none,none,female
+Steward,1499,none,Steward,none,none,none,none,male
+Billina,1500,none,Billina,none,none,none,none,female
+Steward,1502,none,Steward,none,none,none,none,male
+Ev,1503,none,Ev,none,none,none,none,male
+Steward,1505,none,Steward,none,none,none,none,male
+Ev,1507,none,Ev,none,none,none,none,male
+Steward,1508,none,Steward,none,none,none,none,male
+Steward,1510,none,Steward,none,none,none,none,male
+Billina,1511,none,Billina,none,none,none,none,female
+Steward,1512,none,Steward,none,none,none,none,male
+Oz,1512,none,Oz,none,none,none,none,male
+Steward,1516,none,Steward,none,none,none,none,male
+Steward,1522,none,Steward,none,none,none,none,male
+Nome King,1523,none,Nome,none,King,none,none,male
+Steward,1527,none,Steward,none,none,none,none,male
+Gray,1528,none,Gray,none,none,none,none,female
+Scarecrow,1529,none,Scarecrow,none,none,none,none,male
+Billina,1531,none,Billina,none,none,none,none,female
+King,1531,King,none,none,none,none,none,male
+Steward,1531,none,Steward,none,none,none,none,male
+Dorothy,1533,none,Dorothy,none,none,none,none,female
+Lion,1533,none,Lion,none,none,none,none,male
+Tiger,1533,none,Tiger,none,none,none,none,male
+Tiger,1534,none,Tiger,none,none,none,none,male
+Nome King,1535,none,Nome,none,King,none,none,male
+Steward,1538,none,Steward,none,none,none,none,male
+Hungry Tiger,1541,none,Hungry,none,Tiger,none,none,male
+Dorothy,1550,none,Dorothy,none,none,none,none,female
+Tiktok,1550,none,Tiktok,none,none,none,none,male
+Scarecrow,1551,none,Scarecrow,none,none,none,none,male
+Nome King,1551,none,Nome,none,King,none,none,male
+Dorothy,1555,none,Dorothy,none,none,none,none,female
+Dorothy,1563,none,Dorothy,none,none,none,none,female
+Dorothy,1568,none,Dorothy,none,none,none,none,female
+Scarecrow,1569,none,Scarecrow,none,none,none,none,male
+Scarecrow,1572,none,Scarecrow,none,none,none,none,male
+Dorothy,1573,none,Dorothy,none,none,none,none,female
+Dorothy,1574,none,Dorothy,none,none,none,none,female
+Tiktok,1577,none,Tiktok,none,none,none,none,male
+Dor,1579,none,Dor,none,none,none,none,female
+Tiktok,1581,none,Tiktok,none,none,none,none,male
+Nome King,1583,none,Nome,none,King,none,none,male
+Dorothy,1586,none,Dorothy,none,none,none,none,female
+Tiktok,1587,none,Tiktok,none,none,none,none,male
+Dorothy,1589,none,Dorothy,none,none,none,none,female
+Tiktok,1590,none,Tiktok,none,none,none,none,male
+Uncle Henry,1595,Uncle,Henry,none,none,none,none,male
+Ozma,1597,none,Ozma,none,none,none,none,female
+Timidly,1598,none,Timidly,none,none,none,none,female
+Ev,1601,none,Ev,none,none,none,none,male
+Dorothy,1602,none,Dorothy,none,none,none,none,female
+Dorothy,1606,none,Dorothy,none,none,none,none,female
+Ev,1616,none,Ev,none,none,none,none,male
+Evring,1616,none,Evring,none,none,none,none,male
+Nomes,1617,none,Nomes,none,none,none,none,female
+Evring,1618,none,Evring,none,none,none,none,male
+Dorothy,1618,none,Dorothy,none,none,none,none,female
+Little Evring,1623,none,Little,none,Evring,none,none,female
+Dorothy,1624,none,Dorothy,none,none,none,none,female
+Ev,1624,none,Ev,none,none,none,none,male
+Nome King,1625,none,Nome,none,King,none,none,male
+Dorothy,1626,none,Dorothy,none,none,none,none,female
+Evring,1626,none,Evring,none,none,none,none,male
+Dorothy,1627,none,Dorothy,none,none,none,none,female
+Scarecrow,1627,none,Scarecrow,none,none,none,none,male
+Nome King,1627,none,Nome,none,King,none,none,male
+Scarecrow,1629,none,Scarecrow,none,none,none,none,male
+Dorothy,1633,none,Dorothy,none,none,none,none,female
+Scarecrow,1634,none,Scarecrow,none,none,none,none,male
+Scarecrow,1637,none,Scarecrow,none,none,none,none,male
+Ozma,1637,none,Ozma,none,none,none,none,female
+Nome King,1639,none,Nome,none,King,none,none,male
+Billina,1643,none,Billina,none,none,none,none,female
+Scarecrow,1643,none,Scarecrow,none,none,none,none,male
+Billina,1645,none,Billina,none,none,none,none,female
+Billina,1654,none,Billina,none,none,none,none,female
+Nomes,1659,none,Nomes,none,none,none,none,female
+Billina,1660,none,Billina,none,none,none,none,female
+Billina,1667,none,Billina,none,none,none,none,female
+Scarecrow,1669,none,Scarecrow,none,none,none,none,male
+Billina,1670,none,Billina,none,none,none,none,female
+Scarecrow,1672,none,Scarecrow,none,none,none,none,male
+Scarecrow,1673,none,Scarecrow,none,none,none,none,male
+Billina,1674,none,Billina,none,none,none,none,female
+Pshaw,1675,none,Pshaw,none,none,none,none,male
+Billina,1678,none,Billina,none,none,none,none,female
+Scarecrow,1683,none,Scarecrow,none,none,none,none,male
+Ev,1685,none,Ev,none,none,none,none,male
+Billina,1689,none,Billina,none,none,none,none,female
+Scarecrow,1689,none,Scarecrow,none,none,none,none,male
+Scarecrow,1693,none,Scarecrow,none,none,none,none,male
+Scarecrow,1697,none,Scarecrow,none,none,none,none,male
+Billina,1701,none,Billina,none,none,none,none,female
+Billina,1705,none,Billina,none,none,none,none,female
+Dorothy,1705,none,Dorothy,none,none,none,none,female
+Evring,1705,none,Evring,none,none,none,none,male
+Scarecrow,1706,none,Scarecrow,none,none,none,none,male
+Evring,1706,none,Evring,none,none,none,none,male
+Prince,1707,Prince,none,none,none,none,none,male
+Scarecrow,1707,none,Scarecrow,none,none,none,none,male
+Scarecrow,1708,none,Scarecrow,none,none,none,none,male
+Dorothy,1709,none,Dorothy,none,none,none,none,female
+Dorothy,1710,none,Dorothy,none,none,none,none,female
+Scarecrow,1710,none,Scarecrow,none,none,none,none,male
+Billina,1714,none,Billina,none,none,none,none,female
+Billina,1722,none,Billina,none,none,none,none,female
+Dorothy,1722,none,Dorothy,none,none,none,none,female
+Evring,1726,none,Evring,none,none,none,none,male
+Billina,1727,none,Billina,none,none,none,none,female
+Billina,1729,none,Billina,none,none,none,none,female
+Dorothy,1729,none,Dorothy,none,none,none,none,female
+Billina,1731,none,Billina,none,none,none,none,female
+Billina,1733,none,Billina,none,none,none,none,female
+Dorothy,1733,none,Dorothy,none,none,none,none,female
+Billina,1737,none,Billina,none,none,none,none,female
+Billina,1739,none,Billina,none,none,none,none,female
+Dorothy,1739,none,Dorothy,none,none,none,none,female
+Billina,1742,none,Billina,none,none,none,none,female
+Nome King,1742,none,Nome,none,King,none,none,male
+Billina,1744,none,Billina,none,none,none,none,female
+Ev,1747,none,Ev,none,none,none,none,male
+Billina,1749,none,Billina,none,none,none,none,female
+Ev,1751,none,Ev,none,none,none,none,male
+Bill,1752,none,Bill,none,none,none,none,male
+Dorothy,1752,none,Dorothy,none,none,none,none,female
+Billina,1752,none,Billina,none,none,none,none,female
+Billina,1758,none,Billina,none,none,none,none,female
+O,1760,none,O,none,none,none,none,female
+Billina,1761,none,Billina,none,none,none,none,female
+Dorothy,1761,none,Dorothy,none,none,none,none,female
+Billina,1768,none,Billina,none,none,none,none,female
+Billina,1771,none,Billina,none,none,none,none,female
+Nome King,1774,none,Nome,none,King,none,none,male
+Evanna,1775,none,Evanna,none,none,none,none,female
+Evanna,1775,none,Evanna,none,none,none,none,female
+Billina,1777,none,Billina,none,none,none,none,female
+Nome King,1778,none,Nome,none,King,none,none,male
+Evrose,1780,none,Evrose,none,none,none,none,female
+Evardo,1780,none,Evardo,none,none,none,none,male
+Evring,1780,none,Evring,none,none,none,none,male
+Evanna,1782,none,Evanna,none,none,none,none,female
+Evella,1782,none,Evella,none,none,none,none,female
+Evirene,1782,none,Evirene,none,none,none,none,female
+Evardo,1783,none,Evardo,none,none,none,none,male
+Ev,1783,none,Ev,none,none,none,none,male
+Billina,1785,none,Billina,none,none,none,none,female
+Ev,1785,none,Ev,none,none,none,none,male
+Billina,1788,none,Billina,none,none,none,none,female
+Ozma,1788,none,Ozma,none,none,none,none,female
+Billina,1794,none,Billina,none,none,none,none,female
+Ozma,1797,none,Ozma,none,none,none,none,female
+Oz,1797,none,Oz,none,none,none,none,male
+Ev,1797,none,Ev,none,none,none,none,male
+Scarecrow,1798,none,Scarecrow,none,none,none,none,male
+Tin Woodman,1798,none,Tin,none,Woodman,none,none,male
+Billina,1799,none,Billina,none,none,none,none,female
+Tiktok,1800,none,Tiktok,none,none,none,none,male
+Tin Woodman,1800,none,Tin,none,Woodman,none,none,male
+Nome King,1800,none,Nome,none,King,none,none,male
+Ozma,1801,none,Ozma,none,none,none,none,female
+Scarecrow,1801,none,Scarecrow,none,none,none,none,male
+Ozma,1803,none,Ozma,none,none,none,none,female
+Nome King,1803,none,Nome,none,King,none,none,male
+Billina,1804,none,Billina,none,none,none,none,female
+Ozma,1805,none,Ozma,none,none,none,none,female
+Scarecrow,1807,none,Scarecrow,none,none,none,none,male
+Tiktok,1809,none,Tiktok,none,none,none,none,male
+Ozma,1811,none,Ozma,none,none,none,none,female
+Tiktok,1813,none,Tiktok,none,none,none,none,male
+Billina,1814,none,Billina,none,none,none,none,female
+Nome King,1814,none,Nome,none,King,none,none,male
+Ozma,1815,none,Ozma,none,none,none,none,female
+Tiktok,1816,none,Tiktok,none,none,none,none,male
+Scarecrow,1816,none,Scarecrow,none,none,none,none,male
+Billina,1816,none,Billina,none,none,none,none,female
+Billina,1824,none,Billina,none,none,none,none,female
+Dorothy,1824,none,Dorothy,none,none,none,none,female
+Evring,1824,none,Evring,none,none,none,none,male
+Nome King,1824,none,Nome,none,King,none,none,male
+Hippikaloric,1827,none,Hippikaloric,none,none,none,none,male
+Dorothy,1828,none,Dorothy,none,none,none,none,female
+Billina,1829,none,Billina,none,none,none,none,female
+Dorothy,1830,none,Dorothy,none,none,none,none,female
+Billina,1830,none,Billina,none,none,none,none,female
+Ev,1831,none,Ev,none,none,none,none,male
+Ozma,1831,none,Ozma,none,none,none,none,female
+Nome King,1834,none,Nome,none,King,none,none,male
+Dorothy,1836,none,Dorothy,none,none,none,none,female
+Evring,1836,none,Evring,none,none,none,none,male
+Lion,1836,none,Lion,none,none,none,none,male
+Tiger,1836,none,Tiger,none,none,none,none,male
+Lion,1838,none,Lion,none,none,none,none,male
+Tiger,1838,none,Tiger,none,none,none,none,male
+Nome King,1840,none,Nome,none,King,none,none,male
+Sawhorse,1844,none,Sawhorse,none,none,none,none,male
+Sawhorse,1848,none,Sawhorse,none,none,none,none,male
+Dorothy,1849,none,Dorothy,none,none,none,none,female
+Sawhorse,1850,none,Sawhorse,none,none,none,none,male
+Sawhorse,1853,none,Sawhorse,none,none,none,none,male
+Sawhorse,1862,none,Sawhorse,none,none,none,none,male
+Dorothy,1862,none,Dorothy,none,none,none,none,female
+Ev,1863,none,Ev,none,none,none,none,male
+Nome King,1864,none,Nome,none,King,none,none,male
+Billina,1868,none,Billina,none,none,none,none,female
+Scarecrow,1868,none,Scarecrow,none,none,none,none,male
+Scarecrow,1873,none,Scarecrow,none,none,none,none,male
+Billina,1876,none,Billina,none,none,none,none,female
+Scarecrow,1876,none,Scarecrow,none,none,none,none,male
+Ozma,1877,none,Ozma,none,none,none,none,female
+Ozma,1882,none,Ozma,none,none,none,none,female
+Ozma,1885,none,Ozma,none,none,none,none,female
+Nomes,1892,none,Nomes,none,none,none,none,female
+Nome King,1895,none,Nome,none,King,none,none,male
+Ozma,1895,none,Ozma,none,none,none,none,female
+Scarecrow,1895,none,Scarecrow,none,none,none,none,male
+Billina,1895,none,Billina,none,none,none,none,female
+Nomes,1901,none,Nomes,none,none,none,none,female
+Scarecrow,1904,none,Scarecrow,none,none,none,none,male
+Billina,1906,none,Billina,none,none,none,none,female
+Dorothy,1906,none,Dorothy,none,none,none,none,female
+Nome King,1907,none,Nome,none,King,none,none,male
+Dorothy,1909,none,Dorothy,none,none,none,none,female
+Dorothy,1910,none,Dorothy,none,none,none,none,female
+Nome King,1911,none,Nome,none,King,none,none,male
+Tiger,1911,none,Tiger,none,none,none,none,male
+Lion,1911,none,Lion,none,none,none,none,male
+Steward,1912,none,Steward,none,none,none,none,male
+Scarecrow,1913,none,Scarecrow,none,none,none,none,male
+Nomes,1914,none,Nomes,none,none,none,none,female
+Scarecrow,1914,none,Scarecrow,none,none,none,none,male
+Billina,1915,none,Billina,none,none,none,none,female
+King,1919,King,none,none,none,none,none,male
+Steward,1921,none,Steward,none,none,none,none,male
+Nome King,1924,none,Nome,none,King,none,none,male
+Dorothy,1927,none,Dorothy,none,none,none,none,female
+Ozma,1927,none,Ozma,none,none,none,none,female
+Ev,1927,none,Ev,none,none,none,none,male
+Billina,1928,none,Billina,none,none,none,none,female
+Ev,1928,none,Ev,none,none,none,none,male
+Scarecrow,1929,none,Scarecrow,none,none,none,none,male
+Nome King,1930,none,Nome,none,King,none,none,male
+Tin Woodman,1932,none,Tin,none,Woodman,none,none,male
+Ozma,1932,none,Ozma,none,none,none,none,female
+Dorothy,1932,none,Dorothy,none,none,none,none,female
+Dorothy,1933,none,Dorothy,none,none,none,none,female
+Billina,1935,none,Billina,none,none,none,none,female
+Tin Woodman,1935,none,Tin,none,Woodman,none,none,male
+Dorothy,1936,none,Dorothy,none,none,none,none,female
+Nome King,1938,none,Nome,none,King,none,none,male
+Ev,1938,none,Ev,none,none,none,none,male
+Prince Evring,1938,Prince,none,none,Evring,none,none,male
+Dorothy,1940,none,Dorothy,none,none,none,none,female
+Tin Woodman,1940,none,Tin,none,Woodman,none,none,male
+Dorothy,1941,none,Dorothy,none,none,none,none,female
+Tin Woodman,1942,none,Tin,none,Woodman,none,none,male
+Dorothy,1943,none,Dorothy,none,none,none,none,female
+Ev,1945,none,Ev,none,none,none,none,male
+Dorothy,1946,none,Dorothy,none,none,none,none,female
+Dorothy,1954,none,Dorothy,none,none,none,none,female
+Tin Woodman,1958,none,Tin,none,Woodman,none,none,male
+Ozma,1958,none,Ozma,none,none,none,none,female
+Dorothy,1959,none,Dorothy,none,none,none,none,female
+Tin Woodman,1960,none,Tin,none,Woodman,none,none,male
+Dorothy,1961,none,Dorothy,none,none,none,none,female
+Billina,1961,none,Billina,none,none,none,none,female
+Nome King,1962,none,Nome,none,King,none,none,male
+Dorothy,1963,none,Dorothy,none,none,none,none,female
+Scarecrow,1964,none,Scarecrow,none,none,none,none,male
+Dorothy,1966,none,Dorothy,none,none,none,none,female
+Nick Chopper,1966,none,Nick,none,Chopper,none,none,male
+Tin Woodman,1966,none,Tin,none,Woodman,none,none,male
+Billina,1969,none,Billina,none,none,none,none,female
+Dorothy,1970,none,Dorothy,none,none,none,none,female
+Scarecrow,1970,none,Scarecrow,none,none,none,none,male
+Nome King,1971,none,Nome,none,King,none,none,male
+Nome King,1973,none,Nome,none,King,none,none,male
+Ozma,1977,none,Ozma,none,none,none,none,female
+Dorothy,1980,none,Dorothy,none,none,none,none,female
+Nome King,1980,none,Nome,none,King,none,none,male
+Scarecrow,1981,none,Scarecrow,none,none,none,none,male
+Nick,1982,none,Nick,none,none,none,none,male
+Ozma,1985,none,Ozma,none,none,none,none,female
+Ev,1986,none,Ev,none,none,none,none,male
+Dorothy,1986,none,Dorothy,none,none,none,none,female
+Ozma,1986,none,Ozma,none,none,none,none,female
+Billina,1986,none,Billina,none,none,none,none,female
+Scarecrow,1986,none,Scarecrow,none,none,none,none,male
+Tiktok,1986,none,Tiktok,none,none,none,none,male
+Nome King,1987,none,Nome,none,King,none,none,male
+Ozma,1987,none,Ozma,none,none,none,none,female
+Nome King,1988,none,Nome,none,King,none,none,male
+Dorothy,1988,none,Dorothy,none,none,none,none,female
+Ev,1993,none,Ev,none,none,none,none,male
+Nome King,1993,none,Nome,none,King,none,none,male
+Ozma,1994,none,Ozma,none,none,none,none,female
+Ev,1994,none,Ev,none,none,none,none,male
+Tiger,1994,none,Tiger,none,none,none,none,male
+Dorothy,1996,none,Dorothy,none,none,none,none,female
+Sawhorse,1996,none,Sawhorse,none,none,none,none,male
+Scarecrow,1996,none,Scarecrow,none,none,none,none,male
+Dorothy,2003,none,Dorothy,none,none,none,none,female
+Nomes,2005,none,Nomes,none,none,none,none,female
+Ozma,2007,none,Ozma,none,none,none,none,female
+Lion,2008,none,Lion,none,none,none,none,male
+Ozma,2008,none,Ozma,none,none,none,none,female
+Little Evring,2009,none,Little,none,Evring,none,none,female
+Dorothy,2009,none,Dorothy,none,none,none,none,female
+Billina,2011,none,Billina,none,none,none,none,female
+Ozma,2012,none,Ozma,none,none,none,none,female
+Ev,2012,none,Ev,none,none,none,none,male
+Scarecrow,2013,none,Scarecrow,none,none,none,none,male
+Tiktok,2013,none,Tiktok,none,none,none,none,male
+Tiktok,2015,none,Tiktok,none,none,none,none,male
+Scarecrow,2016,none,Scarecrow,none,none,none,none,male
+Nick Chopper,2016,none,Nick,none,Chopper,none,none,male
+Tiktok,2018,none,Tiktok,none,none,none,none,male
+Scarecrow,2020,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2022,none,Tin,none,Woodman,none,none,male
+Ev,2023,none,Ev,none,none,none,none,male
+Ev,2023,none,Ev,none,none,none,none,male
+Little Evring,2024,none,Little,none,Evring,none,none,female
+Dorothy,2024,none,Dorothy,none,none,none,none,female
+Sawhorse,2024,none,Sawhorse,none,none,none,none,male
+Billina,2025,none,Billina,none,none,none,none,female
+Sawhorse,2025,none,Sawhorse,none,none,none,none,male
+Prince Evring,2026,Prince,none,none,Evring,none,none,male
+Dorothy,2030,none,Dorothy,none,none,none,none,female
+Billina,2031,none,Billina,none,none,none,none,female
+Tin Woodman,2032,none,Tin,none,Woodman,none,none,male
+Dorothy,2033,none,Dorothy,none,none,none,none,female
+Billina,2034,none,Billina,none,none,none,none,female
+Evring,2036,none,Evring,none,none,none,none,male
+Ev,2038,none,Ev,none,none,none,none,male
+Tin Woodman,2040,none,Tin,none,Woodman,none,none,male
+Dorothy,2040,none,Dorothy,none,none,none,none,female
+Prince,2040,Prince,none,none,none,none,none,male
+Billina,2045,none,Billina,none,none,none,none,female
+Scarecrow,2047,none,Scarecrow,none,none,none,none,male
+Tiktok,2047,none,Tiktok,none,none,none,none,male
+Tin Woodman,2047,none,Tin,none,Woodman,none,none,male
+Ozma,2048,none,Ozma,none,none,none,none,female
+Tin Woodman,2049,none,Tin,none,Woodman,none,none,male
+Langwidere,2052,none,Langwidere,none,none,none,none,female
+Ev,2053,none,Ev,none,none,none,none,male
+Evardo Fifteenth,2054,none,Evardo,none,Fifteenth,none,none,male
+Evardo,2055,none,Evardo,none,none,none,none,male
+Ev,2055,none,Ev,none,none,none,none,male
+Evardo,2057,none,Evardo,none,none,none,none,male
+Ozma,2058,none,Ozma,none,none,none,none,female
+Oz,2058,none,Oz,none,none,none,none,male
+Dorothy,2058,none,Dorothy,none,none,none,none,female
+Tiktok,2058,none,Tiktok,none,none,none,none,male
+Billina,2058,none,Billina,none,none,none,none,female
+Dorothy,2059,none,Dorothy,none,none,none,none,female
+Ozma,2059,none,Ozma,none,none,none,none,female
+Ev,2060,none,Ev,none,none,none,none,male
+Oz,2060,none,Oz,none,none,none,none,male
+Uncle Henry,2061,Uncle,Henry,none,none,none,none,male
+Ev,2063,none,Ev,none,none,none,none,male
+Ozma,2063,none,Ozma,none,none,none,none,female
+Ozma,2064,none,Ozma,none,none,none,none,female
+Tiktok,2065,none,Tiktok,none,none,none,none,male
+Dorothy,2065,none,Dorothy,none,none,none,none,female
+Ozma,2066,none,Ozma,none,none,none,none,female
+Billina,2066,none,Billina,none,none,none,none,female
+Billina,2067,none,Billina,none,none,none,none,female
+Munchkins,2068,none,Munchkins,none,none,none,none,male
+Ozma,2068,none,Ozma,none,none,none,none,female
+Ozma,2069,none,Ozma,none,none,none,none,female
+Gillikins,2069,none,Gillikins,none,none,none,none,male
+Ozma,2071,none,Ozma,none,none,none,none,female
+Scarecrow,2071,none,Scarecrow,none,none,none,none,male
+Tin Woodman,2071,none,Tin,none,Woodman,none,none,male
+Dorothy,2072,none,Dorothy,none,none,none,none,female
+Oz,2072,none,Oz,none,none,none,none,male
+Ozma,2073,none,Ozma,none,none,none,none,female
+Jinjur,2074,none,Jinjur,none,none,none,none,female
+Jinjur,2075,none,Jinjur,none,none,none,none,female
+Dorothy,2076,none,Dorothy,none,none,none,none,female
+Glinda the Sorceress,2076,none,Glinda the Sorceress,none,none,none,none,female
+Jinjur,2077,none,Jinjur,none,none,none,none,female
+Ozma,2077,none,Ozma,none,none,none,none,female
+Ozma,2078,none,Ozma,none,none,none,none,female
+Jinjur,2079,none,Jinjur,none,none,none,none,female
+Dorothy,2082,none,Dorothy,none,none,none,none,female
+Ozma,2084,none,Ozma,none,none,none,none,female
+Ozma,2090,none,Ozma,none,none,none,none,female
+Oz,2091,none,Oz,none,none,none,none,male
+Jack Pumpkinhead,2091,none,Jack,none,Pumpkinhead,none,none,male
+Ozma,2091,none,Ozma,none,none,none,none,female
+Oz,2091,none,Oz,none,none,none,none,male
+Tin Woodman,2092,none,Tin,none,Woodman,none,none,male
+Scarecrow,2092,none,Scarecrow,none,none,none,none,male
+Dorothy,2093,none,Dorothy,none,none,none,none,female
+Tiktok,2093,none,Tiktok,none,none,none,none,male
+Ozma,2094,none,Ozma,none,none,none,none,female
+Dorothy,2094,none,Dorothy,none,none,none,none,female
+Billina,2094,none,Billina,none,none,none,none,female
+Lion,2096,none,Lion,none,none,none,none,male
+Tiger,2096,none,Tiger,none,none,none,none,male
+Jellia Jamb,2097,none,Jellia,none,Jamb,none,none,female
+Scarecrow,2097,none,Scarecrow,none,none,none,none,male
+Ozma,2098,none,Ozma,none,none,none,none,female
+Tin Woodman,2103,none,Tin,none,Woodman,none,none,male
+Ozma,2104,none,Ozma,none,none,none,none,female
+Omby Amby,2106,none,Omby,none,Amby,none,none,male
+Omby Amby,2107,none,Omby,none,Amby,none,none,male
+Ozma,2110,none,Ozma,none,none,none,none,female
+Jellia Jamb,2112,none,Jellia,none,Jamb,none,none,female
+Tiger,2115,none,Tiger,none,none,none,none,male
+Dorothy,2117,none,Dorothy,none,none,none,none,female
+Ozma,2117,none,Ozma,none,none,none,none,female
+Dorothy,2118,none,Dorothy,none,none,none,none,female
+Ozma,2119,none,Ozma,none,none,none,none,female
+Ozma,2122,none,Ozma,none,none,none,none,female
+Dorothy,2124,none,Dorothy,none,none,none,none,female
+Dorothy,2130,none,Dorothy,none,none,none,none,female
+Toto,2130,none,Toto,none,none,none,none,male
+Speckles,2130,none,Speckles,none,none,none,none,female
+Dorothy,2131,none,Dorothy,none,none,none,none,female
+Uncle Henry,2132,Uncle,Henry,none,none,none,none,male
+Uncle Henry,2133,Uncle,Henry,none,none,none,none,male
+Dorothy,2135,none,Dorothy,none,none,none,none,female
+Uncle Henry,2135,Uncle,Henry,none,none,none,none,male
+Ozma,2136,none,Ozma,none,none,none,none,female
+Ozma,2137,none,Ozma,none,none,none,none,female
+Dorothy,2138,none,Dorothy,none,none,none,none,female
+Ozma,2140,none,Ozma,none,none,none,none,female
+Sawhorse,2140,none,Sawhorse,none,none,none,none,male
+Glinda,2141,none,Glinda,none,none,none,none,female
+Dorothy,2141,none,Dorothy,none,none,none,none,female
+Henry,2143,none,Henry,none,none,none,none,male
+Glinda,2144,none,Glinda,none,none,none,none,female
+Dorothy,2145,none,Dorothy,none,none,none,none,female
+Oz,2151,none,Oz,none,none,none,none,male
+Dorothy,2153,none,Dorothy,none,none,none,none,female
+Ozma,2153,none,Ozma,none,none,none,none,female
+Uncle Henry,2154,Uncle,Henry,none,none,none,none,male
+Glinda,2155,none,Glinda,none,none,none,none,female
+Ozma,2156,none,Ozma,none,none,none,none,female
+Dorothy,2156,none,Dorothy,none,none,none,none,female
+Dorothy,2157,none,Dorothy,none,none,none,none,female
+Ozma,2157,none,Ozma,none,none,none,none,female
+Nome King,2157,none,Nome,none,King,none,none,male
+Dorothy,2158,none,Dorothy,none,none,none,none,female
+Tiktok,2159,none,Tiktok,none,none,none,none,male
+Dorothy,2159,none,Dorothy,none,none,none,none,female
+Ozma,2160,none,Ozma,none,none,none,none,female
+Billina,2161,none,Billina,none,none,none,none,female
+Dorothy,2161,none,Dorothy,none,none,none,none,female
+Dorothy,2163,none,Dorothy,none,none,none,none,female
+Uncle Henry,2164,Uncle,Henry,none,none,none,none,male
+Dorothy,2164,none,Dorothy,none,none,none,none,female
+Billina,2164,none,Billina,none,none,none,none,female
+Dorothy,2165,none,Dorothy,none,none,none,none,female
+Dorothy,2166,none,Dorothy,none,none,none,none,female
+Ozma,2166,none,Ozma,none,none,none,none,female
+Nome King,2166,none,Nome,none,King,none,none,male
+Uncle Henry,2166,Uncle,Henry,none,none,none,none,male
+Scarecrow,2167,none,Scarecrow,none,none,none,none,male
+Tiktok,2167,none,Tiktok,none,none,none,none,male
+Uncle Henry,2167,Uncle,Henry,none,none,none,none,male
+Dorothy,2170,none,Dorothy,none,none,none,none,female
+Uncle Henry,2171,Uncle,Henry,none,none,none,none,male
+Uncle Henry,2172,Uncle,Henry,none,none,none,none,male
