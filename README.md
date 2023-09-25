@@ -1,4 +1,4 @@
-# Emotion Arc Analysis and Comparison in Fictional Narratives
+# Emotion Arc and Character Arc Analysis and Comparison in Fictional Narratives
 The notebooks show the code to generate and visualise the Emotion Arcs and Character Arcs of Fictional Narratives for the novels found on Project Gutenberg. The novels used as the dataset are shown in the table below:
 
 | Book ID | Title |
