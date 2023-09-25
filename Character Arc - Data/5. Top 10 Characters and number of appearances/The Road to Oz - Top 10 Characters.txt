@@ -1,0 +1,10 @@
+Dorothy the Lamb,321
+Button,180
+Button-Bright,175
+Polly the Rainbow,101
+Royal Ozma,100
+Toto,78
+Emperor of the Winkies,39
+Billina,34
+Wizard of Oz,31
+Scarecrow of Oz,26
